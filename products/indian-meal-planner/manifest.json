@@ -1,0 +1,114 @@
+{
+  "butterchicken": {
+    "dish": {
+      "title": "File:Chicken makhani.jpg",
+      "artist": "stu_spivack",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chicken_makhani.jpg"
+    },
+    "prep": {
+      "title": "File:Chicken Malai Tikka.JPG",
+      "artist": "Renupradhul",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chicken_Malai_Tikka.JPG"
+    }
+  },
+  "daltadka": {
+    "dish": {
+      "title": "File:Ilish Bhaat.jpg",
+      "artist": "Sohel Commons",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ilish_Bhaat.jpg"
+    },
+    "prep": {
+      "title": "File:Daal after Tadka Pulse Soup India.jpg",
+      "artist": "aimee rivers",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Daal_after_Tadka_Pulse_Soup_India.jpg"
+    }
+  },
+  "biryani": {
+    "dish": {
+      "title": "File:Chicken Hyderabadi Biryani.JPG",
+      "artist": "Dheerajk88",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chicken_Hyderabadi_Biryani.JPG"
+    },
+    "prep": {
+      "title": "File:The art of \"BIRYANI\".jpg",
+      "artist": "Shiv's fotografia",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/The_art_of_%22BIRYANI%22.jpg"
+    }
+  },
+  "chanamasala": {
+    "dish": {
+      "title": "File:Chana Masala - Mohammed - Spice Of Life 2024-05-27.jpg",
+      "artist": "Andy Li",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Chana_Masala_-_Mohammed_-_Spice_Of_Life_2024-05-27.jpg"
+    },
+    "prep": {
+      "title": "File:DRY KALA CHANA MASALA.jpg",
+      "artist": "Nikitamusaddi",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/DRY_KALA_CHANA_MASALA.jpg"
+    }
+  },
+  "paneertikka": {
+    "dish": {
+      "title": "File:Paneer Tikka Masala (2026) 01.jpg",
+      "artist": "Gpkp",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Paneer_Tikka_Masala_%282026%29_01.jpg"
+    },
+    "prep": {
+      "title": "File:Aim for a healthy weight (IA CAT31307268).pdf",
+      "artist": "",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Aim_for_a_healthy_weight_%28IA_CAT31307268%29.pdf"
+    }
+  },
+  "keralafish": {
+    "dish": {
+      "title": "File:Meen curry 2.JPG",
+      "artist": "Kalakki at Malayalam Wikipedia",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meen_curry_2.JPG"
+    },
+    "prep": {
+      "title": "File:Tempting curry dishes (IA temptingcurrydis00murr).pdf",
+      "artist": "Murrey, Thomas J. (Thomas Jefferson)",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Tempting_curry_dishes_%28IA_temptingcurrydis00murr%29.pdf"
+    }
+  },
+  "roganjosh": {
+    "dish": {
+      "title": "File:Rogan josh02.jpg",
+      "artist": "gahdjun",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rogan_josh02.jpg"
+    },
+    "prep": {
+      "title": "File:Daily Pacific News 1851-02-21 (IA caclmmgd 000343).pdf",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Daily_Pacific_News_1851-02-21_%28IA_caclmmgd_000343%29.pdf"
+    }
+  },
+  "gulabjamun": {
+    "dish": {
+      "title": "File:Two Gulab Jamun in a plate 01.jpg",
+      "artist": "Suyash.dwivedi",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg"
+    },
+    "prep": {
+      "title": "File:Gulab Jamun (Indian Doughnuts).JPG",
+      "artist": "Aparna Balasubramanian",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gulab_Jamun_%28Indian_Doughnuts%29.JPG"
+    }
+  }
+}

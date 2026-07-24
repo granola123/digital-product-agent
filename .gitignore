@@ -1,0 +1,6 @@
+# raw/intermediate photo assets — final photos are embedded as base64 in preview.html
+products/*/photos/
+products/*/photos_raw/
+products/*/photos_b64/
+products/*/b64/
+products/*/images/

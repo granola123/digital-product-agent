@@ -1,0 +1,316 @@
+{
+  "recipes": [
+    {
+      "id": "butterchicken",
+      "title": "Butter Chicken (Murgh Makhani)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Butter chicken in a creamy orange-red tomato sauce, served in a bowl",
+      "prep_label": "Prep — Seared Marinated Chicken",
+      "prep_alt": "Marinated chicken thigh pieces searing in a pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thigh, boneless skinless", "120g", "240g", "360g", "480g"],
+          ["Plain yogurt", "30g", "60g", "90g", "120g"],
+          ["Ginger-garlic paste", "5g", "10g", "15g", "20g"],
+          ["Lemon juice", "5ml", "10ml", "15ml", "20ml"],
+          ["Kashmiri chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Butter", "15g", "30g", "45g", "60g"],
+          ["Onion, chopped", "40g", "80g", "120g", "160g"],
+          ["Tomato passata", "100g", "200g", "300g", "400g"],
+          ["Cashews, raw", "10g", "20g", "30g", "40g"],
+          ["Heavy cream", "20ml", "40ml", "60ml", "80ml"],
+          ["Garam masala", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Kasuri methi", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Sugar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cut the chicken into bite-size pieces and mix with yogurt, half the ginger-garlic paste, lemon juice, and half the Kashmiri chili powder. Marinate at least 20 minutes.",
+          "Sear the marinated chicken in hot oil 3-4 minutes per side until golden with charred spots. Set aside — it will finish cooking in the sauce.",
+          "Melt half the butter and cook the chopped onion 4-5 minutes until soft and see-through.",
+          "Stir in the remaining ginger-garlic paste 30 seconds until fragrant.",
+          "Add tomato passata, cashews, remaining chili powder, and a splash of water. Simmer 8-10 minutes until deep brick-red and oil separates at the edges.",
+          "Blend the sauce until completely smooth (let it cool first), then return it to the pan.",
+          "Return the seared chicken to the pan and simmer 8-10 minutes until no pink remains inside.",
+          "Stir in the sugar, remaining butter, and cream until the sauce turns lighter orange-red.",
+          "Crush the kasuri methi between your fingers and sprinkle it in with a final pinch of garam masala. Simmer 2 more minutes.",
+          "Taste, adjust salt and cream, and serve hot with basmati rice or naan."
+        ]}
+      ]
+    },
+    {
+      "id": "daltadka",
+      "title": "Dal Tadka (Yellow Lentil Dal)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Golden yellow lentil dal topped with a sizzling tempering of cumin and chili",
+      "prep_label": "Prep — Tempering the Spices",
+      "prep_alt": "Cumin seeds and dried chili sizzling in ghee for the tadka",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Split yellow lentils (toor or moong dal)", "50g", "100g", "150g", "200g"],
+          ["Water (for cooking dal)", "250ml", "500ml", "750ml", "1000ml"],
+          ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ghee", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Cumin seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Garlic, sliced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Dried red chili", "1", "2", "3", "4"],
+          ["Onion, chopped", "20g", "40g", "60g", "80g"],
+          ["Tomato, chopped", "30g", "60g", "90g", "120g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the lentils until the water runs mostly clear, swishing and draining 2-3 times.",
+          "Bring the lentils, water, turmeric, and a pinch of salt to a boil, then simmer on low, lid slightly ajar.",
+          "Cook 20-25 minutes, skimming foam, until the lentils are completely soft and mushy.",
+          "Whisk the cooked dal until creamy and slightly thick, like a hearty soup.",
+          "Heat the ghee until a cumin seed sizzles right away when dropped in.",
+          "Add cumin seeds and dried chili, sizzling about 15 seconds until toasty, not black.",
+          "Add garlic 30 seconds until light golden, then onion 3-4 minutes until soft and browned at the edges.",
+          "Add the chopped tomato and cook 2-3 minutes until soft and pulpy.",
+          "Pour the sizzling tadka into the pot of dal, stir it in, taste for salt, and top with cilantro before serving."
+        ]}
+      ]
+    },
+    {
+      "id": "biryani",
+      "title": "Chicken Biryani (Hyderabadi-Style)",
+      "time": "75 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Layered chicken biryani with fried onions, mint, and saffron rice",
+      "prep_label": "Prep — Layering Rice Over Chicken",
+      "prep_alt": "Partially cooked basmati rice being layered over seared chicken",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Basmati rice", "75g", "150g", "225g", "300g"],
+          ["Chicken thigh, cut into pieces", "130g", "260g", "390g", "520g"],
+          ["Plain yogurt", "30g", "60g", "90g", "120g"],
+          ["Ginger-garlic paste", "5g", "10g", "15g", "20g"],
+          ["Red chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Garam masala", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Crispy fried onions", "15g", "30g", "45g", "60g"],
+          ["Mint leaves, chopped", "5g", "10g", "15g", "20g"],
+          ["Cilantro, chopped", "5g", "10g", "15g", "20g"],
+          ["Ghee", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Bay leaf", "1", "2", "3", "4"],
+          ["Green cardamom pods", "2", "4", "6", "8"],
+          ["Cloves", "3", "6", "9", "12"],
+          ["Cinnamon stick (small)", "1", "2", "3", "4"],
+          ["Saffron threads + warm milk", "pinch + 1 tbsp", "pinch + 2 tbsp", "¼ tsp + 3 tbsp", "¼ tsp + 4 tbsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Marinate the chicken in yogurt, ginger-garlic paste, chili powder, half the garam masala, and salt for at least 30 minutes.",
+          "Rinse and soak the basmati rice 20-30 minutes so the grains cook up long and separate.",
+          "Boil water with bay leaf, cinnamon, cardamom, cloves, and salt seasoned like seawater.",
+          "Add the drained rice and cook uncovered 5-6 minutes until about 70% cooked, then drain immediately.",
+          "Sear the marinated chicken in hot ghee 2-3 minutes per side until lightly browned.",
+          "Spread the seared chicken across the bottom of the pot.",
+          "Layer the partially cooked rice on top like a blanket, without stirring it in.",
+          "Sprinkle fried onions, mint, cilantro, remaining garam masala, and saffron milk over the rice.",
+          "Cover tightly and cook on very low heat 25-30 minutes without lifting the lid — this is the 'dum' steaming step.",
+          "Rest off heat, still covered, 10 minutes, then fluff and mix gently from the bottom up before serving."
+        ]}
+      ]
+    },
+    {
+      "id": "chanamasala",
+      "title": "Chana Masala (Chickpea Curry)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Chana masala chickpea curry in a thick tomato-based sauce",
+      "prep_label": "Prep — Blooming the Spices",
+      "prep_alt": "Ground spices toasting in oil with onion before the tomato goes in",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Canned chickpeas, drained", "150g", "300g", "450g", "600g"],
+          ["Onion, chopped", "40g", "80g", "120g", "160g"],
+          ["Tomato, chopped", "60g", "120g", "180g", "240g"],
+          ["Ginger-garlic paste", "5g", "10g", "15g", "20g"],
+          ["Cumin seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground coriander", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Red chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Chana masala spice blend", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Amchur (or lemon juice)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Neutral oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil and let the cumin seeds sizzle about 10 seconds until toasty.",
+          "Add the onion and cook 5-6 minutes, stirring often, until soft and golden-brown.",
+          "Stir in the ginger-garlic paste 30 seconds until fragrant.",
+          "Add the ground coriander, cumin, turmeric, and chili powder, stirring 20 seconds to bloom the spices.",
+          "Add the tomato and cook 5-6 minutes, mashing it down, until it turns thick and jammy.",
+          "Add the chickpeas and water, stirring to coat every chickpea.",
+          "Simmer, partly covered, 10-12 minutes until the sauce thickens and the chickpeas soak up flavor.",
+          "Stir in the chana masala spice blend and amchur, then simmer 2 more minutes.",
+          "Sprinkle with cilantro and serve hot with rice, roti, or naan."
+        ]}
+      ]
+    },
+    {
+      "id": "paneertikka",
+      "title": "Paneer Tikka Masala",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Seared paneer tikka masala in a creamy orange gravy with bell peppers",
+      "prep_label": "Prep — Searing Marinated Paneer",
+      "prep_alt": "Marinated paneer, bell pepper, and onion searing with char spots in a pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Paneer, cubed", "100g", "200g", "300g", "400g"],
+          ["Bell pepper, chunked", "30g", "60g", "90g", "120g"],
+          ["Onion, chunked (for searing)", "20g", "40g", "60g", "80g"],
+          ["Plain yogurt (marinade)", "20g", "40g", "60g", "80g"],
+          ["Ginger-garlic paste", "5g", "10g", "15g", "20g"],
+          ["Kashmiri chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Garam masala", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Neutral oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Butter (gravy)", "10g", "20g", "30g", "40g"],
+          ["Onion, pureed (gravy)", "30g", "60g", "90g", "120g"],
+          ["Tomato passata (gravy)", "80g", "160g", "240g", "320g"],
+          ["Cashews (gravy)", "8g", "16g", "24g", "32g"],
+          ["Heavy cream (gravy)", "15ml", "30ml", "45ml", "60ml"],
+          ["Sugar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Kasuri methi", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cut the paneer, bell pepper, and onion into similar-sized chunks.",
+          "Mix yogurt, ginger-garlic paste, chili powder, and half the garam masala into a marinade. Gently toss in the paneer and vegetables. Marinate 15-20 minutes.",
+          "Sear the marinated paneer and vegetables in a single layer, 2-3 minutes per side, until charred and softened. Set aside.",
+          "Melt the butter and cook the gravy onion 4-5 minutes until soft and see-through.",
+          "Add tomato passata and cashews, simmering 8-10 minutes until deepened and thickened.",
+          "Blend the sauce smooth (cool first), then return to the pan.",
+          "Stir in the cream, sugar, and remaining garam masala until the sauce turns soft orange.",
+          "Add the seared paneer and vegetables back in, simmering gently 3-4 minutes, stirring softly so the cubes stay whole.",
+          "Crush the kasuri methi over the top and stir in.",
+          "Taste, adjust salt, and serve hot with naan or rice."
+        ]}
+      ]
+    },
+    {
+      "id": "keralafish",
+      "title": "Kerala Fish Curry",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": 0.5,
+      "gold": false,
+      "dish_alt": "Kerala fish curry in a tangy coconut-milk sauce with curry leaves",
+      "prep_label": "Prep — Tempering Mustard Seeds & Curry Leaves",
+      "prep_alt": "Mustard seeds and curry leaves popping in hot coconut oil",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["White fish fillet (tilapia, cod, or snapper)", "130g", "260g", "390g", "520g"],
+          ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+          ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Red chili powder", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground coriander", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Fenugreek seeds", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Mustard seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Curry leaves", "6", "12", "18", "24"],
+          ["Shallot, sliced", "30g", "60g", "90g", "120g"],
+          ["Tomato, sliced", "30g", "60g", "90g", "120g"],
+          ["Ginger, julienned", "5g", "10g", "15g", "20g"],
+          ["Garlic, sliced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Tamarind paste", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Coconut oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the fish dry and rub with a pinch of turmeric and salt. Set aside.",
+          "Heat the coconut oil and add the mustard seeds — they'll pop and crackle within seconds.",
+          "Add the fenugreek seeds and curry leaves, frying about 10 seconds until fragrant and slightly crisp.",
+          "Add shallot, ginger, and garlic, cooking 3-4 minutes until soft and light golden.",
+          "Add the remaining turmeric, chili powder, and coriander, stirring 15 seconds to toast without burning.",
+          "Add the tomato and cook 2-3 minutes until it softens and breaks down.",
+          "Pour in the coconut milk and tamarind paste, bringing to a gentle simmer, not a hard boil.",
+          "Slide the fish into the curry in a single layer, cooking gently 6-8 minutes until opaque and flaking apart easily.",
+          "Taste and adjust salt or tamarind, then serve hot over steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "roganjosh",
+      "title": "Lamb Rogan Josh",
+      "time": "90 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Deep red lamb rogan josh curry with whole warming spices",
+      "prep_label": "Prep — Browning the Marinated Lamb",
+      "prep_alt": "Marinated lamb chunks browning in a pot with whole spices",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Lamb shoulder, stew chunks", "150g", "300g", "450g", "600g"],
+          ["Plain yogurt", "30g", "60g", "90g", "120g"],
+          ["Kashmiri chili powder", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Ground fennel", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Onion, sliced", "40g", "80g", "120g", "160g"],
+          ["Garlic, minced", "2 cloves", "4 cloves", "6 cloves", "8 cloves"],
+          ["Bay leaf", "1", "2", "3", "4"],
+          ["Green cardamom pods", "2", "4", "6", "8"],
+          ["Cinnamon stick (small)", "1", "2", "3", "4"],
+          ["Cloves", "2", "4", "6", "8"],
+          ["Ghee", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Water", "100ml", "200ml", "300ml", "400ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the lamb with yogurt, Kashmiri chili powder, and ground fennel. Marinate at least 30 minutes, or overnight.",
+          "Heat the ghee and sizzle the bay leaf, cardamom, cinnamon, and cloves about 20 seconds until fragrant.",
+          "Add the onion and cook 6-8 minutes until deep golden-brown, lowering heat if it browns too fast.",
+          "Add the garlic and cook 30 seconds until fragrant.",
+          "Add the marinated lamb and cook 5-6 minutes until the outside turns gray-brown all over.",
+          "Pour in the water, scraping up the browned bits from the bottom of the pot.",
+          "Bring to a boil, then reduce to a gentle simmer, lid ajar.",
+          "Simmer 45-60 minutes, stirring occasionally, until the lamb is fork-tender.",
+          "Taste and adjust salt. Fish out the whole spices before serving hot with rice or naan."
+        ]}
+      ]
+    },
+    {
+      "id": "gulabjamun",
+      "title": "Gulab Jamun (Bonus)",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Golden-brown gulab jamun balls soaking in cardamom syrup",
+      "prep_label": "Prep — Frying the Dough Balls",
+      "prep_alt": "Smooth dough balls frying gently in oil until deep reddish-brown",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Full-fat milk powder", "30g", "60g", "90g", "120g"],
+          ["All-purpose flour", "5g", "10g", "15g", "20g"],
+          ["Baking soda", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ghee, melted", "5ml", "10ml", "15ml", "20ml"],
+          ["Milk (to bind dough)", "10ml", "20ml", "30ml", "40ml"],
+          ["Sugar (for syrup)", "60g", "120g", "180g", "240g"],
+          ["Water (for syrup)", "60ml", "120ml", "180ml", "240ml"],
+          ["Cardamom pods, crushed", "1", "2", "3", "4"],
+          ["Rose water", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Oil or ghee for deep frying", "as needed", "as needed", "as needed", "as needed"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the syrup first: boil sugar, water, and crushed cardamom until dissolved, then simmer 5 minutes until slightly syrupy. Stir in rose water and set aside warm.",
+          "Combine milk powder, flour, and baking soda in a bowl.",
+          "Rub in the melted ghee until the mixture looks like damp sand.",
+          "Add milk a little at a time, kneading gently into a soft, smooth dough.",
+          "Roll the dough into small, smooth, crack-free balls.",
+          "Heat oil to medium-low — a pinch of dough should sink, then slowly float back up.",
+          "Lower the balls into the oil a few at a time, never crowding the pot.",
+          "Fry gently, rolling often, 6-8 minutes until deep reddish-brown all over.",
+          "Slide the fried balls directly into the warm syrup while still hot.",
+          "Let soak at least 30 minutes before serving warm or at room temperature."
+        ]}
+      ]
+    }
+  ]
+}

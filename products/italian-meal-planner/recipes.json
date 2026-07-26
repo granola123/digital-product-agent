@@ -1,0 +1,302 @@
+{
+  "recipes": [
+    {
+      "id": "bolognese",
+      "title": "Tagliatelle al Ragù alla Bolognese",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Tagliatelle pasta tossed in a rich, deep-red slow-cooked meat ragù, topped with grated Parmesan",
+      "prep_label": "Prep — Soffritto (Onion, Carrot & Celery)",
+      "prep_alt": "Finely diced onion, carrot, and celery mirepoix on a cutting board, the base of the ragù",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Tagliatelle (or fettuccine)", "90g", "180g", "270g", "360g"],
+          ["Ground beef", "70g", "140g", "210g", "280g"],
+          ["Ground pork", "40g", "80g", "120g", "160g"],
+          ["Pancetta (diced)", "15g", "30g", "45g", "60g"],
+          ["Onion", "25g", "50g", "75g", "100g"],
+          ["Carrot", "20g", "40g", "60g", "80g"],
+          ["Celery", "20g", "40g", "60g", "80g"],
+          ["Tomato paste", "10g", "20g", "30g", "40g"],
+          ["Crushed tomatoes (canned)", "100g", "200g", "300g", "400g"],
+          ["Whole milk", "30ml", "60ml", "90ml", "120ml"],
+          ["Dry white wine", "30ml", "60ml", "90ml", "120ml"],
+          ["Bay leaf", "1", "2", "3", "4"],
+          ["Parmesan (grated, for serving)", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Finely chop the onion, carrot, and celery into small, even pieces about the size of a pencil eraser — this trio is called soffritto in Italian, and cutting it small helps it melt into the sauce instead of staying crunchy.",
+          "Cook the diced pancetta in a large, heavy pot over medium heat 2–3 minutes, stirring, until it turns golden and releases its fat.",
+          "Add the chopped onion, carrot, and celery to the pancetta fat. Cook 5–6 minutes, stirring occasionally, until the vegetables turn soft and a little see-through, but not brown.",
+          "Turn the heat up to medium-high and add the ground beef and ground pork. Break the meat apart into small crumbles and cook 5–7 minutes until no pink remains.",
+          "Add the tomato paste and stir it into the meat for 1–2 minutes until it turns from bright red to a deeper brick-red color.",
+          "Pour in the white wine and stir, scraping up any browned bits stuck to the bottom of the pot. Let it bubble 2–3 minutes until most of the sharp wine smell has cooked off.",
+          "Add the crushed tomatoes and bay leaf, and stir well. Once it starts to bubble, turn the heat down low so it's just barely simmering.",
+          "Pour in the milk and stir it in — this traditional Bolognese trick rounds out the sauce. Simmer 30–35 minutes with the lid ajar, stirring every 10 minutes.",
+          "Bring a large pot of well-salted water to a boil for the pasta. In the last 10 minutes of cooking, boil the tagliatelle according to the package directions until al dente.",
+          "Scoop out a mugful of the starchy pasta water before draining, then drain the pasta. Remove the bay leaf from the sauce.",
+          "Add the drained pasta directly into the pot with the sauce and toss well so every strand gets coated — splash in reserved pasta water if it looks dry.",
+          "Serve topped with plenty of grated Parmesan."
+        ]}
+      ]
+    },
+    {
+      "id": "vongole",
+      "title": "Linguine alle Vongole",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "Linguine pasta tossed with open littleneck clams, garlic, white wine, and parsley",
+      "prep_label": "Prep — Fresh Clams & Mussels",
+      "prep_alt": "A pile of fresh, unopened clams and mussels ready to be scrubbed and soaked",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Littleneck clams", "350g", "700g", "1050g", "1400g"],
+          ["Linguine", "90g", "180g", "270g", "360g"],
+          ["Garlic (cloves)", "2", "4", "6", "8"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Dry white wine", "30ml", "60ml", "90ml", "120ml"],
+          ["Red pepper flakes", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Fresh parsley (chopped)", "5g", "10g", "15g", "20g"],
+          ["Lemon", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the clams under cold running water, scrubbing off any sand or grit. Discard any that don't close when tapped.",
+          "Soak the clams in a bowl of cold salted water for 20–30 minutes so they release any hidden sand.",
+          "Bring a large pot of salted water to a boil for the linguine. Cook until al dente, then drain, saving a mugful of the starchy cooking water.",
+          "While the pasta cooks, thinly slice the garlic and heat the olive oil in a wide, deep pan over medium heat until it shimmers.",
+          "Add the sliced garlic and red pepper flakes and stir about 30 seconds, just until fragrant — don't let it brown.",
+          "Lift the clams out of their soaking water and add them to the pan. Pour in the white wine and immediately cover with a lid.",
+          "Steam the clams 5–7 minutes, shaking the pan occasionally, until the shells pop open. Discard any that stay tightly shut.",
+          "Scoop the opened clams into a bowl, leaving the flavorful liquid behind in the pan.",
+          "Add the drained linguine straight into the pan with the clam liquid and toss well over medium heat 1–2 minutes so the pasta soaks up the briny sauce.",
+          "Return the clams to the pan, sprinkle in the chopped parsley, and toss once more to warm through.",
+          "Serve right away with a lemon wedge on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "risotto",
+      "title": "Risotto ai Funghi",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "Creamy wild mushroom risotto with a glossy, spoonable texture, finished with Parmesan",
+      "prep_label": "Prep — Sautéing the Mushrooms",
+      "prep_alt": "Sliced cremini mushrooms sautéing in a pan until deep golden brown",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Arborio rice", "70g", "140g", "210g", "280g"],
+          ["Cremini mushrooms (fresh)", "60g", "120g", "180g", "240g"],
+          ["Dried porcini mushrooms", "3g", "6g", "9g", "12g"],
+          ["Onion", "25g", "50g", "75g", "100g"],
+          ["Garlic (cloves)", "1", "2", "3", "4"],
+          ["Vegetable or chicken stock", "350ml", "700ml", "1050ml", "1400ml"],
+          ["Dry white wine", "30ml", "60ml", "90ml", "120ml"],
+          ["Butter", "15g", "30g", "45g", "60g"],
+          ["Parmesan (grated)", "20g", "40g", "60g", "80g"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the dried porcini mushrooms in just enough hot water to cover, 15–20 minutes, then chop them finely. Strain and save the soaking liquid.",
+          "Heat the stock (stir in the reserved porcini liquid) in a small pot over low heat, keeping it warm near your risotto pan.",
+          "Finely chop the onion and garlic. Heat the olive oil and half the butter in a wide, heavy pan over medium heat until foaming slightly.",
+          "Add the onion and cook 3–4 minutes until soft and see-through. Add the garlic and fresh mushrooms and cook 4–5 minutes until the mushrooms shrink and turn deep golden brown.",
+          "Stir in the chopped porcini and the arborio rice. Stir constantly 1–2 minutes until the rice grain edges look a little see-through.",
+          "Pour in the white wine and stir until almost completely absorbed and the raw alcohol smell is gone.",
+          "Add the warm stock one ladleful at a time, stirring often and waiting until each is almost fully absorbed before adding the next — about 18–20 minutes total.",
+          "Keep tasting as you go — it's done when creamy and just tender with a tiny firm bite left in the center.",
+          "Turn off the heat. Stir in the remaining butter and Parmesan vigorously (this final beating-in step is called mantecatura) for an extra glossy, creamy finish.",
+          "Let the risotto sit, covered, for 2 minutes before serving — it should slowly spread out on the plate, not sit stiff."
+        ]}
+      ]
+    },
+    {
+      "id": "minestrone",
+      "title": "Minestrone alla Genovese",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.3,
+      "gold": false,
+      "dish_alt": "A hearty bowl of vegetable and bean minestrone soup topped with a spoonful of green basil pesto",
+      "prep_label": "Prep — Diced Soup Vegetables",
+      "prep_alt": "Diced carrot, celery, zucchini, potato, and green beans laid out ready for the pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Onion", "20g", "40g", "60g", "80g"],
+          ["Carrot", "25g", "50g", "75g", "100g"],
+          ["Celery", "25g", "50g", "75g", "100g"],
+          ["Zucchini", "40g", "80g", "120g", "160g"],
+          ["Potato", "40g", "80g", "120g", "160g"],
+          ["Green beans", "25g", "50g", "75g", "100g"],
+          ["Canned diced tomatoes", "60g", "120g", "180g", "240g"],
+          ["Cannellini beans (canned, drained)", "50g", "100g", "150g", "200g"],
+          ["Ditalini (small pasta)", "30g", "60g", "90g", "120g"],
+          ["Vegetable stock", "300ml", "600ml", "900ml", "1200ml"],
+          ["Basil pesto (for topping)", "5g", "10g", "15g", "20g"],
+          ["Parmesan (grated)", "10g", "20g", "30g", "40g"],
+          ["Olive oil", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Chop the onion, carrot, and celery into small, even cubes.",
+          "Heat the olive oil in a large pot over medium heat. Add the onion, carrot, and celery and cook 5–6 minutes until the onion turns soft and see-through.",
+          "Meanwhile, cut the zucchini, potato, and green beans into bite-sized pieces.",
+          "Add the potato to the pot first, along with the canned tomatoes. Stir and cook 2 minutes.",
+          "Pour in the vegetable stock and bring to a boil, then turn the heat down to a gentle simmer.",
+          "Simmer 10 minutes, then add the zucchini and green beans. Simmer another 8–10 minutes until a fork slides easily into the potato.",
+          "Add the drained cannellini beans and the ditalini pasta. Simmer another 8–9 minutes, or as the pasta package directs, until tender.",
+          "Taste and add salt and pepper if needed.",
+          "Ladle into bowls and drop a small spoonful of basil pesto into the center of each, sprinkling with grated Parmesan — stir the pesto in at the table to keep its color and flavor bright."
+        ]}
+      ]
+    },
+    {
+      "id": "margherita",
+      "title": "Pizza Margherita",
+      "time": "45 min active (+2 hr rise)",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A classic Neapolitan-style Margherita pizza with a puffy leopard-spotted crust, melted mozzarella, and fresh basil",
+      "prep_label": "Prep — Baking in a Wood-Fired Oven",
+      "prep_alt": "A pizza baking on the hot stone floor of a wood-fired oven, crust bubbling and browning",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["00 flour (or bread flour)", "150g", "300g", "450g", "600g"],
+          ["Water (lukewarm)", "95ml", "190ml", "285ml", "380ml"],
+          ["Instant yeast", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Salt", "4g", "8g", "12g", "16g"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["San Marzano tomatoes (canned)", "60g", "120g", "180g", "240g"],
+          ["Fresh mozzarella", "60g", "120g", "180g", "240g"],
+          ["Fresh basil leaves", "4", "8", "12", "16"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Stir the instant yeast and salt into the flour in a large bowl. In a separate cup, stir the lukewarm water with a drizzle of olive oil.",
+          "Pour the water into the flour and mix until a shaggy, rough dough forms with no dry flour left in the bowl.",
+          "Turn the dough onto a lightly floured counter and knead 8–10 minutes, until smooth and springing back slowly when poked.",
+          "Shape into a ball, place in a lightly oiled bowl, cover, and let rise somewhere warm 1.5–2 hours, until doubled in size.",
+          "Preheat the oven as hot as it will go (many home ovens reach 500°F/260°C) with a pizza stone or upside-down baking sheet inside, for at least 30 minutes.",
+          "Punch the risen dough down gently, then divide into one ball per person. Stretch or roll each into a thin round, leaving the edge slightly thicker.",
+          "Crush the canned San Marzano tomatoes by hand until chunky, season with a pinch of salt, and spread a thin layer over each round, leaving a bare border.",
+          "Tear the fresh mozzarella into small pieces and scatter over the sauce — tearing lets it melt into little pools instead of one flat sheet.",
+          "Slide the pizza onto the hot stone or baking sheet. Bake 8–12 minutes until the crust puffs up with dark 'leopard spots' and the cheese bubbles.",
+          "Remove carefully with a pizza peel or spatula. Tear fresh basil over the top and drizzle with olive oil right before slicing."
+        ]}
+      ]
+    },
+    {
+      "id": "ossobuco",
+      "title": "Osso Buco alla Milanese",
+      "time": "1 hr 45 min",
+      "level": "Medium",
+      "tilt": 0.7,
+      "gold": false,
+      "dish_alt": "A braised veal shank in a rich tomato-wine sauce, topped with bright lemon-parsley gremolata",
+      "prep_label": "Prep — Braising in the Pot",
+      "prep_alt": "Seared veal shanks nestled upright in a pot with tomato sauce, onion, carrot, and celery, ready to braise",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Veal shanks (osso buco cut, ~300g each)", "1 piece", "2 pieces", "3 pieces", "4 pieces"],
+          ["All-purpose flour (for dredging)", "15g", "30g", "45g", "60g"],
+          ["Onion", "30g", "60g", "90g", "120g"],
+          ["Carrot", "30g", "60g", "90g", "120g"],
+          ["Celery", "30g", "60g", "90g", "120g"],
+          ["Garlic (cloves, divided)", "2", "4", "6", "8"],
+          ["Crushed tomatoes (canned)", "50g", "100g", "150g", "200g"],
+          ["Dry white wine", "60ml", "120ml", "180ml", "240ml"],
+          ["Beef or chicken stock", "150ml", "300ml", "450ml", "600ml"],
+          ["Butter", "10g", "20g", "30g", "40g"],
+          ["Bay leaf", "1", "2", "3", "4"],
+          ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Lemon zest", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Fresh parsley (for gremolata)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the veal shanks completely dry with paper towels. Season with salt and pepper, then dredge each in flour, shaking off the extra.",
+          "Heat the butter in a large, heavy pot over medium-high heat until shimmering.",
+          "Sear the shanks 3–4 minutes per side without moving them, until deeply golden brown on each side.",
+          "Remove the shanks to a plate. Add the chopped onion, carrot, and celery to the pot and cook 5–6 minutes, scraping up the browned bits, until softened.",
+          "Add half the garlic and cook 30 seconds until fragrant. Pour in the white wine and let it bubble 2–3 minutes until the sharp alcohol smell cooks away.",
+          "Stir in the crushed tomatoes and stock, then nestle the seared shanks back into the pot, standing upright if they fit. Add the bay leaf and thyme.",
+          "Bring to a gentle simmer, then cover with a lid leaving a small gap, and braise 1.5–2 hours over low heat, checking every 30 minutes.",
+          "The dish is ready when the meat is nearly falling off the bone and a fork slides in with almost no resistance.",
+          "Make the gremolata: finely chop the parsley and mix with the lemon zest and the remaining raw garlic, minced very fine.",
+          "Lift the shanks onto plates and spoon the sauce and vegetables over the top. Sprinkle with the fresh gremolata right before serving, traditionally over risotto alla Milanese or creamy polenta."
+        ]}
+      ]
+    },
+    {
+      "id": "saltimbocca",
+      "title": "Saltimbocca alla Romana",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -1.2,
+      "gold": true,
+      "dish_alt": "Pan-seared veal cutlets topped with crisp prosciutto and sage in a glossy white wine pan sauce",
+      "prep_label": "Prep — Cutlets Layered with Prosciutto & Sage",
+      "prep_alt": "Raw pounded cutlets laid out with a sage leaf and a slice of prosciutto pinned on top, ready for the pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Veal or chicken cutlets (thin)", "2", "4", "6", "8"],
+          ["Prosciutto (thin slices)", "2", "4", "6", "8"],
+          ["Fresh sage leaves", "2", "4", "6", "8"],
+          ["All-purpose flour (for dredging)", "10g", "20g", "30g", "40g"],
+          ["Butter", "15g", "30g", "45g", "60g"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Dry white wine (or Marsala)", "40ml", "80ml", "120ml", "160ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Place each cutlet between two sheets of plastic wrap and pound with a meat mallet until thin and even, about the thickness of a pencil.",
+          "Lay a sage leaf on top of each cutlet, then a slice of prosciutto over the sage, pressing gently so it sticks.",
+          "Pin the prosciutto and sage in place on each cutlet with a toothpick so nothing curls up or falls off while cooking.",
+          "Lightly dust the prosciutto side of each cutlet with flour, tapping off the extra.",
+          "Heat the butter and olive oil together in a large pan over medium-high heat until the butter foams.",
+          "Place the cutlets in the pan prosciutto-side down first. Cook 2 minutes, until the prosciutto turns lightly crisp and golden.",
+          "Flip and cook the other side 1–2 minutes more, just until the meat turns from pink to white or light brown all the way through.",
+          "Move the cutlets to a plate. Pour the wine into the same hot pan and scrape up the browned bits with a spatula.",
+          "Let the wine bubble 1–2 minutes until it reduces slightly, then turn off the heat and swirl in any remaining butter for a silky, glossy sauce.",
+          "Remove the toothpicks, spoon the sauce over the top, and serve right away while hot."
+        ]}
+      ]
+    },
+    {
+      "id": "tiramisu",
+      "title": "Tiramisu (Bonus)",
+      "time": "30 min active (+4 hr chill)",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "A classic layered tiramisu dusted with cocoa powder, sliced to show the espresso-soaked ladyfingers and mascarpone",
+      "prep_label": "Prep — Ladyfingers (Savoiardi)",
+      "prep_alt": "A pile of dry, crisp savoiardi ladyfinger biscuits ready to be dipped in espresso",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Egg yolks", "1", "2", "3", "4"],
+          ["Sugar", "20g", "40g", "60g", "80g"],
+          ["Mascarpone cheese", "65g", "130g", "195g", "260g"],
+          ["Strong brewed espresso (cooled)", "60ml", "120ml", "180ml", "240ml"],
+          ["Ladyfingers (savoiardi)", "4", "8", "12", "16"],
+          ["Unsweetened cocoa powder (for dusting)", "5g", "10g", "15g", "20g"],
+          ["Dark rum or Marsala (optional)", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Separate the egg yolks from the whites — you'll only need the yolks. Use the freshest eggs you can find, or pasteurized eggs for young children, pregnant women, or anyone with a weakened immune system, since this dessert uses raw yolks.",
+          "Whisk the egg yolks and sugar together 2–3 minutes, until pale yellow and thick enough to fall off the whisk in a slow ribbon.",
+          "Add the mascarpone and gently fold it in with a spatula, using wide scooping motions, until completely smooth with no lumps.",
+          "Pour the cooled espresso into a shallow dish (add the rum or Marsala here if using). Make sure the coffee is fully cool.",
+          "Dip each ladyfinger into the coffee for only about 1 second per side — just long enough to soak the surface.",
+          "Arrange a single layer of dipped ladyfingers in the bottom of a dish, breaking pieces to fill any gaps.",
+          "Spread half of the mascarpone mixture evenly over the ladyfingers.",
+          "Repeat with a second layer of dipped ladyfingers, then spread the rest of the mascarpone mixture on top, smoothing the surface flat.",
+          "Cover and refrigerate at least 4 hours, though overnight is even better, so the layers firm up and the flavors soak together.",
+          "Right before serving, dust the top generously with cocoa powder through a small sieve. Slice into squares and serve chilled."
+        ]}
+      ]
+    }
+  ]
+}

@@ -4,3 +4,6 @@ products/*/photos_raw/
 products/*/photos_b64/
 products/*/b64/
 products/*/images/
+
+# local Claude Code worktrees from background subagent runs
+.claude/

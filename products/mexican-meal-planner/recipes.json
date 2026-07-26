@@ -1,0 +1,302 @@
+{
+  "recipes": [
+    {
+      "id": "pastor",
+      "title": "Tacos al Pastor",
+      "time": "35 min (+30 min marinate)",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Tacos al pastor topped with diced pineapple, onion, and cilantro on corn tortillas",
+      "prep_label": "Prep — Marinated Pork on the Trompo",
+      "prep_alt": "Achiote-marinated pork stacked on a vertical spit, the traditional al pastor trompo",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork shoulder, thin-sliced", "120g", "240g", "360g", "480g"],
+          ["Achiote (annatto) paste", "15g", "30g", "45g", "60g"],
+          ["Dried guajillo chiles", "1", "2", "3", "4"],
+          ["Pineapple juice", "30ml", "60ml", "90ml", "120ml"],
+          ["White vinegar", "10ml", "20ml", "30ml", "40ml"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Fresh pineapple, diced", "30g", "60g", "90g", "120g"],
+          ["White onion, diced", "20g", "40g", "60g", "80g"],
+          ["Corn tortillas", "3", "6", "9", "12"],
+          ["Cilantro, chopped", "5g", "10g", "15g", "20g"],
+          ["Lime wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the dried guajillo chiles in boiling water 15 minutes until soft, then drain and remove stems and seeds.",
+          "Blend the softened chiles with achiote paste, pineapple juice, vinegar, garlic, cumin, and oregano until smooth.",
+          "Coat the pork slices in the marinade and refrigerate at least 30 minutes.",
+          "Heat a skillet with a little oil over medium-high until shimmering.",
+          "Sear the pork in a single layer 3-4 minutes per side until deeply browned.",
+          "Chop the cooked pork into bite-sized bits.",
+          "In the same pan, caramelize the diced pineapple 1-2 minutes until golden-spotted.",
+          "Stir the chopped pork back in with the pineapple for 30 seconds.",
+          "Warm the corn tortillas about 20 seconds per side in a dry pan.",
+          "Pile the pork and pineapple onto warm tortillas, topped with onion, cilantro, and lime."
+        ]}
+      ]
+    },
+    {
+      "id": "enchiladas",
+      "title": "Chicken Enchiladas Verdes",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Chicken enchiladas verdes topped with green salsa, crema, and crumbled queso fresco",
+      "prep_label": "Prep — Shredded Poached Chicken",
+      "prep_alt": "Poached chicken breast shredded into thin strands for the enchilada filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast", "120g", "240g", "360g", "480g"],
+          ["Tomatillos", "100g", "200g", "300g", "400g"],
+          ["Jalapeño", "½", "1", "1½", "2"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["White onion", "20g", "40g", "60g", "80g"],
+          ["Chicken stock", "60ml", "120ml", "180ml", "240ml"],
+          ["Cilantro", "5g", "10g", "15g", "20g"],
+          ["Corn tortillas", "2", "4", "6", "8"],
+          ["Vegetable oil (for tortillas)", "5ml", "10ml", "15ml", "20ml"],
+          ["Mexican crema or sour cream", "15ml", "30ml", "45ml", "60ml"],
+          ["Shredded Oaxaca or Monterey Jack cheese", "20g", "40g", "60g", "80g"],
+          ["Queso fresco, crumbled", "10g", "20g", "30g", "40g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Poach the chicken breast in gently boiling water 12-15 minutes until no pink remains.",
+          "Shred the cooled chicken into thin strips with two forks.",
+          "Husk and rinse the tomatillos, then boil with jalapeño and garlic 8-10 minutes until soft and olive-green.",
+          "Blend the tomatillos, jalapeño, garlic, onion, and cilantro until smooth into a salsa verde.",
+          "Simmer the salsa with the chicken stock 5 minutes until slightly darkened.",
+          "Preheat the oven to 190°C (375°F).",
+          "Warm each tortilla in a little oil 5 seconds per side until pliable.",
+          "Fill each tortilla with shredded chicken, roll tightly, and place seam-side down in a baking dish.",
+          "Pour the salsa verde over the enchiladas, top with cheese, and bake 15-20 minutes until bubbling.",
+          "Drizzle with crema and crumbled queso fresco before serving."
+        ]}
+      ]
+    },
+    {
+      "id": "pozole",
+      "title": "Pozole Rojo (Pork & Hominy Soup)",
+      "time": "75 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "A bowl of pozole rojo with shredded pork and hominy, topped with cabbage, radish, and lime",
+      "prep_label": "Prep — Hominy for the Pot",
+      "prep_alt": "A bucket of dried maiz pozolero hominy corn at a Mexican market",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork shoulder, cubed", "130g", "260g", "390g", "520g"],
+          ["White hominy (canned, drained)", "130g", "260g", "390g", "520g"],
+          ["Dried guajillo chiles", "1", "2", "3", "4"],
+          ["Dried ancho chile", "½", "1", "1½", "2"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["White onion", "20g", "40g", "60g", "80g"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Shredded cabbage (garnish)", "20g", "40g", "60g", "80g"],
+          ["Sliced radish (garnish)", "10g", "20g", "30g", "40g"],
+          ["Lime wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Simmer the pork with a quarter of the onion, a garlic clove, and the bay leaf, skimming foam, 45-60 minutes until fork-tender.",
+          "Toast the stemmed, seeded chiles in a dry pan about 30 seconds per side until fragrant.",
+          "Soak the toasted chiles in boiling water 15 minutes until soft.",
+          "Blend the softened chiles with the remaining onion, garlic, and oregano, using soaking water to loosen. Strain.",
+          "Lift the tender pork out, shred or chop it, and discard the bay leaf.",
+          "Stir the strained red chile sauce into the broth.",
+          "Return the pork and hominy to the pot and simmer uncovered 20 minutes.",
+          "Taste and season with salt.",
+          "Ladle into bowls and set out cabbage, radish, and lime for topping."
+        ]}
+      ]
+    },
+    {
+      "id": "rellenos",
+      "title": "Chiles Rellenos",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Golden egg-battered chiles rellenos stuffed with melted cheese, served over tomato sauce",
+      "prep_label": "Prep — Charring the Poblano Peppers",
+      "prep_alt": "Poblano peppers charred and blistered over an open flame before peeling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Poblano peppers", "1", "2", "3", "4"],
+          ["Oaxaca or Monterey Jack cheese", "30g", "60g", "90g", "120g"],
+          ["Eggs, separated", "1", "2", "3", "4"],
+          ["All-purpose flour", "15g", "30g", "45g", "60g"],
+          ["Crushed tomatoes", "60g", "120g", "180g", "240g"],
+          ["White onion, chopped", "15g", "30g", "45g", "60g"],
+          ["Garlic clove", "½", "1", "1½", "2"],
+          ["Chicken stock", "30ml", "60ml", "90ml", "120ml"],
+          ["Vegetable oil (for frying)", "60ml", "120ml", "180ml", "240ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Char the poblano peppers directly over a flame or under a broiler until blackened all over, about 8-10 minutes.",
+          "Steam the charred peppers in a covered bowl 10 minutes, then rub off the blackened skin.",
+          "Slit each pepper, scoop out the seeds and membrane, and stuff with cheese.",
+          "Simmer the onion and garlic in oil 2-3 minutes, then add crushed tomatoes and stock, simmering 10 minutes for the sauce.",
+          "Beat the egg whites to soft peaks, then gently fold in the yolks to make a fluffy batter.",
+          "Roll each stuffed pepper in flour, then dip and coat fully in the egg batter.",
+          "Fry the battered peppers in hot oil 3-4 minutes, turning gently, until golden and puffed.",
+          "Drain on paper towels.",
+          "Spoon the warm tomato sauce onto plates and top with a chile relleno to serve."
+        ]}
+      ]
+    },
+    {
+      "id": "tinga",
+      "title": "Tinga de Pollo (Smoky Chipotle Chicken Tostadas)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Crisp tostadas piled with smoky chipotle chicken tinga, lettuce, avocado, and queso fresco",
+      "prep_label": "Prep — Chipotle Peppers in Adobo",
+      "prep_alt": "Canned chipotle peppers in smoky adobo sauce, the base of the tinga sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast", "120g", "240g", "360g", "480g"],
+          ["White onion", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Roma tomatoes", "1", "2", "3", "4"],
+          ["Chipotle peppers in adobo", "½", "1", "1½", "2"],
+          ["Adobo sauce (from the can)", "5ml", "10ml", "15ml", "20ml"],
+          ["Chicken stock", "30ml", "60ml", "90ml", "120ml"],
+          ["Tostadas (or corn tortillas)", "2", "4", "6", "8"],
+          ["Avocado", "¼", "½", "¾", "1"],
+          ["Queso fresco, crumbled", "10g", "20g", "30g", "40g"],
+          ["Shredded lettuce", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Poach the chicken in gently boiling water 12-15 minutes until no pink remains, then shred with two forks.",
+          "Blend the tomatoes, chipotle peppers, and adobo sauce until mostly smooth.",
+          "Cook the onion in a little oil 3-4 minutes until soft, then add garlic for 30 seconds.",
+          "Pour in the tomato-chipotle sauce and chicken stock, simmering 8-10 minutes until thickened.",
+          "Add the shredded chicken and stir to coat, simmering 5 more minutes.",
+          "Taste and season with salt.",
+          "Pile the tinga onto crisp tostadas.",
+          "Top with shredded lettuce, sliced avocado, and crumbled queso fresco."
+        ]}
+      ]
+    },
+    {
+      "id": "carneasada",
+      "title": "Carne Asada",
+      "time": "25 min (+30 min marinate)",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "Sliced grilled carne asada tacos with tortillas, cilantro, onion, and pico de gallo",
+      "prep_label": "Prep — Grilling the Marinated Steak",
+      "prep_alt": "Citrus-marinated skirt steak, arrachera-style, searing on a hot grill",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Flank or skirt steak", "130g", "260g", "390g", "520g"],
+          ["Lime juice", "15ml", "30ml", "45ml", "60ml"],
+          ["Orange juice", "15ml", "30ml", "45ml", "60ml"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Olive oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Cilantro, chopped", "5g", "10g", "15g", "20g"],
+          ["White onion (for grilling)", "20g", "40g", "60g", "80g"],
+          ["Corn tortillas", "2", "4", "6", "8"],
+          ["Pico de gallo (side)", "30g", "60g", "90g", "120g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Whisk together lime juice, orange juice, garlic, olive oil, cumin, and half the cilantro.",
+          "Marinate the steak in the citrus mixture at least 30 minutes, up to 4 hours.",
+          "Let the steak sit out 15 minutes before cooking so it isn't ice-cold.",
+          "Heat a grill or grill pan over high heat until very hot.",
+          "Grill the steak undisturbed 3-4 minutes per side until well marked.",
+          "Flip once and cook 3-4 minutes more for medium doneness.",
+          "Rest the steak 5-10 minutes before slicing.",
+          "Slice thinly against the grain.",
+          "Serve with warm tortillas, grilled onion, cilantro, and pico de gallo."
+        ]}
+      ]
+    },
+    {
+      "id": "mole",
+      "title": "Pollo en Mole Poblano",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Chicken simmered in rich, dark mole poblano sauce, sprinkled with toasted sesame seeds",
+      "prep_label": "Prep — Toasting the Dried Chiles",
+      "prep_alt": "Dried ancho chiles, the base of the deep, complex mole poblano sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs", "130g", "260g", "390g", "520g"],
+          ["Dried ancho chiles", "1", "2", "3", "4"],
+          ["Dried pasilla chile", "½", "1", "1½", "2"],
+          ["Roma tomato", "½", "1", "1½", "2"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["White onion", "20g", "40g", "60g", "80g"],
+          ["Raisins", "5g", "10g", "15g", "20g"],
+          ["Almonds (or peanuts)", "5g", "10g", "15g", "20g"],
+          ["Sesame seeds", "5g", "10g", "15g", "20g"],
+          ["Mexican chocolate (or dark chocolate + cinnamon)", "10g", "20g", "30g", "40g"],
+          ["Chicken stock", "100ml", "200ml", "300ml", "400ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Toast the stemmed, seeded ancho and pasilla chiles in a dry pan 20-30 seconds per side.",
+          "Soak the toasted chiles in boiling water 15 minutes until soft.",
+          "Toast the almonds and sesame seeds separately until golden, setting a pinch of sesame aside for garnish.",
+          "Cook the onion and garlic in a little oil until soft, then add tomato and cook until saucy.",
+          "Blend the soaked chiles, toasted nuts and seeds, onion-tomato mixture, raisins, and half the stock until smooth.",
+          "Cook the thick paste in a pot, stirring often, 5 minutes until darkened and toasty.",
+          "Stir in the rest of the stock until the sauce is smooth and pourable.",
+          "Add the chicken thighs, cover partway, and simmer 25-30 minutes until fully cooked.",
+          "Melt the chocolate into the sauce and simmer 5 more minutes.",
+          "Spoon over rice and sprinkle with the reserved toasted sesame seeds."
+        ]}
+      ]
+    },
+    {
+      "id": "churros",
+      "title": "Churros with Mexican Chocolate Sauce (Bonus)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Cinnamon-sugar dusted churros served with warm Mexican chocolate dipping sauce",
+      "prep_label": "Prep — Piping and Frying the Dough",
+      "prep_alt": "Ridged churro dough being piped and fried to golden brown at a Mexico City market stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Water", "60ml", "120ml", "180ml", "240ml"],
+          ["Butter", "10g", "20g", "30g", "40g"],
+          ["Sugar (for dough)", "5g", "10g", "15g", "20g"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["All-purpose flour", "35g", "70g", "105g", "140g"],
+          ["Egg", "½", "1", "1½", "2"],
+          ["Vegetable oil (for frying)", "250ml", "500ml", "750ml", "1000ml"],
+          ["Cinnamon sugar (for coating)", "15g", "30g", "45g", "60g"],
+          ["Mexican chocolate tablet (or dark chocolate)", "20g", "40g", "60g", "80g"],
+          ["Milk", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Bring water, butter, sugar, and salt to a boil until the butter melts.",
+          "Off the heat, stir in all the flour at once until it forms a smooth dough ball.",
+          "Let the dough cool about 5 minutes.",
+          "Beat in the egg a little at a time until smooth and glossy.",
+          "Pipe the dough into a piping bag fitted with a star tip.",
+          "Heat the oil to about 190°C (375°F).",
+          "Pipe 10-13cm lengths of dough directly into the hot oil, a few at a time.",
+          "Fry 2-3 minutes per side until deep golden and crisp, then drain on paper towels.",
+          "Roll the warm churros in cinnamon sugar.",
+          "Warm the milk, stir in the chopped chocolate until melted, and serve alongside for dipping."
+        ]}
+      ]
+    }
+  ]
+}

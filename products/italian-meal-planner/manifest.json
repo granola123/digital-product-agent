@@ -1,0 +1,114 @@
+{
+  "bolognese": {
+    "dish": {
+      "title": "File:Tagliatelle al ragu Bolognese.jpg",
+      "artist": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tagliatelle_al_ragu_Bolognese.jpg"
+    },
+    "prep": {
+      "title": "File:Mirepoix on cutting board.jpg",
+      "artist": "Pigup",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mirepoix_on_cutting_board.jpg"
+    }
+  },
+  "vongole": {
+    "dish": {
+      "title": "File:Spaghetti alle vongole.jpg",
+      "artist": "Flickr user (retouched by AM)",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Spaghetti_alle_vongole.jpg"
+    },
+    "prep": {
+      "title": "File:Cozze e Vongole.jpg",
+      "artist": "Much Ramblings",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cozze_e_Vongole.jpg"
+    }
+  },
+  "risotto": {
+    "dish": {
+      "title": "File:Risotto Funghi Misti - Tutto Bene (470995478).jpg",
+      "artist": "Alpha, Melbourne, Australia",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Risotto_Funghi_Misti_-_Tutto_Bene_%28470995478%29.jpg"
+    },
+    "prep": {
+      "title": "File:Baby bella mushrooms being sautéed.jpg",
+      "artist": "Cheryl, River City (Richmond), VA, USA",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Baby_bella_mushrooms_being_saut%C3%A9ed.jpg"
+    }
+  },
+  "minestrone": {
+    "dish": {
+      "title": "File:Minestrone soup.jpg",
+      "artist": "Katrin Morenz, Aachen, Deutschland",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Minestrone_soup.jpg"
+    },
+    "prep": {
+      "title": "File:Minestrone ingredients.jpg",
+      "artist": "Fimb, London, UK",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Minestrone_ingredients.jpg"
+    }
+  },
+  "margherita": {
+    "dish": {
+      "title": "File:Margherita pizza on plate.jpg",
+      "artist": "Shisma",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Margherita_pizza_on_plate.jpg"
+    },
+    "prep": {
+      "title": "File:Pizza baking in Wood-fired oven.jpg",
+      "artist": "Jared Tarbell, Awesometown, USA",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pizza_baking_in_Wood-fired_oven.jpg"
+    }
+  },
+  "ossobuco": {
+    "dish": {
+      "title": "File:Ossobuco.jpg",
+      "artist": "Mogens Engelund",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ossobuco.jpg"
+    },
+    "prep": {
+      "title": "File:Ossobuco in pentola.jpg",
+      "artist": "it:Lasagnolo9",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ossobuco_in_pentola.jpg"
+    }
+  },
+  "saltimbocca": {
+    "dish": {
+      "title": "File:Saltimbocca alla Romana.jpg",
+      "artist": "Alec Vuijlsteke",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Saltimbocca_alla_Romana.jpg"
+    },
+    "prep": {
+      "title": "File:Saltimbocca raw (1).jpg",
+      "artist": "Fanny Schertzer",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Saltimbocca_raw_%281%29.jpg"
+    }
+  },
+  "tiramisu": {
+    "dish": {
+      "title": "File:Tiramisu dessert.jpg",
+      "artist": "Navneet Sharma",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Tiramisu_dessert.jpg"
+    },
+    "prep": {
+      "title": "File:Biscotti savoiardi (01).jpg",
+      "artist": "Gianni Careddu",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Biscotti_savoiardi_%2801%29.jpg"
+    }
+  }
+}

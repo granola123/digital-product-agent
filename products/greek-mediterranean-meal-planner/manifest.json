@@ -1,0 +1,114 @@
+{
+  "souvlaki": {
+    "dish": {
+      "title": "File:Greek chicken souvlaki merida.jpg",
+      "artist": "Leeturtle",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Greek_chicken_souvlaki_merida.jpg/1280px-Greek_chicken_souvlaki_merida.jpg"
+    },
+    "prep": {
+      "title": "File:DFC 4715 Sizzling skewers of grilled pork served with crispy fries and a cool tzatziki dip - comfort food done right.jpg",
+      "artist": "PattayaPatrol",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DFC_4715_Sizzling_skewers_of_grilled_pork_served_with_crispy_fries_and_a_cool_tzatziki_dip_-_comfort_food_done_right.jpg/1280px-DFC_4715_Sizzling_skewers_of_grilled_pork_served_with_crispy_fries_and_a_cool_tzatziki_dip_-_comfort_food_done_right.jpg"
+    }
+  },
+  "avgolemono": {
+    "dish": {
+      "title": "File:Avgolemono Soup and Grilled Chicken and Mango Salad.jpg",
+      "artist": "Alpha",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Avgolemono_Soup_and_Grilled_Chicken_and_Mango_Salad.jpg"
+    },
+    "prep": {
+      "title": "File:Mixing eggs in a bowl with a whisk during meal preparation in a kitchen environment.jpg",
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mixing_eggs_in_a_bowl_with_a_whisk_during_meal_preparation_in_a_kitchen_environment.jpg/1280px-Mixing_eggs_in_a_bowl_with_a_whisk_during_meal_preparation_in_a_kitchen_environment.jpg"
+    }
+  },
+  "kotopoulo": {
+    "dish": {
+      "title": "File:Roast Chicken Legs and Thighs (31196736704).jpg",
+      "artist": "Willis Lam",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Roast_Chicken_Legs_and_Thighs_%2831196736704%29.jpg/1280px-Roast_Chicken_Legs_and_Thighs_%2831196736704%29.jpg"
+    },
+    "prep": {
+      "title": "File:Chicken thighs in marinade.jpg",
+      "artist": "gran",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Chicken_thighs_in_marinade.jpg"
+    }
+  },
+  "plaki": {
+    "dish": {
+      "title": "File:Baked Fish with Tomato Sauce with Lemon Slices.jpg",
+      "artist": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Baked_Fish_with_Tomato_Sauce_with_Lemon_Slices.jpg/1280px-Baked_Fish_with_Tomato_Sauce_with_Lemon_Slices.jpg"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Raw Tilapia Prepared for Baking.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Liat_Portal_for_Foodie_Disorder_-_Raw_Tilapia_Prepared_for_Baking.jpg/1280px-Liat_Portal_for_Foodie_Disorder_-_Raw_Tilapia_Prepared_for_Baking.jpg"
+    }
+  },
+  "pastitsio": {
+    "dish": {
+      "title": "File:Pastitsio homemade.jpg",
+      "artist": "Sam Bailey",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pastitsio_homemade.jpg/1280px-Pastitsio_homemade.jpg"
+    },
+    "prep": {
+      "title": "File:Béchamel in saucepan.jpg",
+      "artist": "Saintfevrier",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/B%C3%A9chamel_in_saucepan.jpg/1280px-B%C3%A9chamel_in_saucepan.jpg"
+    }
+  },
+  "moussaka": {
+    "dish": {
+      "title": "File:Мусака од компири.jpg",
+      "artist": "Original:  Cuklev",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0_%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%80%D0%B8.jpg/1280px-%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0_%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B8%D1%80%D0%B8.jpg"
+    },
+    "prep": {
+      "title": "File:Auberginen gesalzen.jpg",
+      "artist": "MichelleLily14",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Auberginen_gesalzen.jpg"
+    }
+  },
+  "gemista": {
+    "dish": {
+      "title": "File:Gemista.jpg",
+      "artist": "Photo and cooking: Badseed",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gemista.jpg/1280px-Gemista.jpg"
+    },
+    "prep": {
+      "title": "File:Stuffed grape leaves (Dolma) and vegetables in a pot.jpg",
+      "artist": "Armineaghayan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Stuffed_grape_leaves_%28Dolma%29_and_vegetables_in_a_pot.jpg/1280px-Stuffed_grape_leaves_%28Dolma%29_and_vegetables_in_a_pot.jpg"
+    }
+  },
+  "baklava": {
+    "dish": {
+      "title": "File:Baklava - Turkish special, 80-ply.JPEG",
+      "artist": "Kultigin",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Baklava_-_Turkish_special%2C_80-ply.JPEG/1280px-Baklava_-_Turkish_special%2C_80-ply.JPEG"
+    },
+    "prep": {
+      "title": "File:Baklava shop, Damascus, Syria.jpg",
+      "artist": "James Gordon from Los Angeles, California, USA",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Baklava_shop%2C_Damascus%2C_Syria.jpg/1280px-Baklava_shop%2C_Damascus%2C_Syria.jpg"
+    }
+  }
+}

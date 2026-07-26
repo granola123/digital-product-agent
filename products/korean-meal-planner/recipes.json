@@ -1,0 +1,299 @@
+{
+  "recipes": [
+    {
+      "id": "bulgogi",
+      "title": "Bulgogi (Marinated Grilled Beef)",
+      "time": "25 min (+ 1 hr marinate)",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Sliced bulgogi beef with onions and scallions on a plate",
+      "prep_label": "Prep — Grilling the Marinated Beef",
+      "prep_alt": "Marinated beef and onions grilling on a Korean barbecue grill",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef ribeye or sirloin, thinly sliced", "150g", "300g", "450g", "600g"],
+          ["Soy sauce", "30ml", "60ml", "90ml", "120ml"],
+          ["Sugar", "10g", "20g", "30g", "40g"],
+          ["Asian pear, grated", "20g", "40g", "60g", "80g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Ginger, minced", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Sesame oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Scallion, cut into 2-inch pieces", "1", "2", "3", "4"],
+          ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "If the beef isn't pre-sliced, freeze it 20-30 minutes first so it firms up and slices paper-thin.",
+          "Grate the Asian pear into a bowl — it adds sweetness and its enzymes gently tenderize the beef.",
+          "Stir in the soy sauce, sugar, garlic, ginger, sesame oil, and black pepper until the sugar dissolves.",
+          "Add the sliced beef and coat every piece in the marinade.",
+          "Cover and marinate at least 1 hour in the fridge — overnight is even better.",
+          "Heat a large pan or grill pan over medium-high with a little oil until shimmering.",
+          "Add the sliced onion and cook 1 minute until just softened and translucent.",
+          "Add the beef in a single layer (cook in batches if crowded) and sear 2-3 minutes without moving it.",
+          "Flip and cook 1-2 minutes more, until every piece is deep brown with no pink left.",
+          "Stir in the scallion pieces for the last 30 seconds, then serve over rice topped with sesame seeds."
+        ]}
+      ]
+    },
+    {
+      "id": "kimchijjigae",
+      "title": "Kimchi Jjigae (Kimchi Stew)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Bubbling red kimchi jjigae stew with tofu and pork in a pot",
+      "prep_label": "Prep — Simmering Kimchi & Pork",
+      "prep_alt": "Kimchi and pork simmering together in a hot pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Napa cabbage kimchi, chopped", "100g", "200g", "300g", "400g"],
+          ["Kimchi brine/juice", "30ml", "60ml", "90ml", "120ml"],
+          ["Pork belly, sliced (or Spam, cubed)", "60g", "120g", "180g", "240g"],
+          ["Tofu, cubed", "50g", "100g", "150g", "200g"],
+          ["Onion, sliced", "20g", "40g", "60g", "80g"],
+          ["Scallion, chopped", "1", "2", "3", "4"],
+          ["Gochugaru", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Gochujang", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Water or anchovy stock", "200ml", "400ml", "600ml", "800ml"],
+          ["Sesame oil", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the sesame oil in a pot over medium heat and cook the pork belly 2-3 minutes until the edges turn golden.",
+          "Add the chopped kimchi and cook 2 minutes, stirring, until fragrant instead of raw-smelling.",
+          "Stir in the gochugaru and gochujang, coating the kimchi and pork.",
+          "Pour in the water and kimchi brine, and bring to a boil over medium-high heat.",
+          "Reduce to a simmer, cover with the lid slightly ajar, and cook 10 minutes.",
+          "Add the onion and garlic, and simmer 3 more minutes until the onion softens.",
+          "Gently slide in the tofu cubes and simmer 2 more minutes, stirring carefully.",
+          "Taste and add a splash more kimchi brine if it needs more depth.",
+          "Turn off the heat, sprinkle scallion on top, and serve bubbling hot with rice."
+        ]}
+      ]
+    },
+    {
+      "id": "japchae",
+      "title": "Japchae (Glass Noodle Stir-Fry)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Glossy japchae glass noodles tossed with beef and vegetables",
+      "prep_label": "Prep — Stir-Frying Noodles & Vegetables",
+      "prep_alt": "Sweet potato glass noodles stir-frying with vegetables and pork in a pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Sweet potato glass noodles (dangmyeon)", "50g", "100g", "150g", "200g"],
+          ["Beef sirloin, thin strips", "40g", "80g", "120g", "160g"],
+          ["Spinach", "40g", "80g", "120g", "160g"],
+          ["Carrot, julienned", "20g", "40g", "60g", "80g"],
+          ["Onion, sliced", "20g", "40g", "60g", "80g"],
+          ["Shiitake mushrooms, sliced", "15g", "30g", "45g", "60g"],
+          ["Soy sauce", "20ml", "40ml", "60ml", "80ml"],
+          ["Sugar", "10g", "20g", "30g", "40g"],
+          ["Sesame oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the glass noodles 6-8 minutes until soft, stretchy, and translucent, then drain and rinse with cold water.",
+          "Snip the noodles a few times with kitchen scissors so they're easier to eat.",
+          "Mix the soy sauce and sugar together, toss two-thirds of it with the noodles and 1 tsp sesame oil, and set aside.",
+          "Sear the beef strips in a hot pan 2-3 minutes until no pink remains, then set aside.",
+          "In the same pan, cook the onion, carrot, and shiitake 3-4 minutes until the carrot still has a little crunch.",
+          "Add the spinach and stir just until wilted, about 1 minute.",
+          "Return the beef and noodles to the pan with the rest of the soy-sugar mix, tossing 1-2 minutes until golden.",
+          "Off heat, drizzle in the remaining sesame oil and toss once more.",
+          "Sprinkle with sesame seeds and serve warm or at room temperature."
+        ]}
+      ]
+    },
+    {
+      "id": "doenjangjjigae",
+      "title": "Doenjang Jjigae (Soybean Paste Stew)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Hearty doenjang jjigae stew with tofu, potato, and zucchini",
+      "prep_label": "Prep — Dissolving the Doenjang Paste",
+      "prep_alt": "A bowl of fermented doenjang soybean paste, the stew's savory base",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Doenjang", "15g", "30g", "45g", "60g"],
+          ["Zucchini, diced", "30g", "60g", "90g", "120g"],
+          ["Potato, diced", "30g", "60g", "90g", "120g"],
+          ["Onion, diced", "20g", "40g", "60g", "80g"],
+          ["Tofu, cubed", "50g", "100g", "150g", "200g"],
+          ["Garlic, minced", "½ clove", "1 clove", "1½ cloves", "2 cloves"],
+          ["Green chili, sliced", "¼", "½", "¾", "1"],
+          ["Scallion, chopped", "¼", "½", "¾", "1"],
+          ["Water or anchovy-kelp stock", "200ml", "400ml", "600ml", "800ml"],
+          ["Gochugaru (optional)", "pinch", "¼ tsp", "¼ tsp", "½ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Bring the water or stock to a boil in a small pot over medium-high heat.",
+          "Stir in the doenjang until fully dissolved with no lumps.",
+          "Add the diced potato first, since it takes longest, and simmer 5 minutes.",
+          "Add the onion and zucchini, and simmer another 5 minutes until the potato is fork-tender.",
+          "Stir in the garlic and optional gochugaru.",
+          "Add the sliced green chili and simmer 2 more minutes.",
+          "Gently add the tofu cubes and simmer 2 more minutes, stirring softly.",
+          "Taste — it should be savory and earthy. Stir in a little more doenjang if it tastes flat.",
+          "Turn off the heat, sprinkle scallion on top, and serve bubbling hot with rice."
+        ]}
+      ]
+    },
+    {
+      "id": "dakgalbi",
+      "title": "Dakgalbi (Spicy Stir-Fried Chicken)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Spicy red dakgalbi chicken and cabbage in a wide pan",
+      "prep_label": "Prep — Cooking Chicken & Vegetables in the Pan",
+      "prep_alt": "Marinated chicken, sweet potato, and cabbage cooking together in a wide pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thigh, bite-size pieces", "150g", "300g", "450g", "600g"],
+          ["Gochujang", "15g", "30g", "45g", "60g"],
+          ["Gochugaru", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Soy sauce", "10ml", "20ml", "30ml", "40ml"],
+          ["Sugar", "5g", "10g", "15g", "20g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Ginger, minced", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Green cabbage, chopped", "50g", "100g", "150g", "200g"],
+          ["Sweet potato, sliced", "30g", "60g", "90g", "120g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Scallion, cut into pieces", "¼", "½", "¾", "1"],
+          ["Sesame oil", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the gochujang, gochugaru, soy sauce, sugar, garlic, and ginger into a thick red sauce.",
+          "Toss the chicken pieces in the sauce and marinate at least 15 minutes, up to an hour.",
+          "Heat the sesame oil in a large wide pan over medium heat and cook the sweet potato 3-4 minutes first.",
+          "Add the marinated chicken, spreading it out, and let it sear 3 minutes before flipping.",
+          "Add the onion and cabbage, and cook 8-10 minutes, stirring occasionally, until the chicken is fully cooked through.",
+          "If it looks dry before the chicken is done, add a small splash of water.",
+          "Stir in the scallion pieces in the last minute of cooking.",
+          "Serve straight from the pan, family-style, with rice on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "yangnyeomchicken",
+      "title": "Yangnyeom Chicken (Korean Fried Chicken)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "Crispy Korean fried chicken glazed in glossy red yangnyeom sauce",
+      "prep_label": "Prep — Double-Frying the Chicken",
+      "prep_alt": "Chicken wings frying to a deep golden crisp in hot oil",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken wings/drumettes", "200g", "400g", "600g", "800g"],
+          ["Cornstarch or potato starch", "30g", "60g", "90g", "120g"],
+          ["All-purpose flour", "15g", "30g", "45g", "60g"],
+          ["Salt", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Neutral oil, for frying", "as needed", "as needed", "as needed", "as needed"],
+          ["Gochujang", "15g", "30g", "45g", "60g"],
+          ["Ketchup", "15g", "30g", "45g", "60g"],
+          ["Honey or corn syrup", "10g", "20g", "30g", "40g"],
+          ["Soy sauce", "5ml", "10ml", "15ml", "20ml"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the chicken wings completely dry, then toss with salt and pepper.",
+          "Coat every piece evenly in the cornstarch and flour mix, shaking off the excess.",
+          "Heat about 2 inches of oil to 340°F/170°C in a deep, heavy pot.",
+          "Fry the chicken in batches 7-8 minutes, turning occasionally, until light golden and cooked through.",
+          "Drain on a wire rack and let the oil come back up to temperature.",
+          "Fry all the pieces a second time for 2-3 minutes until deep golden brown and very crunchy.",
+          "While the chicken drains, simmer the gochujang, ketchup, honey, soy sauce, and garlic in a pan 1-2 minutes until glossy.",
+          "Toss the crispy chicken in the sauce off heat until every piece is coated.",
+          "Sprinkle with sesame seeds and serve immediately while hot and crispy."
+        ]}
+      ]
+    },
+    {
+      "id": "bibimbap",
+      "title": "Bibimbap (Mixed Rice Bowl)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "Colorful bibimbap rice bowl with vegetables, beef, and a fried egg",
+      "prep_label": "Prep — Frying the Egg",
+      "prep_alt": "A sunny-side-up egg frying with a soft runny yolk",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Cooked short-grain rice", "150g", "300g", "450g", "600g"],
+          ["Beef, ground or thin strips", "50g", "100g", "150g", "200g"],
+          ["Spinach", "30g", "60g", "90g", "120g"],
+          ["Carrot, julienned", "20g", "40g", "60g", "80g"],
+          ["Zucchini, julienned", "30g", "60g", "90g", "120g"],
+          ["Bean sprouts", "30g", "60g", "90g", "120g"],
+          ["Shiitake mushrooms, sliced", "15g", "30g", "45g", "60g"],
+          ["Egg", "1", "2", "3", "4"],
+          ["Gochujang", "15g", "30g", "45g", "60g"],
+          ["Sesame oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the bean sprouts 2-3 minutes until just tender, then scoop out, keeping the water boiling.",
+          "Boil the spinach 30 seconds, drain, rinse with cold water, and squeeze out excess water.",
+          "Toss the bean sprouts and spinach separately with a pinch of salt, garlic, and sesame oil.",
+          "Cook the carrot, zucchini, and shiitake separately, 1-2 minutes each, keeping their colors distinct.",
+          "Cook the beef with a splash of soy sauce and garlic 3-4 minutes until fully browned.",
+          "Fry the egg sunny-side up until the white sets but the yolk stays runny, about 3 minutes.",
+          "Scoop warm rice into each bowl as the base.",
+          "Arrange the toppings in separate piles around the rice like a clock face.",
+          "Place the fried egg in the center with a spoonful of gochujang beside it.",
+          "Drizzle with extra sesame oil and mix everything together just before eating."
+        ]}
+      ]
+    },
+    {
+      "id": "hotteok",
+      "title": "Hotteok (Sweet Filled Pancakes, Bonus)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 1.3,
+      "gold": true,
+      "dish_alt": "Golden-brown hotteok pancakes cut open to show gooey syrup filling",
+      "prep_label": "Prep — Filling the Dough",
+      "prep_alt": "Sweet cinnamon-brown-sugar filling being wrapped inside soft dough",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["All-purpose flour", "60g", "120g", "180g", "240g"],
+          ["Glutinous (sweet) rice flour", "15g", "30g", "45g", "60g"],
+          ["Sugar (for dough)", "5g", "10g", "15g", "20g"],
+          ["Instant yeast", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Warm milk or water", "45ml", "90ml", "135ml", "180ml"],
+          ["Brown sugar (filling)", "20g", "40g", "60g", "80g"],
+          ["Cinnamon", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Chopped peanuts or walnuts", "10g", "20g", "30g", "40g"],
+          ["Oil, for pan-frying", "as needed", "as needed", "as needed", "as needed"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Stir the warm milk with sugar and yeast, and let it sit 5 minutes until foamy.",
+          "Mix in the flour, glutinous rice flour, and salt to form a soft, sticky dough.",
+          "Cover and let it rise somewhere warm 45-60 minutes until puffy and doubled.",
+          "Mix the brown sugar, cinnamon, and chopped nuts for the filling.",
+          "With oiled hands, flatten a golf-ball-size piece of dough in your palm.",
+          "Add a spoonful of filling, gather the edges up, and pinch to seal the pouch.",
+          "Heat oil in a flat pan over medium heat and place the pouch seam-side down for 1 minute.",
+          "Press firmly to flatten into a thick disc, then cook 2-3 minutes until deep golden brown.",
+          "Flip and press again lightly, cooking 2-3 minutes more until both sides are golden.",
+          "Let it rest 1-2 minutes before serving warm — the filling stays molten hot inside."
+        ]}
+      ]
+    }
+  ]
+}

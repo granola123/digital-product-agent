@@ -1,0 +1,285 @@
+{
+  "recipes": [
+    {
+      "id": "katsu",
+      "title": "Chicken Katsu",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Sliced golden panko-crusted chicken katsu fanned on a plate with shredded cabbage and rice",
+      "prep_label": "Prep — Panko-Breaded Chicken",
+      "prep_alt": "Panko-breaded chicken cutlets ready for frying",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast (thin cutlet)", "150g", "300g", "450g", "600g"],
+          ["Salt &amp; pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Flour", "15g", "30g", "45g", "60g"],
+          ["Egg", "1", "2", "2", "3"],
+          ["Panko breadcrumbs", "50g", "100g", "150g", "200g"],
+          ["Shredded cabbage (to serve)", "60g", "120g", "180g", "240g"],
+          ["Steamed rice", "150g", "300g", "450g", "600g"],
+          ["Tonkatsu sauce", "15ml", "30ml", "45ml", "60ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Lay the chicken breast flat on a cutting board. If it's thick on one side, ask an adult to help slice it horizontally into a thinner, even piece, or gently pound it with the flat side of a heavy pan until it's about as thick as your thumb.",
+          "Sprinkle both sides with a pinch of salt and pepper.",
+          "Set up three shallow bowls: one with flour, one with beaten egg, one with panko breadcrumbs.",
+          "Dip the chicken in flour, then egg, then press it into the panko, turning and patting so breadcrumbs stick to every part.",
+          "Ask an adult to help pour oil into a frying pan about 1cm deep and heat over medium heat until a breadcrumb sizzles right away.",
+          "Carefully lay the cutlet into the oil away from you. Fry 3-4 minutes until deep golden brown, then flip and fry the other side another 3-4 minutes.",
+          "Ask an adult to help lift the cutlet onto a wire rack or paper towels to drain, and let it rest 2 minutes.",
+          "Slice the cutlet into strips, pile the shredded cabbage next to it, and serve with steamed rice and tonkatsu sauce."
+        ]}
+      ]
+    },
+    {
+      "id": "teriyaki",
+      "title": "Teriyaki Salmon + Miso Soup",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Glazed teriyaki salmon fillet glossy with sauce, served over rice",
+      "prep_label": "Prep — Miso Soup Base",
+      "prep_alt": "A bowl of miso soup with tofu and wakame seaweed",
+      "sections": [
+        {"type": "table", "heading": "Teriyaki Salmon — by Serving", "rows": [
+          ["Salmon fillet", "150g", "300g", "450g", "600g"],
+          ["Soy sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Mirin", "15ml", "30ml", "45ml", "60ml"],
+          ["Sake (or water)", "15ml", "30ml", "45ml", "60ml"],
+          ["Sugar", "5g", "10g", "15g", "20g"],
+          ["Steamed rice", "150g", "300g", "450g", "600g"]
+        ]},
+        {"type": "table", "heading": "Miso Soup — by Serving", "rows": [
+          ["Water", "300ml", "600ml", "900ml", "1200ml"],
+          ["Dashi granules", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Miso paste", "15g", "30g", "45g", "60g"],
+          ["Silken tofu (cubed)", "40g", "80g", "120g", "160g"],
+          ["Dried wakame", "2g", "4g", "6g", "8g"],
+          ["Green onion (sliced)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Bring water to a boil, stir in dashi granules, then turn heat to low. Add wakame and cubed tofu and let simmer gently while you start the salmon.",
+          "Stir together soy sauce, mirin, sake, and sugar in a small bowl until the sugar dissolves — this is your teriyaki sauce.",
+          "Heat a splash of oil in a frying pan over medium heat. Pat the salmon dry and lay it skin-side down. Cook 4 minutes undisturbed, then flip and cook 2-3 minutes more.",
+          "Pour the teriyaki sauce into the pan and spoon the bubbling glaze over the fish until glossy, about 1-2 more minutes.",
+          "Turn off the soup's heat completely, stir a spoonful of hot broth into the miso paste until smooth, then stir it back into the pot.",
+          "Ladle the miso soup into bowls and top with sliced green onion. Plate the glazed salmon over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "gyoza",
+      "title": "Gyoza (Pan-Fried Pork Dumplings)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Golden pan-fried gyoza dumplings with crispy bottoms served on a plate",
+      "prep_label": "Prep — Folding &amp; Pleating",
+      "prep_alt": "Hands folding and pleating gyoza dumpling wrappers around filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground pork", "100g", "200g", "300g", "400g"],
+          ["Cabbage (finely chopped)", "60g", "120g", "180g", "240g"],
+          ["Garlic (cloves, minced)", "1", "2", "3", "4"],
+          ["Ginger (grated)", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Green onion (minced)", "10g", "20g", "30g", "40g"],
+          ["Soy sauce", "5ml", "10ml", "15ml", "20ml"],
+          ["Sesame oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Gyoza wrappers", "8", "16", "24", "32"],
+          ["Dipping: soy sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Dipping: rice vinegar", "15ml", "30ml", "45ml", "60ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Sprinkle chopped cabbage with a pinch of salt, let sit 5 minutes, then squeeze out the extra water.",
+          "Mix the ground pork, squeezed cabbage, garlic, ginger, green onion, soy sauce, and sesame oil into an even filling.",
+          "Spoon about a teaspoon of filling into the center of a wrapper. Wet the edge, fold in half, and pinch 3-4 pleats to seal tightly.",
+          "Repeat with the rest of the filling and wrappers, keeping finished dumplings under a damp towel.",
+          "Heat oil in a large non-stick pan over medium heat. Arrange dumplings standing up, flat-bottom down.",
+          "Fry undisturbed 2-3 minutes until the bottoms are deep golden brown.",
+          "Carefully pour in about 60ml water per batch of 8 and cover immediately — it will splatter loudly.",
+          "Steam 3-4 minutes until the water is mostly gone, then uncover and let the bottoms crisp back up for another minute.",
+          "Stir together the dipping soy sauce and rice vinegar and serve alongside the crisp-bottomed dumplings."
+        ]}
+      ]
+    },
+    {
+      "id": "oyakodon",
+      "title": "Oyakodon (Chicken &amp; Egg Rice Bowl)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Oyakodon rice bowl with soft-set egg and chicken over steamed rice",
+      "prep_label": "Prep — Beating the Eggs",
+      "prep_alt": "Eggs being beaten in a bowl with a whisk",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thigh (bite-size)", "100g", "200g", "300g", "400g"],
+          ["Onion (thinly sliced)", "40g", "80g", "120g", "160g"],
+          ["Dashi stock (or water + granules)", "60ml", "120ml", "180ml", "240ml"],
+          ["Soy sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Mirin", "15ml", "30ml", "45ml", "60ml"],
+          ["Sugar", "5g", "10g", "15g", "20g"],
+          ["Egg", "2", "4", "6", "8"],
+          ["Steamed rice", "150g", "300g", "450g", "600g"],
+          ["Green onion (sliced, garnish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Stir together dashi stock, soy sauce, mirin, and sugar in a shallow lidded pan. Bring to a gentle simmer.",
+          "Add the sliced onion and cook 2-3 minutes until slightly see-through.",
+          "Add the chicken pieces in a single layer and simmer 4-5 minutes until no pink remains.",
+          "Beat the eggs lightly, leaving streaks of yolk and white visible.",
+          "Pour two-thirds of the egg over the chicken and onion in a swirl. Don't stir — let it sit on top.",
+          "Cover and cook undisturbed 30 seconds, then pour the rest of the egg into the gaps, cover, and cook 30-45 seconds more until just set and glossy.",
+          "Turn off the heat right away. Slide the chicken-and-egg mixture over a bowl of hot rice and sprinkle with green onion."
+        ]}
+      ]
+    },
+    {
+      "id": "curry",
+      "title": "Japanese Chicken Curry Rice",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "Japanese chicken curry with carrots and potato ladled over steamed rice",
+      "prep_label": "Prep — Curry Roux Blocks",
+      "prep_alt": "Blocks of Japanese curry roux ready to melt into the simmering pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thigh (bite-size)", "120g", "240g", "360g", "480g"],
+          ["Onion (sliced)", "50g", "100g", "150g", "200g"],
+          ["Carrot (chunks)", "40g", "80g", "120g", "160g"],
+          ["Potato (chunks)", "60g", "120g", "180g", "240g"],
+          ["Water or chicken stock", "200ml", "400ml", "600ml", "800ml"],
+          ["Japanese curry roux", "30g", "60g", "90g", "120g"],
+          ["Steamed rice", "150g", "300g", "450g", "600g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat oil in a pot over medium heat. Cook the sliced onion 5-6 minutes, stirring occasionally, until soft and golden.",
+          "Add the chicken and cook 3-4 minutes until the outside is no longer pink.",
+          "Add the carrot and potato and stir for 1 minute so they get lightly coated.",
+          "Pour in the water or stock, bring to a boil, then reduce to a gentle simmer.",
+          "Skim off any grey foam that rises to the surface.",
+          "Cover partway and simmer 15 minutes, until a fork slides easily into the potato and carrot.",
+          "Turn off the heat completely, break the curry roux into pieces, and drop them in.",
+          "Stir gently but thoroughly until every piece of roux has melted with no lumps.",
+          "Turn the heat back to low and simmer 5 more minutes, stirring often, until the sauce coats the back of a spoon.",
+          "Serve the curry ladled over a bowl of steamed rice, plated side by side."
+        ]}
+      ]
+    },
+    {
+      "id": "sukiyaki",
+      "title": "Sukiyaki (Beef &amp; Vegetable Hot Pot)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "Sukiyaki hot pot with beef, napa cabbage, tofu, and mushrooms simmering in a pan",
+      "prep_label": "Prep — The Hot Pot Spread",
+      "prep_alt": "Raw beef, napa cabbage, mushrooms, and tofu arranged on a platter before cooking",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Thinly sliced beef (ribeye/chuck)", "120g", "240g", "360g", "480g"],
+          ["Napa cabbage (chopped)", "80g", "160g", "240g", "320g"],
+          ["Green onion (diagonal slices)", "30g", "60g", "90g", "120g"],
+          ["Shiitake mushrooms (sliced)", "20g", "40g", "60g", "80g"],
+          ["Enoki mushrooms", "20g", "40g", "60g", "80g"],
+          ["Firm tofu (cubed)", "60g", "120g", "180g", "240g"],
+          ["Shirataki noodles", "40g", "80g", "120g", "160g"],
+          ["Soy sauce", "30ml", "60ml", "90ml", "120ml"],
+          ["Mirin", "30ml", "60ml", "90ml", "120ml"],
+          ["Sugar", "15g", "30g", "45g", "60g"],
+          ["Sake", "15ml", "30ml", "45ml", "60ml"],
+          ["Egg (for dipping, optional)", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Stir together soy sauce, mirin, sugar, sake, and an equal amount of water until the sugar dissolves — this is the warishita sauce.",
+          "Boil the shirataki noodles 1-2 minutes to remove their odor, then drain.",
+          "Arrange the beef, cabbage, green onion, mushrooms, tofu, and noodles on a big platter, grouped by type.",
+          "Heat a wide, heavy pan over medium heat with a little oil or beef fat.",
+          "Lay a few slices of beef in the pan and sear 30-45 seconds per side until light brown outside.",
+          "Pour in about a third of the warishita sauce, then push the beef to one side.",
+          "Add the vegetables, tofu, and noodles to the empty side, pour in more sauce, and simmer gently 5-7 minutes until the cabbage softens.",
+          "Check the beef is fully cooked with no pink remaining.",
+          "If using, crack an egg into a small bowl and beat it for dipping.",
+          "Serve straight from the pot — everyone picks pieces with chopsticks, dips in egg if using, and tops up sauce and ingredients as things get eaten."
+        ]}
+      ]
+    },
+    {
+      "id": "ramen",
+      "title": "Shoyu Ramen (Soy Sauce Ramen)",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A bowl of shoyu ramen with sliced pork, soft-boiled egg, nori, and green onion in soy-sauce broth",
+      "prep_label": "Prep — Marinated Soft-Boiled Egg",
+      "prep_alt": "A soy-marinated soft-boiled egg with a jammy yolk, halved",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Fresh ramen noodles", "150g", "300g", "450g", "600g"],
+          ["Chicken or pork stock", "400ml", "800ml", "1200ml", "1600ml"],
+          ["Soy sauce", "30ml", "60ml", "90ml", "120ml"],
+          ["Mirin", "15ml", "30ml", "45ml", "60ml"],
+          ["Garlic (cloves, minced)", "1", "2", "3", "4"],
+          ["Egg", "1", "2", "3", "4"],
+          ["Sliced pork belly or chicken thigh", "80g", "160g", "240g", "320g"],
+          ["Green onion (sliced)", "10g", "20g", "30g", "40g"],
+          ["Nori sheet", "1", "2", "3", "4"],
+          ["Menma (optional)", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Lower the eggs gently into already-boiling water and time exactly 6½-7 minutes for a jammy yolk.",
+          "Transfer the eggs straight into ice water to stop cooking, then peel.",
+          "Marinate the peeled eggs in soy sauce and mirin at least 15 minutes.",
+          "Sear the sliced pork or chicken 2-3 minutes per side until browned and cooked through. Set aside.",
+          "Bring the stock to a gentle simmer and stir in soy sauce, mirin, and minced garlic. Taste and adjust.",
+          "Boil the ramen noodles according to the package time, usually 2-4 minutes, until they bend easily but still have a slight bite.",
+          "Drain the noodles and twist them into a neat nest in each serving bowl.",
+          "Ladle the hot broth over the noodles, filling each bowl about three-quarters full.",
+          "Slice the marinated eggs in half and arrange them with the pork or chicken, green onion, nori, and menma on top.",
+          "Serve immediately while the broth is hot and the noodles are still springy."
+        ]}
+      ]
+    },
+    {
+      "id": "dorayaki",
+      "title": "Dorayaki (Bonus)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Dorayaki red bean pancake sandwiches stacked on a plate",
+      "prep_label": "Prep — Sweet Red Bean Paste",
+      "prep_alt": "A bowl of sweet red bean paste (anko) for filling the pancakes",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Egg", "1", "2", "3", "4"],
+          ["Sugar", "25g", "50g", "75g", "100g"],
+          ["Honey", "10ml", "20ml", "30ml", "40ml"],
+          ["Flour", "50g", "100g", "150g", "200g"],
+          ["Baking powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Water or milk", "15ml", "30ml", "45ml", "60ml"],
+          ["Sweet red bean paste (anko)", "60g", "120g", "180g", "240g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Whisk the egg, sugar, and honey together for about a minute until pale yellow and slightly thick.",
+          "Sift the flour and baking powder into the bowl and gently fold in with a spatula, using a scooping motion.",
+          "Add the water or milk a little at a time, folding until the batter falls off the spatula in a slow ribbon. Let it rest 15 minutes.",
+          "Heat a non-stick pan over low-medium heat.",
+          "Pour a small ladle of batter to form a circle. Cook until bubbles appear all over and the edges look dry and matte, about 2 minutes.",
+          "Flip carefully and cook the other side about 1 minute until golden brown and springy.",
+          "Stack the cooked pancakes under a clean towel as you go to keep them soft.",
+          "Once cooled to warm, spread red bean paste on the flat side of one pancake and sandwich with another, flat sides facing in."
+        ]}
+      ]
+    }
+  ]
+}

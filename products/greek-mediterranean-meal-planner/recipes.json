@@ -1,0 +1,320 @@
+{
+  "recipes": [
+    {
+      "id": "souvlaki",
+      "title": "Chicken Souvlaki with Tzatziki",
+      "time": "25 min (+30 min marinate)",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Grilled chicken souvlaki skewers served with warm pita, tzatziki, tomatoes, and red onion",
+      "prep_label": "Prep — Marinated Skewers on the Grill",
+      "prep_alt": "Marinated chicken skewers grilling with golden char marks",
+      "sections": [
+        {"type": "table", "heading": "Chicken &amp; Marinade", "rows": [
+          ["Chicken thighs, boneless", "150g", "300g", "450g", "600g"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Lemon juice", "15ml", "30ml", "45ml", "60ml"],
+          ["Garlic, cloves", "1", "2", "3", "4"],
+          ["Dried oregano", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Salt &amp; pepper", "pinch", "¼ tsp", "½ tsp", "¾ tsp"],
+          ["Pita bread", "1", "2", "3", "4"],
+          ["Cherry tomatoes", "3", "6", "9", "12"],
+          ["Red onion, thin slices", "2", "4", "6", "8"]
+        ]},
+        {"type": "table", "heading": "Tzatziki", "rows": [
+          ["Greek yogurt", "60g", "120g", "180g", "240g"],
+          ["Cucumber, grated", "30g", "60g", "90g", "120g"],
+          ["Garlic, cloves", "½", "1", "1½", "2"],
+          ["Fresh dill, chopped", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Lemon juice", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cut the chicken into bite-sized chunks for even cooking and easy threading onto skewers.",
+          "Whisk the olive oil, lemon juice, crushed garlic, oregano, salt, and pepper. Toss with the chicken, cover, and marinate at least 30 minutes.",
+          "Grate the cucumber, then squeeze it hard in handfuls over the sink to wring out the water — this keeps the tzatziki thick instead of watery.",
+          "Stir the squeezed cucumber into the yogurt with the crushed garlic, dill, olive oil, and lemon juice. Taste and season, then chill until serving.",
+          "Soak wooden skewers 15 minutes if using them, then thread the marinated chicken with a little space between pieces.",
+          "Heat a grill pan or skillet over medium-high until a drop of water sizzles instantly.",
+          "Cook the skewers 3-4 minutes per side, turning every few minutes, until golden grill marks form on every side.",
+          "Check doneness by cutting into the thickest piece — it should be fully white with clear juices, no pink.",
+          "Warm the pita about 20 seconds per side in the same pan until soft and slightly puffed.",
+          "Plate warm pita, souvlaki skewers, a scoop of tzatziki, cherry tomatoes, and red onion. Finish with a squeeze of lemon."
+        ]}
+      ]
+    },
+    {
+      "id": "avgolemono",
+      "title": "Avgolemono Soup (Greek Lemon Chicken &amp; Rice Soup)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "A bowl of pale yellow avgolemono soup with shredded chicken, rice, and fresh dill",
+      "prep_label": "Prep — Tempering the Egg-Lemon Mixture",
+      "prep_alt": "Hot broth being whisked in a slow stream into whisked eggs and lemon juice",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast", "100g", "200g", "300g", "400g"],
+          ["Chicken stock", "300ml", "600ml", "900ml", "1200ml"],
+          ["Short/medium-grain rice", "20g", "40g", "60g", "80g"],
+          ["Eggs", "1", "2", "3", "4"],
+          ["Lemon juice", "15ml", "30ml", "45ml", "60ml"],
+          ["Salt &amp; pepper", "pinch", "¼ tsp", "½ tsp", "¾ tsp"],
+          ["Fresh dill, chopped (garnish)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Bring the chicken stock to a boil in a pot over medium-high heat.",
+          "Add the chicken breast whole and reduce to a gentle simmer. Cook 15 minutes until no longer pink in the center.",
+          "Lift the chicken out onto a plate to cool slightly, keeping the stock at a simmer.",
+          "Add the rice to the simmering stock and cook 12-15 minutes until fully tender.",
+          "Shred the cooled chicken into bite-sized pieces with two forks.",
+          "Whisk the eggs well in a heatproof bowl, then slowly whisk in the lemon juice.",
+          "Ladle about a cup of hot broth into the egg-lemon mixture in a thin stream while whisking constantly — this tempers the eggs so they don't scramble.",
+          "Lower the heat and slowly stir the warmed egg mixture back into the pot.",
+          "Add the shredded chicken back in and stir gently 1-2 minutes over low heat until pale yellow and lightly thickened. Keep it below a boil or the eggs will curdle.",
+          "Season with salt and pepper, ladle into bowls, and top with fresh dill."
+        ]}
+      ]
+    },
+    {
+      "id": "kotopoulo",
+      "title": "Kotopoulo Lemonato (Greek Lemon Chicken &amp; Potatoes)",
+      "time": "1 hr 20 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Golden roasted lemon chicken thighs and potato wedges in a baking dish",
+      "prep_label": "Prep — Chicken and Potatoes Tossed in Lemon Marinade",
+      "prep_alt": "Raw chicken thighs and potato wedges coated in olive oil, lemon, and oregano before roasting",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in", "200g", "400g", "600g", "800g"],
+          ["Potatoes, cut into wedges", "150g", "300g", "450g", "600g"],
+          ["Olive oil", "20ml", "40ml", "60ml", "80ml"],
+          ["Lemon juice", "30ml", "60ml", "90ml", "120ml"],
+          ["Lemon zest", "½ lemon", "1 lemon", "1½ lemons", "2 lemons"],
+          ["Garlic, cloves", "2", "4", "6", "8"],
+          ["Dried oregano", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Chicken stock or water", "60ml", "120ml", "180ml", "240ml"],
+          ["Salt &amp; pepper", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Preheat the oven to 425°F (220°C).",
+          "Whisk the olive oil, lemon juice, lemon zest, crushed garlic, oregano, salt, and pepper in a large baking dish.",
+          "Add the chicken thighs and potato wedges and toss until everything is well coated.",
+          "Arrange the chicken skin-side up with the potatoes spread in a single layer around it so both can brown.",
+          "Pour the stock or water around the edges of the dish, not over the chicken skin, to keep it crisp.",
+          "Roast uncovered 45-55 minutes.",
+          "Halfway through, baste the chicken and potatoes with the pan juices.",
+          "Check doneness by cutting into the thickest piece near the bone — the meat should be fully white with clear juices (165°F/74°C on a thermometer).",
+          "The potatoes are ready when a fork slides in easily and the edges look golden and crisp.",
+          "Rest 5 minutes before serving so the juices settle back into the meat."
+        ]}
+      ]
+    },
+    {
+      "id": "plaki",
+      "title": "Psari Plaki (Baked Lemon-Garlic Fish with Tomatoes)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Baked white fish fillets under a chunky tomato and vegetable sauce, garnished with parsley",
+      "prep_label": "Prep — Fish Fillets Topped with Tomato Sauce",
+      "prep_alt": "Fish fillets in a baking dish being covered with tomato-vegetable sauce before baking",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["White fish fillets (cod, halibut, or sea bass)", "150g", "300g", "450g", "600g"],
+          ["Tomatoes, diced (or canned)", "100g", "200g", "300g", "400g"],
+          ["Onion, thinly sliced", "¼", "½", "¾", "1"],
+          ["Zucchini or bell pepper, sliced", "50g", "100g", "150g", "200g"],
+          ["Garlic, cloves", "1", "2", "3", "4"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Lemon juice", "10ml", "20ml", "30ml", "40ml"],
+          ["Fresh parsley, chopped", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Salt &amp; pepper", "pinch", "¼ tsp", "½ tsp", "¾ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Preheat the oven to 400°F (200°C).",
+          "Heat the olive oil in a skillet over medium heat and cook the onion 4-5 minutes until soft and translucent.",
+          "Add the garlic and cook 30 seconds until fragrant.",
+          "Add the diced tomatoes and sliced zucchini or pepper. Simmer 5 minutes until the tomatoes break down into a chunky sauce.",
+          "Pat the fish dry, season lightly with salt and pepper, and lay it in a baking dish.",
+          "Pour the tomato-vegetable sauce over the fish and drizzle with lemon juice.",
+          "Cover tightly with foil to trap steam and keep the fish moist.",
+          "Bake covered 15 minutes, then uncover carefully and bake 5-8 minutes more.",
+          "Check doneness by pressing a fork into the thickest part — the fish should flake apart easily and look opaque, not glassy.",
+          "Sprinkle with parsley and serve straight from the baking dish with extra sauce spooned over."
+        ]}
+      ]
+    },
+    {
+      "id": "pastitsio",
+      "title": "Pastitsio (Baked Pasta with Meat Sauce &amp; Béchamel)",
+      "time": "1 hr 15 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A golden-topped square of baked pastitsio pasta bake, cut to show layers of pasta, meat sauce, and béchamel",
+      "prep_label": "Prep — Whisking the Béchamel",
+      "prep_alt": "Creamy béchamel sauce being whisked in a saucepan until thick and smooth",
+      "sections": [
+        {"type": "table", "heading": "Meat Sauce &amp; Pasta", "rows": [
+          ["Bucatini or penne pasta", "80g", "160g", "240g", "320g"],
+          ["Ground beef", "100g", "200g", "300g", "400g"],
+          ["Onion, chopped", "¼", "½", "¾", "1"],
+          ["Garlic, cloves", "1", "2", "3", "4"],
+          ["Crushed tomatoes (canned)", "100g", "200g", "300g", "400g"],
+          ["Tomato paste", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Ground cinnamon", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt &amp; pepper", "pinch", "¼ tsp", "½ tsp", "¾ tsp"]
+        ]},
+        {"type": "table", "heading": "Béchamel Topping", "rows": [
+          ["Unsalted butter", "15g", "30g", "45g", "60g"],
+          ["All-purpose flour", "15g", "30g", "45g", "60g"],
+          ["Whole milk", "125ml", "250ml", "375ml", "500ml"],
+          ["Egg", "1", "1", "2", "2"],
+          ["Ground nutmeg", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Grated kefalotyri or parmesan", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the pasta 2 minutes less than the package says — it finishes cooking in the oven. Drain and set aside.",
+          "Heat the olive oil and cook the onion 4-5 minutes until soft and translucent.",
+          "Add the garlic and ground beef, breaking it apart as it browns, 5-6 minutes until no pink remains.",
+          "Stir in the crushed tomatoes, tomato paste, cinnamon, salt, and pepper. Simmer uncovered 10-15 minutes until thickened.",
+          "Melt the butter in a separate saucepan over medium-low heat, whisk in the flour, and cook 1-2 minutes until it smells toasty — this is your roux.",
+          "Slowly whisk in the milk to avoid lumps, then keep whisking over medium-low heat 5-7 minutes until the sauce coats the back of a spoon.",
+          "Off the heat, let the béchamel cool 2 minutes, then whisk in the egg, nutmeg, and grated cheese until smooth.",
+          "Preheat the oven to 375°F (190°C). Layer half the pasta in a greased baking dish, the meat sauce, then the remaining pasta.",
+          "Spread the béchamel evenly over the top, all the way to the edges.",
+          "Bake 30-35 minutes until deep golden brown on top and bubbling at the edges.",
+          "Rest at least 15 minutes before cutting into squares so it holds together."
+        ]}
+      ]
+    },
+    {
+      "id": "moussaka",
+      "title": "Moussaka (Layered Eggplant &amp; Meat Bake)",
+      "time": "1 hr 30 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A slice of moussaka showing layers of roasted eggplant, potato, meat sauce, and golden béchamel",
+      "prep_label": "Prep — Roasting the Eggplant and Potato Slices",
+      "prep_alt": "Sliced eggplant and potato rounds brushed with olive oil, arranged on a baking tray",
+      "sections": [
+        {"type": "table", "heading": "Vegetables &amp; Meat Sauce", "rows": [
+          ["Eggplant, sliced into rounds", "150g", "300g", "450g", "600g"],
+          ["Potato, sliced into rounds", "100g", "200g", "300g", "400g"],
+          ["Ground beef or lamb", "100g", "200g", "300g", "400g"],
+          ["Onion, chopped", "¼", "½", "¾", "1"],
+          ["Garlic, cloves", "1", "2", "3", "4"],
+          ["Crushed tomatoes (canned)", "100g", "200g", "300g", "400g"],
+          ["Tomato paste", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Ground cinnamon", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Olive oil (for frying)", "15ml", "30ml", "45ml", "60ml"],
+          ["Salt &amp; pepper", "pinch", "¼ tsp", "½ tsp", "¾ tsp"]
+        ]},
+        {"type": "table", "heading": "Béchamel Topping", "rows": [
+          ["Unsalted butter", "15g", "30g", "45g", "60g"],
+          ["All-purpose flour", "15g", "30g", "45g", "60g"],
+          ["Whole milk", "125ml", "250ml", "375ml", "500ml"],
+          ["Egg", "1", "1", "2", "2"],
+          ["Ground nutmeg", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Grated kefalotyri or parmesan", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Slice the eggplant and potato into rounds about a pencil's thickness. Salt the eggplant slices and let sit 20 minutes to pull out bitterness, then pat dry.",
+          "Preheat the oven to 400°F (200°C). Brush both vegetables with olive oil and arrange in a single layer on baking trays.",
+          "Roast 20-25 minutes, flipping halfway, until soft and lightly golden at the edges.",
+          "Meanwhile, cook the onion in olive oil over medium heat 4-5 minutes until soft.",
+          "Add the garlic and ground meat, breaking it apart, and cook 5-6 minutes until no pink remains.",
+          "Stir in the crushed tomatoes, tomato paste, cinnamon, salt, and pepper. Simmer uncovered 10-15 minutes until thick.",
+          "Make the béchamel: melt butter, whisk in flour for a roux, whisk in milk until thickened, then cool slightly and whisk in the egg, nutmeg, and cheese.",
+          "Layer the roasted potatoes, then the eggplant, in a greased baking dish, and spread the meat sauce evenly on top.",
+          "Pour the béchamel over everything, spreading it to the edges into a smooth blanket.",
+          "Bake at 400°F (200°C) for 30-35 minutes until deep golden brown with bubbling edges.",
+          "Rest at least 20 minutes before cutting so the layers hold together."
+        ]}
+      ]
+    },
+    {
+      "id": "gemista",
+      "title": "Gemista (Rice-Stuffed Tomatoes &amp; Peppers)",
+      "time": "1 hr 30 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "Rice-stuffed tomatoes and bell peppers baked until soft and lightly wrinkled",
+      "prep_label": "Prep — Filling the Hollowed Vegetables with Herbed Rice",
+      "prep_alt": "Hollowed tomatoes and peppers being spooned full of raw rice and herb filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Large tomatoes", "2", "4", "6", "8"],
+          ["Bell peppers", "1", "2", "3", "4"],
+          ["Short/medium-grain rice, uncooked", "40g", "80g", "120g", "160g"],
+          ["Onion, finely chopped", "¼", "½", "¾", "1"],
+          ["Garlic, cloves", "1", "2", "3", "4"],
+          ["Fresh parsley, chopped", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Fresh mint or dill, chopped", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Olive oil", "30ml", "60ml", "90ml", "120ml"],
+          ["Pine nuts (optional)", "5g", "10g", "15g", "20g"],
+          ["Sugar", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Salt &amp; pepper", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Preheat the oven to 375°F (190°C).",
+          "Slice the tops off the tomatoes and peppers like lids and set aside. Scoop the flesh and seeds from the tomatoes into a bowl (save the pulp); discard the pepper seeds and ribs.",
+          "Chop the reserved tomato pulp into small pieces.",
+          "Heat the olive oil and cook the onion 4-5 minutes until soft, then the garlic 30 seconds until fragrant.",
+          "Stir in the tomato pulp, uncooked rice, parsley, mint or dill, pine nuts, sugar, salt, and pepper. Cook 2-3 minutes just to coat the rice — it stays hard here and finishes cooking inside the vegetables.",
+          "Stand the hollowed vegetables upright, snug together, in a baking dish. Spoon in the filling, only about three-quarters full so the rice has room to expand.",
+          "Replace the lids, drizzle any remaining olive oil over everything, and add a splash of water to the bottom of the dish.",
+          "Cover tightly with foil and bake 45 minutes covered.",
+          "Uncover and bake 30-45 minutes more, until the vegetables look soft and slightly wrinkled and the rice is fully tender.",
+          "Cool 10 minutes before serving — gemista is traditionally served warm or at room temperature."
+        ]}
+      ]
+    },
+    {
+      "id": "baklava",
+      "title": "Baklava (Bonus)",
+      "time": "1 hr (+ cooling)",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Golden diamond-cut squares of baklava glistening with honey syrup",
+      "prep_label": "Prep — Layering Buttered Phyllo with Walnuts",
+      "prep_alt": "Sheets of buttered phyllo dough being layered with a cinnamon-walnut filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Phyllo dough sheets", "4", "8", "12", "16"],
+          ["Walnuts, finely chopped", "40g", "80g", "120g", "160g"],
+          ["Ground cinnamon", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Unsalted butter, melted", "30g", "60g", "90g", "120g"],
+          ["Sugar", "25g", "50g", "75g", "100g"],
+          ["Water", "30ml", "60ml", "90ml", "120ml"],
+          ["Honey", "20ml", "40ml", "60ml", "80ml"],
+          ["Lemon juice", "5ml", "10ml", "15ml", "20ml"],
+          ["Whole cloves (optional)", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Thaw the phyllo dough per package directions. Keep the stack covered with a lightly damp towel while working, pulling one sheet at a time.",
+          "Preheat the oven to 350°F (175°C) and brush a baking dish all over with melted butter.",
+          "Mix the chopped walnuts with the cinnamon.",
+          "Layer half the phyllo sheets in the dish, brushing each one with melted butter before adding the next.",
+          "Sprinkle the walnut-cinnamon mixture evenly over the buttered stack.",
+          "Layer the remaining phyllo on top, buttering each sheet, finishing with a well-buttered top layer.",
+          "Cut all the way through the layers into diamond or square shapes before baking — it's much harder to cut cleanly afterward.",
+          "Bake 40-45 minutes until deep golden brown and crisp, not pale or soft.",
+          "While it bakes, simmer the sugar, water, honey, lemon juice, and cloves (if using) 5-8 minutes until slightly thickened. Remove the cloves and let the syrup cool.",
+          "Pour the cooled syrup evenly over the hot baklava as soon as it comes out of the oven — cool syrup over hot pastry keeps the layers crisp instead of soggy.",
+          "Let it sit uncovered at room temperature at least 4 hours, or overnight, before serving along the scored lines."
+        ]}
+      ]
+    }
+  ]
+}

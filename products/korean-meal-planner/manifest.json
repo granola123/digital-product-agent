@@ -1,0 +1,114 @@
+{
+  "bulgogi": {
+    "dish": {
+      "title": "File:Korean.cuisine-Bulgogi-01.jpg",
+      "artist": "ayustety",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Korean.cuisine-Bulgogi-01.jpg"
+    },
+    "prep": {
+      "title": "File:Korean barbeque-Bulgogi-14.jpg",
+      "artist": "Elliot",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Korean_barbeque-Bulgogi-14.jpg"
+    }
+  },
+  "kimchijjigae": {
+    "dish": {
+      "title": "File:Gimchi-jjigae 1.jpg",
+      "artist": "travel oriented",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Gimchi-jjigae_1.jpg"
+    },
+    "prep": {
+      "title": "File:Kimchi chige (Korean spicy hot pot) (3015567106).jpg",
+      "artist": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kimchi_chige_%28Korean_spicy_hot_pot%29_%283015567106%29.jpg"
+    }
+  },
+  "japchae": {
+    "dish": {
+      "title": "File:Homemade Japchae, Dhaka 02.jpg",
+      "artist": "Ibrahim Husain Meraj",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Homemade_Japchae%2C_Dhaka_02.jpg"
+    },
+    "prep": {
+      "title": "File:Sweet Potato Noodle Stir-Fried with Pork.jpg",
+      "artist": "Alpha",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sweet_Potato_Noodle_Stir-Fried_with_Pork.jpg"
+    }
+  },
+  "doenjangjjigae": {
+    "dish": {
+      "title": "File:Doenjang-jjigae.jpg",
+      "artist": "jyleen21",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Doenjang-jjigae.jpg"
+    },
+    "prep": {
+      "title": "File:Doenjang.jpg",
+      "artist": "국립국어원 (National Institute of Korean Language)",
+      "license": "CC BY-SA 2.0 KR",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Doenjang.jpg"
+    }
+  },
+  "dakgalbi": {
+    "dish": {
+      "title": "File:Dak-galbi 1.jpg",
+      "artist": "Lisa Risager",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dak-galbi_1.jpg"
+    },
+    "prep": {
+      "title": "File:Cooking Dak-galbi in Seoul Korea.jpg",
+      "artist": "Sgroey",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cooking_Dak-galbi_in_Seoul_Korea.jpg"
+    }
+  },
+  "yangnyeomchicken": {
+    "dish": {
+      "title": "File:Yangnyeom Chicken Korean fried chicken.jpg",
+      "artist": "Startandstar",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Yangnyeom_Chicken_Korean_fried_chicken.jpg"
+    },
+    "prep": {
+      "title": "File:Deep frying chicken upper wing.JPG",
+      "artist": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Deep_frying_chicken_upper_wing.JPG"
+    }
+  },
+  "bibimbap": {
+    "dish": {
+      "title": "File:Korean cuisine-Bibimbap-08.jpg",
+      "artist": "Agnes Ly",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Korean_cuisine-Bibimbap-08.jpg"
+    },
+    "prep": {
+      "title": "File:Sunny side up by yomi955.jpg",
+      "artist": "yomi955 (Kyoto)",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Sunny_side_up_by_yomi955.jpg"
+    }
+  },
+  "hotteok": {
+    "dish": {
+      "title": "File:Hotteok Korean Food.jpg",
+      "artist": "Audreybertwin",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hotteok_Korean_Food.jpg"
+    },
+    "prep": {
+      "title": "File:Hotteokfilling.jpg",
+      "artist": "keizie (Seoul, Korea)",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hotteokfilling.jpg"
+    }
+  }
+}

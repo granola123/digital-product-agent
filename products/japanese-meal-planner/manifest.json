@@ -1,0 +1,114 @@
+{
+  "katsu": {
+    "dish": {
+      "title": "File:Chicken Cutlet 001.jpg",
+      "artist": "Ocdp",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Chicken_Cutlet_001.jpg/1920px-Chicken_Cutlet_001.jpg"
+    },
+    "prep": {
+      "title": "File:Whole Wheat Panko Breaded Chicken Tenders.jpg",
+      "artist": "Kelly Sue",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Whole_Wheat_Panko_Breaded_Chicken_Tenders.jpg/1920px-Whole_Wheat_Panko_Breaded_Chicken_Tenders.jpg"
+    }
+  },
+  "teriyaki": {
+    "dish": {
+      "title": "File:Teriyaki salmon.jpg",
+      "artist": "JIP",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Teriyaki_salmon.jpg/1920px-Teriyaki_salmon.jpg"
+    },
+    "prep": {
+      "title": "File:Miso Soup 001.jpg",
+      "artist": "Ocdp",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Miso_Soup_001.jpg/1920px-Miso_Soup_001.jpg"
+    }
+  },
+  "gyoza": {
+    "dish": {
+      "title": "File:Japanese pan fried gyoza.jpg",
+      "artist": "Adryan R. Villanueva",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Japanese_pan_fried_gyoza.jpg/1920px-Japanese_pan_fried_gyoza.jpg"
+    },
+    "prep": {
+      "title": "File:Making Gyozas - Step 4 (440910521).jpg",
+      "artist": "Tare Panda",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Making_Gyozas_-_Step_4_%28440910521%29.jpg/1920px-Making_Gyozas_-_Step_4_%28440910521%29.jpg"
+    }
+  },
+  "oyakodon": {
+    "dish": {
+      "title": "File:Oyakodon 003.jpg",
+      "artist": "Ocdp",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oyakodon_003.jpg/1920px-Oyakodon_003.jpg"
+    },
+    "prep": {
+      "title": "File:Mixing eggs in a bowl with a whisk during meal preparation in a kitchen environment.jpg",
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mixing_eggs_in_a_bowl_with_a_whisk_during_meal_preparation_in_a_kitchen_environment.jpg/1920px-Mixing_eggs_in_a_bowl_with_a_whisk_during_meal_preparation_in_a_kitchen_environment.jpg"
+    }
+  },
+  "curry": {
+    "dish": {
+      "title": "File:Japanese style chicken curry with rice of Nakau.JPG",
+      "artist": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Japanese_style_chicken_curry_with_rice_of_Nakau.JPG/1920px-Japanese_style_chicken_curry_with_rice_of_Nakau.JPG"
+    },
+    "prep": {
+      "title": "File:Curry Roux blocks 01.jpg",
+      "artist": "Motokoka",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Curry_Roux_blocks_01.jpg/1920px-Curry_Roux_blocks_01.jpg"
+    }
+  },
+  "sukiyaki": {
+    "dish": {
+      "title": "File:Sukiyaki after cooking at Ebisu An, The Gate City Mall, Beijing (20201208193258).jpg",
+      "artist": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sukiyaki_after_cooking_at_Ebisu_An%2C_The_Gate_City_Mall%2C_Beijing_%2820201208193258%29.jpg/1920px-Sukiyaki_after_cooking_at_Ebisu_An%2C_The_Gate_City_Mall%2C_Beijing_%2820201208193258%29.jpg"
+    },
+    "prep": {
+      "title": "File:Sukiyaki before cooking at Ebisu An, The Gate City Mall, Beijing (20201208192338).jpg",
+      "artist": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sukiyaki_before_cooking_at_Ebisu_An%2C_The_Gate_City_Mall%2C_Beijing_%2820201208192338%29.jpg/1920px-Sukiyaki_before_cooking_at_Ebisu_An%2C_The_Gate_City_Mall%2C_Beijing_%2820201208192338%29.jpg"
+    }
+  },
+  "ramen": {
+    "dish": {
+      "title": "File:Shoyu Ramen.jpg",
+      "artist": "Guilhem Vellut",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoyu_Ramen.jpg/1920px-Shoyu_Ramen.jpg"
+    },
+    "prep": {
+      "title": "File:Ajitama egg @ Vegetarian ramen @ Yatta ! Ramen @ Annecy-le-Vieux (49021249312).jpg",
+      "artist": "Guilhem Vellut",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ajitama_egg_%40_Vegetarian_ramen_%40_Yatta_%21_Ramen_%40_Annecy-le-Vieux_%2849021249312%29.jpg/1920px-Ajitama_egg_%40_Vegetarian_ramen_%40_Yatta_%21_Ramen_%40_Annecy-le-Vieux_%2849021249312%29.jpg"
+    }
+  },
+  "dorayaki": {
+    "dish": {
+      "title": "File:Dorayaki 004.jpg",
+      "artist": "Ocdp",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dorayaki_004.jpg/1920px-Dorayaki_004.jpg"
+    },
+    "prep": {
+      "title": "File:Red bean paste anko.JPG",
+      "artist": "Midori",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Red_bean_paste_anko.JPG/1920px-Red_bean_paste_anko.JPG"
+    }
+  }
+}

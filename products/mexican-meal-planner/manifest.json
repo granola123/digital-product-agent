@@ -1,0 +1,114 @@
+{
+  "pastor": {
+    "dish": {
+      "title": "File:Tacos al pastor.jpg",
+      "artist": "T.Tseng",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tacos_al_pastor.jpg"
+    },
+    "prep": {
+      "title": "File:Trompo de carne al pastor.jpg",
+      "artist": "Koffermejia",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Trompo_de_carne_al_pastor.jpg"
+    }
+  },
+  "enchiladas": {
+    "dish": {
+      "title": "File:Enchiladas verdes con pollo.jpg",
+      "artist": "Wotancito",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Enchiladas_verdes_con_pollo.jpg"
+    },
+    "prep": {
+      "title": "File:Cooked, Shredded Chicken in Bowl.jpg",
+      "artist": "Alabama Extension",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cooked%2C_Shredded_Chicken_in_Bowl.jpg"
+    }
+  },
+  "pozole": {
+    "dish": {
+      "title": "File:Pozole Rojo Mexicano.jpg",
+      "artist": "Lmartinez21",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Pozole_Rojo_Mexicano.jpg"
+    },
+    "prep": {
+      "title": "File:Cubeta de maiz pozolero en mercado.jpg",
+      "artist": "ProtoplasmaKid",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Cubeta_de_maiz_pozolero_en_mercado.jpg"
+    }
+  },
+  "rellenos": {
+    "dish": {
+      "title": "File:Chiles rellenos y capeados.jpg",
+      "artist": "Koffermejia",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Chiles_rellenos_y_capeados.jpg"
+    },
+    "prep": {
+      "title": "File:Chile tatemado1.jpg",
+      "artist": "El Mono Español",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chile_tatemado1.jpg"
+    }
+  },
+  "tinga": {
+    "dish": {
+      "title": "File:Tostada de tinga de pollo.jpg",
+      "artist": "Valemvglez",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tostada_de_tinga_de_pollo.jpg"
+    },
+    "prep": {
+      "title": "File:Chipotlesenadobo.jpg",
+      "artist": "Badagnani",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Chipotlesenadobo.jpg"
+    }
+  },
+  "carneasada": {
+    "dish": {
+      "title": "File:Tacos de carne asada Sonorense.jpg",
+      "artist": "EmmanuelRuiz1988",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tacos_de_carne_asada_Sonorense.jpg"
+    },
+    "prep": {
+      "title": "File:Skirt steak grilled arrachera style.jpg",
+      "artist": "Wikiuser100",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Skirt_steak_grilled_arrachera_style.jpg"
+    }
+  },
+  "mole": {
+    "dish": {
+      "title": "File:Pollo en mole - Mayo 2019.jpg",
+      "artist": "MX",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pollo_en_mole_-_Mayo_2019.jpg"
+    },
+    "prep": {
+      "title": "File:Capsicum annuum ancho dried.jpg",
+      "artist": "User:Carstor",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Capsicum_annuum_ancho_dried.jpg"
+    }
+  },
+  "churros": {
+    "dish": {
+      "title": "File:Churros con chocolate Mexico (32539051653).jpg",
+      "artist": "mike from New York, NY, US",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Churros_con_chocolate_Mexico_%2832539051653%29.jpg"
+    },
+    "prep": {
+      "title": "File:Making Churros in Mercado Roma Mexico City (40596149101).jpg",
+      "artist": "Nan Palmero from San Antonio, TX, USA",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Making_Churros_in_Mercado_Roma_Mexico_City_%2840596149101%29.jpg"
+    }
+  }
+}

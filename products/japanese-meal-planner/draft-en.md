@@ -191,8 +191,10 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 |---|---|---|---|---|
 | Fresh ramen noodles | 150g | 300g | 450g | 600g |
 | Chicken or pork stock | 400ml | 800ml | 1200ml | 1600ml |
-| Soy sauce | 30ml | 60ml | 90ml | 120ml |
-| Mirin | 15ml | 30ml | 45ml | 60ml |
+| Marinade: soy sauce | 30ml | 60ml | 90ml | 120ml |
+| Marinade: mirin | 15ml | 30ml | 45ml | 60ml |
+| Broth: soy sauce | 30ml | 60ml | 90ml | 120ml |
+| Broth: mirin | 15ml | 30ml | 45ml | 60ml |
 | Garlic (cloves, minced) | 1 | 2 | 3 | 4 |
 | Egg | 1 | 2 | 3 | 4 |
 | Sliced pork belly or chicken thigh | 80g | 160g | 240g | 320g |
@@ -203,9 +205,9 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 **Steps:**
 1. Start the soft-boiled eggs first since they need time to cool: ask an adult to help lower the eggs gently into a pot of already-boiling water with a spoon (this prevents cracking). Set a timer for exactly 6½–7 minutes for a jammy, soft-set yolk.
 2. The moment the timer goes off, use the spoon to transfer the eggs straight into a bowl of ice water. This stops them from cooking further and makes them much easier to peel.
-3. Once cool, peel the eggs carefully and place them in a small container with 30ml soy sauce and 15ml mirin per egg. Let them marinate at least 15 minutes (longer, even a few hours, deepens the flavor and color).
+3. Once cool, peel the eggs carefully and place them in a small container with the marinade soy sauce and marinade mirin. Let them marinate at least 15 minutes (longer, even a few hours, deepens the flavor and color).
 4. Ask an adult to help heat a pan over medium heat and sear the sliced pork or chicken for 2–3 minutes per side, until browned outside and no longer pink in the middle when you cut a piece open. Set aside.
-5. In a pot, bring the chicken or pork stock to a gentle simmer. Stir in the soy sauce, mirin, and minced garlic. Taste carefully (it's hot!) — it should taste savory and rich, a little sweet, with a noticeable soy flavor. Adjust with a little more soy sauce if it tastes flat.
+5. In a pot, bring the chicken or pork stock to a gentle simmer. Stir in the broth soy sauce, broth mirin, and minced garlic. Taste carefully (it's hot!) — it should taste savory and rich, a little sweet, with a noticeable soy flavor. Adjust with a little more soy sauce if it tastes flat.
 6. Bring a separate large pot of water to a rolling boil (big, fast bubbles all over the surface). Add the ramen noodles and cook according to the package time, usually 2–4 minutes for fresh noodles, stirring once so they don't clump.
 7. The noodles are ready when they bend easily but still have a slight bite in the center when you taste one — not soft and mushy.
 8. Drain the noodles quickly and shake off excess water, then swirl them into the bottom of each serving bowl using tongs or chopsticks, twisting into a neat nest.

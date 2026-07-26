@@ -237,6 +237,7 @@
         {"type": "table", "heading": "Ingredients by Serving", "rows": [
           ["Chicken thighs", "130g", "260g", "390g", "520g"],
           ["Dried ancho chiles", "1", "2", "3", "4"],
+          ["Dried mulato chiles", "1", "2", "3", "4"],
           ["Dried pasilla chile", "½", "1", "1½", "2"],
           ["Roma tomato", "½", "1", "1½", "2"],
           ["Garlic cloves", "1", "2", "3", "4"],
@@ -248,7 +249,7 @@
           ["Chicken stock", "100ml", "200ml", "300ml", "400ml"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
-          "Toast the stemmed, seeded ancho and pasilla chiles in a dry pan 20-30 seconds per side.",
+          "Toast the stemmed, seeded ancho, mulato, and pasilla chiles in a dry pan 20-30 seconds per side.",
           "Soak the toasted chiles in boiling water 15 minutes until soft.",
           "Toast the almonds and sesame seeds separately until golden, setting a pinch of sesame aside for garnish.",
           "Cook the onion and garlic in a little oil until soft, then add tomato and cook until saucy.",

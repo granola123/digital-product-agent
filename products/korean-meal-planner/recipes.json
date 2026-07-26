@@ -21,6 +21,7 @@
           ["Sesame oil", "5ml", "10ml", "15ml", "20ml"],
           ["Onion, sliced", "30g", "60g", "90g", "120g"],
           ["Scallion, cut into 2-inch pieces", "1", "2", "3", "4"],
+          ["Black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
           ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
@@ -200,6 +201,7 @@
           ["Cornstarch or potato starch", "30g", "60g", "90g", "120g"],
           ["All-purpose flour", "15g", "30g", "45g", "60g"],
           ["Salt", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Black pepper", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
           ["Neutral oil, for frying", "as needed", "as needed", "as needed", "as needed"],
           ["Gochujang", "15g", "30g", "45g", "60g"],
           ["Ketchup", "15g", "30g", "45g", "60g"],
@@ -243,7 +245,8 @@
           ["Egg", "1", "2", "3", "4"],
           ["Gochujang", "15g", "30g", "45g", "60g"],
           ["Sesame oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
-          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"]
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Soy sauce", "5ml", "10ml", "15ml", "20ml"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Boil the bean sprouts 2-3 minutes until just tender, then scoop out, keeping the water boiling.",
@@ -276,6 +279,7 @@
           ["Sugar (for dough)", "5g", "10g", "15g", "20g"],
           ["Instant yeast", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
           ["Warm milk or water", "45ml", "90ml", "135ml", "180ml"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
           ["Brown sugar (filling)", "20g", "40g", "60g", "80g"],
           ["Cinnamon", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
           ["Chopped peanuts or walnuts", "10g", "20g", "30g", "40g"],

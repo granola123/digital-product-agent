@@ -25,7 +25,7 @@ One of 7 cuisine packs in the International Food Recipe Collection launch bundle
 
 **Dairy:** plain yogurt, butter, ghee, heavy cream, whole milk, full-fat milk powder
 
-**Spices & Pantry:** turmeric, Kashmiri red chili powder, regular red chili powder, cumin seeds, ground cumin, ground coriander, garam masala, biryani masala, chana masala spice blend, mustard seeds, fenugreek seeds, kasuri methi (dried fenugreek leaves), ground fennel, ginger-garlic paste, green cardamom pods, cinnamon stick, whole cloves, bay leaves, dried red chilies, tomato passata/puree, canned coconut milk, raw cashews, coconut oil, neutral cooking oil, tamarind paste, amchur (dry mango powder — or substitute lemon juice), all-purpose flour, baking soda, granulated sugar, saffron threads (optional), rose water, crispy fried onions (store-bought or homemade), salt
+**Spices & Pantry:** turmeric, Kashmiri red chili powder, regular red chili powder, cumin seeds, ground cumin, ground coriander, garam masala, biryani masala, chana masala spice blend, mustard seeds, fenugreek seeds, kasuri methi (dried fenugreek leaves), ground fennel, ginger-garlic paste, asafoetida (hing), green cardamom pods, cinnamon stick, whole cloves, bay leaves, dried red chilies, tomato passata/puree, canned coconut milk, raw cashews, coconut oil, neutral cooking oil, tamarind paste, amchur (dry mango powder — or substitute lemon juice), all-purpose flour, baking soda, granulated sugar, saffron threads (optional), rose water, crispy fried onions (store-bought or homemade), salt
 
 ## Recipe Cards
 
@@ -68,6 +68,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Turmeric | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Ghee | 1 tsp | 2 tsp | 1 tbsp | 4 tsp |
 | Cumin seeds | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Asafoetida (hing) | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 | Garlic, sliced | 1 clove | 2 cloves | 3 cloves | 4 cloves |
 | Dried red chili | 1 | 2 | 3 | 4 |
 | Onion, chopped | 20g | 40g | 60g | 80g |
@@ -79,7 +80,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 3. Cook 20-25 minutes, stirring occasionally and skimming off any white foam that rises to the top. The dal is ready when the lentils are completely soft and mushy — press one against the side of the pot with a spoon; it should squish easily with no firm center.
 4. Whisk the cooked dal until it turns creamy and slightly thick, like a hearty soup. If it looks too thick, stir in a splash more hot water.
 5. Now make the tadka (tempering), which gives dal its signature aroma: heat the ghee in a small pan over medium heat until fully melted and hot — a cumin seed dropped in should sizzle right away.
-6. Add the cumin seeds and dried red chili. Let them sizzle about 15 seconds until the cumin turns a shade darker and smells toasty — don't let it turn black or it will taste bitter.
+6. Add the cumin seeds, dried red chili, and a pinch of asafoetida (hing). Let them sizzle about 15 seconds until the cumin turns a shade darker and smells toasty — don't let it turn black or it will taste bitter.
 7. Add the garlic and cook 30 seconds until light golden. Add the onion and cook 3-4 minutes until soft and lightly browned at the edges.
 8. Add the chopped tomato and cook 2-3 minutes until it turns soft and pulpy.
 9. Carefully pour this sizzling tadka straight into the pot of cooked dal — stand back a little, since it will hiss and sputter when it hits the liquid. Stir it in, taste and add more salt if needed, and sprinkle with fresh cilantro before serving with rice or roti.
@@ -213,6 +214,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ground fennel | ½ tsp | 1 tsp | 1½ tsp | 2 tsp |
 | Onion, sliced | 40g | 80g | 120g | 160g |
 | Garlic, minced | 2 cloves | 4 cloves | 6 cloves | 8 cloves |
+| Ginger, minced | 5g | 10g | 15g | 20g |
 | Bay leaf | 1 | 2 | 3 | 4 |
 | Green cardamom pods | 2 | 4 | 6 | 8 |
 | Cinnamon stick (small) | 1 | 2 | 3 | 4 |
@@ -224,7 +226,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 1. In a bowl, mix the lamb chunks with the yogurt, Kashmiri chili powder, and ground fennel. Cover and marinate at least 30 minutes (or up to overnight in the fridge) — Kashmiri chili powder is mild and mostly for color, so this dish won't be blazing hot.
 2. Ask an adult to help heat the ghee in a heavy pot over medium heat. Add the bay leaf, cardamom pods, cinnamon stick, and cloves and let them sizzle about 20 seconds, until they smell strongly fragrant — this wakes up their flavor before anything else goes in.
 3. Add the sliced onion and cook, stirring occasionally, 6-8 minutes until it turns a deep golden-brown, not just soft — real color here means real flavor later. Lower the heat if it browns too fast.
-4. Add the garlic and cook 30 seconds until fragrant.
+4. Add the garlic and ginger and cook 30 seconds until fragrant.
 5. Add the marinated lamb along with all its marinade. Turn the heat up to medium-high and cook, stirring occasionally, 5-6 minutes until the outside of the lamb turns from pink to gray-brown all over.
 6. Pour in the water and stir, scraping up any browned bits stuck to the bottom of the pot — those bits are packed with flavor.
 7. Bring to a boil, then turn the heat down low so the pot is just gently bubbling. Cover with a lid, leaving a small gap for steam to escape.

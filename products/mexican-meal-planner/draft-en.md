@@ -25,7 +25,7 @@ One of 7 cuisine packs in the International Food Recipe Collection launch bundle
 
 **Dairy & Cheese:** Oaxaca or Monterey Jack cheese, queso fresco, Mexican crema (or sour cream), butter, milk
 
-**Sauces, Chiles & Pantry:** achiote (annatto) paste, dried guajillo chiles, dried ancho chiles, dried pasilla chile, chipotle peppers in adobo, crushed tomatoes, chicken stock, Mexican chocolate tablet (or dark chocolate + cinnamon), raisins, almonds, sesame seeds, ground cumin, dried oregano, cinnamon sugar, white vinegar, olive oil, vegetable oil
+**Sauces, Chiles & Pantry:** achiote (annatto) paste, dried guajillo chiles, dried ancho chiles, dried mulato chiles, dried pasilla chile, chipotle peppers in adobo, crushed tomatoes, chicken stock, Mexican chocolate tablet (or dark chocolate + cinnamon), raisins, almonds, sesame seeds, ground cumin, dried oregano, cinnamon sugar, white vinegar, olive oil, vegetable oil
 
 ## Recipe Cards
 
@@ -199,6 +199,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 |---|---|---|---|---|
 | Chicken thighs | 130g | 260g | 390g | 520g |
 | Dried ancho chiles | 1 | 2 | 3 | 4 |
+| Dried mulato chiles | 1 | 2 | 3 | 4 |
 | Dried pasilla chile | ½ | 1 | 1½ | 2 |
 | Roma tomato | ½ | 1 | 1½ | 2 |
 | Garlic cloves | 1 | 2 | 3 | 4 |
@@ -210,7 +211,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Chicken stock | 100ml | 200ml | 300ml | 400ml |
 
 **Steps:**
-1. Ask an adult to help you tear the stems off the ancho and pasilla chiles and shake out the seeds. Toast them in a dry pan over medium heat for about 20–30 seconds per side, until they smell rich and toasty and puff up slightly — pull them off the heat fast if they start to smoke, since burnt chile turns the whole sauce bitter.
+1. Ask an adult to help you tear the stems off the ancho, mulato, and pasilla chiles and shake out the seeds. Toast them in a dry pan over medium heat for about 20–30 seconds per side, until they smell rich and toasty and puff up slightly — pull them off the heat fast if they start to smoke, since burnt chile turns the whole sauce bitter.
 2. Put the toasted chiles in a bowl, cover with boiling water, and soak 15 minutes until completely soft.
 3. In the same dry pan, toast the almonds and sesame seeds separately for 1–2 minutes each, shaking the pan often, until they turn golden and smell nutty. Set a small pinch of sesame seeds aside for garnish later.
 4. Ask an adult to help warm a little oil in the pan and cook the onion and garlic for 3–4 minutes, until soft, then add the tomato and cook 3 more minutes until it breaks down and turns saucy.

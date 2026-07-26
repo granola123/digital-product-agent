@@ -195,6 +195,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings. Visual mockup
 | Chicken | 100g | 200g | 300g | 400g |
 | Khao soi curry paste | 25g | 50g | 75g | 100g |
 | Coconut milk | 150ml | 300ml | 450ml | 600ml |
+| Fish sauce | 10ml | 20ml | 30ml | 40ml |
 | Pickled mustard greens | 15g | 30g | 45g | 60g |
 | Shallot | 1 | 2 | 3 | 4 |
 | Lime wedges | 1 | 2 | 3 | 4 |
@@ -203,7 +204,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings. Visual mockup
 1. Spoon the thick cream off the top of the coconut milk into a pot, just like with the other curries.
 2. Ask an adult to help heat the pot over medium heat. Stir the curry paste into the coconut cream for about 2 minutes, until it smells strong and toasty.
 3. Add the chicken and stir to coat it in the paste, cooking 2 minutes until the outside isn't pink anymore.
-4. Pour in the rest of the coconut milk. Turn the heat down to a gentle simmer and cook 15–20 minutes, until the chicken is fully cooked all the way through (cut a piece to check — no pink inside).
+4. Pour in the rest of the coconut milk and the fish sauce. Turn the heat down to a gentle simmer and cook 15–20 minutes, until the chicken is fully cooked all the way through (cut a piece to check — no pink inside). Taste and add a little more fish sauce if the broth needs more savory depth.
 5. While the curry simmers, bring a separate pot of water to a boil. Cook most of the egg noodles following the package directions, until soft but still a little chewy, then drain.
 6. Set aside a small handful of uncooked noodles for the crispy topping. Ask an adult to help heat a little oil in a small pan and fry this handful for 1–2 minutes, turning them, until golden and crunchy. Scoop onto a paper towel to drain.
 7. Put a portion of the soft boiled noodles into each bowl and ladle the hot curry and chicken over the top.

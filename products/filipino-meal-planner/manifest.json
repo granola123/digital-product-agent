@@ -1,0 +1,114 @@
+{
+  "adobo": {
+    "dish": {
+      "title": "File:Chicken adobo (Philippines) 2.jpg",
+      "artist": "jeffreyw",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chicken_adobo_%28Philippines%29_2.jpg"
+    },
+    "prep": {
+      "title": "File:Chicken Pork Adobo - Pork braised in vinegar, soy sauce, with garlic, bay leaf, and crispy chicken skin. By Chef AC Boral. -SavorFilipino -FilipinoFood -FilipinoFoodMovement (14899203058).jpg",
+      "artist": "Arnold Gatilao from Oakland, CA, USA",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chicken_Pork_Adobo_-_Pork_braised_in_vinegar%2C_soy_sauce%2C_with_garlic%2C_bay_leaf%2C_and_crispy_chicken_skin._By_Chef_AC_Boral._-SavorFilipino_-FilipinoFood_-FilipinoFoodMovement_%2814899203058%29.jpg"
+    }
+  },
+  "sinigang": {
+    "dish": {
+      "title": "File:Sinigang na Baboy DSCF4234.jpg",
+      "artist": "Joy D. Ganaden",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sinigang_na_Baboy_DSCF4234.jpg"
+    },
+    "prep": {
+      "title": "File:Vegetables recipes needed for sinigang na baboy.jpg",
+      "artist": "Chammy17",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vegetables_recipes_needed_for_sinigang_na_baboy.jpg"
+    }
+  },
+  "pancit": {
+    "dish": {
+      "title": "File:Plate of Pancit Canton.jpg",
+      "artist": "Joost Nusselder",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Plate_of_Pancit_Canton.jpg"
+    },
+    "prep": {
+      "title": "File:Pancit canton 21.jpg",
+      "artist": "RamaGaspar",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Pancit_canton_21.jpg"
+    }
+  },
+  "tinola": {
+    "dish": {
+      "title": "File:Chicken tinola with kalamunggay (moringa leaves) and chayote (Philippines).jpg",
+      "artist": "Obsidian Soul",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Chicken_tinola_with_kalamunggay_%28moringa_leaves%29_and_chayote_%28Philippines%29.jpg"
+    },
+    "prep": {
+      "title": "File:RECADO SA TINOLA.jpg",
+      "artist": "Conrad027",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/RECADO_SA_TINOLA.jpg"
+    }
+  },
+  "bicolexpress": {
+    "dish": {
+      "title": "File:Bicol Express.jpg",
+      "artist": "Raymund Macaalay",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bicol_Express.jpg"
+    },
+    "prep": {
+      "title": "File:Ginisang alamang (sauteed shrimp paste) - Philippines.jpg",
+      "artist": "Obsidian Soul",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ginisang_alamang_%28sauteed_shrimp_paste%29_-_Philippines.jpg"
+    }
+  },
+  "caldereta": {
+    "dish": {
+      "title": "File:Beef Caldereta.jpg",
+      "artist": "Louiesemendez",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Beef_Caldereta.jpg"
+    },
+    "prep": {
+      "title": "File:RenoLiverSpread.jpg",
+      "artist": "Markoolio97",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/RenoLiverSpread.jpg"
+    }
+  },
+  "lumpia": {
+    "dish": {
+      "title": "File:Lumpiang Shanghai (Philippines).jpg",
+      "artist": "Arnold Gatilao",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lumpiang_Shanghai_%28Philippines%29.jpg"
+    },
+    "prep": {
+      "title": "File:Girl With Shanghai Rolls.jpg",
+      "artist": "D. Sharon Pruitt",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Girl_With_Shanghai_Rolls.jpg"
+    }
+  },
+  "lecheflan": {
+    "dish": {
+      "title": "File:Leche flan (Philippines) 01.jpg",
+      "artist": "Obsidian Soul",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Leche_flan_%28Philippines%29_01.jpg"
+    },
+    "prep": {
+      "title": "File:Leche flan (Philippines) 02.jpg",
+      "artist": "Obsidian Soul",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Leche_flan_%28Philippines%29_02.jpg"
+    }
+  }
+}

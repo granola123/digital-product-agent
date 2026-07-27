@@ -1,0 +1,306 @@
+{
+  "recipes": [
+    {
+      "id": "paella",
+      "title": "Paella Valenciana (Chicken & Shrimp)",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "A pan of golden saffron paella valenciana studded with chicken, shrimp, and peas",
+      "prep_label": "Prep — Simmering the Saffron Rice",
+      "prep_alt": "A wide paella pan simmering over an open flame as the saffron-infused rice cooks",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Bomba or short-grain paella rice", "65g", "130g", "195g", "260g"],
+          ["Chicken thighs, bone-in, cut into pieces", "100g", "200g", "300g", "400g"],
+          ["Large shrimp, peeled and deveined, tail-on", "60g", "120g", "180g", "240g"],
+          ["Chicken stock", "200ml", "400ml", "600ml", "800ml"],
+          ["Saffron threads", "8 threads", "16 threads", "24 threads", "32 threads"],
+          ["Olive oil", "8ml", "16ml", "24ml", "32ml"],
+          ["Onion, diced", "25g", "50g", "75g", "100g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Roma tomato, grated (or crushed tomatoes)", "25g", "50g", "75g", "100g"],
+          ["Red bell pepper, sliced", "20g", "40g", "60g", "80g"],
+          ["Sweet paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Frozen peas", "15g", "30g", "45g", "60g"],
+          ["Lemon wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Steep the saffron threads in 2 tablespoons of warm stock for 10 minutes to bloom their color and aroma.",
+          "Season the chicken with salt and brown it in olive oil in a wide paella pan 6-8 minutes, turning once, until deeply golden. Remove to a plate.",
+          "In the same pan, cook the onion, garlic, and red pepper 5 minutes until softened.",
+          "Stir in the grated tomato and paprika, cooking 3-4 minutes until jammy and slightly darker.",
+          "Add the rice and stir 1-2 minutes to coat every grain in the sofrito.",
+          "Return the chicken to the pan, pour in the stock and saffron mixture, stir once to distribute evenly, then do not stir again.",
+          "Simmer uncovered over medium heat 10 minutes, then reduce to low and cook 8-10 minutes more, until the rice is nearly tender.",
+          "Nestle the shrimp into the rice and scatter the peas on top. Cook 5 minutes more until the shrimp are pink and opaque.",
+          "Raise the heat for the last 1-2 minutes to form a crispy bottom layer (the socarrat), listening for a light crackle.",
+          "Rest 5 minutes, covered loosely with foil, then serve straight from the pan with lemon wedges."
+        ]}
+      ]
+    },
+    {
+      "id": "tortilla",
+      "title": "Tortilla Española (Spanish Potato Omelette)",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "A thick wedge of tortilla española with layers of tender potato and onion set in egg",
+      "prep_label": "Prep — Confit-Frying the Potatoes",
+      "prep_alt": "Thinly sliced potatoes frying gently in olive oil, the classic first step of tortilla española",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Yukon gold or waxy potatoes, peeled, thin-sliced", "150g", "300g", "450g", "600g"],
+          ["Onion, thinly sliced", "40g", "80g", "120g", "160g"],
+          ["Eggs", "2", "4", "6", "8"],
+          ["Olive oil (for confit-frying, most drained off)", "100ml", "200ml", "300ml", "400ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Peel and thinly slice the potatoes (about 3-4mm); thinly slice the onion.",
+          "Heat the olive oil in a nonstick skillet over medium-low heat. Add the potatoes and onion, and season with salt.",
+          "Confit gently, stirring occasionally, 20-25 minutes, until the potatoes are fully tender but not browned.",
+          "Drain the potatoes and onion in a colander over a bowl, reserving the oil. Let cool 5 minutes.",
+          "Beat the eggs in a large bowl with a pinch of salt.",
+          "Fold the drained potato-onion mixture into the beaten eggs and let sit 5 minutes.",
+          "Heat 1-2 tablespoons of the reserved oil in a small nonstick skillet (18-20cm) over medium heat.",
+          "Pour in the egg-potato mixture, spreading evenly, and cook 2-3 minutes until the edges set.",
+          "Slide onto a plate, invert the pan over it, and flip both together so the tortilla drops back in uncooked-side down. Cook 2-3 minutes more, until just set but still soft in the center.",
+          "Slide onto a plate, rest 5 minutes, and slice into wedges to serve warm or at room temperature."
+        ]}
+      ]
+    },
+    {
+      "id": "gambas",
+      "title": "Gambas al Ajillo (Garlic Shrimp)",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Sizzling gambas al ajillo, shrimp in golden garlic-chili olive oil, served in a small pan",
+      "prep_label": "Prep — Raw Shrimp and Sliced Garlic",
+      "prep_alt": "Raw peeled shrimp alongside thinly sliced garlic, ready for the hot oil",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Large shrimp, peeled and deveined", "100g", "200g", "300g", "400g"],
+          ["Olive oil", "30ml", "60ml", "90ml", "120ml"],
+          ["Garlic cloves, thinly sliced", "3", "6", "9", "12"],
+          ["Dried chili flakes (or ¼ dried guindilla)", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dry sherry or dry white wine", "15ml", "30ml", "45ml", "60ml"],
+          ["Lemon juice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Fresh parsley, chopped", "5g", "10g", "15g", "20g"],
+          ["Crusty bread, for serving", "1 slice", "2 slices", "3 slices", "4 slices"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the shrimp dry and season lightly with salt.",
+          "Combine the olive oil, sliced garlic, and chili flakes in a cold skillet.",
+          "Set over medium-low heat so the garlic warms gradually with the oil, 2-3 minutes, until fragrant and just turning golden — don't let it brown.",
+          "Raise the heat to medium-high and add the shrimp in a single layer.",
+          "Cook 1-2 minutes per side until the shrimp turn pink and opaque.",
+          "Pour in the sherry and let it bubble and reduce by about half, roughly 30 seconds.",
+          "Squeeze in the lemon juice and season with salt.",
+          "Remove from heat and sprinkle with chopped parsley.",
+          "Serve immediately, still sizzling in the pan, with crusty bread for dipping."
+        ]}
+      ]
+    },
+    {
+      "id": "pollo",
+      "title": "Pollo al Ajillo (Garlic Chicken)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Golden braised chicken pieces in a garlicky white wine sauce, pollo al ajillo",
+      "prep_label": "Prep — A Generous Handful of Peeled Garlic",
+      "prep_alt": "A pile of whole peeled garlic cloves, the defining ingredient of pollo al ajillo",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Bone-in chicken thighs, cut into pieces", "150g", "300g", "450g", "600g"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Garlic cloves, whole, peeled", "4", "8", "12", "16"],
+          ["Dry white wine", "30ml", "60ml", "90ml", "120ml"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Fresh thyme sprig", "¼", "½", "¾", "1"],
+          ["Fresh parsley, chopped", "3g", "6g", "9g", "12g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Season the chicken pieces with salt and pepper.",
+          "Heat the olive oil in a wide skillet over medium-high heat.",
+          "Brown the chicken skin-side down 5-6 minutes until deep golden, then flip and brown the other side 4-5 minutes. Remove to a plate.",
+          "Lower the heat to medium-low and add the whole garlic cloves to the same pan.",
+          "Cook the garlic gently 3-4 minutes, turning occasionally, until golden and softened but not burnt.",
+          "Pour in the white wine, scraping up any browned bits from the bottom of the pan.",
+          "Return the chicken to the pan with the bay leaf and thyme; bring to a simmer.",
+          "Cover partway and simmer 15-18 minutes, until the chicken is cooked through with no pink near the bone.",
+          "Uncover and simmer 2-3 minutes more to reduce the sauce slightly.",
+          "Sprinkle with parsley and serve with crusty bread or roasted potatoes."
+        ]}
+      ]
+    },
+    {
+      "id": "albondigas",
+      "title": "Albóndigas en Salsa (Spanish Meatballs in Tomato Sauce)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A cazuela of Spanish meatballs simmered in a rich tomato, onion, and garlic sofrito sauce",
+      "prep_label": "Prep — Rolling the Meatballs",
+      "prep_alt": "Ground meat and seasonings ready to be rolled into meatballs for albóndigas",
+      "sections": [
+        {"type": "table", "heading": "Meatball Ingredients by Serving", "rows": [
+          ["Ground beef", "60g", "120g", "180g", "240g"],
+          ["Ground pork", "60g", "120g", "180g", "240g"],
+          ["Egg", "¼", "½", "¾", "1"],
+          ["Dried breadcrumbs, soaked in milk", "10g", "20g", "30g", "40g"],
+          ["Milk (for soaking breadcrumbs)", "15ml", "30ml", "45ml", "60ml"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Onion, finely grated", "15g", "30g", "45g", "60g"],
+          ["Fresh parsley, chopped", "3g", "6g", "9g", "12g"],
+          ["Ground cumin", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Sweet paprika", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Olive oil (for frying meatballs)", "15ml", "30ml", "45ml", "60ml"]
+        ]},
+        {"type": "table", "heading": "Sauce Ingredients by Serving", "rows": [
+          ["Onion, finely diced", "20g", "40g", "60g", "80g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Roasted red pepper, chopped", "15g", "30g", "45g", "60g"],
+          ["Crushed tomatoes", "100g", "200g", "300g", "400g"],
+          ["Dry white wine", "15ml", "30ml", "45ml", "60ml"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Stock (chicken or beef)", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the breadcrumbs in the milk for 5 minutes until softened.",
+          "Combine the ground beef, pork, soaked breadcrumbs, egg, garlic, grated onion, parsley, cumin, paprika, salt, and pepper. Mix gently until just combined.",
+          "Roll into golf-ball-sized meatballs and chill 15-30 minutes to firm up.",
+          "Heat the olive oil in a large skillet and brown the meatballs in batches, 2-3 minutes per side, until golden all over. Remove to a plate.",
+          "In the same pan, cook the diced onion 4-5 minutes until soft.",
+          "Add the garlic and roasted red pepper, cooking 1-2 minutes until fragrant.",
+          "Pour in the white wine and let it reduce by half, scraping up any browned bits.",
+          "Stir in the crushed tomatoes, stock, and bay leaf; bring to a simmer.",
+          "Return the meatballs to the sauce, cover partway, and simmer 20-25 minutes, until cooked through and the sauce has thickened.",
+          "Taste, adjust the salt, discard the bay leaf, and serve with crusty bread or over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "fabada",
+      "title": "Fabada Asturiana (Bean & Chorizo Stew)",
+      "time": "2 hrs (+ overnight soak)",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A rustic bowl of fabada asturiana, creamy white beans with chorizo, morcilla, and tocino",
+      "prep_label": "Prep — The Compango (Chorizo, Morcilla & Tocino)",
+      "prep_alt": "A package of chorizo, morcilla, and tocino, the traditional compango that flavors fabada",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Dried large white beans (fabes), soaked overnight", "60g", "120g", "180g", "240g"],
+          ["Spanish chorizo (cured, for cooking)", "40g", "80g", "120g", "160g"],
+          ["Morcilla (Spanish blood sausage)", "30g", "60g", "90g", "120g"],
+          ["Pork belly or salt pork (tocino)", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Onion", "30g", "60g", "90g", "120g"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Smoked paprika (pimentón)", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Saffron threads", "pinch", "pinch", "small pinch", "pinch"],
+          ["Stock or water", "300ml", "600ml", "900ml", "1200ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the dried beans in plenty of cold water overnight, at least 8 hours; drain before cooking.",
+          "Put the soaked beans in a large pot with the chorizo, tocino, whole garlic cloves, onion, and bay leaf.",
+          "Cover generously with cold stock and bring slowly to a bare simmer — never let it boil hard, or the bean skins split.",
+          "Skim off any foam that rises to the top.",
+          "Stir in the saffron and smoked paprika, partially cover, and simmer very gently 1.5-2 hours, until the beans are completely tender and creamy, adding a splash of cold water if it threatens to boil too hard.",
+          "About 20 minutes before the beans are done, add the morcilla so it doesn't fall apart from overcooking.",
+          "Once tender, lift out the chorizo, morcilla, and tocino, slice, and return to the pot.",
+          "Season the broth with salt to taste — it should be thick enough to lightly coat a spoon.",
+          "Let the stew rest off the heat 10 minutes before serving.",
+          "Ladle into bowls with beans, broth, and a bit of each meat, plus crusty bread on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "bravas",
+      "title": "Patatas Bravas with Alioli (Dinner Combo, with Crusty Bread)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "Crisp fried potato cubes topped with smoky red brava sauce and a swirl of garlic alioli",
+      "prep_label": "Prep — Pounding the Garlic Alioli",
+      "prep_alt": "Garlic being crushed in a traditional mortar and pestle to start the alioli",
+      "sections": [
+        {"type": "table", "heading": "Potato & Brava Sauce Ingredients by Serving", "rows": [
+          ["Yukon gold or russet potatoes, 2cm cubes", "150g", "300g", "450g", "600g"],
+          ["Olive oil (for frying/roasting potatoes)", "30ml", "60ml", "90ml", "120ml"],
+          ["Onion, finely diced (for brava sauce)", "20g", "40g", "60g", "80g"],
+          ["Garlic cloves (for brava sauce)", "1", "2", "3", "4"],
+          ["Crushed tomatoes", "60g", "120g", "180g", "240g"],
+          ["Smoked paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Cayenne pepper", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Sherry vinegar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Olive oil (for brava sauce)", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "table", "heading": "Alioli Ingredients by Serving", "rows": [
+          ["Garlic clove", "½", "1", "1½", "2"],
+          ["Egg yolk", "¼", "½", "¾", "1"],
+          ["Olive oil", "30ml", "60ml", "90ml", "120ml"],
+          ["Lemon juice", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Crusty bread, for serving", "1 slice", "2 slices", "3 slices", "4 slices"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the cubed potatoes in cold water 20-30 minutes, then drain and pat completely dry.",
+          "Fry or roast the potatoes (220°C/425°F), turning occasionally, 20-25 minutes, until deeply golden and crisp outside, tender inside.",
+          "Meanwhile, warm olive oil in a saucepan, add the onion, and cook 4-5 minutes until soft.",
+          "Add the garlic, cook 1 minute, then stir in the smoked paprika and cayenne, cooking 30 seconds to bloom the spices.",
+          "Add the crushed tomatoes and simmer 10-12 minutes until thickened; stir in the sherry vinegar and season with salt.",
+          "For the alioli, whisk the minced garlic with the egg yolk and a pinch of salt.",
+          "Whisking constantly, add the oil in a thin, slow stream, then a bit faster once thickened, until glossy and mayonnaise-like.",
+          "Whisk in the lemon juice and season with salt to taste.",
+          "Drain the crisped potatoes and pile onto a plate.",
+          "Spoon the warm brava sauce over the potatoes, drizzle with alioli, and serve with crusty bread as a full dinner plate."
+        ]}
+      ]
+    },
+    {
+      "id": "crema",
+      "title": "Crema Catalana (Bonus)",
+      "time": "25 min (+2 hrs chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Crema catalana with a crackly, deep amber caramelized sugar crust in a shallow terracotta dish",
+      "prep_label": "Prep — Torching the Sugar Crust",
+      "prep_alt": "A kitchen torch caramelizing a layer of sugar into a crisp, amber crust over chilled custard",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Whole milk", "125ml", "250ml", "375ml", "500ml"],
+          ["Egg yolks", "1", "2", "3", "4"],
+          ["Granulated sugar (for custard)", "15g", "30g", "45g", "60g"],
+          ["Cornstarch", "4g", "8g", "12g", "16g"],
+          ["Lemon peel (strip, no pith)", "¼", "½", "¾", "1"],
+          ["Orange peel (strip, no pith)", "¼", "½", "¾", "1"],
+          ["Cinnamon stick", "¼", "½", "¾", "1"],
+          ["Granulated sugar (for caramelized top)", "8g", "15g", "23g", "30g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pour the milk into a saucepan with the lemon peel, orange peel, and cinnamon stick.",
+          "Warm gently until steaming but not boiling, then remove from heat and steep 10-15 minutes. Strain out the peels and cinnamon.",
+          "Whisk the egg yolks with the sugar until pale, then whisk in the cornstarch until smooth.",
+          "Slowly pour a little of the warm milk into the yolk mixture, whisking constantly to temper the eggs.",
+          "Pour the tempered mixture back into the saucepan with the rest of the milk.",
+          "Cook over low heat, whisking constantly, 5-8 minutes, until thick enough to coat the back of a spoon.",
+          "Pour into shallow ramekins or terracotta dishes and cool to room temperature.",
+          "Cover and refrigerate at least 2 hours, until fully chilled and set.",
+          "Just before serving, sprinkle an even layer of sugar over each custard.",
+          "Caramelize with a kitchen torch (or hot broiler for 1-2 minutes) until deep amber and crackly, then serve immediately."
+        ]}
+      ]
+    }
+  ]
+}

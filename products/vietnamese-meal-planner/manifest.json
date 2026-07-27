@@ -1,0 +1,114 @@
+{
+  "pho": {
+    "dish": {
+      "title": "File:Pho ga (noodle soup with chicken), Hanoi (6945821707).jpg",
+      "artist": "David McKelvey",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pho_ga_%28noodle_soup_with_chicken%29%2C_Hanoi_%286945821707%29.jpg"
+    },
+    "prep": {
+      "title": "File:Illicium verum20170511 7549.jpg",
+      "artist": "Bff",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Illicium_verum20170511_7549.jpg"
+    }
+  },
+  "buncha": {
+    "dish": {
+      "title": "File:Bun cha Hanoi.jpg",
+      "artist": "Weetjesman",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bun_cha_Hanoi.jpg"
+    },
+    "prep": {
+      "title": "File:Julienned, sliced carrot and daikon do chua.jpg",
+      "artist": "HungryHuy",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Julienned%2C_sliced_carrot_and_daikon_do_chua.jpg"
+    }
+  },
+  "banhmi": {
+    "dish": {
+      "title": "File:Vietnamese Grilled Pork Bánh Mì, Bánh Mì Bánh Mì Westfield Carousel, 2026 (01).jpg",
+      "artist": "Bahnfrend",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Vietnamese_Grilled_Pork_B%C3%A1nh_M%C3%AC%2C_B%C3%A1nh_M%C3%AC_B%C3%A1nh_M%C3%AC_Westfield_Carousel%2C_2026_%2801%29.jpg"
+    },
+    "prep": {
+      "title": "File:Sliced pork belly for banh mi, Vietnamese sandwiches.jpg",
+      "artist": "HungryHuy",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sliced_pork_belly_for_banh_mi%2C_Vietnamese_sandwiches.jpg"
+    }
+  },
+  "luclac": {
+    "dish": {
+      "title": "File:Bo Luc Lac- the shaking beef.jpg",
+      "artist": "Nick Nguyen",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bo_Luc_Lac-_the_shaking_beef.jpg"
+    },
+    "prep": {
+      "title": "File:Cafe UK ng2th10n2022 (Bò xào hành tây) (7).jpg",
+      "artist": "Phương Huy",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cafe_UK_ng2th10n2022_%28B%C3%B2_x%C3%A0o_h%C3%A0nh_t%C3%A2y%29_%287%29.jpg"
+    }
+  },
+  "goicuon": {
+    "dish": {
+      "title": "File:Gỏi cuốn.jpg",
+      "artist": "Tran Hai Duong",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/G%E1%BB%8Fi_cu%E1%BB%91n.jpg"
+    },
+    "prep": {
+      "title": "File:Chả giò.jpg",
+      "artist": "M Ameen",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ch%E1%BA%A3_gi%C3%B2.jpg"
+    }
+  },
+  "gakhogung": {
+    "dish": {
+      "title": "File:Nồi gà ta kho vàng ươm, ng6th7n2022 (2).jpg",
+      "artist": "Phương Huy",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/N%E1%BB%93i_g%C3%A0_ta_kho_v%C3%A0ng_%C6%B0%C6%A1m%2C_ng6th7n2022_%282%29.jpg"
+    },
+    "prep": {
+      "title": "File:Nồi gà ta kho vàng ươm, ng6th7n2022 (3).jpg",
+      "artist": "Phương Huy",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/N%E1%BB%93i_g%C3%A0_ta_kho_v%C3%A0ng_%C6%B0%C6%A1m%2C_ng6th7n2022_%283%29.jpg"
+    }
+  },
+  "canhchua": {
+    "dish": {
+      "title": "File:Canh chua cá lóc ở Thủy Trúc Quán, đường Nguyễn Nhữ Lãm (1).jpg",
+      "artist": "Phương Huy",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Canh_chua_c%C3%A1_l%C3%B3c_%E1%BB%9F_Th%E1%BB%A7y_Tr%C3%BAc_Qu%C3%A1n%2C_%C4%91%C6%B0%E1%BB%9Dng_Nguy%E1%BB%85n_Nh%E1%BB%AF_L%C3%A3m_%281%29.jpg"
+    },
+    "prep": {
+      "title": "File:Ngổ (Limnophila aromatica).JPG",
+      "artist": "Nguyễn Thanh Quang",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ng%E1%BB%95_%28Limnophila_aromatica%29.JPG"
+    }
+  },
+  "banhflan": {
+    "dish": {
+      "title": "File:Crème caramel 2.jpg",
+      "artist": "Amanda Coutinho",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cr%C3%A8me_caramel_2.jpg"
+    },
+    "prep": {
+      "title": "File:Crème caramel ingredients.png",
+      "artist": "GeoO",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cr%C3%A8me_caramel_ingredients.png"
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "recipes": [
+    {
+      "id": "mercimek",
+      "title": "Mercimek Çorbası (Red Lentil Soup)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "A white bowl of golden Mercimek Çorbası (Turkish red lentil soup) with a lemon wedge on the side",
+      "prep_label": "Prep — The Pul Biber &amp; Mint Tarka",
+      "prep_alt": "A bowl of Turkish lentil soup with a swirl of sizzled butter, pul biber, and dried mint drizzled on top",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Red lentils", "60g", "120g", "180g", "240g"],
+          ["Onion, chopped", "20g", "40g", "60g", "80g"],
+          ["Carrot, chopped", "20g", "40g", "60g", "80g"],
+          ["Potato, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove", "½", "1", "1½", "2"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Chicken or vegetable stock", "250ml", "500ml", "750ml", "1000ml"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Butter (for the tarka)", "5g", "10g", "15g", "20g"],
+          ["Dried mint", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Pul biber (Aleppo pepper flakes)", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Lemon wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Warm the olive oil in a pot over medium heat. Add the onion and carrot and cook 4-5 minutes until softened.",
+          "Add the garlic and cook 30 seconds until fragrant.",
+          "Stir in the tomato paste, cumin, and paprika, cooking 1 minute until deep red and fragrant.",
+          "Add the red lentils, potato, and stock. Bring to a boil, then reduce heat and simmer 20-25 minutes until completely soft.",
+          "Blend the soup until smooth and velvety, using an immersion blender or a standard blender in batches.",
+          "Return to low heat, thin with a splash of water or stock if needed, and season with salt.",
+          "Make the tarka: melt the butter in a small pan, add the dried mint and pul biber, and sizzle 20-30 seconds until fragrant.",
+          "Ladle into bowls, drizzle the mint-pul biber butter on top, and serve with lemon wedges."
+        ]}
+      ]
+    },
+    {
+      "id": "kofte",
+      "title": "Turkish Köfte with Rice Pilaf",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Grilled Turkish köfte meatballs served with rice pilaf, grilled green peppers, tomato, and onion",
+      "prep_label": "Prep — Shaping the Köfte",
+      "prep_alt": "Raw seasoned köfte meat shaped onto skewers, ready for the grill",
+      "sections": [
+        {"type": "table", "heading": "Köfte — Ingredients by Serving", "rows": [
+          ["Ground beef (or beef &amp; lamb mix)", "120g", "240g", "360g", "480g"],
+          ["Onion, grated", "20g", "40g", "60g", "80g"],
+          ["Garlic clove, grated", "½", "1", "1½", "2"],
+          ["Dried breadcrumbs", "10g", "20g", "30g", "40g"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Parsley, chopped", "5g", "10g", "15g", "20g"],
+          ["Olive oil (for searing)", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "table", "heading": "Rice Pilaf — Ingredients by Serving", "rows": [
+          ["Baldo or long-grain rice", "60g", "120g", "180g", "240g"],
+          ["Orzo (şehriye)", "10g", "20g", "30g", "40g"],
+          ["Butter", "10g", "20g", "30g", "40g"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Chicken stock", "120ml", "240ml", "360ml", "480ml"],
+          ["Salt", "pinch", "¼ tsp", "½ tsp", "¾ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "In a bowl, combine the ground beef, grated onion, garlic, breadcrumbs, cumin, paprika, oregano, parsley, salt, and pepper. Mix and knead briefly until well combined.",
+          "Shape into oval or flattened round patties about the size of your palm. Rest 10 minutes in the fridge if time allows.",
+          "Heat the olive oil in a skillet over medium-high heat until shimmering.",
+          "Sear the köfte 3-4 minutes per side until deeply browned and cooked through with no pink in the center.",
+          "Meanwhile, make the pilaf: melt the butter with the olive oil in a saucepan over medium heat. Add the orzo and toast 1-2 minutes until golden brown.",
+          "Add the rice and stir to coat every grain in the fat, toasting 1-2 minutes more.",
+          "Pour in the hot chicken stock and salt, bring to a boil, then cover, reduce heat to low, and simmer 15 minutes without lifting the lid.",
+          "Remove from heat, keep covered, and let rest 5-10 minutes, then fluff with a fork.",
+          "Serve the köfte hot alongside the rice pilaf."
+        ]}
+      ]
+    },
+    {
+      "id": "karniyarik",
+      "title": "Karnıyarık (Stuffed Eggplant with Ground Beef)",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Karnıyarık — a split, stuffed eggplant filled with spiced ground beef, tomato, and pepper, in tomato sauce",
+      "prep_label": "Prep — The Split &amp; Stuffed Eggplant",
+      "prep_alt": "A close-up of the split eggplant stuffed with ground beef filling and topped with tomato and green pepper",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Eggplants, medium", "1", "2", "3", "4"],
+          ["Ground beef", "100g", "200g", "300g", "400g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves, minced", "1", "2", "3", "4"],
+          ["Green pepper, chopped", "½", "1", "1½", "2"],
+          ["Tomatoes, diced", "1", "2", "3", "4"],
+          ["Tomato paste", "10g", "20g", "30g", "40g"],
+          ["Red pepper paste (biber salçası)", "5g", "10g", "15g", "20g"],
+          ["Parsley, chopped", "5g", "10g", "15g", "20g"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Olive oil (for frying)", "40ml", "80ml", "120ml", "160ml"],
+          ["Water or stock", "30ml", "60ml", "90ml", "120ml"],
+          ["Tomato slices (for topping)", "2", "4", "6", "8"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Peel the eggplants in alternating strips, then slit each lengthwise down the middle without cutting all the way through.",
+          "Salt the eggplants and let sit 15 minutes to draw out bitterness, then rinse and pat dry.",
+          "Shallow-fry the eggplants in olive oil over medium heat, turning, until softened and lightly golden all over, 8-10 minutes. Arrange in a baking dish, gently pressing open the slit.",
+          "Preheat the oven to 200°C (400°F).",
+          "In the same pan, cook the onion 3-4 minutes until soft, then add the garlic and green pepper, cooking 2 minutes more.",
+          "Add the ground beef and cook, breaking it up, until browned with no pink remaining.",
+          "Stir in the tomato paste and red pepper paste, cooking 1 minute until deep red and fragrant.",
+          "Add the diced tomatoes, cumin, parsley, salt, and pepper, and simmer 5 minutes until slightly thickened.",
+          "Spoon the meat filling generously into the slit of each eggplant, mounding it on top.",
+          "Top each stuffed eggplant with a tomato slice and a strip of green pepper. Pour the water or stock into the bottom of the baking dish.",
+          "Bake 20-25 minutes until the eggplant is fully tender and the filling is bubbling.",
+          "Serve hot, with rice pilaf and yogurt on the side if you like."
+        ]}
+      ]
+    },
+    {
+      "id": "tavuksis",
+      "title": "Tavuk Şiş (Chicken Shish Kebab)",
+      "time": "25 min (+1 hr marinate)",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Grilled Tavuk Şiş chicken kebab pieces served with flatbread, tomato, salad, and a spiced tomato relish",
+      "prep_label": "Prep — Grilled Chicken Şiş, Plated",
+      "prep_alt": "Grilled chicken shish kebab pieces served with rice pilaf, yogurt, and tomato",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, boneless &amp; skinless, cubed", "130g", "260g", "390g", "520g"],
+          ["Plain yogurt", "30g", "60g", "90g", "120g"],
+          ["Olive oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Garlic clove, grated", "½", "1", "1½", "2"],
+          ["Paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Pul biber (Aleppo pepper flakes)", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Bell pepper (for skewers)", "¼", "½", "¾", "1"],
+          ["Cherry tomatoes (for skewers)", "2", "4", "6", "8"],
+          ["Red onion, thinly sliced", "20g", "40g", "60g", "80g"],
+          ["Sumac", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Lemon wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "In a bowl, whisk together the yogurt, olive oil, tomato paste, garlic, paprika, cumin, pul biber, oregano, salt, and pepper.",
+          "Add the cubed chicken and toss until every piece is coated. Cover and marinate in the fridge at least 1 hour.",
+          "Thread the marinated chicken onto skewers, alternating with pieces of bell pepper and cherry tomatoes.",
+          "Heat a grill, grill pan, or broiler to high heat.",
+          "Grill the skewers 10-12 minutes total, turning every few minutes, until deeply charred in spots and cooked through with no pink at the center.",
+          "While the chicken grills, toss the sliced red onion with sumac and a pinch of salt for a quick onion salad.",
+          "Serve the skewers hot with the sumac onion salad and lemon wedges for squeezing over."
+        ]}
+      ]
+    },
+    {
+      "id": "guvec",
+      "title": "Turkish Chicken Güveç (Chicken &amp; Vegetable Stew)",
+      "time": "55 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A bowl of Turkish güveç-style meat and vegetable stew — tender meat, potatoes, and carrots in a rich tomato sauce",
+      "prep_label": "Prep — Meat &amp; Vegetables in the Güveç Pot",
+      "prep_alt": "Chunks of meat, potatoes, and vegetables simmering together in a traditional güveç dish",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, boneless &amp; skinless, chunked", "130g", "260g", "390g", "520g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Red bell pepper, chopped", "¼", "½", "¾", "1"],
+          ["Green bell pepper, chopped", "¼", "½", "¾", "1"],
+          ["Potato, chopped", "60g", "120g", "180g", "240g"],
+          ["Tomatoes, chopped", "½", "1", "1½", "2"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Red pepper paste (biber salçası)", "5g", "10g", "15g", "20g"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dried mint", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Olive oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Water or stock", "60ml", "120ml", "180ml", "240ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Warm the olive oil in a wide pot or Dutch oven over medium heat. Add the chicken and sear 3-4 minutes until lightly golden.",
+          "Add the onion and garlic, cooking 3-4 minutes until softened.",
+          "Stir in the tomato paste and red pepper paste, cooking 1 minute until fragrant.",
+          "Add the bell peppers, potato, tomatoes, bay leaf, oregano, dried mint, salt, and pepper.",
+          "Pour in the water or stock, stir well, and bring to a gentle simmer.",
+          "Cover and simmer on low heat 35-40 minutes, stirring occasionally, until the chicken is fully cooked and potatoes are tender.",
+          "Uncover and simmer 5-10 more minutes to thicken the sauce slightly.",
+          "Discard the bay leaf, taste and adjust seasoning, then serve hot with crusty bread."
+        ]}
+      ]
+    },
+    {
+      "id": "lahmacun",
+      "title": "Lahmacun (Turkish Flatbread with Spiced Meat)",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A single Lahmacun Turkish flatbread topped with spiced minced meat, served with fresh salad",
+      "prep_label": "Prep — Rolling &amp; Baking a Batch",
+      "prep_alt": "Multiple rounds of thin lahmacun dough topped with spiced meat, ready to bake",
+      "sections": [
+        {"type": "table", "heading": "Dough — Ingredients by Serving", "rows": [
+          ["Bread or all-purpose flour", "70g", "140g", "210g", "280g"],
+          ["Instant yeast", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Warm water", "40ml", "80ml", "120ml", "160ml"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt", "pinch", "¼ tsp", "⅜ tsp", "½ tsp"]
+        ]},
+        {"type": "table", "heading": "Topping — Ingredients by Serving", "rows": [
+          ["Ground lamb or beef", "80g", "160g", "240g", "320g"],
+          ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+          ["Tomato, finely chopped", "½", "1", "1½", "2"],
+          ["Garlic clove", "½", "1", "1½", "2"],
+          ["Parsley, finely chopped", "10g", "20g", "30g", "40g"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Red pepper paste (biber salçası)", "5g", "10g", "15g", "20g"],
+          ["Paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Pul biber", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the dough: dissolve the yeast in the warm water and let sit 5 minutes until foamy.",
+          "Combine the flour and salt in a bowl, add the yeast water and olive oil, and knead 5-6 minutes until smooth and elastic.",
+          "Cover and let rise in a warm spot 20-25 minutes until slightly puffy.",
+          "Meanwhile, finely chop the onion, tomato, garlic, and parsley together until they form a wet, finely minced paste.",
+          "Combine this vegetable mixture with the ground lamb, tomato paste, red pepper paste, paprika, pul biber, cumin, salt, and pepper.",
+          "Preheat the oven as hot as it goes (240-260°C / 465-500°F) with a baking sheet or pizza stone inside.",
+          "Divide the dough into portions and roll each one out very thin, almost paper-thin, on a floured surface.",
+          "Spread a thin, even layer of the meat topping all the way to the edges of each dough round.",
+          "Transfer the topped rounds onto the hot baking sheet and bake 7-9 minutes until the edges are crisp and the meat is fully cooked.",
+          "Serve immediately, rolled up with a squeeze of lemon, fresh parsley, and sliced onion inside."
+        ]}
+      ]
+    },
+    {
+      "id": "pide",
+      "title": "Turkish Pide (Cheese &amp; Beef Flatbread)",
+      "time": "60 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A whole kıymalı (ground beef) Turkish pide, boat-shaped and sliced, served with salad and pickled peppers",
+      "prep_label": "Prep — Kıymalı Pide Fresh from the Oven",
+      "prep_alt": "A boat-shaped ground beef pide fresh from the oven, topped with green peppers",
+      "sections": [
+        {"type": "table", "heading": "Dough — Ingredients by Serving", "rows": [
+          ["Bread flour", "90g", "180g", "270g", "360g"],
+          ["Instant yeast", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Warm water", "50ml", "100ml", "150ml", "200ml"],
+          ["Plain yogurt", "10g", "20g", "30g", "40g"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Sugar", "pinch", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Salt", "pinch", "¼ tsp", "⅜ tsp", "½ tsp"]
+        ]},
+        {"type": "table", "heading": "Filling — Ingredients by Serving", "rows": [
+          ["Ground beef", "60g", "120g", "180g", "240g"],
+          ["Onion, finely chopped", "20g", "40g", "60g", "80g"],
+          ["Green pepper, chopped", "¼", "½", "¾", "1"],
+          ["Tomato, chopped", "¼", "½", "¾", "1"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Shredded kaşar cheese (or mozzarella)", "40g", "80g", "120g", "160g"],
+          ["Paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Pul biber", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Egg (for egg wash)", "¼", "½", "¾", "1"],
+          ["Butter, melted (to finish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Dissolve the yeast and sugar in the warm water; let sit 5 minutes until foamy.",
+          "Mix in the yogurt, olive oil, flour, and salt, and knead 6-8 minutes until smooth and elastic.",
+          "Cover and let rise in a warm place 45-60 minutes until roughly doubled.",
+          "Meanwhile, mix the ground beef, onion, green pepper, tomato, tomato paste, paprika, pul biber, salt, and pepper to make the filling.",
+          "Preheat the oven to 230°C (450°F) with a baking sheet inside.",
+          "Punch down the dough and roll each portion into a long oval, about 1cm thick.",
+          "Spread the meat filling down the center, leaving a 2-3cm border, and sprinkle the shredded kaşar cheese over the filling.",
+          "Fold the two long edges of the dough up and over the filling, pinching the ends together to form a boat shape.",
+          "Brush the exposed crust with beaten egg for shine.",
+          "Bake 12-15 minutes until the crust is deep golden and the filling is bubbling and cooked through.",
+          "Brush the hot crust with melted butter as soon as it comes out of the oven, then slice and serve."
+        ]}
+      ]
+    },
+    {
+      "id": "sutlac",
+      "title": "Sütlaç (Turkish Rice Pudding) (Bonus)",
+      "time": "45 min (+2 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Sütlaç, Turkish rice pudding, served in a glass dish dusted with cinnamon",
+      "prep_label": "Prep — Under the Broiler",
+      "prep_alt": "Ramekins of rice pudding with caramelized, browned tops fresh from the broiler before chilling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Short or medium-grain rice", "15g", "30g", "45g", "60g"],
+          ["Water (to par-cook rice)", "60ml", "120ml", "180ml", "240ml"],
+          ["Whole milk", "200ml", "400ml", "600ml", "800ml"],
+          ["Sugar", "20g", "40g", "60g", "80g"],
+          ["Cornstarch", "5g", "10g", "15g", "20g"],
+          ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Egg yolk (optional, for richness)", "¼", "½", "¾", "1"],
+          ["Ground cinnamon (for topping)", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the rice and simmer it in the water over low heat, covered, 10-12 minutes until just tender.",
+          "Add the milk and bring to a gentle simmer, stirring occasionally so the rice doesn't stick.",
+          "Whisk the cornstarch with a splash of cold milk until smooth, then stir this slurry into the pot.",
+          "Add the sugar and simmer 10-15 minutes, stirring frequently, until thickened to a pourable custard consistency.",
+          "Temper the egg yolk with a spoonful of the hot mixture, then stir it back into the pot (optional — the pudding sets from the cornstarch alone).",
+          "Stir in the vanilla extract and simmer 2 more minutes.",
+          "Pour the pudding into individual ramekins or bowls.",
+          "For the traditional caramelized top, place under a hot broiler 2-3 minutes until brown spots form — or skip and simply dust with cinnamon.",
+          "Let cool to room temperature, then refrigerate at least 2 hours until fully chilled and set.",
+          "Sprinkle with ground cinnamon just before serving."
+        ]}
+      ]
+    }
+  ]
+}

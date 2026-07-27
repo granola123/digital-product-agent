@@ -1,0 +1,287 @@
+{
+  "recipes": [
+    {
+      "id": "adobo",
+      "title": "Chicken Adobo",
+      "time": "45 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Glossy braised chicken adobo thighs with rice and broccoli",
+      "prep_label": "Prep — Braising in Soy, Vinegar & Bay Leaf",
+      "prep_alt": "Chicken and pork braised in vinegar, soy sauce, garlic, and bay leaf for adobo",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs/drumsticks, bone-in", "150g", "300g", "450g", "600g"],
+          ["Soy sauce", "20ml", "40ml", "60ml", "80ml"],
+          ["White cane vinegar", "20ml", "40ml", "60ml", "80ml"],
+          ["Garlic cloves, crushed", "2", "4", "6", "8"],
+          ["Bay leaves", "1", "2", "3", "4"],
+          ["Whole peppercorns", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Brown sugar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Water", "60ml", "120ml", "180ml", "240ml"],
+          ["Cooking oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Steamed rice (to serve)", "150g", "300g", "450g", "600g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Marinate the chicken in soy sauce and garlic 15-30 minutes.",
+          "Sear the chicken skin-side down in oil 3-4 minutes per side until golden.",
+          "Add the reserved marinade, vinegar, water, bay leaves, peppercorns, and sugar.",
+          "Boil uncovered without stirring 3 minutes to cook off the vinegar's raw sharpness.",
+          "Cover, reduce to a simmer, and cook 25-30 minutes until the chicken is fork-tender.",
+          "Uncover and simmer 5-8 more minutes until the sauce reduces to a glossy glaze.",
+          "Taste and adjust the salty-sour-sweet balance.",
+          "Serve hot over steamed rice, spooning the glaze over the top."
+        ]}
+      ]
+    },
+    {
+      "id": "sinigang",
+      "title": "Pork Sinigang (Sour Tamarind Soup)",
+      "time": "60 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "A bowl of pork sinigang with vegetables in a sour tamarind broth",
+      "prep_label": "Prep — Sinigang Vegetables",
+      "prep_alt": "Radish, cabbage, corn, garlic, and onion prepped for pork sinigang",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork belly or ribs, cubed", "150g", "300g", "450g", "600g"],
+          ["Water", "500ml", "1000ml", "1500ml", "2000ml"],
+          ["Onion, quartered", "¼", "½", "¾", "1"],
+          ["Tomato, quartered", "½", "1", "1½", "2"],
+          ["Tamarind soup base (or paste)", "10g", "20g", "30g", "40g"],
+          ["Radish (labanos), sliced", "30g", "60g", "90g", "120g"],
+          ["Eggplant, sliced", "30g", "60g", "90g", "120g"],
+          ["Long green chili", "1", "2", "3", "4"],
+          ["String beans (sitaw), cut", "20g", "40g", "60g", "80g"],
+          ["Kangkong or spinach", "30g", "60g", "90g", "120g"],
+          ["Fish sauce (patis)", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the pork with onion and tomato, skimming foam, then simmer 40-45 minutes until tender.",
+          "Stir in the tamarind soup base until dissolved and the broth turns sour.",
+          "Add the radish and eggplant, simmer 5 minutes.",
+          "Add the string beans and chili, simmer 3-4 minutes more.",
+          "Season with fish sauce to taste.",
+          "Stir in the kangkong or spinach last and cook 1 minute until just wilted.",
+          "Ladle into bowls and serve hot with rice, extra fish sauce, and calamansi."
+        ]}
+      ]
+    },
+    {
+      "id": "pancit",
+      "title": "Pancit Canton (Stir-Fried Noodles)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Pancit canton noodles stir-fried with shrimp, pork, carrots, and snow peas",
+      "prep_label": "Prep — A Tray of Freshly Tossed Noodles",
+      "prep_alt": "A catering tray of pancit canton noodles tossed with vegetables and pork",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pancit canton noodles (dried)", "60g", "120g", "180g", "240g"],
+          ["Pork, thinly sliced", "60g", "120g", "180g", "240g"],
+          ["Shrimp, peeled", "50g", "100g", "150g", "200g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Onion, sliced", "20g", "40g", "60g", "80g"],
+          ["Cabbage, shredded", "50g", "100g", "150g", "200g"],
+          ["Carrot, julienned", "30g", "60g", "90g", "120g"],
+          ["Snow peas (sitsaro)", "20g", "40g", "60g", "80g"],
+          ["Chicken broth", "100ml", "200ml", "300ml", "400ml"],
+          ["Soy sauce", "10ml", "20ml", "30ml", "40ml"],
+          ["Oyster sauce", "10ml", "20ml", "30ml", "40ml"],
+          ["Cooking oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Calamansi or lime wedges", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the dried noodles in warm water 5-10 minutes until pliable, then drain.",
+          "Sauté the garlic and onion 1-2 minutes until fragrant.",
+          "Add the pork, cook until no longer pink, then add shrimp and cook until opaque.",
+          "Pour in the chicken broth, soy sauce, and oyster sauce, and bring to a simmer.",
+          "Add the carrot, then the cabbage and snow peas, cooking until crisp-tender.",
+          "Add the drained noodles and toss 3-5 minutes until they absorb the liquid.",
+          "Season with black pepper to taste.",
+          "Serve hot with calamansi or lime wedges squeezed over the top."
+        ]}
+      ]
+    },
+    {
+      "id": "tinola",
+      "title": "Chicken Tinola",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Chicken tinola soup with chayote and malunggay leaves in a light ginger broth",
+      "prep_label": "Prep — Chicken, Chayote & Aromatics",
+      "prep_alt": "Raw chicken, chayote, chilies, garlic, and onion prepped for chicken tinola",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs/drumsticks, cut up", "150g", "300g", "450g", "600g"],
+          ["Fresh ginger, sliced", "10g", "20g", "30g", "40g"],
+          ["Garlic cloves, crushed", "1", "2", "3", "4"],
+          ["Onion, sliced", "20g", "40g", "60g", "80g"],
+          ["Green papaya (or chayote), sliced", "60g", "120g", "180g", "240g"],
+          ["Malunggay leaves (or baby spinach)", "15g", "30g", "45g", "60g"],
+          ["Fish sauce (patis)", "5ml", "10ml", "15ml", "20ml"],
+          ["Water or chicken broth", "300ml", "600ml", "900ml", "1200ml"],
+          ["Cooking oil", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Sauté the ginger 1-2 minutes, then add the garlic and onion and cook 2 minutes.",
+          "Add the chicken and cook 3-4 minutes, stirring, until lightly browned.",
+          "Pour in the fish sauce, then add the water or broth.",
+          "Bring to a boil, then simmer covered partway 20-25 minutes until the chicken is tender.",
+          "Add the green papaya or chayote and simmer 5-8 minutes until just tender.",
+          "Stir in the malunggay or spinach and simmer 1-2 minutes until wilted.",
+          "Taste and add more fish sauce if needed.",
+          "Serve hot in bowls with steamed rice alongside."
+        ]}
+      ]
+    },
+    {
+      "id": "bicolexpress",
+      "title": "Bicol Express (Spicy Pork in Coconut Milk)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Bicol Express pork simmered in coconut milk with sliced green chilies",
+      "prep_label": "Prep — Sautéed Shrimp Paste (Bagoong)",
+      "prep_alt": "Sautéed shrimp paste, the key flavor base for Bicol Express",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork belly, sliced or cubed", "130g", "260g", "390g", "520g"],
+          ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+          ["Shrimp paste (bagoong alamang)", "10g", "20g", "30g", "40g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Onion, chopped", "20g", "40g", "60g", "80g"],
+          ["Fresh ginger, minced", "5g", "10g", "15g", "20g"],
+          ["Long green chilies, sliced", "2", "4", "6", "8"],
+          ["Thai chilies (siling labuyo), sliced", "1", "2", "3", "4"],
+          ["Cooking oil", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Sauté the garlic, onion, and ginger 2-3 minutes until fragrant.",
+          "Add the pork and cook 4-5 minutes until lightly browned at the edges.",
+          "Stir in the shrimp paste and cook 1 minute until it darkens and smells toasty.",
+          "Pour in the coconut milk, stirring to combine.",
+          "Simmer gently, uncovered, 25-30 minutes until the pork is tender and the sauce thickens.",
+          "Add the long green chilies and simmer 5 minutes.",
+          "Stir in the Thai chilies for the final 2 minutes, to taste.",
+          "Serve over steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "caldereta",
+      "title": "Beef Caldereta",
+      "time": "90 min (mostly hands-off)",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "Beef Caldereta stew with potato and carrot in a rich tomato-liver-spread sauce",
+      "prep_label": "Prep — Liver Spread, the Signature Ingredient",
+      "prep_alt": "A can of liver spread, the ingredient that gives Caldereta its rich sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef chuck, cubed", "150g", "300g", "450g", "600g"],
+          ["Liver spread", "15g", "30g", "45g", "60g"],
+          ["Tomato sauce", "60g", "120g", "180g", "240g"],
+          ["Beef broth or water", "150ml", "300ml", "450ml", "600ml"],
+          ["Potato, cubed", "50g", "100g", "150g", "200g"],
+          ["Carrot, sliced", "40g", "80g", "120g", "160g"],
+          ["Red bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Green bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Onion, chopped", "25g", "50g", "75g", "100g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Quickmelt cheese, shredded (optional)", "15g", "30g", "45g", "60g"],
+          ["Cooking oil", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Brown the beef in batches, 3-4 minutes per side, then set aside.",
+          "Sauté the onion and garlic 2-3 minutes until softened.",
+          "Return the beef to the pot with tomato sauce, broth, and bay leaf; bring to a boil.",
+          "Cover partway and simmer 60-75 minutes until the beef is fork-tender.",
+          "Add the potato and carrot, simmer 10-12 minutes until just tender.",
+          "Stir in the liver spread until it dissolves and thickens the sauce.",
+          "Add the bell peppers and simmer 5 minutes until just softened.",
+          "Stir in the shredded cheese, if using, until melted.",
+          "Season with salt and serve hot over steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "lumpia",
+      "title": "Lumpia Shanghai (Fried Spring Rolls)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Crispy fried lumpia Shanghai spring rolls with a sweet dipping sauce",
+      "prep_label": "Prep — Hand-Rolled and Fried",
+      "prep_alt": "A plate piled high with freshly fried, hand-rolled lumpia Shanghai",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground pork", "150g", "300g", "450g", "600g"],
+          ["Carrot, finely minced", "30g", "60g", "90g", "120g"],
+          ["Green onion, minced", "10g", "20g", "30g", "40g"],
+          ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+          ["Egg (binder + sealing)", "½", "1", "1½", "2"],
+          ["Soy sauce", "10ml", "20ml", "30ml", "40ml"],
+          ["Salt & pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Lumpia/spring roll wrappers", "8", "16", "24", "32"],
+          ["Oil, for frying", "250ml", "500ml", "750ml", "1000ml"],
+          ["Steamed rice (to serve)", "150g", "300g", "450g", "600g"],
+          ["Sweet chili sauce or banana ketchup", "15ml", "30ml", "45ml", "60ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the ground pork, carrot, green onion, garlic, soy sauce, salt, and pepper until slightly sticky.",
+          "Spoon a log of filling near the bottom corner of a wrapper laid in a diamond orientation.",
+          "Fold the bottom corner over the filling, fold in the sides, and roll tightly.",
+          "Seal the top corner with a dab of beaten egg. Repeat with remaining wrappers.",
+          "Heat the oil to about 175°C (350°F).",
+          "Fry the rolls in batches, turning occasionally, 4-5 minutes until deep golden and crisp.",
+          "Drain on paper towels or a wire rack.",
+          "Serve hot over rice with sweet chili sauce or banana ketchup for dipping."
+        ]}
+      ]
+    },
+    {
+      "id": "lecheflan",
+      "title": "Leche Flan (Bonus)",
+      "time": "40 min (+ 4 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Sliced leche flan showing its caramel top and dense custard, pooled in caramel sauce",
+      "prep_label": "Prep — Steamed Custard, Sliced",
+      "prep_alt": "Leche flan sliced into wedges, showing the dense custard and caramel layer",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Egg yolks", "3", "6", "9", "12"],
+          ["Condensed milk", "60ml", "120ml", "180ml", "240ml"],
+          ["Evaporated milk", "60ml", "120ml", "180ml", "240ml"],
+          ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Calamansi or lemon zest (optional)", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Sugar (for caramel)", "30g", "60g", "90g", "120g"],
+          ["Water (for caramel)", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Melt the sugar with water in a llanera or small mold until deep amber, then swirl to coat the bottom.",
+          "Whisk the egg yolks gently, just enough to break them up.",
+          "Stir in the condensed milk, evaporated milk, vanilla, and zest until smooth.",
+          "Strain the mixture into the mold over the hardened caramel.",
+          "Cover the mold tightly with foil.",
+          "Steam over gently simmering water 25-30 minutes until set but still slightly jiggly.",
+          "Cool to room temperature, then refrigerate at least 4 hours.",
+          "Unmold onto a plate so the caramel pools over the custard, then slice and serve chilled."
+        ]}
+      ]
+    }
+  ]
+}

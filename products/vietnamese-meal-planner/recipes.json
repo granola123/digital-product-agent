@@ -1,0 +1,317 @@
+{
+  "recipes": [
+    {
+      "id": "pho",
+      "title": "Phở Gà (Chicken Pho)",
+      "time": "45 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "A bowl of pho ga with rice noodles, shredded chicken, herbs, bean sprouts, and lime in clear broth",
+      "prep_label": "Prep — Toasted Whole Spices",
+      "prep_alt": "Whole star anise, one of the essential toasted spices in an authentic pho broth",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in", "150g", "300g", "450g", "600g"],
+          ["Water", "500ml", "1000ml", "1500ml", "2000ml"],
+          ["Yellow onion", "¼", "½", "¾", "1"],
+          ["Fresh ginger", "10g", "20g", "30g", "40g"],
+          ["Star anise", "1", "2", "3", "4"],
+          ["Whole cloves", "2", "4", "6", "8"],
+          ["Coriander seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Cinnamon stick", "¼", "½", "¾", "1"],
+          ["Fish sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Rock sugar", "5g", "10g", "15g", "20g"],
+          ["Dried flat rice noodles", "60g", "120g", "180g", "240g"],
+          ["Bean sprouts", "20g", "40g", "60g", "80g"],
+          ["Thai basil", "3g", "6g", "9g", "12g"],
+          ["Scallion, sliced", "5g", "10g", "15g", "20g"],
+          ["Cilantro", "3g", "6g", "9g", "12g"],
+          ["Lime wedges", "1", "2", "3", "4"],
+          ["Red chili, sliced", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Char the onion and ginger over a gas flame or under a broiler until blackened in spots, then rinse off the loose char.",
+          "Toast the star anise, cloves, coriander seeds, and cinnamon stick in a dry pot 1-2 minutes until fragrant.",
+          "Add the chicken, water, and charred onion and ginger. Bring to a boil, then skim off any foam.",
+          "Reduce heat and simmer, partially covered, 30-35 minutes until the chicken is cooked through.",
+          "Lift out the chicken, cool slightly, then shred or slice the meat off the bone.",
+          "Strain the broth, discarding the solids, and season with fish sauce and rock sugar to taste.",
+          "Soak the rice noodles in hot water 10-15 minutes until softened, then blanch briefly and drain.",
+          "Divide the noodles into bowls and top with shredded chicken.",
+          "Ladle the hot broth over each bowl.",
+          "Top with bean sprouts, Thai basil, scallion, cilantro, chili, and a lime wedge."
+        ]}
+      ]
+    },
+    {
+      "id": "buncha",
+      "title": "Bún Chả (Grilled Pork with Vermicelli & Herbs)",
+      "time": "40 min (+30 min marinate)",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Bun cha Hanoi with grilled pork patties and pork belly floating in nuoc cham, served with vermicelli and herbs",
+      "prep_label": "Prep — Pickled Carrot & Daikon (Đồ Chua)",
+      "prep_alt": "Julienned carrot and daikon radish, the quick pickle served alongside bun cha",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground pork", "100g", "200g", "300g", "400g"],
+          ["Pork belly or shoulder, thin-sliced", "60g", "120g", "180g", "240g"],
+          ["Garlic, minced", "1 clove", "2", "3", "4"],
+          ["Shallot, minced", "½", "1", "1½", "2"],
+          ["Fish sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Sugar", "5g", "10g", "15g", "20g"],
+          ["Black pepper", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Rice vermicelli", "60g", "120g", "180g", "240g"],
+          ["Lettuce", "20g", "40g", "60g", "80g"],
+          ["Mixed herbs (mint, perilla, Thai basil)", "10g", "20g", "30g", "40g"],
+          ["Pickled carrot & daikon (đồ chua)", "30g", "60g", "90g", "120g"],
+          ["Nuoc cham (fish sauce, sugar, lime, water, garlic, chili)", "60ml", "120ml", "180ml", "240ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the ground pork with half the garlic, shallot, fish sauce, sugar, and pepper, then shape into small flat patties. Toss the sliced pork belly with the rest.",
+          "Cover both and refrigerate at least 30 minutes.",
+          "Whisk together the nuoc cham: fish sauce, sugar, lime juice, water, minced garlic, and chili.",
+          "Julienne the carrot and daikon and toss with a little vinegar, sugar, and salt; let sit 15 minutes to quick-pickle.",
+          "Grill or broil the patties and pork belly slices 3-4 minutes per side until charred and cooked through.",
+          "Slide the warm grilled pork into a bowl of the nuoc cham while it's still hot.",
+          "Cook the vermicelli noodles according to the package, then rinse under cold water and drain.",
+          "Serve the noodles, lettuce, and herbs alongside the bowl of pork in nuoc cham, topped with the pickled carrot and daikon.",
+          "Dip noodles and herbs into the sauce bowl bite by bite alongside the pork."
+        ]}
+      ]
+    },
+    {
+      "id": "banhmi",
+      "title": "Bánh Mì Thịt Nướng (Grilled Pork Banh Mi)",
+      "time": "35 min (+30 min marinate)",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "A grilled pork banh mi sandwich stuffed with caramelized pork, pickled vegetables, cucumber, and cilantro",
+      "prep_label": "Prep — Sliced Marinated Pork",
+      "prep_alt": "Thin-sliced pork belly ready for the lemongrass marinade before grilling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork shoulder or loin, thin-sliced", "120g", "240g", "360g", "480g"],
+          ["Lemongrass, minced", "1 stalk", "2", "3", "4"],
+          ["Garlic, minced", "1", "2", "3", "4"],
+          ["Shallot, minced", "½", "1", "1½", "2"],
+          ["Fish sauce", "10ml", "20ml", "30ml", "40ml"],
+          ["Sugar", "8g", "16g", "24g", "32g"],
+          ["Soy sauce", "5ml", "10ml", "15ml", "20ml"],
+          ["Sesame oil", "3ml", "6ml", "9ml", "12ml"],
+          ["Baguette", "¼", "½", "¾", "1"],
+          ["Pork liver pâté (optional)", "10g", "20g", "30g", "40g"],
+          ["Mayonnaise", "10g", "20g", "30g", "40g"],
+          ["Maggi seasoning (or soy sauce)", "a few drops", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Pickled carrot & daikon (đồ chua)", "30g", "60g", "90g", "120g"],
+          ["Cucumber, sliced", "15g", "30g", "45g", "60g"],
+          ["Cilantro", "3g", "6g", "9g", "12g"],
+          ["Jalapeño or Thai chili", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Combine the pork slices with lemongrass, garlic, shallot, fish sauce, sugar, soy sauce, and sesame oil.",
+          "Marinate at least 30 minutes (overnight in the fridge tastes best).",
+          "Heat a grill pan or broiler until very hot. Cook the pork 2-3 minutes per side until charred and caramelized.",
+          "Split the baguette lengthwise and toast lightly.",
+          "Spread mayonnaise and pâté inside both halves.",
+          "Drizzle a few drops of Maggi seasoning over the bread.",
+          "Layer the grilled pork inside.",
+          "Top with pickled carrot and daikon, cucumber, cilantro, and sliced chili.",
+          "Press the sandwich closed and slice in half to serve."
+        ]}
+      ]
+    },
+    {
+      "id": "luclac",
+      "title": "Bò Lúc Lắc (Shaking Beef)",
+      "time": "25 min (+20 min marinate)",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Seared cubed beef shaking beef tossed with onion, served over watercress with tomato and cucumber",
+      "prep_label": "Prep — Searing Beef with Onion",
+      "prep_alt": "Cubed beef seared with onion in a hot pan, the same high-heat technique used for bo luc lac",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef sirloin, cubed", "130g", "260g", "390g", "520g"],
+          ["Soy sauce", "8ml", "16ml", "24ml", "32ml"],
+          ["Oyster sauce", "8ml", "16ml", "24ml", "32ml"],
+          ["Fish sauce", "5ml", "10ml", "15ml", "20ml"],
+          ["Sugar", "3g", "6g", "9g", "12g"],
+          ["Garlic, minced", "1", "2", "3", "4"],
+          ["Black pepper", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Butter", "5g", "10g", "15g", "20g"],
+          ["Red onion, sliced", "20g", "40g", "60g", "80g"],
+          ["Watercress (or lettuce)", "20g", "40g", "60g", "80g"],
+          ["Tomato, sliced", "¼", "½", "¾", "1"],
+          ["Cucumber, sliced", "15g", "30g", "45g", "60g"],
+          ["Lime juice (for dipping salt)", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt & pepper (for dipping)", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Marinate the beef cubes with soy sauce, oyster sauce, fish sauce, sugar, garlic, and pepper for 20-30 minutes.",
+          "Heat a wok or heavy skillet until very hot with a little oil.",
+          "Sear the beef in a single layer, working in batches, 30-45 seconds per side until browned but still pink in the center.",
+          "Add the butter and sliced onion, tossing 1-2 minutes until the onion softens and the beef looks glossy.",
+          "Arrange the watercress, tomato, and cucumber on a plate.",
+          "Pile the beef and onion on top.",
+          "Stir the lime juice with a pinch of salt and pepper to make the dipping sauce.",
+          "Serve immediately with steamed rice and the lime-salt-pepper dip."
+        ]}
+      ]
+    },
+    {
+      "id": "goicuon",
+      "title": "Gỏi Cuốn & Chả Giò (Fresh & Fried Spring Rolls)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "Fresh Vietnamese spring rolls (goi cuon) with shrimp, pork, herbs, and vermicelli visible through the rice paper",
+      "prep_label": "Prep — Fried Cha Gio",
+      "prep_alt": "Crispy golden fried Vietnamese spring rolls (cha gio), the other half of this combo dish",
+      "sections": [
+        {"type": "table", "heading": "Gỏi Cuốn Ingredients by Serving", "rows": [
+          ["Rice paper wrappers", "2", "4", "6", "8"],
+          ["Rice vermicelli noodles", "30g", "60g", "90g", "120g"],
+          ["Shrimp, cooked & halved lengthwise", "4", "8", "12", "16"],
+          ["Pork belly, boiled & thinly sliced", "40g", "80g", "120g", "160g"],
+          ["Lettuce leaves", "2", "4", "6", "8"],
+          ["Fresh herbs (mint, perilla)", "5g", "10g", "15g", "20g"],
+          ["Peanut hoisin dipping sauce", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "table", "heading": "Chả Giò Ingredients by Serving", "rows": [
+          ["Ground pork", "60g", "120g", "180g", "240g"],
+          ["Shrimp, chopped", "30g", "60g", "90g", "120g"],
+          ["Dried wood ear mushroom, soaked & minced", "5g", "10g", "15g", "20g"],
+          ["Dried glass noodles, soaked & chopped", "10g", "20g", "30g", "40g"],
+          ["Carrot, grated", "15g", "30g", "45g", "60g"],
+          ["Jicama (or shredded cabbage)", "15g", "30g", "45g", "60g"],
+          ["Garlic & shallot, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Egg, beaten (binder)", "¼", "½", "¾", "1"],
+          ["Rice paper or spring roll wrappers", "2", "4", "6", "8"],
+          ["Vegetable oil (for frying)", "100ml", "200ml", "300ml", "400ml"],
+          ["Nuoc cham (for dipping)", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "For the chả giò, mix the ground pork, chopped shrimp, wood ear mushroom, glass noodles, carrot, jicama, garlic, shallot, egg, a splash of fish sauce, and a pinch of pepper into a filling.",
+          "Spoon filling onto a wrapper, fold in the sides, and roll tightly into a cigar shape; repeat with the remaining wrappers.",
+          "Heat the oil to about 170°C (340°F). Fry the rolls in batches 5-7 minutes, turning occasionally, until deep golden and crisp. Drain on paper towels.",
+          "Meanwhile for the gỏi cuốn, cook the rice vermicelli according to the package directions and drain.",
+          "Dip a rice paper wrapper in warm water 10-15 seconds until just pliable.",
+          "Lay lettuce, herbs, vermicelli, and pork belly slices near the bottom edge of the wrapper.",
+          "Place the shrimp halves cut-side up just above the filling so they show through the wrapper once rolled.",
+          "Fold the bottom of the wrapper over the filling, fold in the sides, and roll up tightly; repeat with the remaining wrappers.",
+          "Serve the fresh rolls with peanut hoisin sauce and the fried rolls with nuoc cham."
+        ]}
+      ]
+    },
+    {
+      "id": "gakhogung",
+      "title": "Gà Kho Gừng (Ginger Caramelized Chicken)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A pot of Vietnamese ginger caramelized chicken glazed a deep golden-brown in its reduced caramel sauce",
+      "prep_label": "Prep — Braising the Chicken",
+      "prep_alt": "The same pot of chicken mid-braise, absorbing the caramel-ginger sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs or drumsticks, bone-in", "150g", "300g", "450g", "600g"],
+          ["Fish sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Soy sauce", "5ml", "10ml", "15ml", "20ml"],
+          ["Garlic, minced", "1", "2", "3", "4"],
+          ["Black pepper", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Sugar (for caramel)", "15g", "30g", "45g", "60g"],
+          ["Water (to stop the caramel)", "15ml", "30ml", "45ml", "60ml"],
+          ["Fresh ginger, julienned", "15g", "30g", "45g", "60g"],
+          ["Shallots, sliced", "½", "1", "1½", "2"],
+          ["Vegetable oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Scallion, sliced (garnish)", "3g", "6g", "9g", "12g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Marinate the chicken with fish sauce, soy sauce, half the garlic, and pepper for 15-20 minutes.",
+          "Make the caramel: melt the sugar in a dry pan over medium heat until deep amber, then carefully add the water off the heat to stop it cooking.",
+          "Add the oil, remaining garlic, ginger, and shallots to the caramel and stir until fragrant.",
+          "Add the marinated chicken and stir to coat evenly; sear 2-3 minutes per side until golden.",
+          "Add a splash of water to just cover the bottom of the pan, cover, and simmer 15-20 minutes, stirring occasionally, until cooked through.",
+          "Uncover and let the sauce reduce 3-5 minutes more, until syrupy and clinging to the chicken.",
+          "Garnish with scallion and serve hot with steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "canhchua",
+      "title": "Canh Chua (Sweet & Sour Fish Soup)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A bowl of canh chua sweet and sour fish soup with pineapple, tomato, okra, and bean sprouts in tamarind broth",
+      "prep_label": "Prep — Rice Paddy Herb (Ngò Ôm)",
+      "prep_alt": "Fresh rice paddy herb, the signature aromatic garnish of an authentic Mekong Delta canh chua",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["White fish steaks (catfish or similar)", "130g", "260g", "390g", "520g"],
+          ["Tamarind pulp (or paste)", "15g", "30g", "45g", "60g"],
+          ["Water", "300ml", "600ml", "900ml", "1200ml"],
+          ["Pineapple, chunked", "30g", "60g", "90g", "120g"],
+          ["Tomato, wedged", "½", "1", "1½", "2"],
+          ["Okra, sliced", "2", "4", "6", "8"],
+          ["Bean sprouts", "15g", "30g", "45g", "60g"],
+          ["Rice paddy herb (ngò ôm), chopped", "3g", "6g", "9g", "12g"],
+          ["Fish sauce", "15ml", "30ml", "45ml", "60ml"],
+          ["Sugar", "8g", "16g", "24g", "32g"],
+          ["Garlic, minced", "1", "2", "3", "4"],
+          ["Fried shallots (garnish)", "3g", "6g", "9g", "12g"],
+          ["Thai chili, sliced", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the tamarind pulp in a little warm water, mash, and strain to make tamarind water (or dissolve tamarind paste directly).",
+          "Sauté the garlic in a splash of oil in a pot until fragrant.",
+          "Add the tamarind water and remaining water and bring to a boil.",
+          "Season with fish sauce and sugar, tasting until the broth is balanced sour-sweet-salty.",
+          "Add the fish steaks and simmer gently 6-8 minutes until just cooked through.",
+          "Add the pineapple, tomato, and okra; simmer 3-4 minutes until just tender.",
+          "Stir in the bean sprouts and rice paddy herb right at the end so they stay crisp and fragrant.",
+          "Ladle into bowls and top with fried shallots and sliced chili."
+        ]}
+      ]
+    },
+    {
+      "id": "banhflan",
+      "title": "Bánh Flan (Vietnamese Crème Caramel) (Bonus)",
+      "time": "30 min (+4 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "A silky Vietnamese banh flan custard unmolded with dark amber caramel sauce pooling around it",
+      "prep_label": "Prep — Custard Ingredients",
+      "prep_alt": "Eggs, sugar, and milk laid out, the simple three-ingredient base of banh flan custard",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Eggs", "1", "2", "3", "4"],
+          ["Whole milk", "80ml", "160ml", "240ml", "320ml"],
+          ["Sugar (for custard)", "15g", "30g", "45g", "60g"],
+          ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Sugar (for caramel)", "20g", "40g", "60g", "80g"],
+          ["Water (for caramel)", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the caramel: melt the sugar with the water in a small pan over medium heat, swirling until it turns a deep amber.",
+          "Immediately pour the hot caramel into ramekins, tilting to coat the bottom, and let it harden.",
+          "Whisk the eggs, milk, sugar, and vanilla together until just combined, without over-whipping.",
+          "Strain the custard through a fine sieve into the caramel-lined ramekins.",
+          "Cover with foil, set the ramekins in a baking dish, and pour hot water halfway up their sides.",
+          "Bake at 150°C (300°F) for 30-35 minutes, until just set with a slight jiggle in the center.",
+          "Cool to room temperature, then refrigerate at least 4 hours.",
+          "Run a knife around the edge of each ramekin and invert onto a plate to release the caramel sauce."
+        ]}
+      ]
+    }
+  ]
+}

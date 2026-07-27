@@ -1,0 +1,309 @@
+{
+  "recipes": [
+    {
+      "id": "chickentagine",
+      "title": "Chicken Tagine with Preserved Lemon &amp; Olives",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "Chicken tagine simmered with onions and herbs in a golden spiced sauce",
+      "prep_label": "Prep — Ras el Hanout Spice Blend",
+      "prep_alt": "A bag of ras el hanout, the warm Moroccan spice blend that seasons the tagine",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in", "150g", "300g", "450g", "600g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ras el hanout", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
+          ["Cinnamon stick", "¼", "½", "¾", "1"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Chicken stock or water", "60ml", "120ml", "180ml", "240ml"],
+          ["Preserved lemon, quartered", "¼", "½", "¾", "1"],
+          ["Green or violet olives", "20g", "40g", "60g", "80g"],
+          ["Cilantro &amp; parsley, chopped", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Warm the olive oil in a wide heavy pot and cook the sliced onion 4-5 minutes until soft.",
+          "Stir in the garlic, ginger, ras el hanout, turmeric, saffron, and cinnamon stick, cooking 1 minute until fragrant.",
+          "Nestle the chicken into the onions and spices, turning to coat.",
+          "Pour in the stock or water, cover, and simmer low 40-45 minutes until the chicken is cooked through.",
+          "Add the preserved lemon rind and olives, and simmer uncovered 10 more minutes to thicken the sauce.",
+          "Taste and season lightly with salt (preserved lemon and olives are already salty).",
+          "Sprinkle with chopped cilantro and parsley.",
+          "Serve hot, spooning the sauce over the chicken, with warm bread or couscous."
+        ]}
+      ]
+    },
+    {
+      "id": "harira",
+      "title": "Harira (Moroccan Lentil &amp; Chickpea Soup)",
+      "time": "70 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "A bowl of harira soup with lentils, chickpeas, and vermicelli in a spiced tomato broth",
+      "prep_label": "Prep — Home-Simmered Harira",
+      "prep_alt": "A pot of harira soup simmering with lentils and chickpeas, prepared at home",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Brown or green lentils, rinsed", "30g", "60g", "90g", "120g"],
+          ["Chickpeas, soaked (or canned, drained)", "30g", "60g", "90g", "120g"],
+          ["Crushed tomatoes", "60g", "120g", "180g", "240g"],
+          ["Onion, finely chopped", "20g", "40g", "60g", "80g"],
+          ["Celery, finely chopped", "10g", "20g", "30g", "40g"],
+          ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cinnamon", "pinch", "pinch", "⅛ tsp", "¼ tsp"],
+          ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
+          ["All-purpose flour (for tedouira)", "5g", "10g", "15g", "20g"],
+          ["Water", "250ml", "500ml", "750ml", "1000ml"],
+          ["Cilantro &amp; parsley, chopped", "5g", "10g", "15g", "20g"],
+          ["Vermicelli (optional)", "10g", "20g", "30g", "40g"],
+          ["Lemon wedges (to serve)", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cook the onion and celery in a little oil 4-5 minutes until soft.",
+          "Stir in the ginger, turmeric, cinnamon, and saffron, cooking 30 seconds until fragrant.",
+          "Add the crushed tomatoes, lentils, chickpeas, and water, and bring to a boil.",
+          "Reduce to a simmer, cover partway, and cook 45-60 minutes until the lentils and chickpeas are tender.",
+          "If using, stir in the vermicelli and simmer 5-8 minutes more.",
+          "Whisk the flour with a little cold water into a smooth, thin tedouira.",
+          "Drizzle the tedouira into the simmering soup while stirring, then simmer 5 more minutes until velvety.",
+          "Taste and season with salt.",
+          "Stir in the chopped cilantro and parsley.",
+          "Ladle into bowls and serve with lemon wedges and dates on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "kefta",
+      "title": "Kefta Tagine (Spiced Meatball Tagine in Tomato Sauce)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "Spiced meatballs simmered in a rich tomato tagine sauce, Moroccan kefta style",
+      "prep_label": "Prep — Kofta, Chickpeas &amp; Couscous",
+      "prep_alt": "Spiced kofta patties served alongside chickpeas and couscous, the building blocks of the dish",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground beef or lamb", "120g", "240g", "360g", "480g"],
+          ["Onion, grated (for meatballs)", "15g", "30g", "45g", "60g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Parsley &amp; cilantro, chopped", "5g", "10g", "15g", "20g"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Sweet paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cinnamon", "pinch", "pinch", "⅛ tsp", "¼ tsp"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Onion, finely chopped (for sauce)", "20g", "40g", "60g", "80g"],
+          ["Ground ginger", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Crushed tomatoes", "100g", "200g", "300g", "400g"],
+          ["Eggs", "1", "2", "3", "4"],
+          ["Cilantro, chopped (garnish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the ground meat with grated onion, half the garlic, parsley, cilantro, cumin, paprika, and cinnamon.",
+          "Roll the mixture into small, walnut-sized meatballs.",
+          "Cook the finely chopped onion in olive oil 4-5 minutes until soft.",
+          "Stir in the remaining garlic and ginger, then add the crushed tomatoes and a splash of water, simmering uncovered 10 minutes.",
+          "Lower the meatballs into the sauce, cover, and cook 15-20 minutes until cooked through.",
+          "Make small wells in the sauce between the meatballs.",
+          "Crack an egg into each well, cover, and cook 7-10 minutes until the whites set but yolks stay runny.",
+          "Sprinkle with chopped cilantro.",
+          "Serve straight from the pot with warm crusty bread."
+        ]}
+      ]
+    },
+    {
+      "id": "chermoula",
+      "title": "Moroccan Fish Chermoula",
+      "time": "30 min (+30 min marinate)",
+      "level": "Easy",
+      "tilt": 1.1,
+      "gold": false,
+      "dish_alt": "Whole fish simmered in a chermoula tomato and olive sauce, Moroccan style",
+      "prep_label": "Prep — Fresh Parsley for the Chermoula",
+      "prep_alt": "A fresh bunch of parsley, one of the key herbs in chermoula marinade",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["White fish fillets (hake, cod, or sea bass)", "120g", "240g", "360g", "480g"],
+          ["Fresh cilantro, chopped", "10g", "20g", "30g", "40g"],
+          ["Fresh parsley, chopped", "10g", "20g", "30g", "40g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Sweet paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Lemon juice", "10ml", "20ml", "30ml", "40ml"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Bell pepper, sliced (optional)", "20g", "40g", "60g", "80g"],
+          ["Tomato, sliced (optional)", "20g", "40g", "60g", "80g"],
+          ["Lemon wedges (to serve)", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Blend the cilantro, parsley, garlic, cumin, paprika, lemon juice, and olive oil into a coarse chermoula paste.",
+          "Rub the fish with about two-thirds of the chermoula and marinate in the fridge 30 minutes to 2 hours.",
+          "Warm a little oil in a wide pan and, if using, cook the bell pepper and tomato 3-4 minutes until softened.",
+          "Lay the marinated fish in the pan and cook 3-4 minutes per side until it flakes easily.",
+          "Spoon the remaining chermoula over the fish during the last minute of cooking.",
+          "Lift the fish and vegetables onto a plate.",
+          "Serve warm with lemon wedges and crusty bread or rice."
+        ]}
+      ]
+    },
+    {
+      "id": "chickenapricot",
+      "title": "Moroccan Chicken with Chickpeas &amp; Apricots",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Chicken tagine with olives, carrots, and warm spices in a golden sauce",
+      "prep_label": "Prep — Soaked &amp; Dried Chickpeas",
+      "prep_alt": "Chickpeas shown soaked (left) and dried (right), before and after their overnight soak",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in or boneless", "140g", "280g", "420g", "560g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground cinnamon", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground coriander", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
+          ["Honey", "5ml", "10ml", "15ml", "20ml"],
+          ["Chickpeas, cooked or canned (drained)", "40g", "80g", "120g", "160g"],
+          ["Dried apricots", "20g", "40g", "60g", "80g"],
+          ["Chicken stock or water", "80ml", "160ml", "240ml", "320ml"],
+          ["Toasted almonds (garnish)", "5g", "10g", "15g", "20g"],
+          ["Cilantro, chopped", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cook the onion in a little oil 4-5 minutes until soft.",
+          "Stir in the garlic, ginger, cinnamon, coriander, turmeric, and saffron, cooking 1 minute until fragrant.",
+          "Nestle the chicken into the spiced onions, turning to coat.",
+          "Add the stock or water, bring to a gentle simmer, cover, and cook low 25-30 minutes.",
+          "Stir in the honey, chickpeas, and dried apricots, and simmer uncovered 15-20 minutes more until the chicken is fully cooked.",
+          "Taste and season with salt as needed.",
+          "Scatter the toasted almonds and chopped cilantro over the top.",
+          "Serve hot with couscous or warm bread."
+        ]}
+      ]
+    },
+    {
+      "id": "couscous",
+      "title": "Couscous with Seven Vegetables",
+      "time": "75 min",
+      "level": "Medium",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "A mound of fluffy couscous topped with seven simmered vegetables and raisins",
+      "prep_label": "Prep — The Traditional Couscoussière",
+      "prep_alt": "A two-tier couscoussière pot used to steam couscous over the simmering vegetable broth",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Medium couscous (semolina)", "60g", "120g", "180g", "240g"],
+          ["Bone-in chicken or lamb pieces (for broth)", "100g", "200g", "300g", "400g"],
+          ["Carrot, cut into chunks", "30g", "60g", "90g", "120g"],
+          ["Turnip, cut into chunks", "25g", "50g", "75g", "100g"],
+          ["Zucchini, cut into chunks", "30g", "60g", "90g", "120g"],
+          ["Pumpkin or butternut squash, cut into chunks", "30g", "60g", "90g", "120g"],
+          ["Cabbage, cut into wedges", "25g", "50g", "75g", "100g"],
+          ["Tomato, chopped", "20g", "40g", "60g", "80g"],
+          ["Chickpeas, soaked or canned (drained)", "20g", "40g", "60g", "80g"],
+          ["Onion, chopped", "20g", "40g", "60g", "80g"],
+          ["Ground ginger", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
+          ["Butter (or smen)", "5g", "10g", "15g", "20g"],
+          ["Water or stock", "200ml", "400ml", "600ml", "800ml"],
+          ["Raisins (optional garnish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cook the onion with ginger, turmeric, and saffron in a little oil 2-3 minutes, then add the tomato and cook until saucy.",
+          "Add the chicken or lamb and water to cover, bring to a boil, and skim off any foam.",
+          "Add the chickpeas, cover partway, and simmer 30-40 minutes.",
+          "Spread the dry couscous in a wide dish, drizzle with water and oil, and rub between your palms to separate every grain.",
+          "Steam the couscous uncovered over the simmering broth 15-20 minutes.",
+          "Tip the couscous back into the dish, drizzle with warm salted water, and fluff it between your palms; repeat the steaming once more for the best texture.",
+          "Add the carrot and turnip to the broth and simmer 10 minutes.",
+          "Add the zucchini, pumpkin, and cabbage, and simmer 10-15 more minutes until tender.",
+          "Mound the fluffed couscous on a platter and dot with butter, tossing to melt through.",
+          "Arrange the vegetables and chickpeas over the couscous, scatter raisins on top, and ladle a little broth over everything.",
+          "Serve the extra broth on the side for spooning over individual plates."
+        ]}
+      ]
+    },
+    {
+      "id": "lambtagine",
+      "title": "Lamb Tagine with Apricots &amp; Almonds",
+      "time": "2 hr 15 min (mostly hands-off)",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Lamb tagine braised low and slow in a rich spiced tomato sauce",
+      "prep_label": "Prep — Dried Apricots",
+      "prep_alt": "A pile of dried apricots, ready to plump up in the simmering lamb tagine",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Lamb shoulder, cubed", "130g", "260g", "390g", "520g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic cloves", "1", "2", "3", "4"],
+          ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground cinnamon", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
+          ["Honey", "5ml", "10ml", "15ml", "20ml"],
+          ["Dried apricots", "20g", "40g", "60g", "80g"],
+          ["Blanched almonds", "10g", "20g", "30g", "40g"],
+          ["Sesame seeds (garnish)", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+          ["Water or stock", "100ml", "200ml", "300ml", "400ml"],
+          ["Cilantro &amp; parsley, chopped", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Season the lamb with cinnamon, cumin, saffron, and a pinch of salt.",
+          "Brown the lamb in batches in a little oil, 3-4 minutes per side, then set aside.",
+          "Cook the onion 4-5 minutes until soft, then add garlic and ginger for 1 minute.",
+          "Return the lamb to the pot with the water or stock, cover, and simmer low 1½-2 hours until fork-tender.",
+          "Stir in the honey and dried apricots, and simmer uncovered 30-45 minutes more until plump and the sauce thickens.",
+          "Toast the almonds in a dry pan 3-4 minutes until golden.",
+          "Taste and season with salt.",
+          "Spoon onto a platter, scatter with toasted almonds, sesame seeds, cilantro, and parsley.",
+          "Serve hot with couscous or crusty bread."
+        ]}
+      ]
+    },
+    {
+      "id": "orangesalad",
+      "title": "Moroccan Orange &amp; Cinnamon Salad (Fenjaan) (Bonus)",
+      "time": "15 min (+15 min chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Orange segments fanned on a plate, ready to be dressed with cinnamon and orange blossom water",
+      "prep_label": "Prep — A Fresh Navel Orange",
+      "prep_alt": "A cross-section slice of a navel orange, showing its juicy segments",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Navel oranges, peeled &amp; pith removed", "1", "2", "3", "4"],
+          ["Ground cinnamon", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Orange blossom water", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Honey", "5ml", "10ml", "15ml", "20ml"],
+          ["Fresh mint leaves (garnish)", "2", "4", "6", "8"],
+          ["Toasted almonds or chopped dates (optional garnish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Peel the oranges down to the flesh, removing all the white pith.",
+          "Slice the oranges crosswise into thin rounds, catching any juice, and arrange on a plate.",
+          "Whisk the collected juice with the orange blossom water and honey.",
+          "Drizzle the juice mixture evenly over the orange slices.",
+          "Sprinkle the cinnamon over the top.",
+          "Scatter with mint leaves and almonds or dates, if using.",
+          "Chill at least 15 minutes before serving."
+        ]}
+      ]
+    }
+  ]
+}

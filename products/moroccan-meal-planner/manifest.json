@@ -1,0 +1,114 @@
+{
+  "chickentagine": {
+    "dish": {
+      "title": "File:Moroccan food-Chicken tagine with preserved lemons and olives-01.jpg",
+      "artist": "Foodista",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Moroccan_food-Chicken_tagine_with_preserved_lemons_and_olives-01.jpg"
+    },
+    "prep": {
+      "title": "File:Ras-El-Hanout packed.jpg",
+      "artist": "GeoTrinity",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ras-El-Hanout_packed.jpg"
+    }
+  },
+  "lambtagine": {
+    "dish": {
+      "title": "File:Tajine marocain.jpg",
+      "artist": "Bawdeep2010",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tajine_marocain.jpg"
+    },
+    "prep": {
+      "title": "File:Dried red apricots.jpg",
+      "artist": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Dried_red_apricots.jpg"
+    }
+  },
+  "harira": {
+    "dish": {
+      "title": "File:Harira..JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Harira..JPG"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Harira soup prepared at home.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Liat_Portal_for_Foodie_Disorder_-_Harira_soup_prepared_at_home.jpg"
+    }
+  },
+  "couscous": {
+    "dish": {
+      "title": "File:Moroccan couscous at Zephyr Marrakech - Hôtel.jpg",
+      "artist": "OthmaneEL",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Moroccan_couscous_at_Zephyr_Marrakech_-_H%C3%B4tel.jpg"
+    },
+    "prep": {
+      "title": "File:Couscoussier.jpg",
+      "artist": "Catskingloves",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Couscoussier.jpg"
+    }
+  },
+  "kefta": {
+    "dish": {
+      "title": "File:Tajine kefta (8348397161).jpg",
+      "artist": "Mzximvs VdB from Brussels, belgium",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tajine_kefta_%288348397161%29.jpg"
+    },
+    "prep": {
+      "title": "File:Kuskuso kofta.jpg",
+      "artist": "Super nabla",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Kuskuso_kofta.jpg"
+    }
+  },
+  "chermoula": {
+    "dish": {
+      "title": "File:Tajine de poisson Marocain.jpg",
+      "artist": "Jobsdev",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tajine_de_poisson_Marocain.jpg"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Parsley.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Liat_Portal_for_Foodie_Disorder_-_Parsley.jpg"
+    }
+  },
+  "chickenapricot": {
+    "dish": {
+      "title": "File:Tajinezitounepoulet.jpg",
+      "artist": "Slothtysloth",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tajinezitounepoulet.jpg"
+    },
+    "prep": {
+      "title": "File:Soaked and dried chickpeas.jpg",
+      "artist": "Tiia Monto",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Soaked_and_dried_chickpeas.jpg"
+    }
+  },
+  "orangesalad": {
+    "dish": {
+      "title": "File:Liat Portal for Foodie Disorder - Orange segments.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Liat_Portal_for_Foodie_Disorder_-_Orange_segments.jpg"
+    },
+    "prep": {
+      "title": "File:Navelina oranges.jpg",
+      "artist": "ArildV",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Navelina_oranges.jpg"
+    }
+  }
+}

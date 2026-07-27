@@ -1,0 +1,114 @@
+{
+  "tavuksis": {
+    "dish": {
+      "title": "File:Tavuk Şiş.jpg",
+      "artist": "Garrett Ziegler",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Tavuk_%C5%9Ei%C5%9F.jpg"
+    },
+    "prep": {
+      "title": "File:Turkish tavuk shish.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Turkish_tavuk_shish.jpg"
+    }
+  },
+  "kofte": {
+    "dish": {
+      "title": "File:Izgara köfte.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Izgara_k%C3%B6fte.jpg"
+    },
+    "prep": {
+      "title": "File:Köfte kebabs.jpg",
+      "artist": "Foodista",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/K%C3%B6fte_kebabs.jpg"
+    }
+  },
+  "mercimek": {
+    "dish": {
+      "title": "File:Mercimek çorbası in Ankara, Turkey.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mercimek_%C3%A7orbas%C4%B1_in_Ankara%2C_Turkey.jpg"
+    },
+    "prep": {
+      "title": "File:Mercimek in çanak.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Mercimek_in_%C3%A7anak.jpg"
+    }
+  },
+  "karniyarik": {
+    "dish": {
+      "title": "File:Karniyarik.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Karniyarik.jpg"
+    },
+    "prep": {
+      "title": "File:Karnıyarık - Lunch at Yanyali Fehmi Lokantasi (6421044715).jpg",
+      "artist": "William Neuheisel from DC, US",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Karn%C4%B1yar%C4%B1k_-_Lunch_at_Yanyali_Fehmi_Lokantasi_%286421044715%29.jpg"
+    }
+  },
+  "guvec": {
+    "dish": {
+      "title": "File:Etli güveç.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Etli_g%C3%BCve%C3%A7.jpg"
+    },
+    "prep": {
+      "title": "File:Güveç of veal, potatoes etc.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/G%C3%BCve%C3%A7_of_veal%2C_potatoes_etc.jpg"
+    }
+  },
+  "lahmacun": {
+    "dish": {
+      "title": "File:Turkish Lahmacun Baked in a Stone Oven.jpg",
+      "artist": "Polatovic",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Turkish_Lahmacun_Baked_in_a_Stone_Oven.jpg"
+    },
+    "prep": {
+      "title": "File:Lahmacun (Turkish Pizza).jpg",
+      "artist": "Christopher",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lahmacun_%28Turkish_Pizza%29.jpg"
+    }
+  },
+  "pide": {
+    "dish": {
+      "title": "File:Turkish pide with ground beef.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Turkish_pide_with_ground_beef.jpg"
+    },
+    "prep": {
+      "title": "File:Nazilli-kiymali-pide-20201023 143731.jpg",
+      "artist": "Erdalkara",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nazilli-kiymali-pide-20201023_143731.jpg"
+    }
+  },
+  "sutlac": {
+    "dish": {
+      "title": "File:Sütlaç (Turkish rice pudding).jpeg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/S%C3%BCtla%C3%A7_%28Turkish_rice_pudding%29.jpeg"
+    },
+    "prep": {
+      "title": "File:Turkish rice pudding, just cooked.jpg",
+      "artist": "E4024",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Turkish_rice_pudding%2C_just_cooked.jpg"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "paella": {
+    "dish": {
+      "title": "File:Paella valenciana MMXXV.jpg",
+      "artist": "Francesc Fort",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Paella_valenciana_MMXXV.jpg"
+    },
+    "prep": {
+      "title": "File:Cooking a paella.jpg",
+      "artist": "Jebulon",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cooking_a_paella.jpg"
+    }
+  },
+  "tortilla": {
+    "dish": {
+      "title": "File:Tortilla Española.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tortilla_Espa%C3%B1ola.jpg"
+    },
+    "prep": {
+      "title": "File:Frying potatoes.jpg",
+      "artist": "Lluisanunez",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Frying_potatoes.jpg"
+    }
+  },
+  "gambas": {
+    "dish": {
+      "title": "File:Gambas al ajillo, 2024.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gambas_al_ajillo%2C_2024.jpg"
+    },
+    "prep": {
+      "title": "File:Gambas al ajillo (raw).jpg",
+      "artist": "Tamorlan",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gambas_al_ajillo_%28raw%29.jpg"
+    }
+  },
+  "pollo": {
+    "dish": {
+      "title": "File:Pollo al ajillo.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Pollo_al_ajillo.jpg"
+    },
+    "prep": {
+      "title": "File:Peeled garlic cloves.jpg",
+      "artist": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Peeled_garlic_cloves.jpg"
+    }
+  },
+  "albondigas": {
+    "dish": {
+      "title": "File:Cazuela de Albóndigas de carne con sofrito de tomate, cebolla, ajo y perejil.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cazuela_de_Alb%C3%B3ndigas_de_carne_con_sofrito_de_tomate%2C_cebolla%2C_ajo_y_perejil.jpg"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Meatball preparation ingredients.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Liat_Portal_for_Foodie_Disorder_-_Meatball_preparation_ingredients.jpg"
+    }
+  },
+  "fabada": {
+    "dish": {
+      "title": "File:Fabada Asturiana.jpg",
+      "artist": "Cariyandres",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fabada_Asturiana.jpg"
+    },
+    "prep": {
+      "title": "File:Compango fabada.jpg",
+      "artist": "Jrfdiaz",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Compango_fabada.jpg"
+    }
+  },
+  "bravas": {
+    "dish": {
+      "title": "File:Patatas bravas. Tapa de bar (España).jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Patatas_bravas._Tapa_de_bar_%28Espa%C3%B1a%29.jpg"
+    },
+    "prep": {
+      "title": "File:Mortero de \"allioli\".jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mortero_de_%22allioli%22.jpg"
+    }
+  },
+  "crema": {
+    "dish": {
+      "title": "File:Crema catalana. Postre.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Crema_catalana._Postre.jpg"
+    },
+    "prep": {
+      "title": "File:Crème brûlée with flame 2025.jpg",
+      "artist": "Mannivu",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cr%C3%A8me_br%C3%BBl%C3%A9e_with_flame_2025.jpg"
+    }
+  }
+}

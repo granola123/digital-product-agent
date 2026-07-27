@@ -8,3 +8,7 @@ products/*/imgs/
 
 # local Claude Code worktrees from background subagent runs
 .claude/
+
+# generated sell-ready book/PDF (rebuild anytime with scripts/build_book.py
+# + agent-browser; ~60MB combined, not worth tracking in git history)
+products/book/

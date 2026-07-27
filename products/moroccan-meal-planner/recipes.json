@@ -56,6 +56,7 @@
           ["Onion, finely chopped", "20g", "40g", "60g", "80g"],
           ["Celery, finely chopped", "10g", "20g", "30g", "40g"],
           ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground black pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
           ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
           ["Ground cinnamon", "pinch", "pinch", "⅛ tsp", "¼ tsp"],
           ["Saffron threads", "pinch", "pinch", "2 pinches", "2 pinches"],
@@ -67,7 +68,7 @@
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Cook the onion and celery in a little oil 4-5 minutes until soft.",
-          "Stir in the ginger, turmeric, cinnamon, and saffron, cooking 30 seconds until fragrant.",
+          "Stir in the ginger, black pepper, turmeric, cinnamon, and saffron, cooking 30 seconds until fragrant.",
           "Add the crushed tomatoes, lentils, chickpeas, and water, and bring to a boil.",
           "Reduce to a simmer, cover partway, and cook 45-60 minutes until the lentils and chickpeas are tender.",
           "If using, stir in the vermicelli and simmer 5-8 minutes more.",

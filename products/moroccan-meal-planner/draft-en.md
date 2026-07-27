@@ -23,7 +23,7 @@ One of the cuisine packs in the International Food Recipe Collection launch bund
 
 **Grains & Legumes:** medium couscous (semolina), brown or green lentils, dried or canned chickpeas, vermicelli (optional, for harira)
 
-**Pantry, Spices & Sauces:** ras el hanout, ground cumin, sweet paprika, ground cinnamon, ground turmeric, ground ginger, ground coriander, saffron threads, green or violet olives, honey, dried apricots, blanched almonds, sesame seeds, orange blossom water, crushed tomatoes, olive oil, butter (or smen), chicken stock, dates (to serve with harira), raisins (optional, for couscous garnish)
+**Pantry, Spices & Sauces:** ras el hanout, ground cumin, sweet paprika, ground cinnamon, ground turmeric, ground ginger, ground coriander, ground black pepper, saffron threads, green or violet olives, honey, dried apricots, blanched almonds, sesame seeds, orange blossom water, crushed tomatoes, olive oil, butter (or smen), chicken stock, dates (to serve with harira), raisins (optional, for couscous garnish)
 
 ## Recipe Cards
 
@@ -65,6 +65,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Onion, finely chopped | 20g | 40g | 60g | 80g |
 | Celery, finely chopped | 10g | 20g | 30g | 40g |
 | Fresh ginger, grated | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Ground black pepper | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ground turmeric | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ground cinnamon | pinch | pinch | ⅛ tsp | ¼ tsp |
 | Saffron threads | pinch | pinch | 2 pinches | 2 pinches |
@@ -77,7 +78,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 
 **Steps:**
 1. Ask an adult to help warm a splash of oil in a large pot over medium heat. Add the onion and celery and cook 4–5 minutes until soft.
-2. Stir in the ginger, turmeric, cinnamon, and saffron. Cook 30 seconds, stirring, until fragrant.
+2. Stir in the ginger, black pepper, turmeric, cinnamon, and saffron. Cook 30 seconds, stirring, until fragrant.
 3. Add the crushed tomatoes, lentils, drained chickpeas, and water. Ask an adult to help bring it to a boil.
 4. Turn the heat down to a gentle simmer, cover partway, and cook 45–60 minutes, until the lentils and chickpeas are completely tender.
 5. If using vermicelli, stir it in and simmer 5–8 minutes more, until tender.

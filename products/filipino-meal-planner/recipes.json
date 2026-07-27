@@ -196,6 +196,7 @@
           ["Carrot, sliced", "40g", "80g", "120g", "160g"],
           ["Red bell pepper, sliced", "¼", "½", "¾", "1"],
           ["Green bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Pitted green olives, sliced", "15g", "30g", "45g", "60g"],
           ["Onion, chopped", "25g", "50g", "75g", "100g"],
           ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
           ["Bay leaf", "¼", "½", "¾", "1"],
@@ -209,7 +210,7 @@
           "Cover partway and simmer 60-75 minutes until the beef is fork-tender.",
           "Add the potato and carrot, simmer 10-12 minutes until just tender.",
           "Stir in the liver spread until it dissolves and thickens the sauce.",
-          "Add the bell peppers and simmer 5 minutes until just softened.",
+          "Add the bell peppers and green olives, simmer 5 minutes until just softened.",
           "Stir in the shredded cheese, if using, until melted.",
           "Season with salt and serve hot over steamed rice."
         ]}

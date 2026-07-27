@@ -236,6 +236,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Green pepper, chopped | ¼ | ½ | ¾ | 1 |
 | Tomato, chopped | ¼ | ½ | ¾ | 1 |
 | Tomato paste | 5g | 10g | 15g | 20g |
+| Red pepper paste (biber salçası) | 5g | 10g | 15g | 20g |
 | Shredded kaşar cheese (or mozzarella) | 40g | 80g | 120g | 160g |
 | Paprika | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Pul biber | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
@@ -246,7 +247,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 1. Dissolve the yeast and sugar in the warm water; let sit 5 minutes until foamy.
 2. Mix in the yogurt, olive oil, flour, and salt, and knead 6–8 minutes until smooth and elastic.
 3. Cover and let rise in a warm place 45–60 minutes until roughly doubled (or 25–30 minutes in a slightly warmed oven if you're short on time).
-4. Meanwhile, mix the ground beef, onion, green pepper, tomato, tomato paste, paprika, pul biber, salt, and pepper in a bowl to make the filling.
+4. Meanwhile, mix the ground beef, onion, green pepper, tomato, tomato paste, red pepper paste, paprika, pul biber, salt, and pepper in a bowl to make the filling.
 5. Preheat the oven to 230°C (450°F) with a baking sheet inside.
 6. Punch down the dough and roll each portion into a long oval, about 1cm thick.
 7. Spread the meat filling down the center, leaving a 2–3cm border, and sprinkle the shredded kaşar cheese over the filling.

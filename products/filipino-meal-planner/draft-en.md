@@ -23,7 +23,7 @@ Bundle 09 of the "Taste of the World" cuisine series. Digital download bundle (P
 
 **Rice, Noodles & Wrappers:** jasmine or steamed white rice, dried pancit canton noodles (wheat noodles), lumpia/spring roll wrappers
 
-**Canned, Dairy & Coconut:** coconut milk, condensed milk, evaporated milk, liver spread (e.g. Reno-style), tomato sauce, shrimp paste (bagoong alamang), quickmelt cheese (optional)
+**Canned, Dairy & Coconut:** coconut milk, condensed milk, evaporated milk, liver spread (e.g. Reno-style), tomato sauce, shrimp paste (bagoong alamang), quickmelt cheese (optional), pitted green olives
 
 **Sauces & Pantry:** soy sauce, white cane vinegar (sukang maasim), fish sauce (patis), oyster sauce, bay leaves, whole peppercorns, brown sugar, white sugar, vanilla extract, tamarind soup base or tamarind paste, cooking oil, sweet chili sauce or banana ketchup (for dipping)
 
@@ -164,6 +164,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Carrot, sliced | 40g | 80g | 120g | 160g |
 | Red bell pepper, sliced | ¼ | ½ | ¾ | 1 |
 | Green bell pepper, sliced | ¼ | ½ | ¾ | 1 |
+| Pitted green olives, sliced | 15g | 30g | 45g | 60g |
 | Onion, chopped | 25g | 50g | 75g | 100g |
 | Garlic, minced | 1 clove | 2 cloves | 3 cloves | 4 cloves |
 | Bay leaf | ¼ | ½ | ¾ | 1 |
@@ -177,7 +178,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 4. Cover partway and simmer 60–75 minutes, stirring occasionally, until the beef is fork-tender.
 5. Add the potato and carrot and simmer 10–12 minutes until just tender.
 6. Stir in the liver spread until it fully dissolves into the sauce, thickening and darkening it.
-7. Add the bell peppers and simmer 5 minutes until just softened, not mushy.
+7. Add the bell peppers and green olives, and simmer 5 minutes until just softened, not mushy.
 8. Stir in the shredded cheese, if using, until melted and the sauce turns glossy.
 9. Taste and season with salt, or a touch more liver spread for richness.
 10. Serve hot over steamed rice.

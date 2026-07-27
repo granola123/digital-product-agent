@@ -91,7 +91,8 @@
           ["Dry sherry or dry white wine", "15ml", "30ml", "45ml", "60ml"],
           ["Lemon juice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
           ["Fresh parsley, chopped", "5g", "10g", "15g", "20g"],
-          ["Crusty bread, for serving", "1 slice", "2 slices", "3 slices", "4 slices"]
+          ["Crusty bread, for serving", "1 slice", "2 slices", "3 slices", "4 slices"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Pat the shrimp dry and season lightly with salt.",
@@ -124,7 +125,8 @@
           ["Dry white wine", "30ml", "60ml", "90ml", "120ml"],
           ["Bay leaf", "¼", "½", "¾", "1"],
           ["Fresh thyme sprig", "¼", "½", "¾", "1"],
-          ["Fresh parsley, chopped", "3g", "6g", "9g", "12g"]
+          ["Fresh parsley, chopped", "3g", "6g", "9g", "12g"],
+          ["Salt and black pepper", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Season the chicken pieces with salt and pepper.",
@@ -208,7 +210,8 @@
           ["Bay leaf", "¼", "½", "¾", "1"],
           ["Smoked paprika (pimentón)", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
           ["Saffron threads", "pinch", "pinch", "small pinch", "pinch"],
-          ["Stock or water", "300ml", "600ml", "900ml", "1200ml"]
+          ["Stock or water", "300ml", "600ml", "900ml", "1200ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Soak the dried beans in plenty of cold water overnight, at least 8 hours; drain before cooking.",

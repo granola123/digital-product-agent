@@ -1,0 +1,322 @@
+{
+  "recipes": [
+    {
+      "id": "nasilemak",
+      "title": "Nasi Lemak",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "A plate of nasi lemak with coconut rice, fried chicken, sambal, fried anchovies, and cucumber on a banana leaf",
+      "prep_label": "Prep — Wrapped &amp; Ready",
+      "prep_alt": "Stacks of nasi lemak wrapped in banana leaf and paper packets, ready to serve",
+      "sections": [
+        {"type": "table", "heading": "Coconut Rice — Ingredients by Serving",
+         "rows": [
+           ["Jasmine rice", "75g", "150g", "225g", "300g"],
+           ["Coconut milk", "60ml", "120ml", "180ml", "240ml"],
+           ["Water", "60ml", "120ml", "180ml", "240ml"],
+           ["Pandan leaf, knotted", "1", "2", "3", "4"],
+           ["Ginger, sliced", "2g", "4g", "6g", "8g"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"]
+         ]},
+        {"type": "table", "heading": "Sambal &amp; Accompaniments — Ingredients by Serving",
+         "rows": [
+           ["Dried red chilies, soaked", "4", "8", "12", "16"],
+           ["Shallots", "20g", "40g", "60g", "80g"],
+           ["Garlic clove", "1", "2", "3", "4"],
+           ["Belacan (shrimp paste)", "3g", "6g", "9g", "12g"],
+           ["Onion, sliced", "20g", "40g", "60g", "80g"],
+           ["Tamarind juice", "15ml", "30ml", "45ml", "60ml"],
+           ["Sugar", "5g", "10g", "15g", "20g"],
+           ["Cooking oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Dried anchovies (ikan bilis), whole", "10g", "20g", "30g", "40g"],
+           ["Roasted peanuts", "10g", "20g", "30g", "40g"],
+           ["Egg, hard-boiled", "1", "2", "3", "4"],
+           ["Cucumber, sliced", "30g", "60g", "90g", "120g"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the rice, then combine with coconut milk, water, pandan leaf, ginger, and salt in a rice cooker or pot. Cook until tender and fragrant.",
+          "Soak the dried chilies in hot water 15 minutes until softened, then drain.",
+          "Blend the soaked chilies, shallots, garlic, and belacan into a fine paste.",
+          "Heat the oil in a pan or wok and fry the paste over medium heat until fragrant and the oil starts to separate, about 8–10 minutes.",
+          "Add the sliced onion and cook 2 minutes, then stir in the tamarind juice and sugar. Simmer 8–10 minutes until thick, glossy, and deep red. Season with salt.",
+          "Meanwhile, fry the whole dried anchovies in a little oil over medium heat until crisp and golden, 2–3 minutes. Drain on paper towel.",
+          "Hard-boil the eggs (about 10–11 minutes), cool in cold water, peel, and halve.",
+          "Toast the peanuts in a dry pan until golden and fragrant.",
+          "Plate the coconut rice with a generous spoonful of sambal, the fried anchovies, roasted peanuts, egg halves, and cucumber slices arranged around it."
+        ]}
+      ]
+    },
+    {
+      "id": "chickencurry",
+      "title": "Malaysian Chicken Curry",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "Malaysian chicken curry served alongside colorful roti jala lace pancakes on a wooden plate",
+      "prep_label": "Prep — Served with Rice",
+      "prep_alt": "A bowl of Malaysian chicken curry served alongside blue butterfly-pea rice, crackers, and cucumber",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in, cut into pieces", "150g", "300g", "450g", "600g"],
+           ["Malaysian meat curry powder", "10g", "20g", "30g", "40g"],
+           ["Water (to make curry paste)", "15ml", "30ml", "45ml", "60ml"],
+           ["Potatoes, chunked", "60g", "120g", "180g", "240g"],
+           ["Onion, sliced", "30g", "60g", "90g", "120g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Ginger, minced", "3g", "6g", "9g", "12g"],
+           ["Lemongrass, bruised", "&frac12; stalk", "1 stalk", "1&frac12; stalks", "2 stalks"],
+           ["Fresh curry leaves", "4", "8", "12", "16"],
+           ["Cinnamon stick", "&#8539;", "&frac14;", "&frac38;", "&frac12;"],
+           ["Star anise", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Coconut milk", "80ml", "160ml", "240ml", "320ml"],
+           ["Chicken stock or water", "100ml", "200ml", "300ml", "400ml"],
+           ["Cooking oil", "10ml", "20ml", "30ml", "40ml"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Mix the curry powder with the water to form a smooth paste.",
+          "Heat the oil in a pot over medium heat and fry the cinnamon, star anise, and curry leaves until fragrant, about 30 seconds.",
+          "Add the onion, garlic, ginger, and lemongrass, and cook 3–4 minutes until softened.",
+          "Add the curry paste and fry 3–4 minutes, stirring constantly, until fragrant and the oil begins to separate.",
+          "Add the chicken pieces and stir to coat well in the paste, cooking 3–4 minutes.",
+          "Add the potatoes and chicken stock, bring to a boil, then reduce heat and simmer, covered, 20 minutes.",
+          "Stir in the coconut milk and simmer, uncovered, 10 more minutes until the chicken is cooked through and the sauce has thickened slightly.",
+          "Season with salt and a pinch of sugar to taste. Serve hot with steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "charkwayteow",
+      "title": "Char Kway Teow",
+      "time": "25 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "Char kway teow stir-fried flat rice noodles with egg, bean sprouts, and Chinese sausage on a green plate",
+      "prep_label": "Prep — Wok-Charred &amp; Saucy",
+      "prep_alt": "A close-up bowl of char kway teow noodles with cockles and a glossy dark sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Fresh flat rice noodles (kway teow)", "150g", "300g", "450g", "600g"],
+           ["Shrimp, peeled", "50g", "100g", "150g", "200g"],
+           ["Chinese sausage (lap cheong), sliced", "15g", "30g", "45g", "60g"],
+           ["Egg", "1", "2", "3", "4"],
+           ["Bean sprouts", "30g", "60g", "90g", "120g"],
+           ["Garlic chives, cut into 2-inch lengths", "15g", "30g", "45g", "60g"],
+           ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+           ["Dark soy sauce", "5ml", "10ml", "15ml", "20ml"],
+           ["Light soy sauce", "10ml", "20ml", "30ml", "40ml"],
+           ["Kicap manis (sweet soy sauce)", "5ml", "10ml", "15ml", "20ml"],
+           ["Chili paste (sambal, optional)", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Cooking oil", "15ml", "30ml", "45ml", "60ml"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Have all ingredients prepped and within arm's reach — this dish cooks in minutes over very high heat.",
+          "Heat a wok until it just starts to smoke, then add the oil.",
+          "Add the garlic and stir-fry 10 seconds, then add the sausage and fry 1 minute.",
+          "Add the shrimp and stir-fry until just turning pink, about 1 minute.",
+          "Push everything to one side, crack the egg into the empty space, and scramble briefly before mixing it through.",
+          "Add the noodles, dark soy sauce, light soy sauce, and kicap manis. Toss vigorously to coat evenly and pick up a little char, 2–3 minutes.",
+          "Add the bean sprouts and garlic chives, tossing just until wilted, about 30–60 seconds.",
+          "Stir in the chili paste if using, taste and adjust seasoning, and serve immediately while hot."
+        ]}
+      ]
+    },
+    {
+      "id": "sambaludang",
+      "title": "Sambal Udang (Prawn Sambal)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Sambal udang prawn sambal served over rice with cucumber slices and a boiled egg",
+      "prep_label": "Prep — Prawns in the Sambal",
+      "prep_alt": "Prawns being stir-fried with garlic and chili sambal in a wok",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Prawns, peeled and deveined, tail-on", "120g", "240g", "360g", "480g"],
+           ["Dried red chilies, soaked", "4", "8", "12", "16"],
+           ["Shallots", "20g", "40g", "60g", "80g"],
+           ["Garlic clove", "1", "2", "3", "4"],
+           ["Belacan (shrimp paste)", "3g", "6g", "9g", "12g"],
+           ["Onion, sliced", "20g", "40g", "60g", "80g"],
+           ["Tamarind juice", "15ml", "30ml", "45ml", "60ml"],
+           ["Sugar", "5g", "10g", "15g", "20g"],
+           ["Kaffir lime leaves, torn", "1", "2", "3", "4"],
+           ["Cooking oil", "15ml", "30ml", "45ml", "60ml"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Blend the soaked chilies, shallots, garlic, and belacan into a fine paste (a mortar and pestle gives the most authentic texture, but a food processor works fine).",
+          "Heat the oil in a wok over medium heat and fry the paste until fragrant and darkened, with the oil visibly separating around the edges, about 8 minutes.",
+          "Add the sliced onion and cook 2 minutes until softened.",
+          "Stir in the tamarind juice, sugar, and kaffir lime leaves, and simmer 3–4 minutes until thick and glossy.",
+          "Add the prawns and toss to coat evenly in the sambal. Cook 3–4 minutes until just pink and cooked through — don't overcook or they'll turn rubbery.",
+          "Season with salt to taste and serve hot with steamed rice."
+        ]}
+      ]
+    },
+    {
+      "id": "currylaksa",
+      "title": "Curry Laksa",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A bowl of curry laksa with tofu puffs, fish cake, bean sprouts, and a sambal garnish in an orange bowl",
+      "prep_label": "Prep — Rich Curry Broth",
+      "prep_alt": "A close-up bowl of creamy curry laksa broth topped with quail egg, tofu puffs, and fried shallots",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, boneless, sliced", "60g", "120g", "180g", "240g"],
+           ["Prawns, peeled", "50g", "100g", "150g", "200g"],
+           ["Laksa curry paste (store-bought, or blended chili, shallot, garlic, galangal, candlenut &amp; belacan)", "20g", "40g", "60g", "80g"],
+           ["Lemongrass, bruised", "&frac12; stalk", "1 stalk", "1&frac12; stalks", "2 stalks"],
+           ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+           ["Chicken stock", "150ml", "300ml", "450ml", "600ml"],
+           ["Tofu puffs", "20g", "40g", "60g", "80g"],
+           ["Fish cake, sliced", "20g", "40g", "60g", "80g"],
+           ["Fresh yellow egg noodles (or rice vermicelli)", "80g", "160g", "240g", "320g"],
+           ["Bean sprouts", "20g", "40g", "60g", "80g"],
+           ["Cooking oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Sambal belacan, for garnish", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a pot and fry the curry paste with the lemongrass over medium heat until fragrant and the oil starts to separate, about 5 minutes.",
+          "Add the chicken stock, bring to a boil, then reduce heat and simmer 10 minutes.",
+          "Add the sliced chicken and simmer until just cooked through, about 8–10 minutes.",
+          "Stir in the coconut milk, tofu puffs, and fish cake, and simmer 5 minutes. Season with salt and a little sugar to taste.",
+          "Add the prawns and cook 2–3 minutes until pink and just cooked through.",
+          "Meanwhile, blanch the noodles and bean sprouts separately in boiling water, then drain and divide between bowls.",
+          "Ladle the hot curry broth with chicken and prawns over the noodles.",
+          "Top with a dollop of sambal belacan and serve hot."
+        ]}
+      ]
+    },
+    {
+      "id": "chickenrice",
+      "title": "Hainanese Chicken Rice",
+      "time": "60 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "Hainanese chicken rice with sliced poached chicken, garlic rice, cucumber, and dipping sauces",
+      "prep_label": "Prep — Chicken &amp; Rice, Plated Together",
+      "prep_alt": "Sliced Hainanese chicken with greens and a mound of garlic rice on a tray with soup",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thigh or leg quarters, bone-in", "200g", "400g", "600g", "800g"],
+           ["Ginger, sliced", "10g", "20g", "30g", "40g"],
+           ["Scallions", "1", "2", "3", "4"],
+           ["Garlic, minced (for rice)", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+           ["Jasmine rice", "75g", "150g", "225g", "300g"],
+           ["Reserved poaching stock (for cooking rice)", "100ml", "200ml", "300ml", "400ml"],
+           ["Sesame oil", "5ml", "10ml", "15ml", "20ml"],
+           ["Cucumber, sliced, for garnish", "30g", "60g", "90g", "120g"],
+           ["Dark soy sauce, for drizzling", "5ml", "10ml", "15ml", "20ml"],
+           ["Red chili, for dipping sauce", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Lime, for dipping sauce", "&frac14;", "&frac12;", "&frac34;", "1"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rub the chicken pieces all over with salt. Bring a pot of water to a boil with the ginger slices and scallions.",
+          "Add the chicken, reduce to a gentle simmer, and poach 20–25 minutes until just cooked through (juices run clear, no pink near the bone).",
+          "Remove the chicken and plunge it into ice water for 5 minutes to tighten the skin, then drain. Reserve the poaching stock.",
+          "Rinse the rice. Sauté the minced garlic in a little oil (or skimmed chicken fat from the stock) until fragrant, then add the rice and toast 1–2 minutes.",
+          "Cook the rice in the reserved poaching stock (rice cooker or covered pot) until tender and fragrant.",
+          "Make the dipping sauce: blend the chili, garlic, ginger, and lime juice with a splash of the poaching stock and a pinch each of sugar and salt.",
+          "Slice the chicken and brush the skin with sesame oil for shine.",
+          "Serve the chicken over or alongside the rice with cucumber slices, a drizzle of dark soy sauce, the chili-ginger dipping sauce, and a small bowl of the hot poaching broth on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "meegoreng",
+      "title": "Mee Goreng Mamak",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -1.2,
+      "gold": false,
+      "dish_alt": "Mee goreng mamak fried noodles with shrimp, egg, and bean sprouts in a spicy sauce",
+      "prep_label": "Prep — Plated with Lime",
+      "prep_alt": "A plate of mee goreng mamak fried noodles with a lime wedge, ready to serve",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Fresh yellow egg noodles", "150g", "300g", "450g", "600g"],
+           ["Firm tofu, cubed and pan-fried", "30g", "60g", "90g", "120g"],
+           ["Potato, boiled and cubed", "40g", "80g", "120g", "160g"],
+           ["Egg", "1", "2", "3", "4"],
+           ["Bean sprouts", "30g", "60g", "90g", "120g"],
+           ["Choy sum (or cabbage), chopped", "30g", "60g", "90g", "120g"],
+           ["Garlic, minced", "1 clove", "2 cloves", "3 cloves", "4 cloves"],
+           ["Curry powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Chili paste or sambal", "10g", "20g", "30g", "40g"],
+           ["Tomato ketchup", "10ml", "20ml", "30ml", "40ml"],
+           ["Kicap manis (sweet soy sauce)", "10ml", "20ml", "30ml", "40ml"],
+           ["Cooking oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Lime wedge, for serving", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a wok and sauté the garlic until fragrant, about 30 seconds.",
+          "Add the curry powder and fry 30 seconds until aromatic.",
+          "Push the aromatics to one side, crack in the egg, scramble briefly, then mix through.",
+          "Add the noodles, fried tofu, and potato cubes, tossing to combine.",
+          "Stir in the chili paste, ketchup, and kicap manis, tossing until the noodles are evenly coated and starting to caramelize at the edges, 2–3 minutes.",
+          "Add the bean sprouts and choy sum, tossing just until wilted, about 1 minute.",
+          "Serve hot with lime wedges on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "roticanai",
+      "title": "Roti Canai with Dal (Bonus)",
+      "time": "40 min (+2 hr dough rest)",
+      "level": "Easy",
+      "tilt": 1.3,
+      "gold": true,
+      "dish_alt": "Flaky roti canai flatbread served with two bowls of yellow dal for dipping",
+      "prep_label": "Prep — Stretching the Dough",
+      "prep_alt": "A cook stretching roti canai dough paper-thin by hand at a griddle",
+      "sections": [
+        {"type": "table", "heading": "Roti Dough — Ingredients by Serving",
+         "rows": [
+           ["All-purpose flour", "70g", "140g", "210g", "280g"],
+           ["Water", "35ml", "70ml", "105ml", "140ml"],
+           ["Egg (optional, for a richer dough)", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Sweetened condensed milk (or sugar)", "5ml", "10ml", "15ml", "20ml"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Ghee or oil, for laminating and cooking", "20g", "40g", "60g", "80g"]
+         ]},
+        {"type": "table", "heading": "Dal — Ingredients by Serving",
+         "rows": [
+           ["Red lentils (masoor dal)", "40g", "80g", "120g", "160g"],
+           ["Water or stock", "150ml", "300ml", "450ml", "600ml"],
+           ["Onion, chopped", "15g", "30g", "45g", "60g"],
+           ["Garlic clove", "&frac12;", "1", "1&frac12;", "2"],
+           ["Fresh curry leaves", "3", "6", "9", "12"],
+           ["Mustard seeds", "&#8539; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Ground turmeric", "&#8539; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Cooking oil or ghee", "5ml", "10ml", "15ml", "20ml"]
+         ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the roti dough: combine the flour, salt, condensed milk, egg (if using), and water. Knead 8–10 minutes until smooth and elastic.",
+          "Rub the dough all over with a little oil, cover, and rest at least 2 hours at room temperature (or overnight in the fridge) — this long rest is what lets it stretch paper-thin later.",
+          "Divide the rested dough into balls, coat each generously in oil, and rest 30 minutes more.",
+          "Make the dal: heat the oil in a pot and temper the mustard seeds and curry leaves until the seeds start to pop, about 30 seconds.",
+          "Add the onion and garlic, cooking 3–4 minutes until softened, then stir in the turmeric.",
+          "Add the red lentils and water, bring to a boil, then reduce heat and simmer 15–20 minutes until the lentils are soft and the dal has thickened. Season with salt.",
+          "On a well-oiled surface, flatten and stretch each dough ball as thin as possible — ideally almost see-through — then fold it into a square or coil and flatten again to build flaky layers.",
+          "Cook each roti on a hot, well-oiled griddle or skillet 2–3 minutes per side until golden brown and crisp, pressing the edges gently to release any steam pockets.",
+          "Clap the hot roti between your hands (or crush gently with two spatulas) to flake the layers apart.",
+          "Serve hot with the dal for dipping."
+        ]}
+      ]
+    }
+  ]
+}

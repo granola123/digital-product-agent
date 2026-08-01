@@ -1,0 +1,114 @@
+{
+  "nasilemak": {
+    "dish": {
+      "title": "File:Nasi lemak on banana leaf.jpg",
+      "artist": "Jpatokal",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nasi_lemak_on_banana_leaf.jpg"
+    },
+    "prep": {
+      "title": "File:Stacked packs of nasi lemak, Seremban.jpg",
+      "artist": "AyyanD",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Stacked_packs_of_nasi_lemak%2C_Seremban.jpg"
+    }
+  },
+  "chickencurry": {
+    "dish": {
+      "title": "File:ROTI JALA & CHICKEN CURRY.jpg",
+      "artist": "Elly Suhailee",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/ROTI_JALA_%26_CHICKEN_CURRY.jpg"
+    },
+    "prep": {
+      "title": "File:Nasi kerabu with Malaysian chicken curry.jpg",
+      "artist": "Shadowsnuggles",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Nasi_kerabu_with_Malaysian_chicken_curry.jpg"
+    }
+  },
+  "charkwayteow": {
+    "dish": {
+      "title": "File:Malaysian Char Kuey Teow.jpg",
+      "artist": "Foodi-elaine",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Malaysian_Char_Kuey_Teow.jpg"
+    },
+    "prep": {
+      "title": "File:Char Kuey Teow Basah.jpg",
+      "artist": "Unilokman25",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Char_Kuey_Teow_Basah.jpg"
+    }
+  },
+  "sambaludang": {
+    "dish": {
+      "title": "File:Sambal udang dan petai.jpg",
+      "artist": "Dr.Francostein1975",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sambal_udang_dan_petai.jpg"
+    },
+    "prep": {
+      "title": "File:Udang Tumis Bawang Putih Cili.jpg",
+      "artist": "Mdsheth1986",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Udang_Tumis_Bawang_Putih_Cili.jpg"
+    }
+  },
+  "currylaksa": {
+    "dish": {
+      "title": "File:Curry Laksa served in Kuala Lumpur.jpg",
+      "artist": "Mw12310",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Curry_Laksa_served_in_Kuala_Lumpur.jpg"
+    },
+    "prep": {
+      "title": "File:Curry Laksa.jpg",
+      "artist": "Alpha",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Curry_Laksa.jpg"
+    }
+  },
+  "chickenrice": {
+    "dish": {
+      "title": "File:Hainanese chicken rice.jpg",
+      "artist": "Misaochan",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hainanese_chicken_rice.jpg"
+    },
+    "prep": {
+      "title": "File:Hainanese chicken rice in Singapore.jpg",
+      "artist": "Pauloleong2002",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hainanese_chicken_rice_in_Singapore.jpg"
+    }
+  },
+  "meegoreng": {
+    "dish": {
+      "title": "File:Mee Goreng Mamak.jpg",
+      "artist": "Nur Aishah Binti Abdullah",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mee_Goreng_Mamak.jpg"
+    },
+    "prep": {
+      "title": "File:Mee goreng mamak 20231114 133123.jpg",
+      "artist": "Wiki Farazi",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mee_goreng_mamak_20231114_133123.jpg"
+    }
+  },
+  "roticanai": {
+    "dish": {
+      "title": "File:Roti canai with dal in Kuala Lumpur, July 2014.jpg",
+      "artist": "Sunnya343",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Roti_canai_with_dal_in_Kuala_Lumpur%2C_July_2014.jpg"
+    },
+    "prep": {
+      "title": "File:Making Roti Canai.jpg",
+      "artist": "AssFeder",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Making_Roti_Canai.jpg"
+    }
+  }
+}

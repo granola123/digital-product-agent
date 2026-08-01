@@ -1,0 +1,260 @@
+{
+  "recipes": [
+    {
+      "id": "misirwat",
+      "title": "Misir Wat (Spiced Red Lentil Stew)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -1.0,
+      "gold": true,
+      "dish_alt": "A mound of deep reddish-brown Misir Wat lentil stew served on injera, alongside greens",
+      "prep_label": "Prep — Misir Wat on a Fasting Platter",
+      "prep_alt": "Misir Wat shown as part of a full Ethiopian vegetarian fasting platter with cabbage, greens, and salad",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Red split lentils", "60g", "120g", "180g", "240g"],
+          ["Red onion, chopped", "40g", "80g", "120g", "160g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Ginger, grated", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Berbere spice blend", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Tomato paste", "5g", "10g", "15g", "20g"],
+          ["Vegetable oil or niter kibbeh", "10ml", "20ml", "30ml", "40ml"],
+          ["Vegetable stock or water", "200ml", "400ml", "600ml", "800ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Warm the oil (or niter kibbeh) in a pot over medium heat. Add the onion and cook 8-10 minutes, stirring, until soft and golden.",
+          "Add the garlic and ginger and cook 1 minute until fragrant.",
+          "Stir in the berbere and tomato paste, cooking 1-2 minutes until deep red and fragrant.",
+          "Rinse the lentils, then add them to the pot along with the stock or water. Bring to a boil.",
+          "Reduce heat and simmer, uncovered, 15-20 minutes, stirring occasionally, until the lentils are fully soft and the stew has thickened.",
+          "Season with salt to taste, thinning with a splash more water if needed.",
+          "Serve warm with injera, or over rice as a shortcut."
+        ]}
+      ]
+    },
+    {
+      "id": "tibs",
+      "title": "Tibs (Sautéed Beef with Peppers &amp; Onions)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "Sizzling strips of Tibs beef served in a traditional black clay pot",
+      "prep_label": "Prep — Tibs Sizzling Over Charcoal",
+      "prep_alt": "A clay pot of Tibs beef strips kept warm over a small charcoal stove",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef sirloin, cut into thin strips", "130g", "260g", "390g", "520g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Green bell pepper or jalapeño, sliced", "¼", "½", "¾", "1"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Ginger, grated", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Berbere spice blend", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Niter kibbeh or butter", "10g", "20g", "30g", "40g"],
+          ["Rosemary sprig (optional, traditional)", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the beef strips dry and season with salt and pepper.",
+          "Heat the niter kibbeh (or butter) in a skillet over high heat until shimmering.",
+          "Sear the beef 2-3 minutes, tossing occasionally, until browned outside but still pink in the middle. Remove to a plate.",
+          "In the same skillet, add the onion and pepper, cooking 4-5 minutes until softened and lightly charred in spots.",
+          "Add the garlic, ginger, and rosemary (if using), cooking 1 minute until fragrant.",
+          "Stir in the berbere and a pinch of salt.",
+          "Return the beef and any juices to the skillet and toss 2-3 minutes until coated and cooked to your liking.",
+          "Serve hot, straight from the pan, with injera or flatbread."
+        ]}
+      ]
+    },
+    {
+      "id": "shirowat",
+      "title": "Shiro Wat (Spiced Chickpea-Flour Stew)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "A black bowl of smooth, reddish-orange Shiro Wat chickpea stew served with injera",
+      "prep_label": "Prep — Shiro Wat Spooned onto Injera",
+      "prep_alt": "A portion of Shiro Wat spooned onto a round of injera, ready to be shared",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chickpea flour (or shiro powder)", "40g", "80g", "120g", "160g"],
+          ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Tomato, chopped", "¼", "½", "¾", "1"],
+          ["Berbere spice blend", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Water", "200ml", "400ml", "600ml", "800ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a saucepan over medium heat. Add the onion and cook 5 minutes until soft and translucent.",
+          "Add the garlic and cook 1 minute until fragrant.",
+          "Add the chopped tomato and berbere, cooking 2-3 minutes until the tomato breaks down and the mixture is deep red.",
+          "In a separate bowl, whisk the chickpea flour into the water until completely smooth with no lumps.",
+          "Pour the chickpea-flour mixture into the pot, whisking constantly as it heats to prevent clumping.",
+          "Bring to a gentle simmer and cook 8-10 minutes, stirring frequently, until thick, glossy, and no longer tastes raw or floury.",
+          "Season with salt, thin with a splash more water if needed, and serve hot with injera."
+        ]}
+      ]
+    },
+    {
+      "id": "atkiltwat",
+      "title": "Atkilt Wat (Cabbage, Carrot &amp; Potato Stew)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Turmeric-yellow Atkilt Wat with visible cabbage and carrot pieces served on injera",
+      "prep_label": "Prep — Atkilt Wat on a Mixed Platter",
+      "prep_alt": "Atkilt Wat plated alongside collard greens and other Ethiopian stews on injera",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Green cabbage, sliced", "150g", "300g", "450g", "600g"],
+          ["Carrot, sliced", "50g", "100g", "150g", "200g"],
+          ["Potato, cubed", "80g", "160g", "240g", "320g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Ginger, grated", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Water", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a wide pan or pot over medium heat. Add the onion, garlic, and ginger, cooking 3-4 minutes until softened.",
+          "Stir in the turmeric and cumin, cooking 1 minute until fragrant and the onions are stained gold.",
+          "Add the potato and the water, cover, and cook 8-10 minutes until the potato is nearly tender.",
+          "Add the carrot, cover, and cook 5 minutes more.",
+          "Add the cabbage and salt, cover, and cook 8-10 minutes, stirring occasionally, until tender but the cabbage still has a little bite.",
+          "Taste and adjust salt. Serve warm, on its own or alongside a wat."
+        ]}
+      ]
+    },
+    {
+      "id": "dorowat",
+      "title": "Doro Wat (Spiced Chicken Stew)",
+      "time": "75 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A chicken drumstick and hard-boiled egg half in deep red Doro Wat sauce, served on injera",
+      "prep_label": "Prep — Doro Wat Plated on a Full Platter",
+      "prep_alt": "A formal serving of Doro Wat and other wats plated together atop injera",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in, skin removed", "150g", "300g", "450g", "600g"],
+          ["Red onion, finely diced", "60g", "120g", "180g", "240g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Niter kibbeh or butter", "15g", "30g", "45g", "60g"],
+          ["Berbere spice blend", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Tomato paste", "10g", "20g", "30g", "40g"],
+          ["Chicken stock or water", "60ml", "120ml", "180ml", "240ml"],
+          ["Hard-boiled eggs", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Melt the niter kibbeh (or butter) in a heavy pot over low heat. Add the red onion, cover, and cook 20-25 minutes, stirring every few minutes, until deeply softened and jammy.",
+          "Add the garlic and ginger, cooking 2-3 minutes until fragrant.",
+          "Stir in the berbere and tomato paste, cooking 2 minutes until the mixture turns deep brick red and smells toasted.",
+          "Add the chicken thighs, turning to coat every piece in the spiced onions.",
+          "Pour in the stock or water, bring to a gentle simmer, cover, and cook 25-30 minutes, stirring occasionally, until the chicken is cooked through and tender.",
+          "Nestle the hard-boiled eggs into the sauce, spooning some sauce over each. Simmer uncovered 5-10 minutes so the eggs soak up flavor and the sauce thickens slightly.",
+          "Season with salt to taste. Serve hot with injera."
+        ]}
+      ]
+    },
+    {
+      "id": "keywat",
+      "title": "Key Wat (Spiced Beef Stew)",
+      "time": "60 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A bowl of deep red Key Wat beef stew topped with a slice of hard-boiled egg",
+      "prep_label": "Prep — Key Wat on an Injera Platter",
+      "prep_alt": "A beef-style wat plated within a mixed injera platter with lentils and greens",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef stew meat (chuck), cubed", "150g", "300g", "450g", "600g"],
+          ["Red onion, finely diced", "60g", "120g", "180g", "240g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Niter kibbeh, butter, or oil", "15g", "30g", "45g", "60g"],
+          ["Berbere spice blend", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+          ["Tomato paste", "10g", "20g", "30g", "40g"],
+          ["Beef stock or water", "100ml", "200ml", "300ml", "400ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the niter kibbeh (or oil) in a heavy pot or Dutch oven over medium heat. Season the beef with salt and pepper, then brown it in batches, 2-3 minutes per side. Remove to a plate.",
+          "In the same pot, add the onion and cook 12-15 minutes, stirring occasionally, until deeply golden and softened.",
+          "Add the garlic and ginger, cooking 1-2 minutes until fragrant.",
+          "Stir in the berbere and tomato paste, cooking 2 minutes until deep red and fragrant.",
+          "Return the beef and any juices to the pot, then pour in the stock or water. Bring to a simmer.",
+          "Cover and simmer on low 35-40 minutes, stirring occasionally, until the beef is fork-tender.",
+          "Uncover and simmer 5 more minutes to thicken slightly if needed. Season with salt.",
+          "Serve hot with injera or rice."
+        ]}
+      ]
+    },
+    {
+      "id": "gomen",
+      "title": "Gomen (Collard Greens with Garlic &amp; Ginger)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A pile of dark, glossy sautéed Gomen collard greens beside ayib cheese on injera",
+      "prep_label": "Prep — Gomen on a Vegetarian Sampler",
+      "prep_alt": "Gomen collard greens plated within a full Ethiopian vegetarian sampler platter",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Collard greens, stemmed and sliced", "150g", "300g", "450g", "600g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Vegetable oil or niter kibbeh", "10ml", "20ml", "30ml", "40ml"],
+          ["Water or stock", "30ml", "60ml", "90ml", "120ml"],
+          ["Ground cumin (optional)", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a large pot over medium heat. Add the onion, garlic, and ginger, cooking 8-10 minutes, stirring occasionally, until deeply softened.",
+          "Add the collard greens in batches, stirring to wilt each addition before adding more.",
+          "Stir in the cumin (if using) and a splash of water or stock. Cover and simmer 15-20 minutes, stirring occasionally, until the greens are tender.",
+          "Season with salt to taste. Serve warm, on its own or alongside Doro Wat or Key Wat."
+        ]}
+      ]
+    },
+    {
+      "id": "injera",
+      "title": "Injera (Teff Sourdough Flatbread) (Bonus)",
+      "time": "20 min (+45-60 min rise)",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "A round of injera flatbread on a platter surrounded by eight kinds of stew",
+      "prep_label": "Prep — Pouring Batter onto the Mitad",
+      "prep_alt": "Injera batter being poured onto a hot traditional mitad griddle",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving (Weeknight-Shortcut Version)", "rows": [
+          ["Teff flour", "60g", "120g", "180g", "240g"],
+          ["All-purpose flour", "30g", "60g", "90g", "120g"],
+          ["Instant yeast", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Warm water", "150ml", "300ml", "450ml", "600ml"],
+          ["Apple cider vinegar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Baking soda", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Whisk the teff flour, all-purpose flour, yeast, and salt together in a large bowl.",
+          "Add the warm water and whisk until you have a smooth, thin, pourable batter — thinner than pancake batter.",
+          "Stir in the vinegar. Cover and let sit in a warm spot 45-60 minutes until bubbly on the surface (or refrigerate overnight for better flavor).",
+          "Just before cooking, whisk in the baking soda for a last burst of bubbles.",
+          "Heat a large nonstick skillet over medium heat and lightly oil it.",
+          "Pour a thin, even layer of batter into the pan, swirling to coat the bottom.",
+          "Cover and cook 2-3 minutes, undisturbed, until the surface is covered in small holes and the edges lift away from the pan. Do not flip.",
+          "Slide onto a plate to cool. Repeat with the remaining batter, stacking cooked injera between layers of parchment or a clean towel.",
+          "Serve at room temperature, torn into pieces, alongside the wats."
+        ]}
+      ]
+    }
+  ]
+}

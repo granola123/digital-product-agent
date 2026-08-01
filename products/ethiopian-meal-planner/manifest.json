@@ -1,0 +1,121 @@
+{
+  "dishes": [
+    {
+      "id": "misirwat",
+      "title": "Misir Wat",
+      "dish_photo": {
+        "title": "File:Misir Wot and Gomen Besiga - Abyssinia, Brighton.jpg",
+        "artist": "Andy Li",
+        "license": "CC0"
+      },
+      "prep_photo": {
+        "title": "File:Ethiopian fasting platter.jpg",
+        "artist": "Jbinthecity",
+        "license": "CC0",
+        "note": "Substitute — no standalone close-up of Misir Wat was found on Commons; this shows it as part of a fasting platter."
+      }
+    },
+    {
+      "id": "tibs",
+      "title": "Tibs",
+      "dish_photo": {
+        "title": "File:Shekla Tibs.jpg",
+        "artist": "Betselot Yergalem",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Shekla tibs.jpg",
+        "artist": "Betselot Yergalem",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "shirowat",
+      "title": "Shiro Wat",
+      "dish_photo": {
+        "title": "File:Shiro wet.jpg",
+        "artist": "Yonihahasis",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Enjera be shiro wot.jpg",
+        "artist": "Wiki teshager",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "atkiltwat",
+      "title": "Atkilt Wat",
+      "dish_photo": {
+        "title": "File:Food at Asmara Restaurant.jpg",
+        "artist": "Mx. Granger",
+        "license": "CC0",
+        "note": "Custom-cropped from a wider combo-plate photo to isolate the cabbage/carrot dish."
+      },
+      "prep_photo": {
+        "title": "File:KIK ALICHA, MISIR, GOMEN and TIKIL GOMEN.jpg",
+        "artist": "stu_spivack",
+        "license": "CC BY-SA 2.0",
+        "note": "Substitute — shows Atkilt Wat (labeled Tikil Gomen) plated alongside other stews."
+      }
+    },
+    {
+      "id": "dorowat",
+      "title": "Doro Wat",
+      "dish_photo": {
+        "title": "File:Injera and doro wat.jpg",
+        "artist": "Edsel Little",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:A formal serving of wat atop injera in Brussels, Belgium.jpg",
+        "artist": "Miguel Discart",
+        "license": "CC BY-SA 2.0"
+      }
+    },
+    {
+      "id": "keywat",
+      "title": "Key Wat",
+      "dish_photo": {
+        "title": "File:Ethiopian wat.jpg",
+        "artist": "stu_spivack",
+        "license": "CC BY-SA 2.0",
+        "note": "Substitute — no dish specifically labeled Key Wat was found on Commons; this generic dark-red spiced beef-style wat is the closest visual match."
+      },
+      "prep_photo": {
+        "title": "File:Ethiopian meal called Injera with veggies and meat.jpg",
+        "artist": "PeggyIdog00d",
+        "license": "CC BY-SA 4.0",
+        "note": "Substitute — shows a meat wat plated within a mixed injera platter."
+      }
+    },
+    {
+      "id": "gomen",
+      "title": "Gomen",
+      "dish_photo": {
+        "title": "File:Ayib and gomen.jpg",
+        "artist": "stu_spivack",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:Ethiopian vegetarian sampler.jpg",
+        "artist": "Sdkb",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "injera",
+      "title": "Injera",
+      "dish_photo": {
+        "title": "File:Injera with eight kinds of stew.jpg",
+        "artist": "Artem.G",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:With a jug pouring the injera dough.JPG",
+        "artist": "Visio",
+        "license": "CC BY-SA 4.0"
+      }
+    }
+  ]
+}

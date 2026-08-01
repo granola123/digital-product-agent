@@ -1,0 +1,114 @@
+{
+  "kungpao": {
+    "dish": {
+      "title": "File:Kung Pao Chicken at Restaurant Zen, Qianmen (20211008184642).jpg",
+      "artist": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kung_Pao_Chicken_at_Restaurant_Zen%2C_Qianmen_%2820211008184642%29.jpg"
+    },
+    "prep": {
+      "title": "File:Uncooked raw kung pao chicken.jpg",
+      "artist": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Uncooked_raw_kung_pao_chicken.jpg"
+    }
+  },
+  "beefbroccoli": {
+    "dish": {
+      "title": "File:Beef and broccoli stir fry.jpg",
+      "artist": "Joy",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Beef_and_broccoli_stir_fry.jpg"
+    },
+    "prep": {
+      "title": "File:Beef and broccoli stir fry closeup.jpg",
+      "artist": "Joy",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Beef_and_broccoli_stir_fry_closeup.jpg"
+    }
+  },
+  "mapotofu": {
+    "dish": {
+      "title": "File:Chen Mapo Tofu.jpg",
+      "artist": "ZhengZhou",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Chen_Mapo_Tofu.jpg"
+    },
+    "prep": {
+      "title": "File:Pixian Doubanjiang.png",
+      "artist": "Wikipedian-in-Waiting",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pixian_Doubanjiang.png"
+    }
+  },
+  "dandan": {
+    "dish": {
+      "title": "File:Dan Dan Noodles, Saveurs de Chengdu, Paris 003.jpg",
+      "artist": "Guilhem Vellut from Paris, France",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Dan_Dan_Noodles%2C_Saveurs_de_Chengdu%2C_Paris_003.jpg"
+    },
+    "prep": {
+      "title": "File:Dandanmian with minced pork and zhacai at Xinchuan Noodles, Xinjiekou (20220810161310).jpg",
+      "artist": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dandanmian_with_minced_pork_and_zhacai_at_Xinchuan_Noodles%2C_Xinjiekou_%2820220810161310%29.jpg"
+    }
+  },
+  "sweetsour": {
+    "dish": {
+      "title": "File:Sweet and Sour Pork - RV90 - 22 August 2024.jpg",
+      "artist": "RegionVisitor90",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sweet_and_Sour_Pork_-_RV90_-_22_August_2024.jpg"
+    },
+    "prep": {
+      "title": "File:Uncooked raw sweet and sour pork with pineapple.jpg",
+      "artist": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Uncooked_raw_sweet_and_sour_pork_with_pineapple.jpg"
+    }
+  },
+  "wontonsoup": {
+    "dish": {
+      "title": "File:Wonton soup at 65 Huguosi St (20211221173225).jpg",
+      "artist": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Wonton_soup_at_65_Huguosi_St_%2820211221173225%29.jpg"
+    },
+    "prep": {
+      "title": "File:Wonton.jpg",
+      "artist": "Rocky Masum",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wonton.jpg"
+    }
+  },
+  "friedrice": {
+    "dish": {
+      "title": "File:Hong Kong Style Fried Rice with Luncheon Meat, Sausage, and Sunny Side Up Egg - CK Bistro 2024-06-05.jpg",
+      "artist": "Andy Li",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Hong_Kong_Style_Fried_Rice_with_Luncheon_Meat%2C_Sausage%2C_and_Sunny_Side_Up_Egg_-_CK_Bistro_2024-06-05.jpg"
+    },
+    "prep": {
+      "title": "File:Chinese sausages drying.jpg",
+      "artist": "Mo Riza",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Chinese_sausages_drying.jpg"
+    }
+  },
+  "scallionpancake": {
+    "dish": {
+      "title": "File:Scallion pancakes.jpg",
+      "artist": "Fumikas Sagisavas",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Scallion_pancakes.jpg"
+    },
+    "prep": {
+      "title": "File:Plate of scallion pancakes.jpg",
+      "artist": "Infrogmation of New Orleans",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Plate_of_scallion_pancakes.jpg"
+    }
+  }
+}

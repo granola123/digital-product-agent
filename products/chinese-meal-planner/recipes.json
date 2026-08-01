@@ -1,0 +1,334 @@
+{
+  "recipes": [
+    {
+      "id": "kungpao",
+      "title": "Kung Pao Chicken (Gongbao Jiding)",
+      "time": "25 min (+20 min marinate)",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "A plate of Kung Pao Chicken with diced chicken, roasted peanuts, and dried red chilies at a Beijing restaurant",
+      "prep_label": "Prep — Marinated Chicken &amp; Aromatics",
+      "prep_alt": "Raw marinated diced chicken with peanuts, dried chilies, and scallions laid out before cooking Kung Pao chicken",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast, cubed", "90g", "180g", "270g", "360g"],
+          ["Cornstarch (marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Shaoxing wine (marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Vegetable oil (marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["White pepper", "pinch", "pinch", "⅛ tsp", "⅛ tsp"],
+          ["Raw peanuts", "20g", "40g", "60g", "80g"],
+          ["Vegetable oil (to roast peanuts)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Garlic cloves, sliced", "1", "2", "3", "4"],
+          ["Ginger, sliced", "2 slices", "4 slices", "6 slices", "8 slices"],
+          ["Dried red chilies", "2", "4", "6", "8"],
+          ["Sichuan peppercorns, ground", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Scallions (white parts), cut into ¾-inch pieces", "1 stalk", "2 stalks", "3 stalks", "4 stalks"],
+          ["Oil (for stir-frying)", "10ml", "20ml", "30ml", "40ml"],
+          ["Light soy sauce", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Dark soy sauce", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Rice wine vinegar", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Sugar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Water (for sauce)", "10ml", "20ml", "30ml", "40ml"],
+          ["Cornstarch (sauce)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Toast the raw peanuts in ¼ tsp oil over medium heat 3 minutes, stirring constantly, then remove from heat and let sit 1 more minute. Cool completely.",
+          "Combine the chicken with the marinade ingredients (cornstarch, Shaoxing wine, oil, salt, white pepper) and let sit 20 minutes.",
+          "Whisk together all sauce ingredients (light soy sauce, dark soy sauce, rice wine vinegar, sugar, water, cornstarch) in a small bowl.",
+          "Heat half the stir-fry oil in a wok over high heat. Sear the marinated chicken until just cooked through, then remove and set aside.",
+          "Reduce heat to low. Add the remaining oil, then the garlic, ginger, dried chilies, and ground Sichuan peppercorns. Stir 1-2 minutes until fragrant — don't let the garlic burn.",
+          "Add the scallion whites and return the chicken to the wok. Raise heat to high and stir-fry 1 minute.",
+          "Re-stir the sauce (the cornstarch settles), pour it in, and stir-fry until it thickens and coats everything, about 1 minute.",
+          "Stir in the toasted peanuts, toss once more, and serve immediately over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "friedrice",
+      "title": "Egg Fried Rice with Chinese Sausage (Lap Cheong Chow Fan)",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "A plate of Hong Kong-style fried rice with Chinese sausage, scrambled egg, and scallions",
+      "prep_label": "Prep — Chinese Sausage (Lap Cheong)",
+      "prep_alt": "Chinese sausages (lap cheong) hanging to dry, the cured sausage used in the fried rice",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chinese sausage (lap cheong), diced", "½ link", "1 link", "1½ links", "2 links"],
+          ["Day-old cooked white rice", "150g", "300g", "450g", "600g"],
+          ["Eggs, beaten", "½", "1", "1½", "2"],
+          ["Onion, chopped", "20g", "40g", "60g", "80g"],
+          ["Frozen green peas", "40g", "80g", "120g", "160g"],
+          ["Mung bean sprouts", "60g", "120g", "180g", "240g"],
+          ["Scallions, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Shaoxing wine", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Salt", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Sugar", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Light soy sauce", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Dark soy sauce", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["White pepper", "pinch", "pinch", "⅛ tsp", "⅛ tsp"],
+          ["Sesame oil", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "If the rice is freshly cooked, spread it on a tray to cool and dry out slightly — day-old refrigerated rice fries up with much more distinct grains.",
+          "Stir together the salt, sugar, sesame oil, light soy sauce, dark soy sauce, and white pepper in a small bowl; set this seasoning sauce aside.",
+          "Heat a wok over medium-high heat with half the oil. Pour in the beaten eggs, scramble until just set, then remove and set aside.",
+          "Add the remaining oil, then the diced Chinese sausage, and stir-fry about 20 seconds until fragrant and the fat starts to render.",
+          "Add the onion and cook 1-2 minutes until translucent.",
+          "Raise the heat to high, add the rice, and break up any clumps with the back of a spatula, tossing until every grain is separated and heated through.",
+          "Pour the seasoning sauce evenly over the rice and stir-fry 1-2 minutes until evenly coated and lightly browned.",
+          "Add the scrambled egg back in along with the peas and bean sprouts; stir-fry 1 minute.",
+          "Add the scallions, drizzle the Shaoxing wine around the rim of the wok, and stir-fry 20 seconds more to pick up the wok's aroma before serving."
+        ]}
+      ]
+    },
+    {
+      "id": "beefbroccoli",
+      "title": "Beef and Broccoli Stir-Fry",
+      "time": "25 min (+15 min marinate)",
+      "level": "Easy",
+      "tilt": -0.8,
+      "gold": true,
+      "dish_alt": "A plate of beef and broccoli stir-fry glazed in a glossy brown sauce",
+      "prep_label": "Prep — Sliced Beef &amp; Broccoli",
+      "prep_alt": "Close-up of sliced beef and broccoli florets coated in glossy stir-fry sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef (flank or skirt steak), thinly sliced against the grain", "100g", "200g", "300g", "400g"],
+          ["Baking soda", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Salt", "pinch", "pinch", "⅛ tsp", "⅛ tsp"],
+          ["Cornstarch (beef marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Light soy sauce (beef marinade)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Water (beef marinade)", "10ml", "20ml", "30ml", "40ml"],
+          ["Oil (beef marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Broccoli florets", "75g", "150g", "225g", "300g"],
+          ["Oil (for stir-frying), divided", "10ml", "20ml", "30ml", "40ml"],
+          ["Garlic cloves, minced", "½", "1", "1½", "2"],
+          ["Ginger, minced", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Oyster sauce", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+          ["Shaoxing wine", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Light soy sauce (sauce)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Dark soy sauce (sauce)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Cornstarch (sauce)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Sugar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["White pepper", "pinch", "pinch", "⅛ tsp", "⅛ tsp"],
+          ["Sesame oil", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Water (sauce)", "10ml", "20ml", "30ml", "40ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Slice the beef thinly against the grain. Toss with baking soda, salt, cornstarch, soy sauce, and water; massage with your hands until the liquid is absorbed. Stir in the oil and let rest 15 minutes.",
+          "Whisk together all sauce ingredients (oyster sauce, Shaoxing wine, light and dark soy sauce, cornstarch, sugar, white pepper, sesame oil, water) in a small bowl.",
+          "Cut the broccoli into bite-sized florets. Blanch in boiling water 1-1½ minutes until crisp-tender, then drain.",
+          "Heat half the oil in a wok over medium-high heat. Spread the marinated beef in a single layer and sear until lightly browned on both sides, about 1 minute per side. Transfer to a plate — don't overcook it here.",
+          "Add the remaining oil to the wok, then the garlic and ginger, stirring until fragrant, about 30 seconds.",
+          "Lower the heat slightly, pour in the sauce, and stir until it starts to thicken.",
+          "Return the beef and broccoli to the wok, tossing everything together until the sauce coats each piece and reaches a glossy consistency, about 1 minute. Serve immediately over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "mapotofu",
+      "title": "Mapo Tofu",
+      "time": "30 min",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "A bowl of Mapo Tofu with cubed tofu in a glossy red chili-oil sauce, topped with ground pork and scallions",
+      "prep_label": "Prep — Pixian Doubanjiang (Fermented Bean Paste)",
+      "prep_alt": "A jar of Pixian doubanjiang, the spicy fermented bean paste used to make Mapo Tofu",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Silken or soft tofu, cubed", "130g", "260g", "390g", "520g"],
+          ["Ground pork", "60g", "120g", "180g", "240g"],
+          ["Oil (for cooking)", "10ml", "20ml", "30ml", "40ml"],
+          ["Garlic, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Doubanjiang (spicy fermented bean paste)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Dried red chilies, chopped (optional, extra heat)", "½", "1", "1½", "2"],
+          ["Sichuan peppercorns, ground, divided", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Chicken or vegetable stock", "40ml", "80ml", "120ml", "160ml"],
+          ["Cornstarch (slurry)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Water (slurry)", "10ml", "20ml", "30ml", "40ml"],
+          ["Sesame oil", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Sugar", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Scallion, chopped", "¼ stalk", "½ stalk", "¾ stalk", "1 stalk"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the oil in a wok over low heat. Add the ginger and garlic, stirring 1 minute until fragrant, then add the ground pork and increase heat to high, breaking it up as it browns.",
+          "Stir in the doubanjiang and half the ground Sichuan peppercorns; cook 30 seconds until the oil turns red and fragrant.",
+          "Add the stock (and dried chilies if using) and bring to a simmer for 1 minute.",
+          "Mix the cornstarch with the water to make a slurry. Stir it into the sauce and cook until it thickens slightly.",
+          "Gently slide in the tofu cubes, trying not to break them up. Simmer 3-5 minutes, occasionally shaking the wok (rather than stirring hard) so the tofu stays intact.",
+          "Stir in the sesame oil, sugar, and scallion. Cook 30 seconds more until the scallion wilts.",
+          "Transfer to a serving bowl and dust with the remaining ground Sichuan peppercorns. Serve hot over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "wontonsoup",
+      "title": "Wonton Soup",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A bowl of wonton soup with pork-filled wontons floating in clear broth, garnished with scallions",
+      "prep_label": "Prep — Folding the Wontons",
+      "prep_alt": "Folded uncooked pork wontons arranged on a tray, ready to be boiled",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground pork (fatty preferred)", "60g", "120g", "180g", "240g"],
+          ["Baby bok choy (or other leafy greens), finely chopped", "30g", "60g", "90g", "120g"],
+          ["Sesame oil (filling)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["White pepper", "pinch", "pinch", "⅛ tsp", "⅛ tsp"],
+          ["Soy sauce", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Shaoxing wine", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Wonton wrappers", "12", "24", "36", "48"],
+          ["Chicken stock (broth)", "250ml", "500ml", "750ml", "1000ml"],
+          ["Sesame oil (broth)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Scallion, chopped (garnish)", "¼ stalk", "½ stalk", "¾ stalk", "1 stalk"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Blanch the bok choy 60-90 seconds in boiling water, drain, cool, and squeeze out as much water as possible. Chop finely.",
+          "Combine the chopped greens with the ground pork, sesame oil, white pepper, soy sauce, salt, and Shaoxing wine. Mix vigorously in one direction until the filling is smooth and almost paste-like.",
+          "Lay a wonton wrapper in your palm, moisten the edges with water, and add about 1 teaspoon of filling to the center.",
+          "Fold the wrapper over into a triangle (or rectangle) and press to seal, pushing out any air. Bring the two bottom corners together and pinch with a dab of water to seal — the classic wonton shape.",
+          "Repeat with the remaining wrappers and filling, keeping finished wontons on a parchment-lined tray without letting them touch so they don't stick together.",
+          "Bring the chicken stock to a simmer in a separate pot; season with sesame oil, white pepper, and salt to taste.",
+          "Bring a large pot of water to a boil. Drop in the wontons one at a time, stirring gently so they don't stick to the bottom. Boil 1-2 minutes after they float to the surface, until the filling is cooked through.",
+          "Lift the wontons out with a slotted spoon into bowls, ladle the hot broth over them, and garnish with chopped scallion."
+        ]}
+      ]
+    },
+    {
+      "id": "dandan",
+      "title": "Dan Dan Noodles",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "A bowl of Dan Dan Noodles topped with seasoned ground pork, chili oil, and chopped peanuts",
+      "prep_label": "Prep — Pork Topping &amp; Preserved Vegetable",
+      "prep_alt": "Dan Dan noodles topped with minced pork and preserved vegetable (zhacai) at a Beijing noodle shop",
+      "sections": [
+        {"type": "table", "heading": "Pork Topping — Ingredients by Serving", "rows": [
+          ["Ground pork", "60g", "120g", "180g", "240g"],
+          ["Oil", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Sweet bean sauce or hoisin sauce", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Shaoxing wine", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Dark soy sauce", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Five spice powder", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Sui mi ya cai (Sichuan preserved vegetable, optional)", "10g", "20g", "30g", "40g"]
+        ]},
+        {"type": "table", "heading": "Sauce &amp; Noodles — Ingredients by Serving", "rows": [
+          ["Sesame paste (or tahini)", "1½ tsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+          ["Light soy sauce", "¾ tbsp", "1½ tbsp", "2¼ tbsp", "3 tbsp"],
+          ["Chinese black vinegar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Sugar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Five spice powder", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Sichuan peppercorns, ground", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Chili oil", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Garlic, minced", "½ clove", "1 clove", "1½ cloves", "2 cloves"],
+          ["Hot noodle cooking water", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Fresh or dried Chinese wheat noodles", "115g", "230g", "345g", "460g"],
+          ["Leafy greens (baby bok choy or spinach)", "30g", "60g", "90g", "120g"],
+          ["Peanuts, chopped", "10g", "20g", "30g", "40g"],
+          ["Scallion, chopped", "¼ stalk", "½ stalk", "¾ stalk", "1 stalk"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cook the ground pork in the oil over medium-high heat, breaking it up, until browned.",
+          "Stir in the sweet bean sauce (or hoisin), Shaoxing wine, dark soy sauce, and five spice powder. Cook until the pork has absorbed the seasonings and any liquid has evaporated. Stir in the sui mi ya cai (if using) and set the pork topping aside.",
+          "In each serving bowl, combine the sesame paste, light soy sauce, black vinegar, sugar, five spice powder, ground Sichuan peppercorns, chili oil, and minced garlic.",
+          "Bring a pot of water to a boil and cook the noodles according to package directions. Blanch the leafy greens briefly in the same pot during the last minute.",
+          "Just before draining, ladle a little of the hot noodle water into each bowl and stir to loosen the sauce into a smooth, pourable consistency.",
+          "Drain the noodles and greens and divide between the bowls, on top of the sauce.",
+          "Top each bowl with the pork topping, chopped peanuts, and scallion.",
+          "Serve immediately and have everyone mix their bowl thoroughly before eating — the sauce sits at the bottom until stirred."
+        ]}
+      ]
+    },
+    {
+      "id": "sweetsour",
+      "title": "Sweet and Sour Pork",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": true,
+      "dish_alt": "A plate of crispy sweet and sour pork glazed in a bright red-orange sauce",
+      "prep_label": "Prep — Cornstarch-Coated Pork",
+      "prep_alt": "Raw cornstarch-coated pork strips on a plate, ready for pan-frying, with pineapple chunks nearby",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Pork tenderloin, cut into strips", "100g", "200g", "300g", "400g"],
+          ["Salt (marinade)", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Oil (marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Egg, beaten (coating)", "¼", "½", "¾", "1"],
+          ["Cornstarch (coating)", "2 tbsp", "4 tbsp", "6 tbsp", "8 tbsp"],
+          ["Oil (for pan-frying)", "20ml", "40ml", "60ml", "80ml"],
+          ["Ketchup", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+          ["Apple cider vinegar", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Shaoxing wine", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+          ["Brown sugar", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Cornstarch (sauce)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Salt (sauce)", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Scallions, sliced", "½", "1", "1½", "2"],
+          ["Garlic cloves, minced", "½", "1", "1½", "2"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Cut the pork into strips about ½-inch thick. Toss with salt, mix in the oil, and marinate 15 minutes.",
+          "Whisk together the ketchup, apple cider vinegar, Shaoxing wine, brown sugar, cornstarch, and salt in a small bowl.",
+          "Dip the marinated pork strips in the beaten egg, then toss in cornstarch until evenly coated.",
+          "Heat the oil in a wok over medium-high heat until shimmering. Pan-fry the pork in batches, about 2 minutes per side, until golden and cooked through. Drain on a rack or paper towels.",
+          "Wipe out the wok, add a little fresh oil, and stir-fry the scallions and garlic until fragrant.",
+          "Pour in the sauce and stir until it thickens enough that a spatula drawn through it leaves a clear trail.",
+          "Return the pork to the wok and toss for about 30 seconds until every piece is glazed. Transfer to a plate immediately so the coating stays crisp."
+        ]}
+      ]
+    },
+    {
+      "id": "scallionpancake",
+      "title": "Scallion Pancakes (Cong You Bing)",
+      "time": "30 min (+30 min rest)",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "Golden, flaky scallion pancakes cut into wedges and stacked on a plate",
+      "prep_label": "Prep — Rolling &amp; Coiling the Dough",
+      "prep_alt": "A plate of finished scallion pancakes ready to serve with dipping sauce",
+      "sections": [
+        {"type": "table", "heading": "Dough &amp; Filling — Ingredients by Serving", "rows": [
+          ["All-purpose flour", "45g", "90g", "135g", "180g"],
+          ["Hot water", "30ml", "60ml", "90ml", "120ml"],
+          ["Salt (dough)", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Scallions, thinly sliced", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Salt (sprinkled between layers)", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Vegetable oil (brushing + frying)", "15ml", "30ml", "45ml", "60ml"],
+          ["Toasted sesame seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "table", "heading": "Dipping Sauce — Ingredients by Serving", "rows": [
+          ["Soy sauce", "¾ tsp", "1½ tsp", "2¼ tsp", "1 tbsp"],
+          ["Chinese black vinegar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Water", "¾ tsp", "1½ tsp", "2¼ tsp", "1 tbsp"],
+          ["Sugar", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Garlic, minced", "¼ clove", "½ clove", "¾ clove", "1 clove"],
+          ["Scallion, chopped", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Combine the flour and salt in a bowl. Stir in the hot water until a shaggy dough forms, then knead about 5 minutes until smooth.",
+          "Cover and let the dough rest 30 minutes at room temperature.",
+          "Divide the dough into portions and roll each one out into a thin rectangle on a lightly oiled surface.",
+          "Brush each piece with a thin layer of oil and sprinkle evenly with salt and the sliced scallions.",
+          "Roll each rectangle up tightly into a cigar shape, then coil it around itself like a snail shell.",
+          "Flatten each coil with your palm, then roll it out gently into a pancake about 6 inches across — don't roll it too thin, or the layers won't hold.",
+          "Press sesame seeds into the surface of each pancake.",
+          "Heat a little oil in a nonstick or cast-iron skillet over medium heat. Fry each pancake 3-4 minutes per side until deeply golden and crisp, adding a touch more oil between batches as needed.",
+          "Cut each pancake into wedges. Whisk together the dipping sauce ingredients (soy sauce, black vinegar, water, sugar, garlic, scallion) and serve alongside."
+        ]}
+      ]
+    }
+  ]
+}

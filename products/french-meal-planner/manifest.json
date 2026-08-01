@@ -1,0 +1,115 @@
+{
+  "coqauvin": {
+    "dish": {
+      "title": "File:Gourmet coq au vin.jpg",
+      "artist": "Beck from East Midlands, United Kingdom",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gourmet_coq_au_vin.jpg"
+    },
+    "prep": {
+      "title": "File:Coq au vin 1.jpg",
+      "artist": "Brücke-Osteuropa",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Coq_au_vin_1.jpg"
+    }
+  },
+  "ratatouille": {
+    "dish": {
+      "title": "File:20170329 ratatouille-fin-cuisson.jpg",
+      "artist": "André Loconte",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/20170329_ratatouille-fin-cuisson.jpg"
+    },
+    "prep": {
+      "title": "File:20170329 ratatouille-debut-cuisson.jpg",
+      "artist": "André Loconte",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/20170329_ratatouille-debut-cuisson.jpg"
+    }
+  },
+  "boeufbourguignon": {
+    "dish": {
+      "title": "File:Boeuf Bourguignon Paris Beaubourg.jpg",
+      "artist": "Asamboi",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Boeuf_Bourguignon_Paris_Beaubourg.jpg"
+    },
+    "prep": {
+      "title": "File:6PréparationBoeufBourguignon.jpg",
+      "artist": "Guislin",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/6Pr%C3%A9parationBoeufBourguignon.jpg"
+    }
+  },
+  "quichelorraine": {
+    "dish": {
+      "title": "File:54. Quiche lorraine.jpg",
+      "artist": "Claude Humbert",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/54._Quiche_lorraine.jpg"
+    },
+    "prep": {
+      "title": "File:Quiche lorraine 01.JPG",
+      "artist": "Arnaud 25",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Quiche_lorraine_01.JPG"
+    }
+  },
+  "pouletprovencal": {
+    "dish": {
+      "title": "File:Poulet chermoula aux olives rouges.png",
+      "artist": "Fzlaissi",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Poulet_chermoula_aux_olives_rouges.png",
+      "note": "Visually near-identical olive-and-tomato braised chicken preparation; original upload is tagged as a Moroccan-style chermoula chicken rather than literally 'Poulet Provençal', but the license and dish depiction (bone-in chicken braised with tomatoes and purple olives) match what's used in img/pouletprovencal_dish.jpg."
+    },
+    "prep": {
+      "title": "File:Poulet basquaise 01.jpg",
+      "artist": "Arnaud 25",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Poulet_basquaise_01.jpg"
+    }
+  },
+  "saladenicoise": {
+    "dish": {
+      "title": "File:Salade niçoise 004.jpg",
+      "artist": "Arnaud 25",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Salade_ni%C3%A7oise_004.jpg"
+    },
+    "prep": {
+      "title": "File:French Salade nicoise (4520629066).jpg",
+      "artist": "Katrin Gilger",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/French_Salade_nicoise_%284520629066%29.jpg"
+    }
+  },
+  "croquemonsieur": {
+    "dish": {
+      "title": "File:Croque-monsieur.jpg",
+      "artist": "Benoit5656",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Croque-monsieur.jpg"
+    },
+    "prep": {
+      "title": "File:Croque Monsieur and salad at Paris Bakery.jpg",
+      "artist": "Ruth Hartnup",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Croque_Monsieur_and_salad_at_Paris_Bakery.jpg"
+    }
+  },
+  "cremebrulee": {
+    "dish": {
+      "title": "File:Crème brûlée w. whipped cream.jpg",
+      "artist": "Lindsey40186",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cr%C3%A8me_br%C3%BBl%C3%A9e_w._whipped_cream.jpg"
+    },
+    "prep": {
+      "title": "File:Crème brûlée with flame 2025.jpg",
+      "artist": "Mannivu",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cr%C3%A8me_br%C3%BBl%C3%A9e_with_flame_2025.jpg"
+    }
+  }
+}

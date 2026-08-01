@@ -1,0 +1,339 @@
+{
+  "recipes": [
+    {
+      "id": "nasigoreng",
+      "title": "Nasi Goreng (Indonesian Fried Rice)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "A plate of Indonesian nasi goreng fried rice topped with a fried egg, prawn crackers, cucumber and tomato garnish",
+      "prep_label": "Prep &mdash; Wok-Frying at a Street Cart",
+      "prep_alt": "A street vendor in Jakarta wok-frying nasi goreng at a traveling food cart at night",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Cooked jasmine rice, chilled/day-old", "150g", "300g", "450g", "600g"],
+           ["Chicken breast, diced", "60g", "120g", "180g", "240g"],
+           ["Shallots, thinly sliced", "15g", "30g", "45g", "60g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Sambal oelek (or similar chili paste)", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Terasi (shrimp paste)", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Kecap manis (sweet soy sauce)", "15ml", "30ml", "45ml", "60ml"],
+           ["Light soy sauce", "5ml", "10ml", "15ml", "20ml"],
+           ["Egg (for frying on top)", "1", "2", "3", "4"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Cucumber, sliced (garnish)", "20g", "40g", "60g", "80g"],
+           ["Tomato, wedges (garnish)", "&frac12;", "1", "1&frac12;", "2"],
+           ["Fried shallots (garnish)", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "If using freshly cooked rice, spread it on a tray and chill uncovered at least 30 minutes &mdash; day-old, dried-out rice is what keeps the grains separate instead of turning mushy.",
+           "Dry-toast the terasi wrapped in foil over a low flame 30 seconds per side until fragrant, then crumble (or skip this if using a pre-toasted shrimp paste).",
+           "Heat the oil in a wok over high heat. Add the shallots and garlic and stir-fry 1 minute until fragrant.",
+           "Add the chicken and stir-fry 3&ndash;4 minutes until cooked through.",
+           "Push everything to one side of the wok, add the sambal oelek and terasi to the cleared space, and fry 30 seconds until fragrant.",
+           "Add the cold rice, breaking up any clumps with the back of the spatula, and toss to combine.",
+           "Pour the kecap manis and light soy sauce over the rice and stir-fry 3&ndash;4 minutes until every grain is coated a deep glossy brown.",
+           "In a separate small pan, fry the eggs sunny-side up.",
+           "Plate the fried rice topped with a fried egg, cucumber slices, tomato wedges, and crispy fried shallots."
+         ]}
+      ]
+    },
+    {
+      "id": "satay",
+      "title": "Sate Ayam (Chicken Satay with Peanut Sauce)",
+      "time": "30 min (+30 min marinate)",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "Skewers of grilled chicken satay with charred edges served on a banana leaf with red onion and salt",
+      "prep_label": "Prep &mdash; Raw Skewers Before the Grill",
+      "prep_alt": "Raw marinated chicken satay skewers laid out ready for grilling at a street stall",
+      "sections": [
+        {"type": "table", "heading": "Chicken &amp; Marinade &mdash; Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, boneless &amp; skinless, cubed", "130g", "260g", "390g", "520g"],
+           ["Kecap manis (sweet soy sauce)", "15ml", "30ml", "45ml", "60ml"],
+           ["Vegetable oil", "5ml", "10ml", "15ml", "20ml"],
+           ["Garlic clove, minced", "&frac12;", "1", "1&frac12;", "2"],
+           ["Ground coriander", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"]
+         ]},
+        {"type": "table", "heading": "Peanut Sauce &mdash; Ingredients by Serving",
+         "rows": [
+           ["Roasted peanuts, ground", "40g", "80g", "120g", "160g"],
+           ["Candlenuts (kemiri) or macadamia", "1", "2", "3", "4"],
+           ["Shallot", "10g", "20g", "30g", "40g"],
+           ["Garlic clove", "&frac12;", "1", "1&frac12;", "2"],
+           ["Red chilies (bird&rsquo;s eye, or to taste)", "1", "2", "3", "4"],
+           ["Palm sugar", "5g", "10g", "15g", "20g"],
+           ["Kecap manis", "10ml", "20ml", "30ml", "40ml"],
+           ["Tamarind pulp (mixed with a little water)", "5ml", "10ml", "15ml", "20ml"],
+           ["Water (to thin sauce)", "60ml", "120ml", "180ml", "240ml"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Combine the chicken with the kecap manis, oil, garlic, and coriander in a bowl. Mix well, cover, and marinate in the fridge at least 30 minutes.",
+           "Meanwhile, make the peanut sauce: pound or blend the peanuts, candlenuts, shallot, garlic, and chilies into a coarse paste.",
+           "Fry the paste in a splash of oil over medium heat 3&ndash;4 minutes until fragrant and the oil starts to separate slightly.",
+           "Add the palm sugar, kecap manis, tamarind, salt, and water. Simmer 8&ndash;10 minutes, stirring often, until thickened to a pourable, clingy sauce. Set aside.",
+           "Thread the marinated chicken onto skewers (soak bamboo skewers in water first if using).",
+           "Grill or broil the skewers 8&ndash;10 minutes, turning and basting with the leftover marinade, until charred in spots and cooked through with no pink at the center.",
+           "Warm the peanut sauce back through if it has thickened too much, thinning with a splash of water.",
+           "Serve the skewers hot with the peanut sauce spooned over or served alongside, with steamed rice or lontong and a lime wedge."
+         ]}
+      ]
+    },
+    {
+      "id": "gadogado",
+      "title": "Gado-Gado (Vegetable Salad with Peanut Sauce)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "A plate of gado-gado with boiled potato, blanched vegetables, tofu, tempeh and hard-boiled egg draped in peanut sauce",
+      "prep_label": "Prep &mdash; Grinding the Peanut Sauce",
+      "prep_alt": "A cook grinding peanut sauce paste in a large wok over a charcoal stove at a food stall",
+      "sections": [
+        {"type": "table", "heading": "Peanut Sauce &mdash; Ingredients by Serving",
+         "rows": [
+           ["Roasted peanuts, ground", "40g", "80g", "120g", "160g"],
+           ["Garlic clove", "&frac12;", "1", "1&frac12;", "2"],
+           ["Red chilies", "1", "2", "3", "4"],
+           ["Palm sugar", "10g", "20g", "30g", "40g"],
+           ["Tamarind pulp (mixed with a little water)", "5ml", "10ml", "15ml", "20ml"],
+           ["Kecap manis", "10ml", "20ml", "30ml", "40ml"],
+           ["Terasi (shrimp paste), toasted", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp"],
+           ["Water (to thin sauce)", "60ml", "120ml", "180ml", "240ml"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"]
+         ]},
+        {"type": "table", "heading": "Salad &mdash; Ingredients by Serving",
+         "rows": [
+           ["Potato, boiled &amp; sliced", "40g", "80g", "120g", "160g"],
+           ["Long beans (or green beans), blanched", "30g", "60g", "90g", "120g"],
+           ["Bean sprouts, blanched", "20g", "40g", "60g", "80g"],
+           ["Cabbage, shredded &amp; blanched", "30g", "60g", "90g", "120g"],
+           ["Cucumber, sliced", "20g", "40g", "60g", "80g"],
+           ["Firm tofu, fried &amp; cubed", "40g", "80g", "120g", "160g"],
+           ["Tempeh, fried &amp; cubed", "40g", "80g", "120g", "160g"],
+           ["Hard-boiled egg", "&frac12;", "1", "1&frac12;", "2"],
+           ["Fried shallots (garnish)", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Make the peanut sauce: blend or pound the peanuts, garlic, chilies, and terasi into a paste.",
+           "Combine the paste with the palm sugar, tamarind, kecap manis, salt, and water in a small saucepan.",
+           "Simmer 5&ndash;6 minutes, stirring, until slightly thickened and pourable. Set aside to cool slightly.",
+           "Blanch the long beans, bean sprouts, and cabbage separately in boiling water 1&ndash;2 minutes each until just tender-crisp, then drain and cool.",
+           "Arrange the boiled potato, blanched vegetables, cucumber, fried tofu, fried tempeh, and hard-boiled egg on a plate.",
+           "Spoon the peanut sauce generously over the top.",
+           "Scatter with crispy fried shallots and serve with krupuk crackers on the side."
+         ]}
+      ]
+    },
+    {
+      "id": "ayamgoreng",
+      "title": "Ayam Goreng (Indonesian Fried Chicken)",
+      "time": "40 min (mostly hands-off)",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "A plate of Indonesian ayam goreng fried chicken leg served with lettuce, cucumber, tomato and sambal in banana-leaf cups",
+      "prep_label": "Prep &mdash; Frying After the Spiced Simmer",
+      "prep_alt": "Spiced chicken pieces frying in hot oil in a wok until deeply golden",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs or drumsticks, bone-in", "200g", "400g", "600g", "800g"],
+           ["Shallots", "15g", "30g", "45g", "60g"],
+           ["Garlic cloves", "1", "2", "3", "4"],
+           ["Ground coriander", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Ground turmeric", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Galangal, sliced", "5g", "10g", "15g", "20g"],
+           ["Bay leaf (or Indonesian salam leaf)", "&frac12;", "1", "1&frac12;", "2"],
+           ["Lemongrass stalk, bruised", "&frac12;", "1", "1&frac12;", "2"],
+           ["Coconut water (or water)", "150ml", "300ml", "450ml", "600ml"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Vegetable oil (for frying)", "250ml", "500ml", "750ml", "1000ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Blend the shallots and garlic into a smooth paste (a splash of water helps), then stir in the coriander, turmeric, and salt.",
+           "Rub the spice paste all over the chicken pieces in a wide pot or deep skillet.",
+           "Add the galangal, bay leaf, lemongrass, and coconut water, and bring to a simmer &mdash; coconut water is the traditional braising liquid and gives the chicken its characteristic mellow sweetness; plain water works in a pinch.",
+           "Cover and simmer over low heat 20&ndash;25 minutes, turning once, until the chicken is cooked through and the liquid has mostly reduced.",
+           "Remove the chicken and let it sit uncovered 5&ndash;10 minutes to air-dry the surface &mdash; this is what lets it crisp up without any flour or batter.",
+           "Heat the oil in a wok or deep skillet to 175&deg;C (350&deg;F).",
+           "Fry the chicken in batches 5&ndash;7 minutes per side until deeply golden and crisp &mdash; the meat is already fully cooked, so you&rsquo;re frying purely for color and crunch.",
+           "Drain on a wire rack or paper towels and serve hot with steamed rice, sliced cucumber, and sambal."
+         ]}
+      ]
+    },
+    {
+      "id": "miegoreng",
+      "title": "Mie Goreng (Indonesian Fried Noodles)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A plate of glossy mie goreng fried noodles topped with fried shallots and chili, twirled onto a fork",
+      "prep_label": "Prep &mdash; Tossing Noodles in the Wok",
+      "prep_alt": "Noodles being tossed in a hot wok over an open flame at a street food stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Fresh yellow egg noodles (or dried, boiled)", "100g", "200g", "300g", "400g"],
+           ["Chicken breast, sliced (or shrimp)", "60g", "120g", "180g", "240g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Shallots, sliced", "15g", "30g", "45g", "60g"],
+           ["Red chili, sliced (optional)", "&frac12;", "1", "1&frac12;", "2"],
+           ["Cabbage, shredded", "40g", "80g", "120g", "160g"],
+           ["Carrot, julienned", "20g", "40g", "60g", "80g"],
+           ["Kecap manis", "20ml", "40ml", "60ml", "80ml"],
+           ["Dark soy sauce", "5ml", "10ml", "15ml", "20ml"],
+           ["Oyster sauce", "5ml", "10ml", "15ml", "20ml"],
+           ["Egg", "1", "2", "3", "4"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Fried shallots (garnish)", "5g", "10g", "15g", "20g"],
+           ["Lime wedge", "&frac14;", "&frac12;", "&frac34;", "1"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "If using dried noodles, boil until just tender, then drain and toss with a little oil so they don&rsquo;t stick together.",
+           "Heat the oil in a wok over high heat. Add the garlic, shallots, and chili, stir-frying 1 minute until fragrant.",
+           "Add the chicken (or shrimp) and stir-fry 2&ndash;3 minutes until nearly cooked through.",
+           "Push everything to one side, crack the egg into the cleared space, and scramble briefly before mixing it through.",
+           "Add the cabbage and carrot, stir-frying 1&ndash;2 minutes until just starting to soften.",
+           "Add the noodles, kecap manis, dark soy sauce, and oyster sauce. Toss everything together over high heat 2&ndash;3 minutes until the noodles are evenly coated and slightly charred at the edges.",
+           "Taste and adjust the seasoning.",
+           "Plate the noodles topped with crispy fried shallots, with a lime wedge on the side."
+         ]}
+      ]
+    },
+    {
+      "id": "rendang",
+      "title": "Beef Rendang",
+      "time": "1 hr 45 min (mostly hands-off)",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A bowl of dark, deeply spiced beef rendang served beside woven ketupat rice cakes",
+      "prep_label": "Prep &mdash; The Traditional Outdoor Simmer",
+      "prep_alt": "Cooks in traditional dress stirring rendang in large woks over an open wood fire outdoors in West Sumatra",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef chuck or shin, cut into chunks", "150g", "300g", "450g", "600g"],
+           ["Coconut milk", "200ml", "400ml", "600ml", "800ml"],
+           ["Shallots", "20g", "40g", "60g", "80g"],
+           ["Garlic cloves", "1", "2", "3", "4"],
+           ["Ginger, sliced", "5g", "10g", "15g", "20g"],
+           ["Galangal, sliced", "5g", "10g", "15g", "20g"],
+           ["Lemongrass stalk, bruised", "&frac12;", "1", "1&frac12;", "2"],
+           ["Dried red chilies, soaked (or chili paste to taste)", "3", "6", "9", "12"],
+           ["Kerisik (toasted grated coconut)", "10g", "20g", "30g", "40g"],
+           ["Ground turmeric", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Tamarind pulp", "5g", "10g", "15g", "20g"],
+           ["Kaffir lime leaves", "1", "2", "3", "4"],
+           ["Palm sugar", "5g", "10g", "15g", "20g"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Blend the shallots, garlic, ginger, galangal, and soaked dried chilies into a smooth spice paste, adding a splash of water if needed.",
+           "This is the week&rsquo;s special dish &mdash; give it a little more stovetop time than the rest of the week, but there&rsquo;s no need to babysit it all day; it&rsquo;s a weeknight-feasible simmer, not an all-day project.",
+           "Heat the oil in a heavy pot or Dutch oven over medium heat. Fry the spice paste 5&ndash;7 minutes, stirring often, until fragrant and darkened.",
+           "Add the lemongrass, turmeric, and kaffir lime leaves, frying 1 minute more.",
+           "Add the beef and stir to coat every piece in the paste, searing 3&ndash;4 minutes.",
+           "Pour in the coconut milk, tamarind, palm sugar, and salt, and bring to a gentle simmer.",
+           "Reduce the heat to low and simmer uncovered, stirring occasionally, 1&frac12;&ndash;2 hours, until the sauce has reduced and thickened and the beef is completely tender.",
+           "Stir in the kerisik (toasted coconut) in the last 20 minutes &mdash; this is what gives rendang its signature dry, deeply toasted finish.",
+           "Keep simmering, stirring more frequently as the sauce thickens, until the oil separates slightly and the sauce clings to the meat rather than pooling around it.",
+           "Discard the lemongrass stalk and lime leaves, taste and adjust the seasoning, and serve hot with steamed rice."
+         ]}
+      ]
+    },
+    {
+      "id": "sayurlodeh",
+      "title": "Sayur Lodeh (Vegetable Coconut Curry)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "A pan of sayur lodeh vegetable coconut curry with eggplant, long beans and tofu in a turmeric-yellow coconut broth",
+      "prep_label": "Prep &mdash; Eggplant &amp; Long Beans at Market",
+      "prep_alt": "Fresh purple round eggplants, long beans and cucumbers piled together at a market stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Shallots", "15g", "30g", "45g", "60g"],
+           ["Garlic cloves", "1", "2", "3", "4"],
+           ["Red chilies", "1", "2", "3", "4"],
+           ["Candlenuts (kemiri) or macadamia", "1", "2", "3", "4"],
+           ["Galangal, sliced", "5g", "10g", "15g", "20g"],
+           ["Ground coriander", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Terasi (shrimp paste)", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp"],
+           ["Coconut milk", "150ml", "300ml", "450ml", "600ml"],
+           ["Water or stock", "100ml", "200ml", "300ml", "400ml"],
+           ["Asian eggplant, chunked", "50g", "100g", "150g", "200g"],
+           ["Long beans (or green beans), cut", "40g", "80g", "120g", "160g"],
+           ["Tempeh, cubed", "40g", "80g", "120g", "160g"],
+           ["Tomato, chopped", "&frac12;", "1", "1&frac12;", "2"],
+           ["Bay leaf", "&frac12;", "1", "1&frac12;", "2"],
+           ["Palm sugar", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Blend the shallots, garlic, chilies, candlenuts, galangal, and coriander into a smooth paste.",
+           "Heat the oil in a pot over medium heat. Fry the spice paste with the terasi and bay leaf 3&ndash;4 minutes until fragrant.",
+           "Pour in the coconut milk and water, stirring to combine. Bring to a gentle simmer &mdash; don&rsquo;t let it boil hard, or the coconut milk can split.",
+           "Add the eggplant and long beans, and simmer 5 minutes.",
+           "Add the tempeh and tomato, and simmer 5&ndash;8 minutes more until the vegetables are tender.",
+           "Season with the palm sugar and salt to taste.",
+           "Discard the bay leaf and serve hot with steamed rice."
+         ]}
+      ]
+    },
+    {
+      "id": "pisanggoreng",
+      "title": "Pisang Goreng (Fried Banana Fritters)",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Golden fried banana fritters served on a plate, crisp battered slices ready to eat",
+      "prep_label": "Prep &mdash; Frying Bananas at a Market Stall",
+      "prep_alt": "A vendor frying battered bananas in a wok of hot oil at a market food stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Ripe saba banana or plantain, halved lengthwise", "2", "4", "6", "8"],
+           ["All-purpose flour", "40g", "80g", "120g", "160g"],
+           ["Rice flour", "15g", "30g", "45g", "60g"],
+           ["Sugar", "10g", "20g", "30g", "40g"],
+           ["Baking powder", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Salt", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp"],
+           ["Water", "60ml", "120ml", "180ml", "240ml"],
+           ["Vegetable oil (for frying)", "250ml", "500ml", "750ml", "1000ml"],
+           ["Honey or sweetened condensed milk (to finish, optional)", "10ml", "20ml", "30ml", "40ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Whisk the all-purpose flour, rice flour, sugar, baking powder, and salt together in a bowl.",
+           "Gradually whisk in the water until you have a smooth, medium-thick batter, similar to pancake batter.",
+           "Heat the oil in a wok or deep skillet to 175&deg;C (350&deg;F).",
+           "Dip each piece of banana into the batter, coating it fully.",
+           "Carefully lower the battered bananas into the hot oil, frying in batches so the pan isn&rsquo;t crowded.",
+           "Fry 3&ndash;4 minutes, turning occasionally, until deep golden brown and crisp all over.",
+           "Drain on a wire rack or paper towels.",
+           "Drizzle with honey or condensed milk while still warm, and serve immediately."
+         ]}
+      ]
+    }
+  ]
+}

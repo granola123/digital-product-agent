@@ -1,0 +1,283 @@
+{
+  "recipes": [
+    {
+      "id": "shawarma",
+      "title": "Chicken Shawarma (Pan-Seared, Marinated)",
+      "time": "30 min (+30 min marinate)",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": true,
+      "dish_alt": "A halved chicken shawarma wrap on a plate, showing shredded spiced chicken filling rolled in flatbread",
+      "prep_label": "Prep — Shawarma Spit Carved to Order",
+      "prep_alt": "A street vendor slicing spit-roasted shawarma meat from a tall rotisserie at night",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, boneless skinless, thin-sliced", "150g", "300g", "450g", "600g"],
+          ["Plain yogurt", "15g", "30g", "45g", "60g"],
+          ["Olive oil", "8ml", "16ml", "24ml", "32ml"],
+          ["Lemon juice", "8ml", "16ml", "24ml", "32ml"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground cardamom", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground turmeric", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Cayenne pepper (optional)", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Whisk the yogurt, olive oil, lemon juice, garlic, cumin, paprika, cinnamon, cardamom, turmeric, cayenne, and salt together in a bowl.",
+          "Add the chicken and toss to coat completely. Marinate at least 30 minutes at room temperature, or up to 8 hours in the fridge for deeper flavor.",
+          "Heat a wide skillet over medium-high heat with a light drizzle of oil.",
+          "Sear the chicken in a single layer (work in batches if needed), 4-5 minutes per side, until deeply browned and cooked through to 165°F (74°C).",
+          "Rest 3 minutes, then slice thin against the grain.",
+          "Serve wrapped in warm flatbread with garlic sauce or tahini, pickles, and chopped tomato and onion, or over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "kafta",
+      "title": "Kafta Kebab (Grilled Spiced Ground Beef)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "Two grilled kafta kebab logs on a plate with lettuce, grilled tomato, onion, and eggplant",
+      "prep_label": "Prep — Kafta Skewers on the Grill",
+      "prep_alt": "Kafta and vegetable skewers cooking over an open flat-top grill",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Ground beef (or beef/lamb mix)", "130g", "260g", "390g", "520g"],
+          ["Onion, grated and squeezed dry", "25g", "50g", "75g", "100g"],
+          ["Parsley, finely chopped", "5g", "10g", "15g", "20g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Ground allspice", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground coriander", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Cayenne pepper (optional)", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Black pepper", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Grate the onion, then squeeze out the excess liquid in a clean kitchen towel - this step matters, skipping it makes for mushy kafta.",
+          "Combine the beef, onion, parsley, garlic, allspice, cumin, coriander, cinnamon, cayenne, salt, and pepper in a bowl. Mix by hand until sticky and evenly combined - don't overwork it.",
+          "Divide into portions and shape around skewers into long oval logs about 1 inch thick (or shape into flat oval patties if not using skewers).",
+          "Chill 15-20 minutes to firm up.",
+          "Grill or pan-sear over medium-high heat, turning occasionally, 8-10 minutes total, until browned outside and cooked through.",
+          "Serve with flatbread, grilled tomato and onion, and a squeeze of lemon."
+        ]}
+      ]
+    },
+    {
+      "id": "moujadara",
+      "title": "Moujadara (Lentils, Rice &amp; Caramelized Onions)",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "A plate of moujadara piled high with deeply caramelized onions over lentils and rice",
+      "prep_label": "Prep — Lentils Topped with Caramelized Onion",
+      "prep_alt": "A bowl of cooked brown lentils topped with a tangle of caramelized onion strands",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Brown or green lentils", "60g", "120g", "180g", "240g"],
+          ["Long-grain or basmati rice", "35g", "70g", "105g", "140g"],
+          ["Onion, thinly sliced", "70g", "140g", "210g", "280g"],
+          ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Water or vegetable stock", "150ml", "300ml", "450ml", "600ml"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the lentils, then simmer in water 10-12 minutes until just tender but not mushy. Drain.",
+          "Meanwhile, heat about two-thirds of the olive oil in a wide pan over medium heat. Add the sliced onion and cook low and slow, stirring occasionally, 20-25 minutes, until deeply caramelized and a little crispy. Set aside about a third of the onions for topping.",
+          "Add the rice to the pan with the remaining onions and the rest of the oil, stirring to coat, then add the parboiled lentils, cumin, salt, and water or stock.",
+          "Bring to a boil, cover, reduce heat to low, and simmer 15-18 minutes until the rice is tender and the liquid is absorbed.",
+          "Let rest, covered, off heat for 5 minutes.",
+          "Fluff gently, then top with the reserved crispy onions. Serve warm or at room temperature."
+        ]}
+      ]
+    },
+    {
+      "id": "shishtawook",
+      "title": "Shish Tawook (Grilled Chicken Skewers)",
+      "time": "25 min (+1 hr marinate)",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Grilled shish tawook chicken skewers served with rice, pita, herbs, and citrus",
+      "prep_label": "Prep — Marinated Chicken Skewers, Ready for the Grill",
+      "prep_alt": "Raw marinated chicken skewers with onion and green pepper arranged in a metal bowl",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast or thigh, cubed", "150g", "300g", "450g", "600g"],
+          ["Plain yogurt", "20g", "40g", "60g", "80g"],
+          ["Lemon juice", "8ml", "16ml", "24ml", "32ml"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Tomato paste", "4g", "8g", "12g", "16g"],
+          ["Olive oil", "8ml", "16ml", "24ml", "32ml"],
+          ["Paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Whisk the yogurt, lemon juice, garlic, tomato paste, olive oil, paprika, cumin, and salt together in a bowl.",
+          "Add the chicken cubes and toss to coat. Marinate at least 1 hour, ideally 4+ hours in the fridge.",
+          "Thread the chicken onto skewers.",
+          "Grill or pan-sear over medium-high heat, turning every few minutes, 10-12 minutes total, until charred in spots and cooked through to 165°F (74°C).",
+          "Serve with garlic sauce, warm flatbread, and grilled vegetables."
+        ]}
+      ]
+    },
+    {
+      "id": "kibbeh",
+      "title": "Kibbeh bil Sanieh (Baked Layered Bulgur-Meat)",
+      "time": "75 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A baked tray of kibbeh bil sanieh scored into diamonds and studded with pine nuts",
+      "prep_label": "Prep — Kibbeh Layered Before Baking",
+      "prep_alt": "A dish of kibbeh with the spiced meat and pine nut filling spread over the bulgur base, ready to be topped and baked",
+      "sections": [
+        {"type": "table", "heading": "Kibbeh Shell — Ingredients by Serving", "rows": [
+          ["Fine bulgur (#1)", "40g", "80g", "120g", "160g"],
+          ["Ground beef or lamb, lean", "70g", "140g", "210g", "280g"],
+          ["Onion, finely grated", "20g", "40g", "60g", "80g"],
+          ["Ground allspice", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"]
+        ]},
+        {"type": "table", "heading": "Hashweh Filling — Ingredients by Serving", "rows": [
+          ["Ground beef or lamb", "50g", "100g", "150g", "200g"],
+          ["Onion, finely chopped", "25g", "50g", "75g", "100g"],
+          ["Pine nuts", "5g", "10g", "15g", "20g"],
+          ["Ground allspice", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Butter or olive oil, for topping", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the bulgur in cold water 10 minutes, then drain and squeeze dry.",
+          "In a food processor, pulse the bulgur, kibbeh-shell meat, grated onion, allspice, cinnamon, and salt until it forms a smooth, sticky paste (add ice water a tablespoon at a time if it won't come together).",
+          "For the filling: heat a splash of oil in a skillet, cook the onion until soft, then add the meat and brown, breaking it up, 5-6 minutes. Stir in the pine nuts, allspice, cinnamon, and salt. Set aside.",
+          "Grease a baking dish. Press half the kibbeh mixture evenly into the bottom - wet hands make this much easier.",
+          "Spread the hashweh filling evenly over the base layer.",
+          "Press the remaining kibbeh mixture over the top, smoothing with wet hands to seal the edges.",
+          "Score the top into diamonds or squares with a sharp knife, cutting all the way through to the bottom.",
+          "Drizzle or dot with the butter or oil.",
+          "Bake at 375°F (190°C) for 30-35 minutes until golden brown and cooked through.",
+          "Rest 10 minutes before cutting along the scored lines. Serve warm with plain yogurt on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "maqluba",
+      "title": "Maqluba (Upside-Down Spiced Rice with Chicken &amp; Eggplant)",
+      "time": "80 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A single plate of maqluba showing the flipped tower of rice wrapped in roasted eggplant with ground meat on top",
+      "prep_label": "Prep — The Maqluba Flip",
+      "prep_alt": "A cook flipping a full tray of maqluba upside down to reveal the rice and chicken tower",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in", "150g", "300g", "450g", "600g"],
+          ["Eggplant, sliced", "100g", "200g", "300g", "400g"],
+          ["Basmati rice", "60g", "120g", "180g", "240g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Olive oil (for frying eggplant and cooking)", "20ml", "40ml", "60ml", "80ml"],
+          ["Ground allspice or Lebanese 7-spice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Chicken stock or water", "150ml", "300ml", "450ml", "600ml"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Pine nuts or almonds, toasted (garnish)", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Salt the eggplant slices and let sit 15 minutes to draw out bitterness, then pat dry.",
+          "Pan-fry or roast the eggplant slices in olive oil until golden on both sides. Set aside.",
+          "In a pot, brown the chicken thighs in a little oil, then add the onion and cook until softened.",
+          "Stir in the allspice, cinnamon, and bay leaf. Add the stock or water, bring to a simmer, cover, and cook 20-25 minutes until the chicken is tender. Remove the chicken and reserve the broth.",
+          "Rinse the rice until the water runs clear.",
+          "In a clean pot, layer: the chicken pieces on the bottom, then the fried eggplant, then the rinsed rice spread evenly on top.",
+          "Pour the reserved broth over the rice - it should cover by about 1 inch (top up with water if needed). Season with salt.",
+          "Bring to a boil, then cover and simmer on low 20-25 minutes until the rice is tender and the liquid is absorbed.",
+          "Let rest, covered, off heat for 10 minutes.",
+          "Place a large serving platter over the pot and, holding both firmly together, flip the whole pot upside down in one confident motion. Lift the pot away carefully.",
+          "Garnish with the toasted pine nuts or almonds. Serve with plain yogurt and a chopped salad."
+        ]}
+      ]
+    },
+    {
+      "id": "freekeh",
+      "title": "Lebanese Chicken with Freekeh Pilaf",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A platter of roasted vegetable freekeh pilaf, showing the cracked green wheat grains",
+      "prep_label": "Prep — Freekeh Grains Before Cooking",
+      "prep_alt": "A pile of raw cracked freekeh grains on a decorative plate before rinsing and cooking",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in or boneless", "150g", "300g", "450g", "600g"],
+          ["Cracked freekeh", "45g", "90g", "135g", "180g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Olive oil", "12ml", "24ml", "36ml", "48ml"],
+          ["Ground allspice or Lebanese 7-spice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Chicken stock or water", "120ml", "240ml", "360ml", "480ml"],
+          ["Almonds or pine nuts, toasted (garnish)", "5g", "10g", "15g", "20g"],
+          ["Parsley, chopped (garnish)", "small handful", "¼ cup", "⅓ cup", "½ cup"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Rinse the freekeh in cold water until it runs clear, then soak 15-20 minutes and drain.",
+          "Season the chicken generously with salt and the allspice or 7-spice.",
+          "Heat the olive oil in a wide pot or skillet over medium heat. Sear the chicken until browned on both sides, 3-4 minutes per side. Remove and set aside.",
+          "In the same pot, add the onion and cook until golden, 5-6 minutes.",
+          "Add the drained freekeh, stir to coat in the oil, then pour in the stock or water and salt.",
+          "Nestle the chicken back into the pot. Bring to a boil, then cover and simmer on low 20-25 minutes until the freekeh is tender and the chicken is cooked through.",
+          "Let rest 5 minutes off heat, then fluff the freekeh gently.",
+          "Top with the toasted almonds or pine nuts and chopped parsley. Serve hot."
+        ]}
+      ]
+    },
+    {
+      "id": "baklava",
+      "title": "Baklava (Bonus)",
+      "time": "60 min (+4 hr soak)",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "A stacked tray of glossy pistachio baklava pieces cut into diamonds",
+      "prep_label": "Prep — Rows of Baklava Ready for the Oven",
+      "prep_alt": "Rows of unbaked walnut-filled baklava rolls lined up at a bakery in Damascus",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Phyllo dough sheets", "4", "8", "12", "16"],
+          ["Walnuts, finely chopped", "40g", "80g", "120g", "160g"],
+          ["Unsalted butter, melted", "30g", "60g", "90g", "120g"],
+          ["Sugar", "30g", "60g", "90g", "120g"],
+          ["Water", "30ml", "60ml", "90ml", "120ml"],
+          ["Lemon juice", "5ml", "10ml", "15ml", "20ml"],
+          ["Rose water or orange blossom water", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Thaw the phyllo dough in the fridge overnight, or on the counter for about an hour. It dries out and cracks fast once unwrapped, so keep the stack covered with a lightly damp towel and only pull out one sheet at a time.",
+          "Preheat the oven to 350°F (175°C). Brush a baking dish all over with melted butter.",
+          "Lay one sheet of phyllo in the dish and brush it all over with melted butter, getting into the corners. Repeat with half the phyllo sheets, buttering each one before adding the next.",
+          "Sprinkle the chopped walnuts evenly over this stack of buttered phyllo - no cinnamon, this is the Lebanese style.",
+          "Layer the remaining phyllo sheets on top, brushing each one with butter, finishing with a well-buttered top layer.",
+          "Using a sharp knife, cut all the way through the layers into diamond or square shapes before baking - it's much harder to cut cleanly once it's crisp.",
+          "Bake 40-45 minutes, until the top is deep golden brown and the layers look crisp and flaky, not pale or soft.",
+          "While it bakes, make the syrup: combine the sugar, water, and lemon juice in a small pot. Bring to a boil, then simmer 5-8 minutes until slightly thickened, like warm maple syrup. Remove from heat and stir in the rose water or orange blossom water. Let the syrup cool while the baklava finishes baking.",
+          "As soon as the baklava comes out of the oven - still hot - pour the cooled syrup evenly over the top. Pouring cool syrup over hot baklava (not the other way around) is what keeps the layers crisp instead of soggy.",
+          "Let it sit uncovered at room temperature at least 4 hours, or overnight, so the syrup soaks all the way through. Serve at room temperature, cut along the lines you scored before baking."
+        ]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "dishes": [
+    {
+      "id": "shawarma",
+      "title": "Chicken Shawarma",
+      "dish_photo": {
+        "title": "File:Handmade Chicken Shawarma Wrap - Lavash.jpg",
+        "artist": "Andy Li",
+        "license": "CC0"
+      },
+      "prep_photo": {
+        "title": "File:DZ6 1758 A street food vendor slicing tender spit-roasted doner kebab meat from a towering vertical rotisserie as passersby stroll by on a bustling night-lit sidewalk.jpg",
+        "artist": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "note": "Generic rotisserie/doner spit shown for the carving technique shawarma uses; not Lebanon-specific but visually accurate to the method."
+      }
+    },
+    {
+      "id": "kafta",
+      "title": "Kafta Kebab",
+      "dish_photo": {
+        "title": "File:Kafta shish kebab and grilled vegetables on salad - Cambridge, MA.jpg",
+        "artist": "Daderot",
+        "license": "CC0"
+      },
+      "prep_photo": {
+        "title": "File:Salim's, Turnpike Lane, London, England preparing and grilling kebabs.jpg",
+        "artist": "Acabashi",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "moujadara",
+      "title": "Moujadara",
+      "dish_photo": {
+        "title": "File:Mujaddara.jpg",
+        "artist": "Bazel",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Liat Portal for Foodie Disorder - Cooked Lentils with Caramelized Onions.jpg",
+        "artist": "HaJunkiyada",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "shishtawook",
+      "title": "Shish Tawook",
+      "dish_photo": {
+        "title": "File:Shish Taouk.JPG",
+        "artist": "Miansari66",
+        "license": "CC0"
+      },
+      "prep_photo": {
+        "title": "File:Raw Shish Taouk.JPG",
+        "artist": "Miansari66",
+        "license": "CC0"
+      }
+    },
+    {
+      "id": "kibbeh",
+      "title": "Kibbeh bil Sanieh",
+      "dish_photo": {
+        "title": "File:Kibbeh Bil Sanieh.jpg",
+        "artist": "Amaiursancho5",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Kibbe bi sanneyah.JPG",
+        "artist": "Miansari66",
+        "license": "Public domain"
+      }
+    },
+    {
+      "id": "maqluba",
+      "title": "Maqluba",
+      "dish_photo": {
+        "title": "File:مقلوبة سورية.jpg",
+        "artist": "ساندرا (Sandra)",
+        "license": "CC BY-SA 4.0",
+        "note": "Labeled Syrian maqluba on Commons -- same Levantine dish (upside-down spiced rice with eggplant and meat) as the Lebanese version."
+      },
+      "prep_photo": {
+        "title": "File:Moshe Basson serves maklubah.jpg",
+        "artist": "Christina Garofalo",
+        "license": "CC BY 2.0",
+        "note": "The classic maqluba 'flip' reveal moment, showing the full-tray chicken-and-rice version."
+      }
+    },
+    {
+      "id": "freekeh",
+      "title": "Lebanese Chicken with Freekeh Pilaf",
+      "dish_photo": {
+        "title": "File:Freekeh with roasted vegetables.jpg",
+        "artist": "Kristen Taylor",
+        "license": "CC BY 2.0",
+        "note": "Substitute -- no Commons photo specifically shows freekeh pilaf plated with chicken; this shows the cooked freekeh grain pilaf itself."
+      },
+      "prep_photo": {
+        "title": "File:Raw Freek.jpg",
+        "artist": "Reem Al-Kashif",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "baklava",
+      "title": "Baklava",
+      "dish_photo": {
+        "title": "File:بقلاوة (حلوى شرقية).JPG",
+        "artist": "Fadyatef",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Baklava shop, Damascus, Syria.jpg",
+        "artist": "James Gordon from Los Angeles, California, USA",
+        "license": "CC BY 2.0"
+      }
+    }
+  ]
+}

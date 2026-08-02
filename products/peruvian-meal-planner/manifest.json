@@ -1,0 +1,85 @@
+{
+  "_comment": "Photo provenance for Taste of Peru. All Wikimedia Commons, CC0/CC-BY/CC-BY-SA. Every image visually verified against its dish before being accepted.",
+  "photos": [
+    {
+      "id": "lomo",
+      "dish_title": "Lomo Saltado",
+      "dish_file": "File:Lomo saltado peruano.jpg",
+      "dish_artist": "Miguel Alan Córdova Silva",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Lomo Saltado.JPG",
+      "prep_artist": "HugoMon",
+      "prep_license": "CC BY 3.0"
+    },
+    {
+      "id": "ajigallina",
+      "dish_title": "Ají de Gallina",
+      "dish_file": "File:Ají de gallina (gourmet)-b.jpg",
+      "dish_artist": "Dtarazona",
+      "dish_license": "Public domain",
+      "prep_file": "File:Aji de Gallina - 48836160152.jpg",
+      "prep_artist": "F Delventhal",
+      "prep_license": "CC BY 2.0"
+    },
+    {
+      "id": "ceviche",
+      "dish_title": "Ceviche Clásico",
+      "dish_file": "File:Ceviche peruano.jpg",
+      "dish_artist": "MiguelAlanCS",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Ceviche peruano 2.jpg",
+      "prep_artist": "MiguelAlanCS",
+      "prep_license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "arrozpollo",
+      "dish_title": "Arroz con Pollo Peruano",
+      "dish_file": "File:Madrid Restaurante Pe de Pisco (41813365454).jpg",
+      "dish_artist": "Mover el Bigote",
+      "dish_license": "CC BY 2.0",
+      "prep_file": "File:Arroz con pollo peruano.jpg",
+      "prep_artist": "MiguelAlanCS",
+      "prep_license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "seco",
+      "dish_title": "Seco de Res",
+      "dish_file": "File:Seco de carne peru.jpg",
+      "dish_artist": "MiguelAlanCS",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Seco de carne.jpg",
+      "prep_artist": "MiguelAlanCS",
+      "prep_license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "causa",
+      "dish_title": "Causa Rellena",
+      "dish_file": "File:Causa rellena 20100314.JPG",
+      "dish_artist": "Dtarazona",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Causa a la Limeña (48836160237).jpg",
+      "prep_artist": "F Delventhal",
+      "prep_license": "CC BY 2.0"
+    },
+    {
+      "id": "pollobrasa",
+      "dish_title": "Pollo a la Brasa",
+      "dish_file": "File:Pollo a la brasa peruano.jpg",
+      "dish_artist": "Manuel González Olaechea",
+      "dish_license": "CC BY-SA 3.0",
+      "prep_file": "File:Pollo a la brasa con arroz.jpg",
+      "prep_artist": "MiguelAlanCS",
+      "prep_license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "picarones",
+      "dish_title": "Picarones",
+      "dish_file": "File:Que ricos picarones!.jpg",
+      "dish_artist": "G M",
+      "dish_license": "CC BY 2.0",
+      "prep_file": "File:Picarones recién hechos.jpg",
+      "prep_artist": "Ricardo Diaz",
+      "prep_license": "CC BY 2.0"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "recipes": [
+    {
+      "id": "feijoada",
+      "title": "Feijoada (Weeknight-Simplified Black Bean &amp; Pork Stew)",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": true,
+      "dish_alt": "An overhead plate of feijoada with black beans, sausage, and pork, served with white rice, collard greens, and farofa",
+      "prep_label": "Prep — Rice and Beans in the Serving Buffet",
+      "prep_alt": "Trays of white rice and dark feijoada bean stew laid out in a serving buffet",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Canned black beans, drained and rinsed", "200g", "400g", "600g", "800g"],
+          ["Bacon, chopped", "20g", "40g", "60g", "80g"],
+          ["Smoked sausage (linguiça or kielbasa), sliced", "60g", "120g", "180g", "240g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Smoked paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Chicken or beef stock", "100ml", "200ml", "300ml", "400ml"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt and black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Orange, sliced (for serving, traditional)", "¼", "½", "¾", "1"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat the olive oil in a pot over medium heat. Add the bacon and cook 3-4 minutes until it starts to render and crisp.",
+          "Add the sliced sausage and cook 3-4 minutes until browned.",
+          "Add the onion and garlic, cooking 4-5 minutes until softened.",
+          "Stir in the smoked paprika and bay leaf, cooking 30 seconds until fragrant.",
+          "Add the black beans and stock. Bring to a simmer.",
+          "Reduce heat and simmer, uncovered, 20-25 minutes, stirring occasionally and mashing a few beans against the side of the pot to thicken the broth.",
+          "Season with salt and pepper to taste. Discard the bay leaf.",
+          "Serve hot over rice, with orange slices alongside — the citrus cuts through the richness, the traditional way."
+        ]}
+      ]
+    },
+    {
+      "id": "moqueca",
+      "title": "Moqueca de Peixe (Brazilian Coconut Fish Stew)",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "A pot of orange, coconut-milk fish stew studded with shrimp, chili, and cilantro",
+      "prep_label": "Prep — Moqueca Simmering in a Clay Pot",
+      "prep_alt": "A close-up of moqueca fish stew simmering in a traditional clay pot with herbs on top",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Firm white fish fillets (tilapia, cod, or snapper), cut into chunks", "150g", "300g", "450g", "600g"],
+          ["Lime juice", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Red or green bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Tomato, sliced", "¼", "½", "¾", "1"],
+          ["Cilantro, chopped", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+          ["Dendê (palm) oil or olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Toss the fish chunks with the lime juice and a pinch of salt. Let sit 10 minutes while you prep the vegetables.",
+          "Heat the oil in a wide pot or skillet over medium heat. Add the onion, garlic, and bell pepper, cooking 4-5 minutes until softened.",
+          "Add the tomato and cook 2-3 minutes until it starts to break down.",
+          "Pour in the coconut milk and bring to a gentle simmer.",
+          "Nestle the fish into the sauce in a single layer. Cover and simmer 8-10 minutes, without stirring too much, until the fish is just cooked through and flakes easily.",
+          "Stir in half the cilantro and season with salt to taste.",
+          "Sprinkle with the remaining cilantro and serve hot over white rice, with farofa on the side if you have it."
+        ]}
+      ]
+    },
+    {
+      "id": "picanha",
+      "title": "Picanha na Chapa with Farofa (Pan-Seared Steak &amp; Toasted Cassava Flour)",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "Three seared picanha steak pieces resting on a metal platter",
+      "prep_label": "Prep — Toasted Farofa",
+      "prep_alt": "A bowl of golden toasted cassava flour farofa",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Picanha (top sirloin cap) or sirloin steak, sliced into 1-inch pieces", "150g", "300g", "450g", "600g"],
+          ["Coarse salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Black pepper", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["Cassava flour (farinha de mandioca)", "30g", "60g", "90g", "120g"],
+          ["Butter or bacon fat", "10g", "20g", "30g", "40g"],
+          ["Onion, finely chopped (optional, for farofa)", "15g", "30g", "45g", "60g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the steak dry and season generously with the coarse salt and black pepper. Let sit at room temperature 10 minutes.",
+          "Heat a heavy skillet or griddle (chapa) over high heat until very hot.",
+          "Sear the steak pieces 2-3 minutes per side for medium-rare, or to your liking. Remove to a plate and let rest 5 minutes.",
+          "Meanwhile, melt the butter (or bacon fat) in a separate skillet over medium heat. Add the onion (if using) and garlic, cooking 2-3 minutes until fragrant and golden.",
+          "Add the cassava flour and toast, stirring constantly, 4-5 minutes until golden and toasted, not raw-tasting.",
+          "Season the farofa with a pinch of salt.",
+          "Slice the rested steak against the grain and serve immediately alongside the warm farofa."
+        ]}
+      ]
+    },
+    {
+      "id": "frango",
+      "title": "Frango à Passarinho (Garlic Fried Chicken Bites)",
+      "time": "35 min (+1 hr marinate)",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "A plate of golden fried chicken bites garnished with parsley and a lime wedge",
+      "prep_label": "Prep — Frango à Passarinho with a Cold Beer",
+      "prep_alt": "Fried chicken bites served bar-food style alongside a glass of cold beer",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, boneless, cut into small bite-sized pieces", "150g", "300g", "450g", "600g"],
+          ["Lime juice", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Garlic clove, minced (for marinade)", "1", "2", "3", "4"],
+          ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Black pepper", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+          ["All-purpose flour, for dredging", "30g", "60g", "90g", "120g"],
+          ["Vegetable oil, for frying", "200ml", "400ml", "600ml", "800ml"],
+          ["Garlic clove, minced (for finishing oil)", "½", "1", "1½", "2"],
+          ["Olive oil, for finishing", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Parsley, chopped, for garnish", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "In a bowl, toss the chicken pieces with the lime juice, marinade garlic, salt, and pepper. Cover and marinate in the fridge at least 1 hour (or up to overnight).",
+          "Heat about 2cm of vegetable oil in a deep skillet or pot to 350°F (175°C).",
+          "Toss the marinated chicken pieces in the flour, shaking off excess.",
+          "Fry the chicken in batches, 4-5 minutes per batch, until deeply golden and cooked through. Drain on paper towels.",
+          "While the chicken fries, warm the finishing olive oil in a small pan over low heat. Add the finishing garlic and cook 1-2 minutes until just golden — watch closely, it burns fast.",
+          "Toss the hot fried chicken bites with the garlic oil and parsley.",
+          "Serve immediately, with lime wedges and a cold drink on the side — classic Brazilian bar food."
+        ]}
+      ]
+    },
+    {
+      "id": "bobo",
+      "title": "Bobó de Camarão (Shrimp in Cassava-Coconut Puree)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A dark pot of golden, creamy Bobó de Camarão shrimp stew",
+      "prep_label": "Prep — Shrimp in Cassava-Coconut Puree",
+      "prep_alt": "A close-up of pink shrimp nestled in golden cassava-coconut puree",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Shrimp, peeled and deveined", "150g", "300g", "450g", "600g"],
+          ["Fresh cassava/yuca root, peeled and cubed", "200g", "400g", "600g", "800g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Tomato, chopped", "¼", "½", "¾", "1"],
+          ["Cilantro, chopped", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Coconut milk", "80ml", "160ml", "240ml", "320ml"],
+          ["Dendê (palm) oil or olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the cassava in salted water 20-25 minutes until very soft. Drain, reserving a little of the cooking water.",
+          "Mash or blend the cassava with a splash of the reserved cooking water until smooth and thick, like mashed potatoes.",
+          "Meanwhile, heat the oil in a pot over medium heat. Add the onion and garlic, cooking 4-5 minutes until softened.",
+          "Add the tomato and cook 2-3 minutes until it breaks down.",
+          "Season the shrimp with a pinch of salt, then add to the pot. Cook 2-3 minutes per side until just pink.",
+          "Stir in the cassava puree and coconut milk, mixing until smooth and creamy. Simmer 5 minutes.",
+          "Stir in the cilantro and season with salt to taste.",
+          "Serve hot over white rice."
+        ]}
+      ]
+    },
+    {
+      "id": "strogonoff",
+      "title": "Strogonoff de Frango (Brazilian Chicken Stroganoff)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A plate of creamy Brazilian stroganoff, white rice, crispy shoestring potatoes, and a side salad",
+      "prep_label": "Prep — Crispy Batata Palha",
+      "prep_alt": "A plate piled with golden crispy shoestring potato sticks (batata palha)",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken breast, cut into 1-inch cubes", "150g", "300g", "450g", "600g"],
+          ["Red wine vinegar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Salt and black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Butter or oil", "10g", "20g", "30g", "40g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Tomato sauce (passata)", "60ml", "120ml", "180ml", "240ml"],
+          ["Ketchup", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+          ["Dijon mustard", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Heavy cream", "60ml", "120ml", "180ml", "240ml"],
+          ["Shoestring potato sticks (batata palha), for serving", "15g", "30g", "45g", "60g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Toss the chicken cubes with the red wine vinegar, salt, and pepper. Let sit 5-10 minutes while you prep the other ingredients.",
+          "Heat the butter in a large skillet over medium heat. Add the onion and cook 4-5 minutes until soft.",
+          "Add the garlic and cook 1 minute until fragrant.",
+          "Add the chicken and cook 5-6 minutes, stirring occasionally, until golden and cooked through.",
+          "Stir in the tomato sauce, ketchup, and mustard. Simmer 3-4 minutes until slightly thickened.",
+          "Lower the heat and stir in the cream, mixing gently. Warm through 2-3 minutes without letting it boil (boiling can break the sauce).",
+          "Season with salt to taste.",
+          "Serve hot over white rice, topped generously with shoestring potato sticks for crunch."
+        ]}
+      ]
+    },
+    {
+      "id": "galinhada",
+      "title": "Galinhada (Brazilian Chicken and Rice)",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A close-up plate of golden turmeric rice with a piece of chicken",
+      "prep_label": "Prep — Galinhada Cooking in the Pot",
+      "prep_alt": "A large pot of golden galinhada rice topped with sliced peppers and scallions",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in or boneless, cut into pieces", "150g", "300g", "450g", "600g"],
+          ["Long-grain white rice", "65g", "130g", "195g", "260g"],
+          ["Onion, chopped", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Red bell pepper, chopped", "¼", "½", "¾", "1"],
+          ["Tomato, chopped", "¼", "½", "¾", "1"],
+          ["Ground turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Chicken stock or water", "150ml", "300ml", "450ml", "600ml"],
+          ["Olive oil", "10ml", "20ml", "30ml", "40ml"],
+          ["Salt and black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Season the chicken with salt and pepper. Heat the oil in a large pot or Dutch oven over medium-high heat and brown the chicken 3-4 minutes per side. Remove to a plate.",
+          "In the same pot, add the onion, garlic, and bell pepper, cooking 4-5 minutes until softened.",
+          "Stir in the tomato and turmeric, cooking 1-2 minutes until fragrant and the mixture is stained gold.",
+          "Add the rice and stir to coat every grain in the spiced oil, toasting 1 minute.",
+          "Return the chicken to the pot, add the bay leaf and stock, and bring to a boil.",
+          "Reduce heat to low, cover, and simmer 18-20 minutes, without lifting the lid, until the rice is tender and the liquid is absorbed.",
+          "Remove from heat and let rest, covered, 5 minutes. Discard the bay leaf, fluff with a fork, and season with salt to taste.",
+          "Serve hot, straight from the pot."
+        ]}
+      ]
+    },
+    {
+      "id": "brigadeiro",
+      "title": "Brigadeiro (Brazilian Chocolate Truffles) (Bonus)",
+      "time": "20 min (+30 min chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "An assortment of chocolate and coconut brigadeiro truffles in paper cups",
+      "prep_label": "Prep — Brigadeiro, Bitten to Show the Fudgy Center",
+      "prep_alt": "A chocolate brigadeiro truffle bitten in half, showing its soft fudgy interior",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Sweetened condensed milk", "100g", "200g", "300g", "400g"],
+          ["Unsalted butter", "8g", "15g", "23g", "30g"],
+          ["Unsweetened cocoa powder", "15g", "30g", "45g", "60g"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Chocolate sprinkles (granulado), for rolling", "20g", "40g", "60g", "80g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Combine the condensed milk, butter, cocoa powder, and salt in a saucepan over medium-low heat.",
+          "Cook, stirring constantly and scraping the bottom and sides, for 10-15 minutes, until the mixture thickens enough that a spatula dragged through it leaves the pan bottom visible for a second before the mixture flows back together.",
+          "Transfer to a buttered plate or shallow dish and let cool at room temperature 30 minutes, until firm enough to handle.",
+          "Lightly grease your hands with butter. Scoop about 1 teaspoon of the mixture and roll between your palms into a smooth ball.",
+          "Roll each ball in the chocolate sprinkles until fully coated.",
+          "Place in mini paper cups and serve at room temperature, or chill for a firmer bite."
+        ]}
+      ]
+    }
+  ]
+}

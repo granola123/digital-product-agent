@@ -1,0 +1,333 @@
+{
+  "recipes": [
+    {
+      "id": "lomo",
+      "title": "Lomo Saltado",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": -1.2,
+      "gold": false,
+      "dish_alt": "A plate of Peruvian lomo saltado, stir-fried beef strips with tomato and red onion, served with white rice.",
+      "prep_label": "Prep &amp; Plating — Beef, Fries &amp; Rice",
+      "prep_alt": "Lomo saltado plated with crisp French fries tucked into the beef and tomato stir-fry alongside rice.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef sirloin, sliced into thin strips", "150g", "300g", "450g", "600g"],
+           ["Red onion, sliced into wedges", "40g", "80g", "120g", "160g"],
+           ["Tomato, cut into wedges", "60g", "120g", "180g", "240g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Ají amarillo paste", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Soy sauce", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Red wine vinegar", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["French fries (frozen, or fresh-cut)", "100g", "200g", "300g", "400g"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Cilantro, chopped (garnish)", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Salt and black pepper", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"],
+           ["Cooked white rice, to serve", "150g", "300g", "450g", "600g"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Season the beef strips with salt and pepper. If using frozen fries, cook according to package directions until crisp; keep warm.",
+           "Heat the oil in a wok or large skillet over very high heat until just smoking. Sear the beef in batches, 1&ndash;2 minutes, until browned outside but still pink inside. Remove to a plate.",
+           "Add the onion to the same pan and cook 1&ndash;2 minutes, until just softened but still a little crisp.",
+           "Add the garlic and aj&iacute; amarillo paste, cooking 30 seconds until fragrant.",
+           "Add the tomato wedges, soy sauce, and vinegar, tossing 1&ndash;2 minutes until the tomato just starts to break down and release its juices.",
+           "Return the beef and the fries to the pan and toss everything together for 1 minute, just to combine and reheat &mdash; don't let the fries sit in the sauce long or they'll go soft.",
+           "Sprinkle with cilantro and serve immediately with white rice on the side."
+         ]}
+      ]
+    },
+    {
+      "id": "ajigallina",
+      "title": "Ají de Gallina",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "A plate of aji de gallina, creamy yellow shredded-chicken sauce, next to white rice, garnished with black olives.",
+      "prep_label": "Prep &amp; Plating — Sauce, Potato &amp; Egg",
+      "prep_alt": "Aji de gallina served over sliced boiled potato with rice and a hard-boiled egg wedge on the side.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken breast, boneless", "130g", "260g", "390g", "520g"],
+           ["White bread, crustless, torn", "15g", "30g", "45g", "60g"],
+           ["Evaporated milk", "60ml", "120ml", "180ml", "240ml"],
+           ["Walnuts or pecans, toasted", "15g", "30g", "45g", "60g"],
+           ["Parmesan, grated", "10g", "20g", "30g", "40g"],
+           ["Onion, chopped", "30g", "60g", "90g", "120g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Ají amarillo paste", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Chicken broth (reserved from poaching)", "60ml", "120ml", "180ml", "240ml"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"],
+           ["Boiled potato, sliced, to serve", "100g", "200g", "300g", "400g"],
+           ["Cooked white rice, to serve", "100g", "200g", "300g", "400g"],
+           ["Hard-boiled egg, quartered (garnish)", "&frac12;", "1", "1&frac12;", "2"],
+           ["Black olives (garnish)", "2", "4", "6", "8"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Poach the chicken breast in salted simmering water 15&ndash;18 minutes until cooked through; reserve some of the poaching liquid as broth. Once cool enough to handle, shred the chicken finely.",
+           "Soak the torn bread in the evaporated milk for 5 minutes until soft.",
+           "Blend the soaked bread (with its milk), toasted walnuts, and parmesan until smooth. Set aside.",
+           "Heat the oil in a pot over medium heat. Add the onion and cook 5&ndash;6 minutes until soft.",
+           "Add the garlic and aj&iacute; amarillo paste, cooking 2 minutes until fragrant and deep gold.",
+           "Stir in the walnut-bread mixture and the reserved chicken broth, whisking until smooth.",
+           "Add the shredded chicken, stir to coat, and simmer 8&ndash;10 minutes, stirring often, until thick and creamy &mdash; it should look like a loose, glossy b&eacute;chamel.",
+           "Season with salt to taste.",
+           "Spoon over sliced boiled potato and rice; garnish each plate with hard-boiled egg and black olives."
+         ]}
+      ]
+    },
+    {
+      "id": "ceviche",
+      "title": "Ceviche Clásico",
+      "time": "20 min + 10 min cure",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "A bowl of Peruvian ceviche clasico, cubed white fish and shrimp cured in lime with red onion, corn, and sweet potato.",
+      "prep_label": "Prep — Fish, Onion &amp; Citrus",
+      "prep_alt": "Cubed white fish curing in lime juice with sliced red onion and chile, plated with corn and sweet potato.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["White fish fillet (sea bass, tilapia, or halibut), cubed", "130g", "260g", "390g", "520g"],
+           ["Fresh lime juice", "60ml", "120ml", "180ml", "240ml"],
+           ["Red onion, thinly sliced", "30g", "60g", "90g", "120g"],
+           ["Ají limo, rocoto, or serrano chile, thinly sliced", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Garlic clove, grated", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Cilantro, chopped", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"],
+           ["Sweet potato, boiled, sliced, to serve", "80g", "160g", "240g", "320g"],
+           ["Corn on the cob (choclo), boiled, to serve", "&frac14; ear", "&frac12; ear", "&frac34; ear", "1 ear"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Pat the fish cubes dry, place in a non-reactive bowl, and season generously with salt.",
+           "Add the garlic and half the red onion; toss to combine.",
+           "Pour over the lime juice, making sure all the fish is submerged. Let it cure 5&ndash;10 minutes at room temperature &mdash; just until the fish turns opaque; longer isn't better here, the fish can turn rubbery.",
+           "Add the sliced chile and cilantro, and toss gently.",
+           "Taste the citrus marinade (leche de tigre) and adjust salt &mdash; it should be bright, salty-sour, and a little spicy.",
+           "Pile the ceviche onto plates with plenty of the citrus liquid, and top with the remaining red onion.",
+           "Serve immediately alongside the boiled sweet potato and a piece of corn."
+         ]}
+      ]
+    },
+    {
+      "id": "arrozpollo",
+      "title": "Arroz con Pollo Peruano",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A mound of green cilantro rice next to a roasted chicken quarter, Peruvian arroz con pollo verde.",
+      "prep_label": "Prep &amp; Plating — Cilantro Rice &amp; Chicken",
+      "prep_alt": "Golden arroz con pollo peruano with chicken drumsticks over rice, plated with a tomato and onion side salad.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in", "150g", "300g", "450g", "600g"],
+           ["Cilantro, roughly chopped (for blending)", "15g", "30g", "45g", "60g"],
+           ["Onion, chopped", "40g", "80g", "120g", "160g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Ají amarillo paste", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Red bell pepper, diced", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Long-grain white rice", "80g", "160g", "240g", "320g"],
+           ["Chicken stock", "150ml", "300ml", "450ml", "600ml"],
+           ["Frozen peas", "25g", "50g", "75g", "100g"],
+           ["Carrot, diced", "30g", "60g", "90g", "120g"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Salt and black pepper", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Blend the cilantro with a splash of the chicken stock until smooth; set aside.",
+           "Season the chicken with salt and pepper. Heat the oil in a pot over medium-high heat and brown the chicken 3&ndash;4 minutes per side. Remove.",
+           "In the same pot, add the onion, garlic, and bell pepper; cook 4&ndash;5 minutes until softened.",
+           "Stir in the aj&iacute; amarillo paste and cook 1 minute.",
+           "Add the rice, stirring to coat it in the fat, then pour in the cilantro pur&eacute;e and the remaining chicken stock.",
+           "Nestle the chicken back into the pot, add the carrot, and bring to a simmer.",
+           "Cover and cook on low 18&ndash;20 minutes until the rice is tender and the liquid is absorbed.",
+           "Stir in the peas, cover, and rest off the heat for 5 minutes.",
+           "Fluff with a fork and serve hot."
+         ]}
+      ]
+    },
+    {
+      "id": "seco",
+      "title": "Seco de Res",
+      "time": "65 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A bowl of seco de res, Peruvian beef and cilantro stew, with red onion and rice.",
+      "prep_label": "Prep &amp; Plating — Beef, Beans &amp; Rice",
+      "prep_alt": "Seco de res beef stew plated with canary beans (frejoles) and white rice.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef stew meat (chuck), cubed", "150g", "300g", "450g", "600g"],
+           ["Cilantro, roughly chopped (for blending)", "20g", "40g", "60g", "80g"],
+           ["Onion, chopped", "40g", "80g", "120g", "160g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Ají amarillo paste", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Dark beer (substitute for chicha de jora)", "60ml", "120ml", "180ml", "240ml"],
+           ["Beef stock", "100ml", "200ml", "300ml", "400ml"],
+           ["Carrot, sliced", "40g", "80g", "120g", "160g"],
+           ["Frozen peas", "25g", "50g", "75g", "100g"],
+           ["Potato, cubed", "80g", "160g", "240g", "320g"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Salt and black pepper", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Blend the cilantro with a splash of beef stock until smooth; set aside.",
+           "Season the beef with salt and pepper. Heat the oil in a heavy pot over medium-high heat and brown the beef in batches, 3&ndash;4 minutes per side. Remove.",
+           "In the same pot, add the onion and garlic, cooking 5&ndash;6 minutes until soft.",
+           "Stir in the aj&iacute; amarillo paste, cooking 1&ndash;2 minutes until fragrant.",
+           "Return the beef to the pot, pour in the beer, and let it bubble 1&ndash;2 minutes to cook off the raw alcohol smell.",
+           "Add the cilantro pur&eacute;e and beef stock, and bring to a simmer.",
+           "Cover and cook on low 35&ndash;40 minutes until the beef is nearly fork-tender.",
+           "Add the potato and carrot, cover, and cook 15 minutes more until the vegetables and beef are tender.",
+           "Stir in the peas and simmer uncovered 5 minutes to thicken slightly. Season with salt.",
+           "Serve hot with white rice."
+         ]}
+      ]
+    },
+    {
+      "id": "causa",
+      "title": "Causa Rellena",
+      "time": "40 min + 1 hr chill",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A log of causa rellena, layered chilled potato with chicken filling and avocado, garnished with olives.",
+      "prep_label": "Prep &amp; Plating — Layered Potato, Avocado &amp; Chicken",
+      "prep_alt": "A stack of causa rellena showing the layers of golden aji-amarillo potato, avocado, and chicken salad.",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Yellow or Yukon Gold potatoes, boiled and riced", "200g", "400g", "600g", "800g"],
+           ["Ají amarillo paste", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Fresh lime juice", "15ml", "30ml", "45ml", "60ml"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Salt", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"],
+           ["Cooked chicken breast, shredded", "80g", "160g", "240g", "320g"],
+           ["Mayonnaise", "20g", "40g", "60g", "80g"],
+           ["Celery, finely diced", "10g", "20g", "30g", "40g"],
+           ["Avocado, sliced", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Tomato, sliced", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Hard-boiled egg, sliced (garnish)", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Black olives (garnish)", "2", "4", "6", "8"]
+         ]}
+        ,
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Rice or mash the boiled potatoes while still warm until completely smooth and lump-free.",
+           "Mix in the aj&iacute; amarillo paste, lime juice, oil, and salt until the potato is a vivid gold and holds together like a soft dough. Let it cool to room temperature.",
+           "Meanwhile, mix the shredded chicken with the mayonnaise and celery to make the filling.",
+           "Line a small loaf pan or ring mold with plastic wrap. Press in half the potato mixture in an even layer.",
+           "Layer the avocado slices over the potato, then spread the chicken filling on top, then the tomato slices.",
+           "Press in the remaining potato mixture to seal, smoothing the top.",
+           "Cover and refrigerate at least 1 hour, until firm and cold.",
+           "Unmold, slice, and garnish with the sliced hard-boiled egg and black olives just before serving."
+         ]}
+      ]
+    },
+    {
+      "id": "pollobrasa",
+      "title": "Pollo a la Brasa with Ají Verde",
+      "time": "60 min + 30 min marinate",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "Peruvian roast pollo a la brasa chicken with crisp golden skin, plated with fries and a carrot garnish.",
+      "prep_label": "Prep &amp; Plating — Roast Chicken with Rice",
+      "prep_alt": "Roasted pollo a la brasa chicken plated with rice and salad, ready to serve with aji verde sauce.",
+      "sections": [
+        {"type": "table", "heading": "Chicken &amp; Marinade",
+         "rows": [
+           ["Chicken thighs, bone-in, skin-on", "180g", "360g", "540g", "720g"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Soy sauce", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Ají panca paste (or smoked paprika + pinch cayenne)", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Fresh lime juice", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Ground cumin", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Dried oregano", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Vegetable oil", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Salt and black pepper", "pinch", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp"]
+         ]},
+        {"type": "table", "heading": "Ají Verde Sauce",
+         "rows": [
+           ["Jalapeño, seeded and chopped", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Cilantro, roughly chopped", "10g", "20g", "30g", "40g"],
+           ["Garlic clove", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Mayonnaise", "20g", "40g", "60g", "80g"],
+           ["Queso fresco or feta, crumbled", "10g", "20g", "30g", "40g"],
+           ["Fresh lime juice", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Whisk together the marinade ingredients &mdash; garlic, soy sauce, aj&iacute; panca, lime juice, cumin, oregano, oil, salt, and pepper.",
+           "Rub the marinade all over the chicken thighs, including under the skin. Marinate at least 30 minutes at room temperature, or up to overnight in the fridge.",
+           "Meanwhile, blend all the aj&iacute; verde ingredients until smooth; taste and adjust salt or lime. Refrigerate until serving.",
+           "Heat the oven to 220&deg;C (425&deg;F), or heat a grill pan over medium-high.",
+           "Roast the chicken thighs skin-side up 30&ndash;35 minutes (or grill 6&ndash;7 minutes per side), basting once with the pan juices, until the skin is deeply burnished and a thermometer reads 74&deg;C (165&deg;F).",
+           "Rest 5 minutes, then serve with the aj&iacute; verde sauce alongside."
+         ]}
+      ]
+    },
+    {
+      "id": "picarones",
+      "title": "Picarones",
+      "time": "50 min + 1 hr rise",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": true,
+      "dish_alt": "Two golden fried picarones rings drizzled with dark chancaca syrup on a white plate.",
+      "prep_label": "Prep — Frying the Rings",
+      "prep_alt": "Picarones dough rings frying in a pot of hot oil, turning golden brown.",
+      "sections": [
+        {"type": "table", "heading": "Dough",
+         "rows": [
+           ["Butternut squash, peeled and cubed", "100g", "200g", "300g", "400g"],
+           ["Sweet potato, peeled and cubed", "100g", "200g", "300g", "400g"],
+           ["All-purpose flour", "60g", "120g", "180g", "240g"],
+           ["Granulated sugar", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Instant yeast", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Anise seed", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp", "&frac12; tsp"],
+           ["Salt", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac38; tsp"],
+           ["Warm water (as needed)", "15ml", "30ml", "45ml", "60ml"],
+           ["Vegetable oil, for frying", "as needed", "as needed", "as needed", "as needed"]
+         ]},
+        {"type": "table", "heading": "Chancaca Syrup",
+         "rows": [
+           ["Dark brown sugar, panela, or piloncillo, chopped", "50g", "100g", "150g", "200g"],
+           ["Water", "60ml", "120ml", "180ml", "240ml"],
+           ["Cinnamon stick", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Whole cloves", "1", "2", "3", "4"],
+           ["Orange peel strip", "&frac14;", "&frac12;", "&frac34;", "1"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Boil the squash and sweet potato until fork-tender, about 15 minutes; drain and mash until smooth.",
+           "In a large bowl, mix the flour, sugar, yeast, anise seed, and salt. Stir in the mashed squash and sweet potato, adding warm water a little at a time, until you have a soft, sticky, elastic dough &mdash; about the consistency of a thick pancake batter you could still pinch into a ring.",
+           "Cover and let rise in a warm spot about 1 hour, until doubled and bubbly.",
+           "Meanwhile, make the chancaca syrup: simmer the chopped panela, water, cinnamon stick, cloves, and orange peel 10&ndash;12 minutes until syrupy. Strain and set aside.",
+           "Heat oil to 350&deg;F (175&deg;C) in a deep pot.",
+           "Wet your hand or a spoon, scoop a portion of dough, and shape it into a ring directly into the hot oil (or drop it as a rustic free-form dollop if shaping rings feels fiddly).",
+           "Fry 2&ndash;3 minutes per side until deep golden and crisp, working in batches so the oil temperature doesn't drop.",
+           "Drain on a rack or paper towels. Drizzle warm with the chancaca syrup and serve immediately."
+         ]}
+      ]
+    }
+  ]
+}

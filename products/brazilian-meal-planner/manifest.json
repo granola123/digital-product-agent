@@ -1,0 +1,121 @@
+{
+  "dishes": [
+    {
+      "id": "feijoada",
+      "title": "Feijoada",
+      "dish_photo": {
+        "title": "File:Feijoada à brasileira -02.jpg",
+        "artist": "Bradleyzm",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Ingredientes de feijoada en un buffet de tenedor libre.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 3.0",
+        "note": "Substitute — shows the rice and feijoada base laid out in serving trays rather than a step-by-step cooking shot."
+      }
+    },
+    {
+      "id": "moqueca",
+      "title": "Moqueca de Peixe",
+      "dish_photo": {
+        "title": "File:Moqueca.jpg",
+        "artist": "BR",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Moqueca Capixaba 09.jpg",
+        "artist": "Sintegrity",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "picanha",
+      "title": "Picanha na Chapa with Farofa",
+      "dish_photo": {
+        "title": "File:Picanha.jpg",
+        "artist": "Alexandre M. Plácido",
+        "license": "Public domain"
+      },
+      "prep_photo": {
+        "title": "File:Farofa brazil.jpg",
+        "artist": "User Carioca",
+        "license": "CC BY-SA 3.0",
+        "note": "Shows the toasted cassava-flour farofa that's served alongside the steak."
+      }
+    },
+    {
+      "id": "frango",
+      "title": "Frango à Passarinho",
+      "dish_photo": {
+        "title": "File:Frango.à.passarinho.2.jpg",
+        "artist": "Msadp06",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Leitoa e frango a passarinho (8468274761).jpg",
+        "artist": "Christian Benseler",
+        "license": "CC BY 2.0",
+        "note": "Shows Frango à Passarinho served bar-food style alongside a cold beer, the traditional way."
+      }
+    },
+    {
+      "id": "bobo",
+      "title": "Bobó de Camarão",
+      "dish_photo": {
+        "title": "File:Bobó de camarão.jpg",
+        "artist": "Marcelo Träsel from Porto Alegre, Brasil",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:Assis Lima Bobo de Camarãol RioBranco (26992971238).jpg",
+        "artist": "MTur Destinos",
+        "license": "Public domain"
+      }
+    },
+    {
+      "id": "strogonoff",
+      "title": "Strogonoff de Frango",
+      "dish_photo": {
+        "title": "File:Estrogonofe de carne, arroz, batata palha, batata assada, vinagrete.jpg",
+        "artist": "Melsj",
+        "license": "CC BY-SA 4.0",
+        "note": "Substitute — no standalone photo of the chicken version was found on Commons; this is the beef version (Estrogonofe de Carne) plated in the identical Brazilian style, with rice and batata palha."
+      },
+      "prep_photo": {
+        "title": "File:Batata palha.jpg",
+        "artist": "Fabio azevedo",
+        "license": "CC BY-SA 3.0",
+        "note": "The crispy shoestring-potato garnish that tops the finished dish."
+      }
+    },
+    {
+      "id": "galinhada",
+      "title": "Galinhada",
+      "dish_photo": {
+        "title": "File:Prato de galinhada.jpg",
+        "artist": "Márcia Cristina Machado",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Galinhada no tacho.jpg",
+        "artist": "Márcia Cristina Machado",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "brigadeiro",
+      "title": "Brigadeiro",
+      "dish_photo": {
+        "title": "File:Brigadeiros.jpg",
+        "artist": "Rodrigogomesonetwo",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Brigadeiro - Flickr - Rod Senna.jpg",
+        "artist": "Rodrigo Senna from Brasília, DF, Brasil",
+        "license": "CC BY 2.0"
+      }
+    }
+  ]
+}

@@ -130,6 +130,17 @@ def main():
         if cd["photo_credits"]:
             credits_items.append('<p><b>%s</b> — %s</p>' % (country_name, cd["photo_credits"]))
 
+    # Count recipe cards from each gallery rather than assuming 8/country —
+    # series format is normally 8, but stay accurate as the library grows.
+    recipe_total = 0
+    for cd in country_data:
+        recipe_total += len(re.findall(
+            r'class="[^"]*\brecipe-card\b', cd["gallery"]
+        ))
+    if recipe_total == 0:
+        # Fallback if class names differ in an older preview.
+        recipe_total = n * 8
+
     doc = TEMPLATE.format(
         master_style=master_style,
         all_defs=all_defs,
@@ -138,7 +149,7 @@ def main():
         credits="\n".join(credits_items),
         flags=" ".join(flag_line),
         n=n,
-        recipes=n * 8,
+        recipes=recipe_total,
     )
 
     with open(OUT_HTML, "w", encoding="utf-8") as f:

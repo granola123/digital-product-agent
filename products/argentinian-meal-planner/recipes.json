@@ -1,0 +1,316 @@
+{
+  "recipes": [
+    {
+      "id": "bifechorizo",
+      "title": "Bife de Chorizo with Chimichurri",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -1.0,
+      "gold": true,
+      "dish_alt": "A seared bife de chorizo steak with a dark crust and pink medium-rare center, served with greens",
+      "prep_label": "Prep — Mixing the Chimichurri",
+      "prep_alt": "A jar of fresh green chimichurri sauce being stirred with a spoon",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Bife de chorizo or sirloin strip steak", "200g", "400g", "600g", "800g"],
+          ["Coarse salt", "to taste", "to taste", "to taste", "to taste"],
+          ["Black pepper", "to taste", "to taste", "to taste", "to taste"],
+          ["Olive oil (for searing)", "5ml", "10ml", "15ml", "20ml"],
+          ["Flat-leaf parsley, finely chopped", "10g", "20g", "30g", "40g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Red pepper flakes", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Red wine vinegar", "10ml", "20ml", "30ml", "40ml"],
+          ["Olive oil (for chimichurri)", "30ml", "60ml", "90ml", "120ml"],
+          ["Water", "5ml", "10ml", "15ml", "20ml"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Take the steak out of the fridge 20 minutes before cooking. Pat dry and season generously with salt and pepper on both sides.",
+          "Make the chimichurri: combine the parsley, garlic, oregano, red pepper flakes, vinegar, and water in a bowl. Whisk in the olive oil. Season with salt and let sit at room temperature at least 15 minutes so the flavors meld (it keeps well in the fridge up to a week).",
+          "Heat a heavy skillet or grill pan over high heat with the searing oil until just smoking.",
+          "Sear the steak 3-4 minutes per side for medium-rare, adjusting time for thickness and desired doneness, pressing gently for an even crust.",
+          "Rest the steak 5 minutes before slicing against the grain.",
+          "Spoon chimichurri generously over the steak and serve extra on the side."
+        ]}
+      ]
+    },
+    {
+      "id": "milanesa",
+      "title": "Milanesa a la Napolitana",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.9,
+      "gold": false,
+      "dish_alt": "A breaded Milanesa Napolitana topped with melted mozzarella and sliced tomato, served with french fries",
+      "prep_label": "Prep — Plated with Fries",
+      "prep_alt": "A Milanesa Napolitana topped with tomato sauce and cheese, plated with a side of french fries",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Beef top round, pounded thin", "180g", "360g", "540g", "720g"],
+          ["All-purpose flour", "20g", "40g", "60g", "80g"],
+          ["Egg, beaten", "1", "2", "3", "4"],
+          ["Breadcrumbs", "40g", "80g", "120g", "160g"],
+          ["Garlic powder", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Salt &amp; pepper", "to taste", "to taste", "to taste", "to taste"],
+          ["Neutral oil (for frying)", "60ml", "120ml", "180ml", "240ml"],
+          ["Tomato sauce", "40g", "80g", "120g", "160g"],
+          ["Cooked ham slice", "1", "2", "3", "4"],
+          ["Mozzarella, sliced or shredded", "40g", "80g", "120g", "160g"],
+          ["Dried oregano", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pound the beef cutlets to an even ½cm thickness between plastic wrap.",
+          "Set up a dredging station: flour seasoned with garlic powder, salt, and pepper; beaten egg; breadcrumbs.",
+          "Coat each cutlet in flour, then egg, then breadcrumbs, pressing to adhere.",
+          "Heat the oil in a large skillet over medium-high heat. Fry the cutlets 2-3 minutes per side until golden and just cooked through. Drain on paper towels.",
+          "Preheat the oven broiler (or oven to 220°C/425°F). Arrange the fried cutlets on a baking sheet.",
+          "Spread tomato sauce over each cutlet, top with a slice of ham, then mozzarella, then a pinch of oregano.",
+          "Broil or bake 5-8 minutes until the cheese is melted and bubbling.",
+          "Serve hot - classically with french fries or a simple salad."
+        ]}
+      ]
+    },
+    {
+      "id": "empanadas",
+      "title": "Empanadas de Carne",
+      "time": "60 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": true,
+      "dish_alt": "A tray of golden-baked Argentine beef empanadas with crimped edges, served with lime wedges",
+      "prep_label": "Prep — Crimped and Ready to Bake",
+      "prep_alt": "Raw crimped empanadas arranged on a metal tray, ready to go into the oven",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Empanada dough discs (tapas)", "3", "6", "9", "12"],
+          ["Ground beef", "120g", "240g", "360g", "480g"],
+          ["Onion, finely diced", "50g", "100g", "150g", "200g"],
+          ["Neutral oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Beef stock or water", "15ml", "30ml", "45ml", "60ml"],
+          ["Sweet paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Dried oregano", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Red pepper flakes (optional)", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Hard-boiled egg, chopped", "¼", "½", "¾", "1"],
+          ["Green olives, chopped", "2", "4", "6", "8"],
+          ["Egg, beaten (for sealing/egg wash)", "as needed", "as needed", "as needed", "as needed"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat a splash of oil in a skillet over medium heat. Cook the onion 5-7 minutes until soft and translucent.",
+          "Add the ground beef, breaking it up, and cook until browned.",
+          "Stir in the paprika, cumin, oregano, and chili flakes (if using), cooking 1 minute until fragrant.",
+          "Add the stock and simmer 5 minutes until moist but not soupy. Season with salt. Spread on a tray and let cool completely - hot filling will melt the dough.",
+          "Once cool, stir in the chopped hard-boiled egg and olives.",
+          "Lay out the empanada discs. Place a spoonful of filling just off-center on each.",
+          "Moisten the edge with a little water or egg wash, fold into a half-moon, and press to seal. Crimp in the traditional repulgue braid, or press with a fork.",
+          "Arrange on a lined baking sheet, brush with egg wash, and bake at 200°C/400°F for 18-22 minutes until golden.",
+          "Serve warm, with lime wedges if you like."
+        ]}
+      ]
+    },
+    {
+      "id": "locro",
+      "title": "Locro (Weeknight-Shortcut Version)",
+      "time": "75 min",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "A bowl of thick, golden Locro stew with visible corn kernels, beans, and meat",
+      "prep_label": "Prep — Locro Simmering in the Pot",
+      "prep_alt": "A large pot of golden Locro stew simmering over a wood fire",
+      "sections": [
+        {"type": "table", "heading": "Stew — Ingredients by Serving", "rows": [
+          ["Neutral oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Canned white hominy (mote), drained", "150g", "300g", "450g", "600g"],
+          ["Canned white beans, drained", "40g", "80g", "120g", "160g"],
+          ["Beef stew meat, cubed", "60g", "120g", "180g", "240g"],
+          ["Pork shoulder or bacon, cubed", "40g", "80g", "120g", "160g"],
+          ["Fresh chorizo criollo, sliced", "30g", "60g", "90g", "120g"],
+          ["Butternut squash, cubed", "60g", "120g", "180g", "240g"],
+          ["Onion, diced", "30g", "60g", "90g", "120g"],
+          ["Sweet paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground cumin", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Beef or chicken stock", "250ml", "500ml", "750ml", "1000ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "table", "heading": "Salsa Criolla (Topping) — Ingredients by Serving", "rows": [
+          ["Onion, finely diced", "15g", "30g", "45g", "60g"],
+          ["Red bell pepper, finely diced", "10g", "20g", "30g", "40g"],
+          ["Red wine vinegar", "5ml", "10ml", "15ml", "20ml"],
+          ["Olive oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Sweet paprika", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "In a large heavy pot, brown the beef and pork over medium-high heat in a little oil, in batches if needed. Remove and set aside.",
+          "Add the chorizo and onion to the same pot, cooking 5 minutes until the onion softens and the chorizo releases some fat.",
+          "Stir in the paprika and cumin, cooking 30 seconds until fragrant.",
+          "Return the beef and pork to the pot. Add the hominy, beans, squash, bay leaf, and stock. Bring to a boil.",
+          "Reduce heat and simmer, partially covered, 45-60 minutes, stirring occasionally and mashing some of the squash against the side of the pot, until thick and stew-like and the meat is tender.",
+          "Meanwhile, make the salsa criolla: combine the onion, bell pepper, vinegar, oil, and paprika in a small bowl. Let sit at room temperature to marinate.",
+          "Season the locro with salt. Serve in deep bowls topped with a spoonful of salsa criolla."
+        ]}
+      ]
+    },
+    {
+      "id": "sorrentinos",
+      "title": "Sorrentinos de Jamón y Queso",
+      "time": "60 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A plate of round stuffed sorrentinos pasta topped with a chunky meat sauce",
+      "prep_label": "Prep — Boiling the Sorrentinos",
+      "prep_alt": "Fresh sorrentinos pasta pieces submerged in a pot of boiling water, next to their packaging",
+      "sections": [
+        {"type": "table", "heading": "Dough — Ingredients by Serving", "rows": [
+          ["All-purpose flour", "100g", "200g", "300g", "400g"],
+          ["Egg", "1", "2", "3", "4"],
+          ["Olive oil", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "table", "heading": "Filling — Ingredients by Serving", "rows": [
+          ["Ricotta cheese", "60g", "120g", "180g", "240g"],
+          ["Cooked ham, finely chopped", "40g", "80g", "120g", "160g"],
+          ["Mozzarella, grated", "30g", "60g", "90g", "120g"],
+          ["Parmesan, grated", "10g", "20g", "30g", "40g"],
+          ["Egg yolk", "¼", "½", "¾", "1"],
+          ["Ground nutmeg", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt &amp; pepper", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "table", "heading": "To Serve — Ingredients by Serving", "rows": [
+          ["Tomato sauce", "60g", "120g", "180g", "240g"],
+          ["Butter (optional finish)", "5g", "10g", "15g", "20g"],
+          ["Grated parmesan", "5g", "10g", "15g", "20g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the dough: mound the flour, make a well, and add the egg(s), olive oil, and salt. Gradually work the flour into the wet ingredients until a shaggy dough forms.",
+          "Knead 8-10 minutes until smooth and elastic. Wrap in plastic and rest at room temperature 30 minutes.",
+          "Meanwhile, make the filling: combine the ricotta, ham, mozzarella, parmesan, egg yolk, nutmeg, salt, and pepper in a bowl. Mix well and refrigerate until ready to use.",
+          "Roll the dough out thin (about 2mm), working in batches and keeping the rest covered.",
+          "Using a round cutter or a sorrentinos press (about 7cm), cut circles. Place a small spoonful of filling in the center of half the circles.",
+          "Top with a second circle, pressing out any air and sealing the edges firmly. Crimp with a fork.",
+          "Bring a large pot of salted water to a boil. Cook the sorrentinos in batches 3-5 minutes, until they float and the pasta is tender.",
+          "Meanwhile, warm the tomato sauce with the butter in a pan.",
+          "Drain the sorrentinos, toss gently with the sauce, and serve with grated parmesan."
+        ]}
+      ]
+    },
+    {
+      "id": "pasteldepapa",
+      "title": "Pastel de Papa",
+      "time": "50 min",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": false,
+      "dish_alt": "A golden-topped slice of Pastel de Papa on a plate, with mashed potato browned on top",
+      "prep_label": "Prep — Fork-Ridged Topping, Ready to Bake",
+      "prep_alt": "An unbaked tray of Pastel de Papa with fork-ridged mashed potato topping",
+      "sections": [
+        {"type": "table", "heading": "Mashed Potato Topping — Ingredients by Serving", "rows": [
+          ["Potato, peeled and cubed", "200g", "400g", "600g", "800g"],
+          ["Butter", "10g", "20g", "30g", "40g"],
+          ["Milk", "30ml", "60ml", "90ml", "120ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "table", "heading": "Beef Filling — Ingredients by Serving", "rows": [
+          ["Ground beef", "120g", "240g", "360g", "480g"],
+          ["Onion, diced", "30g", "60g", "90g", "120g"],
+          ["Neutral oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Red bell pepper, diced (optional)", "15g", "30g", "45g", "60g"],
+          ["Sweet paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground cumin", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Raisins", "5g", "10g", "15g", "20g"],
+          ["Green olives, chopped", "2", "4", "6", "8"],
+          ["Hard-boiled egg, sliced", "¼", "½", "¾", "1"],
+          ["Beef stock or water", "15ml", "30ml", "45ml", "60ml"],
+          ["Grated cheese (optional, for the top)", "10g", "20g", "30g", "40g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Boil the potato in salted water until fork-tender, about 15 minutes. Drain and mash with the butter and milk until smooth. Season with salt.",
+          "Meanwhile, heat a little oil in a skillet over medium heat. Cook the onion and bell pepper (if using) 5 minutes until soft.",
+          "Add the ground beef, breaking it up, and cook until browned.",
+          "Stir in the paprika, cumin, and stock, simmering 3-4 minutes until slightly thickened. Season with salt.",
+          "Off the heat, stir in the raisins and olives.",
+          "Preheat the oven to 200°C/400°F. Spread half the mashed potato in the bottom of a baking dish. Layer the beef filling over it, then arrange the sliced hard-boiled egg on top.",
+          "Cover with the remaining mashed potato, smoothing the top with a fork to create ridges (this helps it brown). Sprinkle with cheese if using.",
+          "Bake 20-25 minutes until the top is golden brown, finishing under the broiler for the last 2-3 minutes for more color.",
+          "Let rest 5 minutes before serving."
+        ]}
+      ]
+    },
+    {
+      "id": "guisolentejas",
+      "title": "Guiso de Lentejas",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "A bowl of thick Argentine lentil stew with chorizo, served with bread and lime",
+      "prep_label": "Prep — Guiso de Lentejas Simmering",
+      "prep_alt": "A pot of lentil stew simmering with visible lentils, carrots, and meat, being stirred with a wooden spoon",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Neutral oil", "5ml", "10ml", "15ml", "20ml"],
+          ["Brown or green lentils", "60g", "120g", "180g", "240g"],
+          ["Cured Spanish-style chorizo, sliced", "40g", "80g", "120g", "160g"],
+          ["Onion, diced", "30g", "60g", "90g", "120g"],
+          ["Red bell pepper, diced", "20g", "40g", "60g", "80g"],
+          ["Carrot, diced", "30g", "60g", "90g", "120g"],
+          ["Potato, cubed", "40g", "80g", "120g", "160g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Sweet paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Bay leaf", "¼", "½", "¾", "1"],
+          ["Tomato purée", "15g", "30g", "45g", "60g"],
+          ["Beef or vegetable stock", "300ml", "600ml", "900ml", "1200ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Heat a little oil in a large pot over medium heat. Add the chorizo and cook 2-3 minutes until it releases its fat and starts to brown.",
+          "Add the onion, bell pepper, and carrot, cooking 6-8 minutes until softened.",
+          "Add the garlic and paprika, cooking 30 seconds until fragrant.",
+          "Stir in the tomato purée and cook 1-2 minutes.",
+          "Add the lentils, potato, bay leaf, and stock. Bring to a boil.",
+          "Reduce heat and simmer, partially covered, 30-35 minutes, stirring occasionally, until the lentils are tender and the stew has thickened.",
+          "Season with salt and pepper. Remove the bay leaf.",
+          "Serve hot with crusty bread."
+        ]}
+      ]
+    },
+    {
+      "id": "alfajores",
+      "title": "Alfajores de Maicena (Bonus)",
+      "time": "30 min (+30-60 min chill)",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "A whole coconut-rolled alfajor de maicena on a plate beside a cup of coffee",
+      "prep_label": "Prep — Halved to Show the Dulce de Leche Filling",
+      "prep_alt": "A chocolate-coated alfajor cut in half, revealing layered dulce de leche filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Butter, softened", "30g", "60g", "90g", "120g"],
+          ["Sugar", "15g", "30g", "45g", "60g"],
+          ["Egg yolk", "½", "1", "1½", "2"],
+          ["Vanilla extract", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Cornstarch", "45g", "90g", "135g", "180g"],
+          ["All-purpose flour", "20g", "40g", "60g", "80g"],
+          ["Baking powder", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Dulce de leche", "30g", "60g", "90g", "120g"],
+          ["Shredded coconut, for coating", "10g", "20g", "30g", "40g"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Beat the butter and sugar together until light and creamy. Add the egg yolk(s) and vanilla, beating until smooth.",
+          "Sift in the cornstarch, flour, and baking powder. Fold in with a spatula, then bring together into a smooth, soft dough with your hands.",
+          "Wrap and chill 30-60 minutes until firm enough to roll.",
+          "Preheat the oven to 180°C/350°F and line a baking sheet with parchment.",
+          "Roll the dough to about 6mm thick and cut into small rounds (about 4cm). Place on the baking sheet.",
+          "Bake 8-10 minutes - they should stay pale; don't let them brown. Cool completely on the tray (they're fragile while warm).",
+          "Sandwich pairs of cookies together with a generous spoonful of dulce de leche.",
+          "Roll the exposed dulce de leche edge in shredded coconut. Serve at room temperature; keeps in an airtight container for several days."
+        ]}
+      ]
+    }
+  ]
+}

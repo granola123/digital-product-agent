@@ -1,0 +1,47 @@
+{
+  "_comment": "Canonical Claude Artifact URLs per country, one preview + one price-research link each. Republishing without passing the existing `url` back to the Artifact tool creates a brand-new orphaned URL instead of updating in place -- this has happened repeatedly across this series, leaving 2-3 stale duplicate links floating for several countries. This file is the single source of truth for 'which link is actually current' going forward. ALWAYS pass the recorded url back to the Artifact tool on every future republish of that country so it updates in place instead of forking again. needs_reverify: true means the link predates this audit (published before 2026-07-26) and could not be confirmed against Artifact list (which only returns the 50 most recent entries) -- republish that file once to both confirm/refresh the link and populate this record with certainty.",
+  "countries": {
+    "thai":     { "preview": "https://claude.ai/code/artifact/29682522-c231-43dc-a7b6-2062990a0db2", "price_research": "https://claude.ai/code/artifact/1f366f87-22ec-40e3-aaab-aefaf99c3b4e", "needs_reverify": false },
+    "indian":   { "preview": "https://claude.ai/code/artifact/533d3faf-5d7c-4175-af87-9ebfb711cd26", "price_research": "https://claude.ai/code/artifact/b3e9fc38-3109-4735-853f-d8fcd1e979ca", "needs_reverify": false },
+    "korean":   { "preview": "https://claude.ai/code/artifact/bfb631c2-c538-4f5d-b786-0d5787222368", "price_research": "https://claude.ai/code/artifact/110f6f42-e72d-4f50-892d-88e68dadec03", "needs_reverify": false },
+    "japanese": { "preview": "https://claude.ai/code/artifact/04b49bd2-ba7f-4ddd-aaae-006c8b2c92b7", "price_research": "https://claude.ai/code/artifact/5f342659-0ab2-4638-8fad-41ce9d1a654a", "needs_reverify": false },
+    "greek-mediterranean": { "preview": "https://claude.ai/code/artifact/76ce2bfc-69a8-423c-af91-fb4313527fb3", "price_research": "https://claude.ai/code/artifact/921ac634-ef83-483b-bde8-28f81f647488", "needs_reverify": false },
+    "italian":  { "preview": "https://claude.ai/code/artifact/06519f00-7985-435d-9af5-85eee4d00c6c", "price_research": "https://claude.ai/code/artifact/32d58ff1-a09d-42ac-a42f-cb5f72719b6e", "needs_reverify": false },
+    "mexican":  { "preview": "https://claude.ai/code/artifact/469913c8-7fe2-47ec-8d45-08ccf6c61727", "price_research": "https://claude.ai/code/artifact/0b9a1308-49cd-4a92-aa87-6771c40b3711", "needs_reverify": false },
+    "vietnamese": { "preview": "https://claude.ai/code/artifact/7f9f06e3-672f-41ba-bfc3-e6176f281959", "price_research": "https://claude.ai/code/artifact/1dac01fc-9016-4ffe-b8c5-24e15edf90a2", "needs_reverify": false },
+    "filipino": { "preview": "https://claude.ai/code/artifact/383ee869-26bf-4c5b-bbc3-6a42cd4a6fa4", "price_research": "https://claude.ai/code/artifact/5f4a34c4-2a6d-4511-8960-94072d8ff3b9", "needs_reverify": false },
+    "spanish":  { "preview": "https://claude.ai/code/artifact/f9e43abd-ef6e-4337-8059-f16086927390", "price_research": "https://claude.ai/code/artifact/5fafad72-6274-45aa-8f2a-999620f1160d", "needs_reverify": false },
+    "moroccan": { "preview": "https://claude.ai/code/artifact/afe53a98-44bc-4f1b-a902-f4c0ace721db", "price_research": "https://claude.ai/code/artifact/f07664fe-62d8-4f5d-905f-c762e749448e", "needs_reverify": false },
+    "turkish":  { "preview": "https://claude.ai/code/artifact/65fe373b-5431-4a6a-8422-e935469711b8", "price_research": "https://claude.ai/code/artifact/53459406-6e6b-40b5-819b-25f8f29af28c", "needs_reverify": false },
+    "chinese":  { "preview": "https://claude.ai/code/artifact/a241b386-f0ae-4215-893c-aa3c207b60db", "price_research": "https://claude.ai/code/artifact/2f6da3e9-e0c9-4644-b406-29d21b8538de", "needs_reverify": false },
+    "indonesian": { "preview": "https://claude.ai/code/artifact/a3f08af6-85a2-4f26-b1fc-d0bcd334d095", "price_research": "https://claude.ai/code/artifact/90c1d7f3-d123-4f43-b247-5a7c98d4e05c", "needs_reverify": false },
+    "malaysian": { "preview": "https://claude.ai/code/artifact/94523d28-3570-4604-ad08-c970566a53ee", "price_research": "https://claude.ai/code/artifact/7fa0febc-03bd-4fde-9073-28e7ba9f631d", "needs_reverify": false },
+    "french":   { "preview": "https://claude.ai/code/artifact/a89b1f68-e1ce-458e-bc92-511702534882", "price_research": "https://claude.ai/code/artifact/eab84708-102d-42ec-aada-e8bf817dd15a", "needs_reverify": false },
+    "ethiopian": { "preview": "https://claude.ai/code/artifact/dd122d84-bb46-4e75-ae9b-572c48c1c06d", "price_research": "https://claude.ai/code/artifact/2b19e4c0-a805-4c93-82c5-f226268c19a0", "needs_reverify": false },
+    "lebanese": { "preview": "https://claude.ai/code/artifact/2f58a43d-bcd4-498c-926e-aa7de2b64ecb", "price_research": "https://claude.ai/code/artifact/5aceb54e-fa26-4e5f-bc5a-74fc5a221aea", "needs_reverify": false },
+    "brazilian": { "preview": "https://claude.ai/code/artifact/9e13bc44-e159-4879-8b86-b6cb66eba63f", "price_research": "https://claude.ai/code/artifact/92c2f4c4-3e9d-4100-8cb7-e616d08cf7fa", "needs_reverify": false },
+    "peruvian": { "preview": "https://claude.ai/code/artifact/71eff518-a0bf-44e3-89e3-255e6331cc0a", "price_research": "https://claude.ai/code/artifact/e2ac557d-d9a6-44d8-a7a0-a2b25d1132e0", "needs_reverify": false },
+    "argentinian": { "preview": "https://claude.ai/code/artifact/cf54b5f8-411c-4fed-a9a7-2345bbed4b21", "price_research": "https://claude.ai/code/artifact/8b3a8e87-625a-4c6f-87d8-39d367458bf6", "needs_reverify": false },
+    "jamaican": { "preview": null, "price_research": null, "needs_reverify": false, "note": "being built now, will be filled in once the in-progress repair agent reports its URLs" }
+  },
+  "bundle_level": {
+    "consolidated_pricing_worksheet_7country_legacy": "https://claude.ai/code/artifact/4fb718c8-585c-4997-8a92-e3efc71b9eda",
+    "note": "The 7-country-era bundle pricing artifact above is stale (series is now 22 countries) -- products/bundle-etsy-price-research.html on disk should be regenerated and republished to cover the full roster before it's used for anything real."
+  },
+  "known_orphaned_duplicates_not_to_use": [
+    "https://claude.ai/code/artifact/6c250264-ed28-438a-97af-09d372f8499c (stale Malaysia price-research, superseded by the recorded 7fa0febc link)",
+    "https://claude.ai/code/artifact/04cf9ec2-0ef4-4d8d-88da-547729743329 (stale France preview, superseded by a89b1f68)",
+    "https://claude.ai/code/artifact/30375647-a8a0-4d42-b1c2-b31eb28a19d6 (stale Malaysia preview, superseded by 94523d28)",
+    "https://claude.ai/code/artifact/9e53f9ee-9dfd-424c-86a7-9bb01f1c409f (stale Indonesia price-research, superseded by 90c1d7f3)",
+    "https://claude.ai/code/artifact/5d7ce5ef-f8f2-472d-93dc-1882d7b796a9 (stale Turkey price-research)",
+    "https://claude.ai/code/artifact/fd0e156e-8b8a-494b-91ea-9cce1fbc2d99 (stale Turkey preview)",
+    "https://claude.ai/code/artifact/b99e8ce6-d93d-46b3-ab4b-0b8275e40c05 (stale Spain price-research)",
+    "https://claude.ai/code/artifact/564c4338-8577-4045-a257-7e1a380bcc2f (stale Morocco price-research)",
+    "https://claude.ai/code/artifact/bcaab2eb-8a9c-4269-b4c3-2156086b5103 (stale Spain preview)",
+    "https://claude.ai/code/artifact/ecfb3ea2-dc81-47b1-a2cd-4aa89177573f (stale Vietnam price-research)",
+    "https://claude.ai/code/artifact/570caa61-ef5c-4c65-9545-6dd830183ca0 (stale Morocco preview)",
+    "https://claude.ai/code/artifact/effd808b-0022-4d00-86a7-4b39e9679722 (stale Vietnam preview)",
+    "https://claude.ai/code/artifact/9c93a53d-c072-4d8a-9444-41590496e37f (stale Mexico preview)",
+    "https://claude.ai/code/artifact/5cd9bf51-cf36-49f7-b76e-c8104db6b29e (stale India preview)"
+  ]
+}

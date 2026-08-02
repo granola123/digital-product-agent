@@ -1,0 +1,119 @@
+{
+  "dishes": [
+    {
+      "id": "bifechorizo",
+      "title": "Bife de Chorizo with Chimichurri",
+      "dish_photo": {
+        "title": "File:Bife de chorizo a punto 01.jpg",
+        "artist": "Patricio Calvo",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Chimichurri Sauce Recipe (13294222775).jpg",
+        "artist": "Dominic Lockyer",
+        "license": "CC BY 2.0"
+      }
+    },
+    {
+      "id": "milanesa",
+      "title": "Milanesa a la Napolitana",
+      "dish_photo": {
+        "title": "File:Milanesa napolitana argentina.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Milanesa napolitana con papas fritas rodajas de tomate y orégano.jpg",
+        "artist": "www.flickr.com/photos/viajescangrejo/",
+        "license": "CC BY 2.0"
+      }
+    },
+    {
+      "id": "empanadas",
+      "title": "Empanadas de Carne",
+      "dish_photo": {
+        "title": "File:Bandeja de empanadas argentinas de carne fritas servidas con limones.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Empanadas argentinas de carne crudas.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 3.0",
+        "note": "Raw, crimped empanadas ready to bake — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "locro",
+      "title": "Locro",
+      "dish_photo": {
+        "title": "File:Locro argentino (porción).jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Olla de locro argentino.jpg",
+        "artist": "Usuario:Gdiaz",
+        "license": "Public domain"
+      }
+    },
+    {
+      "id": "sorrentinos",
+      "title": "Sorrentinos de Jamón y Queso",
+      "dish_photo": {
+        "title": "File:Sorrentinos de jamón y queso (plato).jpg",
+        "artist": "Tubby3",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Sorrentinos de jamón y queso (preparación).jpg",
+        "artist": "Tubby3",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "pasteldepapa",
+      "title": "Pastel de Papa",
+      "dish_photo": {
+        "title": "File:Pastel de papa (porción en plato).jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Pastel de papa.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 4.0",
+        "note": "Unbaked tray with fork-ridged mashed-potato topping — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "guisolentejas",
+      "title": "Guiso de Lentejas",
+      "dish_photo": {
+        "title": "File:Guiso de lentejas argentino con chorizo.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Preparación de guiso de lentejas con verduras y caldo de carne en cocina doméstica argentina.jpg",
+        "artist": "Horacio Cambeiro",
+        "license": "CC BY-SA 3.0"
+      }
+    },
+    {
+      "id": "alfajores",
+      "title": "Alfajores de Maicena",
+      "dish_photo": {
+        "title": "File:Alfajor de maicena and a latte.jpg",
+        "artist": "Anina2007",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:Rústico Cholates artisan alfajor with dulce de leche filling, half cut.jpg",
+        "artist": "AsadoExplorer",
+        "license": "CC BY-SA 4.0",
+        "note": "Chocolate-coated variant shown halved to reveal the dulce de leche filling and layers — used as the prep/process shot; the finished-dish photo shows the classic coconut-rolled maicena style."
+      }
+    }
+  ]
+}

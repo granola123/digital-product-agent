@@ -1,0 +1,315 @@
+{
+  "recipes": [
+    {
+      "id": "jerkchicken",
+      "title": "Jerk Chicken (Oven/Grill-Pan)",
+      "time": "45 min (+1 hr marinate)",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": true,
+      "dish_alt": "A plate of dark, glazed jerk chicken with rice and peas and coleslaw",
+      "prep_label": "Prep — Jerk Chicken on a Traditional Drum Grill",
+      "prep_alt": "Jerk chicken pieces cooking in a wire basket over a smoking oil-drum jerk pit",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in", "180g", "360g", "540g", "720g"],
+          ["Scallion, chopped", "1 stalk", "2 stalks", "3 stalks", "4 stalks"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Scotch bonnet pepper, seeded &amp; minced", "¼", "½", "¾", "1"],
+          ["Ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground allspice (pimento)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Fresh thyme leaves", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground nutmeg", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Brown sugar", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Soy sauce", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Lime juice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Vegetable oil", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "In a food processor or blender, combine the scallion, garlic, scotch bonnet, allspice, thyme, cinnamon, nutmeg, brown sugar, soy sauce, lime juice, oil, and salt. Blend to a coarse, spoonable paste (add a splash of water if it won't move).",
+          "Pat the chicken thighs dry and score the skin a few times. Rub the jerk paste all over, working some under the skin where you can reach.",
+          "Marinate at least 1 hour in the fridge - overnight develops noticeably more flavor if you have the time.",
+          "Preheat the oven to 375°F (190°C). Arrange the chicken skin-side up on a lined baking sheet or rack.",
+          "Bake 40-45 minutes, until the internal temperature reads 165°F (74°C) and the edges look deeply charred.",
+          "For extra char, finish 2-3 minutes under the broiler, or sear skin-side down in a hot grill pan for 2-3 minutes before baking.",
+          "Rest 5 minutes, then serve with rice and peas or festival (fried dumplings), with extra scotch bonnet on the side for anyone who wants more heat."
+        ]}
+      ]
+    },
+    {
+      "id": "currychicken",
+      "title": "Curry Chicken (Jamaican-Style)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": false,
+      "dish_alt": "Yellow curry chicken pieces with bell peppers served beside rice",
+      "prep_label": "Prep — Jamaican-Style Curry With Rice and Peas",
+      "prep_alt": "A Jamaican curry (curry goat) simmered in gravy and served over rice and peas",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs, bone-in, cut small", "180g", "360g", "540g", "720g"],
+          ["Jamaican curry powder (marinade + \"burn\")", "2 tsp", "4 tsp", "6 tsp", "8 tsp"],
+          ["All-purpose/Jamaican seasoning", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ginger, grated", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Scallion, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Potato, cubed", "60g", "120g", "180g", "240g"],
+          ["Scotch bonnet pepper, whole (optional)", "⅛", "¼", "⅜", "½"],
+          ["Vegetable oil", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Chicken stock or water", "80ml", "160ml", "240ml", "320ml"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Toss the chicken with half the curry powder, the all-purpose seasoning, ginger, and a pinch of black pepper. Cover and marinate at least 1 hour - overnight is better.",
+          "Heat the oil in a heavy pot over medium heat. Add the remaining curry powder and \"burn\" it - stir constantly for 30-45 seconds until fragrant and a shade darker, watching closely so it doesn't scorch.",
+          "Add the marinated chicken and sear 4-5 minutes per side until browned and well coated in the curry.",
+          "Add the onion, garlic, and scallion, stirring 2-3 minutes until softened.",
+          "Add the potato, the whole scotch bonnet (if using), and the stock or water. Bring to a simmer.",
+          "Cover and cook 30-35 minutes, stirring occasionally, until the chicken is tender, the potato is cooked through, and the sauce has thickened. Remove the whole scotch bonnet before serving.",
+          "Season with salt to taste. Serve hot over rice."
+        ]}
+      ]
+    },
+    {
+      "id": "ackeesaltfish",
+      "title": "Ackee and Saltfish",
+      "time": "30 min (+8 hr soak)",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": true,
+      "dish_alt": "Flaked saltfish gently folded with pale yellow ackee, scallion, and tomato",
+      "prep_label": "Prep — Ackee and Saltfish on a Breakfast Platter",
+      "prep_alt": "Ackee and saltfish served as part of a full Jamaican breakfast platter with callaloo and johnny cake",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Salted codfish (saltfish), dried", "40g", "80g", "120g", "160g"],
+          ["Canned ackee, drained gently", "130g", "260g", "390g", "520g"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Scallion, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Tomato, chopped", "¼", "½", "¾", "1"],
+          ["Bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Scotch bonnet pepper, minced to taste", "⅛", "¼", "⅜", "½"],
+          ["Fresh thyme leaves", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Vegetable oil", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Black pepper", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Salt, to taste (go easy — the fish is already salty)", "pinch", "⅛ tsp", "⅛ tsp", "¼ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Soak the saltfish in cold water at least 8 hours (or overnight), changing the water once or twice, to pull out the excess salt.",
+          "Drain, then simmer the saltfish in fresh water 10-15 minutes until tender. Drain again, cool slightly, and flake into bite-size pieces, discarding any skin or bones.",
+          "Heat the oil in a large skillet over medium heat. Add the onion, garlic, scallion, thyme, and scotch bonnet, cooking 5 minutes until softened.",
+          "Add the tomato and bell pepper, cooking 3-4 minutes until the tomato breaks down.",
+          "Stir in the flaked saltfish and sauté 2-3 minutes.",
+          "Gently fold in the ackee - it's delicate and already cooked (canned), so stir softly to avoid mashing it. Cook 4-5 minutes just to heat through.",
+          "Season with black pepper, going easy on salt since the fish is already salty. Serve hot with fried dumplings or, for a full dinner plate, rice and peas and fried plantain."
+        ]}
+      ]
+    },
+    {
+      "id": "oxtailstew",
+      "title": "Oxtail Stew with Butter Beans",
+      "time": "2.5 hr",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": false,
+      "dish_alt": "Deeply browned oxtail pieces in a thick gravy with butter beans",
+      "prep_label": "Prep — Jamaican Stew Peas, a Close Cousin",
+      "prep_alt": "Jamaican stew peas, a related braised-meat-and-beans dish, served over rice",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Oxtail, cut into pieces", "220g", "440g", "660g", "880g"],
+          ["Canned butter beans, drained", "60g", "120g", "180g", "240g"],
+          ["Onion, chopped", "40g", "80g", "120g", "160g"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Scallion, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Fresh thyme leaves", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground allspice", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Scotch bonnet pepper, whole", "⅛", "¼", "⅜", "½"],
+          ["Browning sauce", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Worcestershire sauce", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Brown sugar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Carrot, sliced", "30g", "60g", "90g", "120g"],
+          ["Beef stock or water", "150ml", "300ml", "450ml", "600ml"],
+          ["Vegetable oil, for searing", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Pat the oxtail dry and season with salt, pepper, thyme, allspice, and the browning sauce. Marinate at least 30 minutes - overnight is better.",
+          "Heat oil in a heavy pot or Dutch oven over medium-high heat. Sear the oxtail in batches, 2-3 minutes per side, until well browned. Remove to a plate.",
+          "In the same pot, add the onion and cook 5 minutes until softened. Add the garlic, ginger, and scallion, cooking 1-2 minutes until fragrant.",
+          "Return the oxtail to the pot along with the Worcestershire sauce, brown sugar, the whole scotch bonnet, and the beef stock or water. Bring to a simmer.",
+          "Cover and simmer on low 2-2.5 hours (or pressure cook about 45 minutes), until the oxtail is fork-tender, adding a splash more liquid if it reduces too much.",
+          "Add the carrot and butter beans, then simmer uncovered 20-30 minutes more, until the carrot is tender and the sauce has thickened into a gravy. Remove the whole scotch bonnet.",
+          "Season with salt to taste. Serve hot over rice and peas."
+        ]}
+      ]
+    },
+    {
+      "id": "escovitchfish",
+      "title": "Escovitch Fish",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": true,
+      "dish_alt": "Whole fried fish topped generously with pickled carrot, onion, and pepper strips",
+      "prep_label": "Prep — Escovitch Fish Plated With Festival",
+      "prep_alt": "Fried escovitch fish served in a takeout box with festival, rice, cabbage, and plantain",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Fish fillets (snapper or firm white fish)", "150g", "300g", "450g", "600g"],
+          ["Lime juice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["All-purpose flour, for dredging", "15g", "30g", "45g", "60g"],
+          ["Vegetable oil, for frying", "30ml", "60ml", "90ml", "120ml"],
+          ["Carrot, julienned", "30g", "60g", "90g", "120g"],
+          ["Onion, sliced thin", "30g", "60g", "90g", "120g"],
+          ["Bell pepper, sliced thin", "¼", "½", "¾", "1"],
+          ["Scotch bonnet pepper, sliced thin", "⅛", "¼", "⅜", "½"],
+          ["Whole allspice berries (pimento)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["White vinegar", "30ml", "60ml", "90ml", "120ml"],
+          ["Sugar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Season the fish with salt, pepper, and lime juice. Let sit 10 minutes.",
+          "Dredge the fish lightly in flour, shaking off the excess.",
+          "Heat the oil in a skillet over medium-high heat. Fry the fish 3-4 minutes per side until golden, crisp, and cooked through. Remove to a plate lined with paper towel.",
+          "Pour off all but about a tablespoon of oil from the skillet. Add the carrot, onion, bell pepper, scotch bonnet, and allspice berries, and sauté 2-3 minutes until just softened but still with some bite.",
+          "Add the vinegar, sugar, and a pinch of salt. Bring to a simmer and cook 3-4 minutes.",
+          "Spoon the hot pickled vegetables and their liquid generously over the fried fish.",
+          "It's best served after resting 20-30 minutes (or even overnight) so the fish soaks up the pickle - but it's good hot too if you're hungry now. Serve with festival or bammy."
+        ]}
+      ]
+    },
+    {
+      "id": "brownstewchicken",
+      "title": "Brown Stew Chicken",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": false,
+      "dish_alt": "Chicken pieces in a rich brown gravy with rice and peas",
+      "prep_label": "Prep — Brown Stew Chicken Alongside Jerk Chicken",
+      "prep_alt": "A plate of brown stew chicken with fries next to a plate of grilled jerk chicken",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving", "rows": [
+          ["Chicken thighs/drumsticks, bone-in", "180g", "360g", "540g", "720g"],
+          ["Browning sauce", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+          ["Garlic clove, minced", "1", "2", "3", "4"],
+          ["Onion, sliced", "30g", "60g", "90g", "120g"],
+          ["Scallion, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Fresh thyme leaves", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Scotch bonnet pepper, whole", "⅛", "¼", "⅜", "½"],
+          ["Ground allspice", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Bell pepper, sliced", "¼", "½", "¾", "1"],
+          ["Carrot, sliced", "30g", "60g", "90g", "120g"],
+          ["Ketchup", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Vegetable oil", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Chicken stock or water", "80ml", "160ml", "240ml", "320ml"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Season the chicken with salt, pepper, garlic, thyme, allspice, and the browning sauce. Marinate 30 minutes to overnight.",
+          "Heat the oil in a heavy pot over medium-high heat. Brown the chicken pieces 3-4 minutes per side until deeply colored. Remove to a plate.",
+          "In the same pot, add the onion, scallion, and bell pepper, cooking 3-4 minutes until softened.",
+          "Stir in the ketchup and cook 1 minute.",
+          "Return the chicken to the pot, add the carrot, the whole scotch bonnet, and the stock or water. Bring to a simmer.",
+          "Cover and cook 25-30 minutes, stirring occasionally, until the chicken is tender and the sauce has thickened into a gravy.",
+          "Remove the whole scotch bonnet, season with salt to taste, and serve hot with rice and peas or steamed cabbage."
+        ]}
+      ]
+    },
+    {
+      "id": "beefpatties",
+      "title": "Jamaican Beef Patties (Dinner Plate)",
+      "time": "70 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": true,
+      "dish_alt": "A golden, curry-yellow Jamaican beef patty held in a paper wrapper",
+      "prep_label": "Prep — Beef Patty Cross-Section",
+      "prep_alt": "A Jamaican beef patty broken open showing the spiced ground beef filling inside the flaky crust",
+      "sections": [
+        {"type": "table", "heading": "Patty Dough", "rows": [
+          ["All-purpose flour", "60g", "120g", "180g", "240g"],
+          ["Jamaican curry powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Ground turmeric", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Salt", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Baking powder", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Cold butter, cubed", "25g", "50g", "75g", "100g"],
+          ["Ice water", "30ml", "60ml", "90ml", "120ml"]
+        ]},
+        {"type": "table", "heading": "Beef Filling", "rows": [
+          ["Vegetable oil", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Ground beef", "100g", "200g", "300g", "400g"],
+          ["Onion, finely chopped", "25g", "50g", "75g", "100g"],
+          ["Garlic clove, minced", "½", "1", "1½", "2"],
+          ["Scallion, chopped", "½ stalk", "1 stalk", "1½ stalks", "2 stalks"],
+          ["Fresh thyme leaves", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Scotch bonnet pepper, minced", "⅛", "¼", "⅜", "½"],
+          ["Ground allspice", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Breadcrumbs", "10g", "20g", "30g", "40g"],
+          ["Beef stock", "30ml", "60ml", "90ml", "120ml"],
+          ["Soy sauce", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+          ["Egg, beaten (for egg wash)", "1", "2", "3", "4"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Make the dough: whisk the flour, curry powder, turmeric, salt, and baking powder together. Cut in the cold butter until the mixture looks like coarse crumbs. Add ice water gradually, mixing just until it comes together into a dough. Wrap and chill at least 30 minutes.",
+          "Make the filling: heat a splash of oil in a skillet over medium heat. Cook the onion, garlic, scallion, thyme, scotch bonnet, and allspice 3-4 minutes until fragrant.",
+          "Add the ground beef, breaking it up as it cooks, until browned, about 5-6 minutes.",
+          "Stir in the breadcrumbs, beef stock, and soy sauce, and simmer 2-3 minutes until moist but holding together, not soupy. Season with salt and pepper, then cool to room temperature.",
+          "Preheat the oven to 400°F (200°C). Roll the chilled dough thin and cut into circles about 12-14cm across.",
+          "Spoon the filling onto one half of each circle, fold over, and crimp the edge firmly with a fork to seal.",
+          "Brush with the egg wash and bake 25-30 minutes until deep golden and flaky.",
+          "Serve 2 patties per person as a full dinner plate, with a simple side - steamed cabbage, coleslaw, or rice and peas - to round it out."
+        ]}
+      ]
+    },
+    {
+      "id": "rumcake",
+      "title": "Jamaican Rum Cake (Bonus)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 0.7,
+      "gold": false,
+      "dish_alt": "A boxed Buccaneer-brand Jamaican rum cake with a slice visible through the die-cut window",
+      "prep_label": "Prep — Tortuga-Brand Jamaican Rum Cake",
+      "prep_alt": "Boxed Tortuga-brand Jamaican rum fruit cake on a shop shelf",
+      "sections": [
+        {"type": "table", "heading": "Cake", "rows": [
+          ["Butter, softened", "30g", "60g", "90g", "120g"],
+          ["Sugar", "40g", "80g", "120g", "160g"],
+          ["Egg", "1", "2", "3", "4"],
+          ["All-purpose flour", "40g", "80g", "120g", "160g"],
+          ["Baking powder", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+          ["Ground cinnamon", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Ground nutmeg", "pinch", "⅛ tsp", "¼ tsp", "⅜ tsp"],
+          ["Coconut milk (or whole milk)", "15ml", "30ml", "45ml", "60ml"],
+          ["Dark Jamaican rum", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+        ]},
+        {"type": "table", "heading": "Rum Glaze", "rows": [
+          ["Butter", "10g", "20g", "30g", "40g"],
+          ["Sugar", "15g", "30g", "45g", "60g"],
+          ["Water", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+          ["Dark Jamaican rum", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"]
+        ]},
+        {"type": "steps", "heading": "Steps", "items": [
+          "Preheat the oven to 325°F (165°C) and grease a small loaf pan, muffin tin, or mini bundt pan - scale the pan to your batch size.",
+          "Cream the butter and sugar together until light and fluffy. Beat in the egg(s) one at a time.",
+          "Whisk the flour, baking powder, cinnamon, and nutmeg together in a separate bowl.",
+          "Alternate adding the dry ingredients and the coconut milk to the butter mixture, mixing just until combined. Stir in the rum and vanilla.",
+          "Pour into the prepared pan and bake 20-25 minutes for a muffin tin (35-40 minutes for a small loaf), until a toothpick comes out clean.",
+          "Meanwhile, make the glaze: combine the butter, sugar, and water in a small saucepan over medium heat. Bring to a boil, then simmer 2-3 minutes until slightly syrupy. Off heat, stir in the rum.",
+          "While the cake is still warm, poke holes all over with a skewer and slowly spoon the warm glaze over, letting it soak in.",
+          "Cool at least 15 minutes before serving. It's even better the next day once the rum has fully soaked in, but perfectly good warm."
+        ]}
+      ]
+    }
+  ]
+}

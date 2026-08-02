@@ -23,7 +23,7 @@
     { "id": "brazilian", "name": "Brazil", "flag": "🇧🇷", "status": "done" },
     { "id": "peruvian", "name": "Peru", "flag": "🇵🇪", "status": "done" },
     { "id": "argentinian", "name": "Argentina", "flag": "🇦🇷", "status": "done" },
-    { "id": "jamaican", "name": "Jamaica & the Caribbean", "flag": "🇯🇲", "status": "pending" },
+    { "id": "jamaican", "name": "Jamaica & the Caribbean", "flag": "🇯🇲", "status": "done" },
     { "id": "german", "name": "Germany", "flag": "🇩🇪", "status": "pending" },
     { "id": "polish", "name": "Poland", "flag": "🇵🇱", "status": "pending" },
     { "id": "british", "name": "Britain", "flag": "🇬🇧", "status": "pending" },

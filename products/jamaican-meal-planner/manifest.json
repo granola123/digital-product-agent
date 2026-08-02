@@ -1,0 +1,123 @@
+{
+  "dishes": [
+    {
+      "id": "jerkchicken",
+      "title": "Jerk Chicken",
+      "dish_photo": {
+        "title": "File:Jerk Chicken, Rice.jpg",
+        "artist": "simon thomas",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:Jerk chicken july 05.jpg",
+        "artist": "Wikimedia Commons uploader (see file page)",
+        "license": "CC BY-SA 3.0",
+        "note": "Shows jerk chicken cooking over a classic oil-drum jerk pit."
+      }
+    },
+    {
+      "id": "currychicken",
+      "title": "Curry Chicken (Jamaican-Style)",
+      "dish_photo": {
+        "title": "File:Friday dinner - Curry chicken with bell peppers and rice - 01.jpg",
+        "artist": "Infrogmation of New Orleans",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Curry Goat and Rice.jpg",
+        "artist": "Leon Brocard",
+        "license": "CC BY 2.0",
+        "note": "Substitute — no separately licensed Jamaican curry-chicken process photo was found on Commons; this shows curry goat, the same Jamaican curry-cooking style, plated with rice and peas."
+      }
+    },
+    {
+      "id": "ackeesaltfish",
+      "title": "Ackee and Saltfish",
+      "dish_photo": {
+        "title": "File:Jamaican Ackee and Saltfish.jpg",
+        "artist": "Sumit Surai",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Jamaican breakfast ackee saltfish callaloo.jpg",
+        "artist": "Karolyn",
+        "license": "CC BY 3.0",
+        "note": "Shows ackee and saltfish served as part of a full Jamaican breakfast platter with callaloo and johnny cake."
+      }
+    },
+    {
+      "id": "oxtailstew",
+      "title": "Oxtail Stew with Butter Beans",
+      "dish_photo": {
+        "title": "File:Jamaican Oxtail and Butter Beans.jpg",
+        "artist": "Sumit Surai",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Jamaican stew peas.jpg",
+        "artist": "Xaymacan",
+        "license": "CC BY-SA 4.0",
+        "note": "Substitute — no second oxtail-specific photo was found on Commons; this shows Jamaican stew peas, a closely related braised-meat-and-beans dish with the same gravy style."
+      }
+    },
+    {
+      "id": "escovitchfish",
+      "title": "Escovitch Fish",
+      "dish_photo": {
+        "title": "File:Escoveitch fish Jamaica.jpg",
+        "artist": "Xaymacan",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Escovitch fish, fried plaintains, and vegetables on top of rice.jpg",
+        "artist": "K6ka",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "brownstewchicken",
+      "title": "Brown Stew Chicken",
+      "dish_photo": {
+        "title": "File:Brown Stew Chicken at Island Taste.jpg",
+        "artist": "Andre Carrotflower",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Brown stew and jerk chicken.jpg",
+        "artist": "Carl",
+        "license": "CC BY-SA 2.0"
+      }
+    },
+    {
+      "id": "beefpatties",
+      "title": "Jamaican Beef Patties",
+      "dish_photo": {
+        "title": "File:05 Jamaican Beef Patty - Sybil's Bakery (4349822967).jpg",
+        "artist": "Jason Lam",
+        "license": "CC BY-SA 2.0"
+      },
+      "prep_photo": {
+        "title": "File:06 Inside Jamaican Beef Patty - Sybil's Bakery (4349823013).jpg",
+        "artist": "Jason Lam",
+        "license": "CC BY-SA 2.0",
+        "note": "Cross-section showing the beef filling."
+      }
+    },
+    {
+      "id": "rumcake",
+      "title": "Jamaican Rum Cake (Bonus)",
+      "dish_photo": {
+        "title": "File:Rum cakes Jamaica.jpg",
+        "artist": "Xaymacan",
+        "license": "CC BY-SA 4.0",
+        "note": "Buccaneer-brand Jamaican rum cake, one of the best-known commercial rum cakes sold in Jamaica."
+      },
+      "prep_photo": {
+        "title": "File:Jamaican rum cakes.jpg",
+        "artist": "Xaymacan",
+        "license": "CC BY-SA 4.0",
+        "note": "Tortuga-brand Jamaican rum fruit cake on a shop shelf. No compatible-license homemade-style rum cake slice photo was found on Commons; these two show the most recognizable commercial Jamaican rum cake brands instead."
+      }
+    }
+  ]
+}

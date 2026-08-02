@@ -10,6 +10,10 @@ products/*/img/
 # local Claude Code worktrees from background subagent runs
 .claude/
 
+# Python bytecode from scripts/
+scripts/__pycache__/
+**/__pycache__/
+
 # generated sell-ready book/PDF (rebuild anytime with scripts/build_book.py
 # + agent-browser; ~60MB combined, not worth tracking in git history)
 products/book/

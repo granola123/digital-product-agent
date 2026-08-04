@@ -22,7 +22,12 @@
     "brazilian": { "preview": "https://claude.ai/code/artifact/9e13bc44-e159-4879-8b86-b6cb66eba63f", "price_research": "https://claude.ai/code/artifact/92c2f4c4-3e9d-4100-8cb7-e616d08cf7fa", "needs_reverify": false },
     "peruvian": { "preview": "https://claude.ai/code/artifact/71eff518-a0bf-44e3-89e3-255e6331cc0a", "price_research": "https://claude.ai/code/artifact/e2ac557d-d9a6-44d8-a7a0-a2b25d1132e0", "needs_reverify": false },
     "argentinian": { "preview": "https://claude.ai/code/artifact/cf54b5f8-411c-4fed-a9a7-2345bbed4b21", "price_research": "https://claude.ai/code/artifact/8b3a8e87-625a-4c6f-87d8-39d367458bf6", "needs_reverify": false },
-    "jamaican": { "preview": null, "price_research": null, "needs_reverify": false, "note": "being built now, will be filled in once the in-progress repair agent reports its URLs" }
+    "jamaican": { "preview": "https://claude.ai/code/artifact/2c13412d-05d3-49a4-8d5c-379362a63fa1", "price_research": "https://claude.ai/code/artifact/e5db22d4-1c29-4a03-a3c4-8f699f924304", "needs_reverify": false },
+    "german": { "preview": "https://claude.ai/code/artifact/3dc78d65-a68d-4fcf-b129-3aabc453a282", "price_research": "https://claude.ai/code/artifact/e088e179-7564-4874-aa0c-d0105f9b9277", "needs_reverify": false },
+    "polish": { "preview": "https://claude.ai/code/artifact/4241effb-9757-4826-b4ad-28ab0d7068df", "price_research": "https://claude.ai/code/artifact/a6ac5d41-cc9d-4e1d-9b38-249d769b3bff", "needs_reverify": false },
+    "british": { "preview": "https://claude.ai/code/artifact/7a752adf-3ece-4be6-9b97-d42603037085", "price_research": "https://claude.ai/code/artifact/51ac89ba-b3dc-4ecb-a48d-336825fb9a1d", "needs_reverify": false },
+    "portuguese": { "preview": "https://claude.ai/code/artifact/9409e44a-7bff-4103-a788-8ae00f2bb328", "price_research": "https://claude.ai/code/artifact/44a41706-5de3-4332-a7b5-b50a052765d4", "needs_reverify": false },
+    "israeli": { "preview": "https://claude.ai/code/artifact/24147bb0-5f92-4d45-963f-2ed2d866f57a", "price_research": "https://claude.ai/code/artifact/ac5d4b5b-5906-4c50-b05e-25bafd0429ab", "needs_reverify": false }
   },
   "bundle_level": {
     "consolidated_pricing_worksheet_7country_legacy": "https://claude.ai/code/artifact/4fb718c8-585c-4997-8a92-e3efc71b9eda",

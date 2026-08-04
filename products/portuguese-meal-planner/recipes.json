@@ -1,0 +1,304 @@
+{
+  "recipes": [
+    {
+      "id": "bacalhau",
+      "title": "Bacalhau à Brás",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "A plate of Bacalhau à Brás — shredded salt cod with potato straws and egg, topped with black olives and parsley",
+      "prep_label": "Prep — Dried Salt Cod",
+      "prep_alt": "Whole dried salt cod (bacalhau) displayed at a Lisbon supermarket, ready to be soaked and desalted",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Dried salt cod (bacalhau)", "100g", "200g", "300g", "400g"],
+           ["Potatoes, cut into thin straws", "150g", "300g", "450g", "600g"],
+           ["Onion, sliced", "50g", "100g", "150g", "200g"],
+           ["Garlic (cloves)", "1", "2", "3", "4"],
+           ["Eggs", "2", "4", "6", "8"],
+           ["Olive oil", "30ml", "60ml", "90ml", "120ml"],
+           ["Black olives", "20g", "40g", "60g", "80g"],
+           ["Parsley, chopped", "5g", "10g", "15g", "20g"],
+           ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+           ["Black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Salt cod needs to be desalted before you start cooking: soak it in cold water in the fridge for 24–48 hours, changing the water 2–3 times. Once desalted, drain and flake it into small shreds with your fingers, checking carefully for any stray bones.",
+           "Cut the potatoes into thin matchstick \"straws\" (or use store-bought frozen shoestring fries to save time on a weeknight).",
+           "Ask an adult to help heat half the olive oil in a large frying pan over medium-high heat. Fry the potato straws in batches until golden and crisp, about 5–6 minutes, then lift them out onto a paper towel to drain.",
+           "In the same pan, add the rest of the olive oil and the sliced onion and garlic. Cook over medium heat for 4–5 minutes, stirring, until the onion turns soft and see-through.",
+           "Add the flaked cod to the pan and cook for 3–4 minutes, stirring gently, just to warm it through and let it soak up the onion flavor.",
+           "Turn the heat down to low. Crack the eggs into a bowl, season with the salt and black pepper, and whisk lightly.",
+           "Pour the eggs over the cod mixture and stir slowly and constantly with a wooden spoon, the same way you'd make soft scrambled eggs — you want the eggs to turn creamy and just-set, never dry or rubbery. This takes about 2–3 minutes off the heat's edge.",
+           "Fold in the crispy potato straws right at the end so they stay crunchy instead of going soggy.",
+           "Spoon onto plates and top with the black olives and chopped parsley."
+         ]}
+      ]
+    },
+    {
+      "id": "caldoverde",
+      "title": "Caldo Verde",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A white bowl of Caldo Verde — kale and potato soup with sliced chouriço",
+      "prep_label": "Prep — Chouriço",
+      "prep_alt": "A whole and sliced smoked chouriço-style sausage on a cutting board",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Potatoes, peeled and cubed", "200g", "400g", "600g", "800g"],
+           ["Onion, chopped", "40g", "80g", "120g", "160g"],
+           ["Garlic (cloves)", "1", "2", "3", "4"],
+           ["Chouriço, thinly sliced", "40g", "80g", "120g", "160g"],
+           ["Kale or collard greens, very thinly sliced", "50g", "100g", "150g", "200g"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Water or stock", "400ml", "800ml", "1200ml", "1600ml"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help you put a large pot over medium heat. Add the olive oil, then the chopped onion and garlic, and cook for 3–4 minutes, stirring, until soft but not browned.",
+           "Add the cubed potatoes and the water or stock. Turn the heat up until it reaches a boil, then turn it down to a simmer and cook 15–18 minutes, until a fork slides easily into the potatoes.",
+           "Carefully purée the soup right in the pot with an immersion blender (or scoop it in batches into a stand blender and blend, then return to the pot) until smooth and creamy.",
+           "Stir in about half of the sliced chouriço and let the soup simmer 5 minutes so the smoky flavor spreads through the broth.",
+           "Add the very thinly sliced kale and simmer 3–4 minutes more, just until the greens turn a deep, glossy green and soften slightly — they should still have a little bite.",
+           "While the soup finishes, quickly pan-fry the remaining chouriço slices in a dry skillet for 1–2 minutes per side until they crisp slightly at the edges.",
+           "Season the soup with the salt and black pepper, tasting as you go.",
+           "Ladle into bowls, top each with a few pieces of the crisped chouriço, and finish with a light drizzle of olive oil."
+         ]}
+      ]
+    },
+    {
+      "id": "piripiri",
+      "title": "Frango Piri Piri",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A whole grilled piri-piri chicken with charred, spice-rubbed skin on a wooden board",
+      "prep_label": "Prep — Piri-Piri Chilies",
+      "prep_alt": "A potted piri-piri chili plant with clusters of ripening chilies used to flavor the marinade",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in", "250g", "500g", "750g", "1000g"],
+           ["Piri-piri sauce", "15ml", "30ml", "45ml", "60ml"],
+           ["Garlic (cloves)", "2", "4", "6", "8"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Lemon juice", "15ml", "30ml", "45ml", "60ml"],
+           ["Smoked paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, mix the piri-piri sauce, crushed garlic, olive oil, lemon juice, smoked paprika, bay leaf, salt, and black pepper to make the marinade.",
+           "Add the chicken thighs and rub the marinade all over every piece with your hands or a spoon. Cover and let it sit at least 30 minutes at room temperature (or up to a few hours in the fridge — the longer it sits, the more flavor it soaks up).",
+           "Ask an adult to help heat a grill pan, outdoor grill, or oven (200°C/400°F) — any of these work.",
+           "If grilling: cook the chicken 6–7 minutes per side without moving it, so it develops brown grill marks, basting once with extra marinade partway through.",
+           "If roasting: place the chicken skin-side up on a baking tray and roast 30–35 minutes, basting with the marinade halfway through.",
+           "Check it's done by cutting into the thickest piece near the bone — the juices should run clear with no pink, and a thermometer should read at least 74°C/165°F.",
+           "Let the chicken rest for 5 minutes before serving so the juices settle back into the meat instead of running out onto the plate.",
+           "Serve with a fresh squeeze of lemon and extra piri-piri sauce on the side for anyone who wants it spicier."
+         ]}
+      ]
+    },
+    {
+      "id": "bifana",
+      "title": "Bifana",
+      "time": "25 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A Portuguese bifana sandwich cut in half, showing marinated pork inside a crusty bread roll",
+      "prep_label": "Prep — Pork Loin",
+      "prep_alt": "Cooked pork tenderloin sliced on a wooden cutting board with a meat fork",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Pork loin steaks, thin-cut", "150g", "300g", "450g", "600g"],
+           ["White wine", "30ml", "60ml", "90ml", "120ml"],
+           ["Garlic (cloves)", "2", "4", "6", "8"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Bread rolls (papo secos or crusty rolls)", "1", "2", "3", "4"],
+           ["Yellow mustard (to serve)", "to taste", "to taste", "to taste", "to taste"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl or resealable bag, mix the white wine, crushed garlic, bay leaf, paprika, salt, and black pepper.",
+           "Add the pork steaks and turn them to coat in the marinade. Let them sit at least 30 minutes at room temperature (or up to overnight in the fridge for a deeper flavor).",
+           "Ask an adult to help heat the olive oil in a large skillet over medium-high heat until it looks shimmery.",
+           "Lift the pork out of the marinade (keep the marinade!) and pat it lightly with a paper towel. Fry the pork 2–3 minutes per side, in batches if needed so the pan isn't crowded, until browned outside and no pink remains inside.",
+           "Remove the pork to a plate. Pour the reserved marinade into the same hot pan and let it boil hard for 2 minutes — this cooks off the raw wine taste and turns it into a glossy pan sauce. Discard the bay leaf.",
+           "Return the pork to the pan and turn each piece once in the sauce to coat and warm through.",
+           "Split the bread rolls and pile the pork inside, spooning a little of the pan sauce over the top.",
+           "Serve with yellow mustard and extra piri-piri sauce on the side for topping."
+         ]}
+      ]
+    },
+    {
+      "id": "arrozmarisco",
+      "title": "Arroz de Marisco",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "A pot of loose, soupy Arroz de Marisco seafood rice with shrimp, crab claws, and mussels",
+      "prep_label": "Prep — Mixed Seafood",
+      "prep_alt": "A plate of raw mixed seafood — squid, fish, shrimp, and clams — ready for the pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Short-grain rice", "60g", "120g", "180g", "240g"],
+           ["Shrimp, peeled", "80g", "160g", "240g", "320g"],
+           ["Clams", "100g", "200g", "300g", "400g"],
+           ["Mussels", "100g", "200g", "300g", "400g"],
+           ["Fish or shellfish stock", "300ml", "600ml", "900ml", "1200ml"],
+           ["Onion, finely chopped", "40g", "80g", "120g", "160g"],
+           ["Garlic (cloves)", "2", "4", "6", "8"],
+           ["Tomato, chopped (or passata)", "60g", "120g", "180g", "240g"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["White wine", "30ml", "60ml", "90ml", "120ml"],
+           ["Cilantro, chopped", "5g", "10g", "15g", "20g"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Scrub the clams and mussels under cold water and toss out any that stay open when tapped — they're not safe to eat.",
+           "Ask an adult to help heat the olive oil in a wide, heavy pot over medium heat. Add the onion and garlic and cook 3–4 minutes until soft.",
+           "Add the chopped tomato and cook 3–4 minutes more, stirring, until it breaks down into a thick, jammy sauce.",
+           "Pour in the white wine and let it bubble for 1–2 minutes to cook off the sharp alcohol smell.",
+           "Add the stock and bay leaf and bring to a boil.",
+           "Stir in the rice, turn the heat down to a steady simmer, and cook uncovered for 10 minutes, stirring occasionally so it doesn't stick — this rice is meant to stay loose and soupy, not fluffy and dry like a side-dish rice.",
+           "Add the clams and mussels, cover, and cook 4–5 minutes until the shells pop open. Throw away any that stay shut.",
+           "Add the shrimp and cook 2–3 minutes more, just until they turn pink and curl slightly.",
+           "Season with the salt and black pepper, stir in the cilantro, and ladle into wide bowls right away while it's still loose and steaming."
+         ]}
+      ]
+    },
+    {
+      "id": "feijoada",
+      "title": "Feijoada à Portuguesa",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A plate of Feijoada à Portuguesa — pork and bean stew served with white rice",
+      "prep_label": "Prep — White Beans",
+      "prep_alt": "A plate of dried white beans, the base of the stew",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["White or kidney beans, canned (drained)", "150g", "300g", "450g", "600g"],
+           ["Pork belly or ribs, cubed", "100g", "200g", "300g", "400g"],
+           ["Chouriço, sliced", "50g", "100g", "150g", "200g"],
+           ["Morcela (blood sausage), sliced (optional)", "30g", "60g", "90g", "120g"],
+           ["Onion, chopped", "40g", "80g", "120g", "160g"],
+           ["Garlic (cloves)", "1", "2", "3", "4"],
+           ["Tomato, chopped", "50g", "100g", "150g", "200g"],
+           ["Green cabbage, shredded", "50g", "100g", "150g", "200g"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help heat the olive oil in a large, heavy pot over medium-high heat. Add the cubed pork and brown it on all sides, about 5 minutes, stirring occasionally.",
+           "Add the chopped onion and garlic and cook 3–4 minutes until softened.",
+           "Add the sliced chouriço and morcela (if using) and cook 2 minutes more, just until they start to release their color into the pot.",
+           "Stir in the chopped tomato and bay leaf, then pour in enough water to just cover everything (about 250ml/1 cup). Bring to a boil, then turn the heat down to a gentle simmer, cover partway, and cook 25–30 minutes, until the pork is fork-tender.",
+           "Add the drained beans and simmer 10 more minutes so they warm through and soak up the broth's flavor.",
+           "Stir in the shredded cabbage and cook 4–5 minutes more, just until it wilts and turns bright green but still has a little bite.",
+           "Season with the salt and black pepper, discard the bay leaf, and taste — it should be rich, smoky, and savory.",
+           "Ladle into bowls and serve hot, with crusty bread or plain rice on the side if you like."
+         ]}
+      ]
+    },
+    {
+      "id": "polvo",
+      "title": "Polvo à Lagareiro",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "Roasted octopus tentacles and smashed olive-oil potatoes topped with crispy garlic",
+      "prep_label": "Prep — Whole Octopus",
+      "prep_alt": "A whole raw octopus on ice, ready to be simmered and roasted",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Octopus, frozen and thawed", "250g", "500g", "750g", "1000g"],
+           ["Baby potatoes", "200g", "400g", "600g", "800g"],
+           ["Garlic (cloves), crushed", "3", "6", "9", "12"],
+           ["Olive oil", "45ml", "90ml", "135ml", "180ml"],
+           ["Bay leaf", "1", "2", "3", "4"],
+           ["Parsley, chopped", "5g", "10g", "15g", "20g"],
+           ["Salt", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Buying the octopus already frozen (or freezing it yourself first) helps break down its fibers so it turns out tender instead of chewy — thaw it fully in the fridge before you start.",
+           "Ask an adult to help bring a large pot of water to a boil with one of the bay leaves. Add the octopus, turn the heat down to a gentle simmer, and cook 35–40 minutes, until a knife slides into the thickest part of a tentacle with just a little resistance, like a firm-cooked potato.",
+           "Meanwhile, boil the baby potatoes in a separate pot of salted water for 15–18 minutes, until tender. Drain, then gently press down on each one with the bottom of a cup or your fist to flatten it slightly, so it soaks up more oil later.",
+           "Ask an adult to help you preheat the oven to 220°C/425°F.",
+           "Drain the octopus and cut it into large pieces (tentacle sections). Arrange the octopus and smashed potatoes together in a baking dish.",
+           "Scatter the crushed garlic and remaining bay leaf over the top, season generously with the salt and black pepper, and drizzle the olive oil all over — don't be shy with it, this dish depends on plenty of good olive oil.",
+           "Roast for 15–20 minutes, until the edges of the octopus and potatoes turn golden and slightly crisp.",
+           "Sprinkle with the chopped parsley just before serving."
+         ]}
+      ]
+    },
+    {
+      "id": "pasteis",
+      "title": "Pastéis de Nata (Bonus)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": true,
+      "dish_alt": "A tray of freshly baked Pastéis de Nata custard tarts with caramelized, blistered tops",
+      "prep_label": "Prep — Puff Pastry",
+      "prep_alt": "Puff pastry dough being rolled flat with a wooden rolling pin",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Puff pastry sheet, ready-made", "¼ sheet", "½ sheet", "¾ sheet", "1 sheet"],
+           ["Egg yolks", "3", "6", "9", "12"],
+           ["Sugar", "60g", "120g", "180g", "240g"],
+           ["Whole milk", "125ml", "250ml", "375ml", "500ml"],
+           ["Cornstarch", "15g", "30g", "45g", "60g"],
+           ["Water", "60ml", "120ml", "180ml", "240ml"],
+           ["Cinnamon stick", "1", "1", "2", "2"],
+           ["Lemon peel (strip)", "1", "2", "3", "4"],
+           ["Ground cinnamon & powdered sugar (to serve)", "to taste", "to taste", "to taste", "to taste"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help you make the sugar syrup: in a small pot, bring the water, sugar, cinnamon stick, and lemon peel to a boil, then simmer 3–4 minutes until slightly syrupy. Remove from heat and fish out the cinnamon stick and lemon peel.",
+           "In a bowl, whisk the cornstarch into a splash of the cold milk until smooth, then whisk in the rest of the milk and the egg yolks.",
+           "Slowly pour the warm (not boiling) sugar syrup into the egg-and-milk mixture, whisking the whole time so the eggs don't scramble.",
+           "Pour everything back into the pot and cook over low heat, stirring constantly, for 3–4 minutes, until the custard thickens just enough to coat the back of a spoon. Take it off the heat right away — it will keep thickening as it cools.",
+           "Ask an adult to help preheat the oven as hot as it will go, ideally 250°C/480°F, with a muffin tin inside to heat up.",
+           "Roll the puff pastry into a tight log, then slice it into rounds. Press each round into the cups of the hot muffin tin with your thumbs, pushing it up the sides so it's thinner at the base than the rim.",
+           "Pour the custard into each pastry cup, filling almost to the top.",
+           "Bake 12–15 minutes, watching closely, until the tops develop dark caramelized spots and the pastry is golden and crisp — this high heat is what gives pastéis de nata their signature blistered top.",
+           "Let them cool for a few minutes in the tin (the custard firms up as it cools), then dust with ground cinnamon and powdered sugar before serving warm."
+         ]}
+      ]
+    }
+  ]
+}

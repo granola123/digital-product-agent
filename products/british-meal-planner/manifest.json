@@ -1,0 +1,114 @@
+{
+  "fishchips": {
+    "dish": {
+      "title": "File:Fish and chips.jpg",
+      "artist": "Andrew Dunn",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Fish_and_chips.jpg"
+    },
+    "prep": {
+      "title": "File:Potato chips in fryer.jpg",
+      "artist": "P.hammer",
+      "license": "CC BY-SA 3.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Potato_chips_in_fryer.jpg"
+    }
+  },
+  "shepherdspie": {
+    "dish": {
+      "title": "File:Shepherd's pie (22470901009).jpg",
+      "artist": "Abhinaba Basu from Redmond, United States",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Shepherd%27s_pie_%2822470901009%29.jpg"
+    },
+    "prep": {
+      "title": "File:MashedPotatoes.jpg",
+      "artist": "Renee Comet (photographer)",
+      "license": "Public domain",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/MashedPotatoes.jpg"
+    }
+  },
+  "bangersmash": {
+    "dish": {
+      "title": "File:Sausage and mash with onion gravy.jpg",
+      "artist": "Mike_fleming from London, England",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sausage_and_mash_with_onion_gravy.jpg"
+    },
+    "prep": {
+      "title": "File:Pan frying sausages.jpg",
+      "artist": "Rene Ehrhardt",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pan_frying_sausages.jpg"
+    }
+  },
+  "tikka": {
+    "dish": {
+      "title": "File:Chicken tikka masala.jpg",
+      "artist": "Michael Hays",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Chicken_tikka_masala.jpg"
+    },
+    "prep": {
+      "title": "File:Pan Chicken Curry.jpg",
+      "artist": "Asinha631",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Pan_Chicken_Curry.jpg"
+    }
+  },
+  "steakpie": {
+    "dish": {
+      "title": "File:British steak & ale pie - Brewhouse & Kitchen, Worthing 2026-06-08.jpg",
+      "artist": "Andy Li",
+      "license": "CC0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/British_steak_%26_ale_pie_-_Brewhouse_%26_Kitchen%2C_Worthing_2026-06-08.jpg"
+    },
+    "prep": {
+      "title": "File:Irish Beef Stew (34046928633).jpg",
+      "artist": "A Healthier Michigan from Detroit, United States",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Irish_Beef_Stew_%2834046928633%29.jpg"
+    }
+  },
+  "toad": {
+    "dish": {
+      "title": "File:Toad in the hole.jpg",
+      "artist": "Robert Gibert",
+      "license": "Public domain",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Toad_in_the_hole.jpg"
+    },
+    "prep": {
+      "title": "File:Yorkshire puddings in tin.jpg",
+      "artist": "Sara Thomas",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Yorkshire_puddings_in_tin.jpg"
+    }
+  },
+  "roastchicken": {
+    "dish": {
+      "title": "File:Sunday Dinner 30th December 2018 - Roast chicken, roast potatoes, cauliflower cheese & peas with gravy (and a chunk of sausage) (32671198388).jpg",
+      "artist": "CharmaineZoe's Marvelous Melange from England",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sunday_Dinner_30th_December_2018_-_Roast_chicken%2C_roast_potatoes%2C_cauliflower_cheese_%26_peas_with_gravy_%28and_a_chunk_of_sausage%29_%2832671198388%29.jpg"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Chicken with potatoes, onion, garlic, and rosemary before roasting.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Liat_Portal_for_Foodie_Disorder_-_Chicken_with_potatoes%2C_onion%2C_garlic%2C_and_rosemary_before_roasting.jpg"
+    }
+  },
+  "stickytoffee": {
+    "dish": {
+      "title": "File:StickyToffeePudding (cropped).jpg",
+      "artist": "Chalk and Cheese",
+      "license": "CC BY 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/StickyToffeePudding_%28cropped%29.jpg"
+    },
+    "prep": {
+      "title": "File:Preparació salsa toffee.jpg",
+      "artist": "Consell Comarcal del Baix Empordà. Cuina de l'Emp",
+      "license": "CC BY-SA 2.0",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Preparaci%C3%B3_salsa_toffee.jpg"
+    }
+  }
+}

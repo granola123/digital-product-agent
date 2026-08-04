@@ -1,0 +1,122 @@
+{
+  "dishes": [
+    {
+      "id": "pierogi",
+      "title": "Pierogi Ruskie",
+      "dish_photo": {
+        "title": "File:Pierogi z cebulką.jpg",
+        "artist": "Stako",
+        "license": "CC BY-SA 3.0"
+      },
+      "prep_photo": {
+        "title": "File:Pierogi preparation 08.JPG",
+        "artist": "Kpalion",
+        "license": "CC BY-SA 3.0",
+        "note": "Dough rounds cut and ready for filling — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "bigos",
+      "title": "Bigos",
+      "dish_photo": {
+        "title": "File:Bigos (1).jpg",
+        "artist": "Dr. Bernd Gross",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:WG 28 2022 Mazowsze (kapusta kiszona z bazaru w Ząbkach).jpg",
+        "artist": "MOs810",
+        "license": "CC BY-SA 4.0",
+        "note": "Fresh sauerkraut from a market stall, the stew's base ingredient — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "kotlet",
+      "title": "Kotlet Schabowy",
+      "dish_photo": {
+        "title": "File:Kotlet schabowy z ziemniakami - 2024.01.10.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Smażenie kotletów schabowych - 2023.08.28.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "zurek",
+      "title": "Żurek",
+      "dish_photo": {
+        "title": "File:Zurek Sour Rye Soup, Warsaw.jpg",
+        "artist": "Ken Eckert",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:01144 Sanok-style Sour rye soups, 2011.jpg",
+        "artist": "Silar",
+        "license": "CC BY-SA 3.0",
+        "note": "A close-up bowl of the same sour rye soup style — used as the second shot."
+      }
+    },
+    {
+      "id": "golabki",
+      "title": "Gołąbki",
+      "dish_photo": {
+        "title": "File:Gołąbki - 2023.07.25.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Liat Portal for Foodie Disorder - Stuffed cabbage before cooking.jpg",
+        "artist": "HaJunkiyada",
+        "license": "CC BY-SA 4.0",
+        "note": "Rolled cabbage parcels before cooking — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "placki",
+      "title": "Placki Ziemniaczane",
+      "dish_photo": {
+        "title": "File:Placki ziemniaczane - 2023.07.26.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Smażenie placków ziemniaczanych - 2023.05.11.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      }
+    },
+    {
+      "id": "kielbasa",
+      "title": "Kiełbasa z Kapustą",
+      "dish_photo": {
+        "title": "File:Młoda kapusta z kiełbasą i gotowanymi ziemniakami - 2023.07.28.jpg",
+        "artist": "Aw58",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Kapusta z grzybami 2013.jpg",
+        "artist": "MOs810",
+        "license": "CC BY-SA 3.0",
+        "note": "Braised cabbage mid-cook, glossy and golden — used as the prep/process shot."
+      }
+    },
+    {
+      "id": "sernik",
+      "title": "Sernik",
+      "dish_photo": {
+        "title": "File:2023 Sernik polski (1).jpg",
+        "artist": "Jacek Halicki",
+        "license": "CC BY-SA 4.0"
+      },
+      "prep_photo": {
+        "title": "File:Sernik na cieplo.jpg",
+        "artist": "Matjosz at English Wikipedia",
+        "license": "Public domain",
+        "note": "Cheesecake sliced still warm, showing the twaróg layer — used as the second shot."
+      }
+    }
+  ]
+}

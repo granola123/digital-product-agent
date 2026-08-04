@@ -1,0 +1,114 @@
+{
+  "schnitzel": {
+    "dish": {
+      "title": "File:Pork schnitzel.jpg",
+      "artist": "Rkolarsky",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Pork_schnitzel.jpg"
+    },
+    "prep": {
+      "title": "File:Wiener Schnitzel in der Pfanne 1.JPG",
+      "artist": "Brücke-Osteuropa",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wiener_Schnitzel_in_der_Pfanne_1.JPG"
+    }
+  },
+  "bratwurst": {
+    "dish": {
+      "title": "File:Bratwurst with sauerkraut, potatoes and beer.jpg",
+      "artist": "Dominik Schwind from Lörrach, Germany",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bratwurst_with_sauerkraut%2C_potatoes_and_beer.jpg"
+    },
+    "prep": {
+      "title": "File:Bratwürste auf dem Grill.JPG",
+      "artist": "4028mdk09",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Bratw%C3%BCrste_auf_dem_Grill.JPG"
+    }
+  },
+  "rouladen": {
+    "dish": {
+      "title": "File:2019-04-28 Rinderroulade mit Rotkohl und Klößen in Erfurt anagoria.jpg",
+      "artist": "Anagoria",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2019-04-28_Rinderroulade_mit_Rotkohl_und_Kl%C3%B6%C3%9Fen_in_Erfurt_anagoria.jpg"
+    },
+    "prep": {
+      "title": "File:Rinderroulade-zutaten-02.JPG",
+      "artist": "Tamorlan",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Rinderroulade-zutaten-02.JPG"
+    }
+  },
+  "kartoffelsuppe": {
+    "dish": {
+      "title": "File:Kartoffelsuppe mit Bockwurst-8636.jpg",
+      "artist": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kartoffelsuppe_mit_Bockwurst-8636.jpg"
+    },
+    "prep": {
+      "title": "File:Suppengrün-2.jpg",
+      "artist": "Rainer Zenz",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Suppengr%C3%BCn-2.jpg"
+    }
+  },
+  "kaesespaetzle": {
+    "dish": {
+      "title": "File:Kaesspaetzle mit Zwiebeln.jpg",
+      "artist": "Stefan-Xp",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kaesspaetzle_mit_Zwiebeln.jpg"
+    },
+    "prep": {
+      "title": "File:Spätzlepresse.JPG",
+      "artist": "Brücke-Osteuropa",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Sp%C3%A4tzlepresse.JPG"
+    }
+  },
+  "currywurst": {
+    "dish": {
+      "title": "File:Currywurst scharf mit Pommes - Bild 001.jpg",
+      "artist": "Lupus in Saxonia",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Currywurst_scharf_mit_Pommes_-_Bild_001.jpg"
+    },
+    "prep": {
+      "title": "File:Friteuse mit Pommes frites.JPG",
+      "artist": "4028mdk09",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Friteuse_mit_Pommes_frites.JPG"
+    }
+  },
+  "gulasch": {
+    "dish": {
+      "title": "File:Goulash hungarian.jpg",
+      "artist": "RitaE",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goulash_hungarian.jpg"
+    },
+    "prep": {
+      "title": "File:Goulash step 1.jpg",
+      "artist": "gran",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Goulash_step_1.jpg"
+    }
+  },
+  "strudel": {
+    "dish": {
+      "title": "File:Wiener Apfelstrudel.jpg",
+      "artist": "Burkhard Mücke",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Wiener_Apfelstrudel.jpg"
+    },
+    "prep": {
+      "title": "File:Stretched dough (15463672355).jpg",
+      "artist": "Karen and Brad Emerson",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Stretched_dough_%2815463672355%29.jpg"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "shakshuka": {
+    "dish": {
+      "title": "File:Liat Portal for Foodie Disorder - Shakshuka.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Liat_Portal_for_Foodie_Disorder_-_Shakshuka.jpg"
+    },
+    "prep": {
+      "title": "File:Shakshuka1.jpg",
+      "artist": "Joe Mahoney",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Shakshuka1.jpg"
+    }
+  },
+  "sabich": {
+    "dish": {
+      "title": "File:Sabich.jpg",
+      "artist": "Gilabrand",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sabich.jpg"
+    },
+    "prep": {
+      "title": "File:Eggplant roasting on a frying pan.jpg",
+      "artist": "いけ 🇪🇸爆裂大余韻継続中",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Eggplant_roasting_on_a_frying_pan.jpg"
+    }
+  },
+  "schnitzel": {
+    "dish": {
+      "title": "File:Liat Portal for Foodie Disorder - Schnitzel Strips with Israeli Salad and Tahini.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Liat_Portal_for_Foodie_Disorder_-_Schnitzel_Strips_with_Israeli_Salad_and_Tahini.jpg"
+    },
+    "prep": {
+      "title": "File:2013-08-31 12-59-25 Kochprojekt Wien.jpg",
+      "artist": "80686",
+      "license": "CC BY 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/2013-08-31_12-59-25_Kochprojekt_Wien.jpg"
+    }
+  },
+  "shawarma": {
+    "dish": {
+      "title": "File:Chicken Shwarama plate.jpeg",
+      "artist": "User:CrunchySkies",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicken_Shwarama_plate.jpeg"
+    },
+    "prep": {
+      "title": "File:Chicken Shawarma preparation in Thiruvananthapuram.jpeg",
+      "artist": "Shagil Muzhappilangad",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chicken_Shawarma_preparation_in_Thiruvananthapuram.jpeg"
+    }
+  },
+  "falafel": {
+    "dish": {
+      "title": "File:Bowl of falafel.jpg",
+      "artist": "EvanProdromou",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bowl_of_falafel.jpg"
+    },
+    "prep": {
+      "title": "File:Falafel frying in Aleppo.jpg",
+      "artist": "Preacher lad",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Falafel_frying_in_Aleppo.jpg"
+    }
+  },
+  "mixedgrill": {
+    "dish": {
+      "title": "File:Me'orav Yerushalmi - Jerusalem mixed grill.jpg",
+      "artist": "Maor X",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Me%27orav_Yerushalmi_-_Jerusalem_mixed_grill.jpg"
+    },
+    "prep": {
+      "title": "File:Me’oravyerushalmi03.jpg",
+      "artist": "Peteravivangel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Me%E2%80%99oravyerushalmi03.jpg"
+    }
+  },
+  "chraime": {
+    "dish": {
+      "title": "File:צלחת חריימה.png",
+      "artist": "Bar.levy141",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%D7%A6%D7%9C%D7%97%D7%AA_%D7%97%D7%A8%D7%99%D7%99%D7%9E%D7%94.png"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Moroccan Fish with Paprika, Cumin, and Peppers.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Liat_Portal_for_Foodie_Disorder_-_Moroccan_Fish_with_Paprika%2C_Cumin%2C_and_Peppers.jpg"
+    }
+  },
+  "malabi": {
+    "dish": {
+      "title": "File:Israeli malabi dessert.jpg",
+      "artist": "Cabeza2000",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Israeli_malabi_dessert.jpg"
+    },
+    "prep": {
+      "title": "File:Mhallabiyyeh (Arabic milk pudding).jpg",
+      "artist": "Jktab",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Mhallabiyyeh_%28Arabic_milk_pudding%29.jpg"
+    }
+  }
+}

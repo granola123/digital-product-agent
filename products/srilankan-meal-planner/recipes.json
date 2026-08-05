@@ -1,0 +1,329 @@
+{
+  "recipes": [
+    {
+      "id": "chickencurry",
+      "title": "Sri Lankan Chicken Curry",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "Sri Lankan chicken curry — bone-in chicken pieces in a deep amber-red coconut curry sauce",
+      "prep_label": "Prep — Simmering the Curry",
+      "prep_alt": "A curry of chicken and potato simmering in a traditional clay pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in, cut into pieces", "150g", "300g", "450g", "600g"],
+           ["Roasted curry powder", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+           ["Chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt (for marinade)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Lime juice or vinegar (for marinade)", "5ml", "10ml", "15ml", "20ml"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Onion, sliced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Curry leaves", "6", "12", "18", "24"],
+           ["Pandan leaf, knotted", "¼ piece", "½ piece", "¾ piece", "1 piece"],
+           ["Lemongrass stalk, bruised", "¼", "½", "¾", "1"],
+           ["Cinnamon stick", "¼", "½", "¾", "1"],
+           ["Cardamom pods", "1", "2", "3", "4"],
+           ["Whole cloves", "1", "2", "3", "4"],
+           ["Tomato, chopped", "30g", "60g", "90g", "120g"],
+           ["Water", "50ml", "100ml", "150ml", "200ml"],
+           ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, toss the chicken with the roasted curry powder, chili powder, salt, and lime juice or vinegar. Let it marinate at room temperature for 20–30 minutes.",
+           "Ask an adult to help warm the oil in a heavy-bottomed pot over medium heat. Add the onion and cook 4–5 minutes, until soft and starting to turn golden at the edges.",
+           "Add the garlic and ginger and stir for about 30 seconds until fragrant.",
+           "Add the curry leaves, pandan leaf, lemongrass, cinnamon stick, cardamom pods, and cloves. Stir for 30 seconds to release their aroma.",
+           "Add the marinated chicken and cook 4–5 minutes, turning the pieces, until the outside is no longer pink.",
+           "Stir in the chopped tomato and cook 2 minutes, until it starts to break down.",
+           "Pour in the water, season with the black pepper, cover, and simmer 20–25 minutes, until the chicken is tender and the sauce has thickened and turned a deep reddish-brown.",
+           "Stir in the coconut milk and simmer, uncovered, another 5 minutes — don't let it boil hard or the coconut milk can split.",
+           "Taste and adjust salt. Fish out the lemongrass, pandan, and cinnamon stick before serving. Serve hot with rice."
+         ]}
+      ]
+    },
+    {
+      "id": "kottu",
+      "title": "Kottu Roti (Chopped Roti Stir-Fry with Chicken)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "Kottu roti — chopped roti stir-fried with chicken, vegetables, and egg, packed in a takeout box",
+      "prep_label": "Prep — Chopping Kottu on the Griddle",
+      "prep_alt": "Kottu roti being chopped and mixed on a hot metal griddle with two blades",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Godamba roti or paratha (store-bought), torn into ribbons", "2 pieces", "4 pieces", "6 pieces", "8 pieces"],
+           ["Chicken breast or thigh, diced small", "100g", "200g", "300g", "400g"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Onion, sliced", "30g", "60g", "90g", "120g"],
+           ["Leek, sliced", "20g", "40g", "60g", "80g"],
+           ["Cabbage, shredded", "40g", "80g", "120g", "160g"],
+           ["Carrot, julienned", "20g", "40g", "60g", "80g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Curry leaves", "6", "12", "18", "24"],
+           ["Roasted curry powder", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+           ["Chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Egg, beaten", "1", "2", "3", "4"],
+           ["Soy sauce", "5ml", "10ml", "15ml", "20ml"],
+           ["Lime wedges, to serve", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Stack the roti and slice them into thin ribbons with a knife or kitchen scissors. Set aside.",
+           "Ask an adult to help heat the oil in a large flat pan or wok over medium-high heat. Add the onion, leek, garlic, ginger, and curry leaves. Cook 2–3 minutes, until fragrant and just starting to soften.",
+           "Add the diced chicken, curry powder, chili powder, and salt. Cook 5–6 minutes, stirring often, until browned and cooked through with no pink left.",
+           "Push everything to one side of the pan. Pour the beaten egg into the empty space and scramble for about 1 minute until just set, then mix it through the chicken.",
+           "Add the shredded cabbage and carrot. Toss for 2 minutes, until just starting to wilt but still a little crisp.",
+           "Add the torn roti ribbons and the soy sauce. Using two spatulas, chop and toss everything together vigorously for 4–5 minutes, breaking up any roti clumps, until the ribbons are evenly coated and some edges look lightly charred.",
+           "Taste and add a little more salt or chili powder if needed.",
+           "Pile onto plates and serve immediately with lime wedges to squeeze over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "parippu",
+      "title": "Parippu (Red Lentil Dal Curry)",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "Parippu — bright orange-red lentil curry with a swirl of coconut milk in a white bowl",
+      "prep_label": "Prep — Tempering the Spices",
+      "prep_alt": "Curry leaves, dried chilies, mustard seeds, and lentils laid out for a tempering",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Red lentils (masoor dal), rinsed", "60g", "120g", "180g", "240g"],
+           ["Water", "200ml", "400ml", "600ml", "800ml"],
+           ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Onion, finely diced", "20g", "40g", "60g", "80g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Green chili, slit", "½", "1", "1½", "2"],
+           ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Coconut oil or vegetable oil (for tempering)", "10ml", "20ml", "30ml", "40ml"],
+           ["Mustard seeds", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Dried red chilies", "1", "2", "3", "4"],
+           ["Curry leaves (for tempering)", "5", "10", "15", "20"],
+           ["Small red onion, thinly sliced (for tempering)", "10g", "20g", "30g", "40g"],
+           ["Fenugreek seeds", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Put the rinsed lentils, water, turmeric, diced onion, garlic, and green chili in a pot. Ask an adult to help bring it to a boil, then reduce to a simmer.",
+           "Cook, stirring occasionally and skimming off any foam, for 15–18 minutes, until the lentils are fully soft and starting to break down into a thick curry.",
+           "Stir in the coconut milk and salt. Simmer gently for 3–4 more minutes — don't let it boil hard once the coconut milk is in.",
+           "While the dal finishes, make the tempering: warm the oil in a small pan over medium heat. Add the mustard seeds and cover loosely — they'll pop and sputter.",
+           "Once the popping slows, add the dried red chilies, curry leaves, sliced red onion, and fenugreek seeds. Fry 1–2 minutes, until the onion is golden and the curry leaves are crisp.",
+           "Pour the sizzling tempering straight over the finished dal — it should crackle audibly. Stir it in just before serving, or leave it pooled on top.",
+           "Serve hot with rice or roti."
+         ]}
+      ]
+    },
+    {
+      "id": "ambulthiyal",
+      "title": "Fish Ambul Thiyal (Sour Sri Lankan Fish Curry)",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": 1.2,
+      "gold": true,
+      "dish_alt": "Fish ambul thiyal — dark, thick sour fish curry cooked with tamarind and black pepper in a clay pot",
+      "prep_label": "Prep — Fish Curry Simmering",
+      "prep_alt": "Fish pieces simmering in a spiced coconut curry sauce in a bowl",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Firm white fish or tuna, cut into chunks", "150g", "300g", "450g", "600g"],
+           ["Goraka pieces, soaked (or 1 tsp tamarind paste per serving)", "2 pieces", "4 pieces", "6 pieces", "8 pieces"],
+           ["Warm water (to soak goraka)", "30ml", "60ml", "90ml", "120ml"],
+           ["Garlic cloves", "2", "4", "6", "8"],
+           ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Black pepper, coarsely ground", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Chili powder", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Roasted curry powder", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Curry leaves", "6", "12", "18", "24"],
+           ["Pandan leaf, torn", "¼", "½", "¾", "1"],
+           ["Cinnamon stick", "¼", "½", "¾", "1"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Soak the goraka pieces in the warm water for 10 minutes, then blend or pound them (with the soaking water) into a rough paste. If using tamarind paste, stir it with the same amount of warm water instead.",
+           "Ask an adult to help pound or blend the garlic, ginger, black pepper, chili powder, curry powder, and turmeric into a thick paste. Combine with the goraka (or tamarind) paste.",
+           "Rub the spice-and-sour paste all over the fish chunks in a bowl, coating every piece.",
+           "Place the fish and any remaining paste into a heavy-bottomed pot in a single layer. Tuck in the curry leaves, pandan leaf, and cinnamon stick, and sprinkle over the salt.",
+           "Drizzle the oil over the top. Do not add extra water — this curry is meant to be dry and thick, not soupy.",
+           "Cover and cook over low heat for 20–25 minutes, gently shaking the pot occasionally instead of stirring, until the sauce has reduced to a thick, dark glaze and the fish is cooked through.",
+           "Taste carefully — it should be intensely peppery, sour, and salty all at once. Serve warm with plain rice."
+         ]}
+      ]
+    },
+    {
+      "id": "devilledchicken",
+      "title": "Devilled Chicken",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Devilled chicken — crisp-fried chicken tossed with onion, capsicum, and a glossy red-brown chili sauce",
+      "prep_label": "Prep — Stir-Frying with Peppers",
+      "prep_alt": "Chicken pieces stir-fried with red bell pepper and vegetables in a wok",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken breast or boneless thigh, cut into strips", "150g", "300g", "450g", "600g"],
+           ["Cornstarch", "10g", "20g", "30g", "40g"],
+           ["Soy sauce (for marinade)", "5ml", "10ml", "15ml", "20ml"],
+           ["Salt (for marinade)", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Vegetable oil (for frying)", "30ml", "60ml", "90ml", "120ml"],
+           ["Onion, cut into petals", "30g", "60g", "90g", "120g"],
+           ["Green bell pepper, sliced", "30g", "60g", "90g", "120g"],
+           ["Tomato, cut into wedges", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Curry leaves", "5", "10", "15", "20"],
+           ["Green chili, sliced", "½", "1", "1½", "2"],
+           ["Chili flakes", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Soy sauce (for sauce)", "5ml", "10ml", "15ml", "20ml"],
+           ["Tomato ketchup", "15ml", "30ml", "45ml", "60ml"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Toss the chicken strips with the cornstarch, soy sauce, and a pinch of salt until evenly coated.",
+           "Ask an adult to help heat the oil in a wok or large pan over medium-high heat. Fry the chicken in batches for 4–5 minutes, until golden and crisp outside and cooked through with no pink inside. Drain on paper towels.",
+           "Pour off all but about 1 tablespoon of oil. Add the onion petals, bell pepper, garlic, ginger, and curry leaves. Stir-fry 2–3 minutes, until just starting to char at the edges but still crisp.",
+           "Add the tomato wedges, green chili, and chili flakes. Stir-fry 1 minute more.",
+           "Stir in the soy sauce, tomato ketchup, and black pepper to make the sauce.",
+           "Return the fried chicken to the pan and toss everything together for 1–2 minutes, until every piece is glossy and coated in the red-brown sauce.",
+           "Serve hot, straight from the pan, with rice or bread."
+         ]}
+      ]
+    },
+    {
+      "id": "egghoppers",
+      "title": "Egg Hoppers (Appa) with Coconut Sambol",
+      "time": "40 min (+1–2 hr batter rest)",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A lacy-edged egg hopper with a soft, spongy center, served with roti on a plate",
+      "prep_label": "Prep — Hoppers Fresh Off the Pan",
+      "prep_alt": "Freshly cooked egg hoppers arranged on a tray alongside coconut sambol",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Rice flour", "60g", "120g", "180g", "240g"],
+           ["Coconut milk", "60ml", "120ml", "180ml", "240ml"],
+           ["Water", "40ml", "80ml", "120ml", "160ml"],
+           ["Instant yeast", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Sugar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt (for batter)", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Eggs (for hoppers)", "1", "2", "3", "4"],
+           ["Salt & pepper (to season egg)", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Fresh or desiccated grated coconut (for sambol)", "30g", "60g", "90g", "120g"],
+           ["Red onion, finely chopped (for sambol)", "15g", "30g", "45g", "60g"],
+           ["Chili powder (for sambol)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Lime juice (for sambol)", "5ml", "10ml", "15ml", "20ml"],
+           ["Salt (for sambol)", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, whisk the rice flour, coconut milk, water, yeast, sugar, and a pinch of salt into a smooth, thin batter (about the thickness of heavy cream).",
+           "Cover and let the batter rest somewhere warm for 1–2 hours, until it looks a little bubbly and smells faintly fermented (traditionalists ferment overnight, but a shorter rest still works).",
+           "While the batter rests, make the sambol: mix the grated coconut, chopped red onion, chili powder, lime juice, and a pinch of salt together in a bowl, rubbing it with your fingers so the flavors blend in. Set aside.",
+           "Ask an adult to help heat a small, curved hopper pan (or small nonstick wok) over medium heat. Pour in a ladle of batter and quickly swirl the pan so it coats the sides thinly, leaving a pool of batter in the center.",
+           "Crack an egg into the center of the batter. Season with a little salt and pepper.",
+           "Cover with a lid and cook 3–4 minutes, until the edges turn golden and crisp and lift away from the pan on their own, and the egg white is set but the yolk is still soft.",
+           "Carefully loosen the edges with a spatula and slide the hopper out onto a plate — it should hold its bowl shape.",
+           "Repeat with the remaining batter and eggs. Serve hot with the coconut sambol spooned alongside."
+         ]}
+      ]
+    },
+    {
+      "id": "poloscurry",
+      "title": "Polos Curry (Green Jackfruit Curry)",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -0.5,
+      "gold": false,
+      "dish_alt": "Polos curry — green jackfruit simmered in a spiced coconut milk gravy, served with rice",
+      "prep_label": "Prep — Cutting the Jackfruit",
+      "prep_alt": "Raw green jackfruit chunks and seeds prepared for curry",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Young green jackfruit (canned in brine, drained, or fresh), cut into chunks", "150g", "300g", "450g", "600g"],
+           ["Water (to boil jackfruit)", "200ml", "400ml", "600ml", "800ml"],
+           ["Turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Onion, sliced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ginger, minced", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Green chili, slit", "½", "1", "1½", "2"],
+           ["Cinnamon stick", "¼", "½", "¾", "1"],
+           ["Curry leaves", "6", "12", "18", "24"],
+           ["Roasted curry powder", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+           ["Chili powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Coconut milk", "100ml", "200ml", "300ml", "400ml"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Put the jackfruit chunks in a pot with the water and turmeric. Ask an adult to help bring it to a boil, then simmer 15–20 minutes, until fork-tender. Drain well.",
+           "Warm the oil in a pot over medium heat. Add the onion, garlic, ginger, green chili, cinnamon stick, and curry leaves. Cook 3–4 minutes, until the onion softens and everything smells fragrant.",
+           "Stir in the curry powder and chili powder. Cook about 30 seconds, just until toasty-smelling.",
+           "Add the boiled jackfruit and stir to coat it in the spices.",
+           "Pour in the coconut milk and salt. Bring to a gentle simmer and cook, uncovered, 10–12 minutes, stirring occasionally, until the curry thickens.",
+           "Use the back of a spoon to lightly mash some of the jackfruit pieces against the side of the pot — this gives the curry its signature shredded texture while leaving some pieces whole.",
+           "Taste and adjust the salt or chili. Remove the cinnamon stick before serving. Serve hot with rice or roti."
+         ]}
+      ]
+    },
+    {
+      "id": "watalappan",
+      "title": "Watalappan (Bonus)",
+      "time": "20 min (+35 min steam, +2 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Watalappan — a deep brown coconut jaggery custard pudding garnished with cinnamon",
+      "prep_label": "Prep — Portioned and Set",
+      "prep_alt": "Watalappan custard cut into portioned squares and garnished with cashews and cherries",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Kithul jaggery or dark brown sugar, grated", "60g", "120g", "180g", "240g"],
+           ["Water (to melt jaggery)", "30ml", "60ml", "90ml", "120ml"],
+           ["Thick coconut milk", "150ml", "300ml", "450ml", "600ml"],
+           ["Eggs", "2", "4", "6", "8"],
+           ["Ground cardamom", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground nutmeg", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+           ["Cashews, chopped", "10g", "20g", "30g", "40g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help warm the grated jaggery with the water in a small saucepan over low heat, stirring until fully melted and smooth. Let it cool slightly.",
+           "In a bowl, whisk the eggs until just combined.",
+           "Whisk the coconut milk, cardamom, and nutmeg into the eggs.",
+           "Slowly whisk in the cooled jaggery syrup until fully combined.",
+           "Strain the mixture through a fine sieve into ramekins or a heatproof dish, to catch any lumps. Sprinkle the chopped cashews over the top.",
+           "Set the ramekins in a steamer or a wider pan filled with an inch of hot water. Ask an adult to help cover and steam over medium-low heat for 30–35 minutes, until set around the edges but still gently wobbly in the center.",
+           "Let the puddings cool to room temperature, then refrigerate at least 2 hours before serving chilled."
+         ]}
+      ]
+    }
+  ]
+}

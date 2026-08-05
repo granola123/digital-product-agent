@@ -1,0 +1,345 @@
+{
+  "recipes": [
+    {
+      "id": "gumbo",
+      "title": "Shrimp & Sausage Gumbo",
+      "time": "1 hr 15 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "A bowl of shrimp and sausage gumbo with a scoop of white rice in a dark, glossy mahogany broth",
+      "prep_label": "Prep — Whisking the Dark Roux",
+      "prep_alt": "A dark chocolate-brown roux being whisked in a pot, the first step of building a gumbo",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["All-purpose flour", "15g", "30g", "45g", "60g"],
+           ["Onion, diced", "40g", "80g", "120g", "160g"],
+           ["Celery, diced", "25g", "50g", "75g", "100g"],
+           ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Andouille sausage, sliced", "60g", "120g", "180g", "240g"],
+           ["Chicken or seafood stock", "250ml", "500ml", "750ml", "1000ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Shrimp, peeled and deveined", "100g", "200g", "300g", "400g"],
+           ["Filé powder (off heat, optional)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Green onions, sliced, to garnish", "5g", "10g", "15g", "20g"],
+           ["White rice, to serve", "50g", "100g", "150g", "200g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help warm the vegetable oil in a heavy pot or Dutch oven over medium heat. Whisk in the flour to make a smooth paste — this is the start of your roux.",
+           "Cook the roux, whisking constantly, for 25–35 minutes, until it turns a deep, glossy chocolate-brown — the color of a copper penny — and smells toasted and nutty. Don't rush this or turn the heat up high, or it will scorch and taste bitter; if you see black flecks, start over.",
+           "Immediately add the onion, celery, and green bell pepper (the \"holy trinity\") to the hot roux — it will sizzle and stop the cooking. Stir 5 minutes, until the vegetables soften.",
+           "Add the garlic and stir for 30 seconds, just until fragrant.",
+           "Slowly whisk in the stock, a little at a time at first, so the roux doesn't clump. Add the bay leaf, cayenne, and thyme.",
+           "Bring to a gentle simmer, add the sliced andouille, and cook uncovered for 30–40 minutes, stirring occasionally, until the broth has thickened and deepened in flavor.",
+           "Season with the salt and black pepper, then carefully taste (it's hot!) and adjust.",
+           "Add the shrimp and cook 5–8 minutes more, just until they turn pink and opaque — don't overcook or they'll turn rubbery.",
+           "Take the pot off the heat before stirring in the filé powder, if using — filé turns stringy and gluey if it boils, so always add it off-heat, right before serving.",
+           "Remove the bay leaf. Ladle over rice and garnish with sliced green onions."
+         ]}
+      ]
+    },
+    {
+      "id": "jambalaya",
+      "title": "Chicken & Andouille Jambalaya",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "A bowl of amber-red chicken and andouille jambalaya, rice studded with sausage and peppers",
+      "prep_label": "Prep — Simmering the Pot",
+      "prep_alt": "Jambalaya simmering in a pot on the stove with visible shrimp, sausage, and rice",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Vegetable oil", "5ml", "10ml", "15ml", "20ml"],
+           ["Chicken thighs, boneless, diced", "100g", "200g", "300g", "400g"],
+           ["Andouille sausage, sliced", "60g", "120g", "180g", "240g"],
+           ["Onion, diced", "40g", "80g", "120g", "160g"],
+           ["Celery, diced", "25g", "50g", "75g", "100g"],
+           ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Sweet paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Canned diced tomatoes", "60g", "120g", "180g", "240g"],
+           ["Tomato paste", "10g", "20g", "30g", "40g"],
+           ["Chicken stock", "150ml", "300ml", "450ml", "600ml"],
+           ["Long-grain white rice, uncooked", "50g", "100g", "150g", "200g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Green onions, sliced, to garnish", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help heat the oil in a heavy pot or Dutch oven over medium-high heat. Add the andouille and cook 3–4 minutes, until browned on the cut sides. Remove with a slotted spoon and set aside.",
+           "Add the chicken to the same pot and cook 4–5 minutes, until browned outside (it doesn't need to be cooked through yet). Remove and set aside with the sausage.",
+           "Add the onion, celery, and green bell pepper to the pot and cook 5 minutes, scraping up the browned bits from the bottom — that's where a lot of the flavor lives.",
+           "Add the garlic, paprika, cayenne, thyme, oregano, and bay leaf. Stir 30 seconds until fragrant.",
+           "Stir in the diced tomatoes and tomato paste, then pour in the chicken stock and bring to a boil.",
+           "Return the chicken and sausage to the pot, then stir in the uncooked rice, salt, and black pepper.",
+           "Cover, reduce the heat to low, and simmer 20–25 minutes without lifting the lid — peeking lets out the steam the rice needs to cook evenly.",
+           "Turn off the heat and let it sit, covered, for 5 more minutes, then fluff gently with a fork.",
+           "Remove the bay leaf and serve garnished with sliced green onions."
+         ]}
+      ]
+    },
+    {
+      "id": "redbeans",
+      "title": "Red Beans and Rice",
+      "time": "45 min",
+      "level": "Easy",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "A plate of red beans and rice, a mound of white rice sitting in thick, creamy red bean gravy",
+      "prep_label": "Prep — Simmering the Beans",
+      "prep_alt": "Red kidney beans simmering in a pot with the holy trinity of onion, celery, and pepper",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Vegetable oil", "5ml", "10ml", "15ml", "20ml"],
+           ["Andouille sausage, sliced", "50g", "100g", "150g", "200g"],
+           ["Onion, diced", "40g", "80g", "120g", "160g"],
+           ["Celery, diced", "25g", "50g", "75g", "100g"],
+           ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Canned red kidney beans, drained (liquid reserved)", "200g", "400g", "600g", "800g"],
+           ["Chicken stock", "125ml", "250ml", "375ml", "500ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["White rice, to serve", "50g", "100g", "150g", "200g"],
+           ["Green onions, sliced, to garnish", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help warm the oil in a heavy pot over medium heat. Add the sliced andouille and cook 3–4 minutes, until browned.",
+           "Add the onion, celery, and green bell pepper. Cook 5–6 minutes, until softened.",
+           "Add the garlic and stir for 30 seconds, until fragrant.",
+           "Stir in the drained beans, the reserved bean liquid, and the chicken stock. Add the bay leaf, thyme, and cayenne.",
+           "Bring to a gentle simmer, then cook uncovered for 25–30 minutes, stirring occasionally, until the liquid thickens into a rich gravy.",
+           "Use the back of a spoon to mash about a quarter of the beans against the side of the pot, then stir them back in — this is what makes the pot creamy instead of watery.",
+           "Season with the salt and black pepper, then carefully taste (it's hot!) and adjust.",
+           "Remove the bay leaf. Spoon the beans over rice and garnish with sliced green onions.",
+           "Weeknight note: this version uses canned beans to keep things fast. For the deepest, creamiest Monday-tradition texture, swap in dried red kidney beans, soaked overnight and simmered 1½–2 hours before continuing from step 4."
+         ]}
+      ]
+    },
+    {
+      "id": "catfish",
+      "title": "Blackened Catfish",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": 1.2,
+      "gold": true,
+      "dish_alt": "A blackened catfish fillet with a dark, charred, peppery crust, plated with lemon and roasted potatoes",
+      "prep_label": "Prep — Searing in a Screaming-Hot Skillet",
+      "prep_alt": "A chef demonstrating blackened fish, a seasoned fillet cooking in a smoking skillet",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Catfish fillets", "150g", "300g", "450g", "600g"],
+           ["Unsalted butter, melted", "15g", "30g", "45g", "60g"],
+           ["Sweet paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+           ["Cayenne pepper", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Garlic powder", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Onion powder", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Black pepper", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["White pepper", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Lemon wedges, to serve", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a small bowl, mix the paprika, cayenne, garlic powder, onion powder, thyme, oregano, salt, black pepper, and white pepper — this is your blackening seasoning.",
+           "Ask an adult to help heat a cast-iron skillet over high heat for at least 5–8 minutes, until it's smoking hot. This dish makes real smoke — crack a window or turn on the vent fan.",
+           "Brush both sides of each catfish fillet with the melted butter, then sprinkle the seasoning generously over both sides, pressing gently so it sticks all over.",
+           "Carefully lay the fillets into the hot, dry skillet (an adult should help — it will smoke and sizzle right away). Cook 2–3 minutes per side, until the crust looks charred black-red and the fish flakes easily with a fork.",
+           "\"Blackened\" means a deeply charred, spiced crust, not burnt — the color comes from the paprika and spices scorching in the heat, not from the fish itself overcooking.",
+           "Serve hot with lemon wedges for squeezing over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "etouffee",
+      "title": "Shrimp Étouffée",
+      "time": "40 min",
+      "level": "Medium",
+      "tilt": -1.3,
+      "gold": false,
+      "dish_alt": "Shrimp étouffée, plump shrimp in an orange-red silky sauce spooned over rice",
+      "prep_label": "Prep — A Cajun Plate Lunch",
+      "prep_alt": "A plate lunch of shrimp étouffée over rice alongside classic Louisiana sides",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Unsalted butter", "15g", "30g", "45g", "60g"],
+           ["All-purpose flour", "15g", "30g", "45g", "60g"],
+           ["Onion, diced", "40g", "80g", "120g", "160g"],
+           ["Celery, diced", "25g", "50g", "75g", "100g"],
+           ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Shrimp or seafood stock", "150ml", "300ml", "450ml", "600ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Sweet paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Shrimp, peeled and deveined", "150g", "300g", "450g", "600g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Green onions, sliced", "5g", "10g", "15g", "20g"],
+           ["White rice, to serve", "50g", "100g", "150g", "200g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help melt the butter in a wide, heavy pot over medium-low heat. Whisk in the flour until smooth.",
+           "Cook the roux, whisking often, for 6–8 minutes, until it turns a light golden \"blond\" color and smells lightly toasted, like peanut butter — much lighter than a gumbo roux.",
+           "Add the onion, celery, and green bell pepper. Cook 5–6 minutes, stirring, until softened and glossy.",
+           "Add the garlic and stir 30 seconds, until fragrant.",
+           "Slowly whisk in the stock, a little at a time, so the roux doesn't clump. Add the bay leaf, paprika, cayenne, and thyme.",
+           "Bring to a gentle simmer and cook 12–15 minutes, stirring occasionally, until the sauce thickens enough to coat the back of a spoon.",
+           "Add the shrimp and cook 5–7 minutes, until they turn pink and just cooked through.",
+           "Season with the salt and black pepper, then carefully taste (it's hot!) and adjust.",
+           "Remove the bay leaf, stir in half the green onions, and serve over rice, topped with the rest of the green onions."
+         ]}
+      ]
+    },
+    {
+      "id": "poboy",
+      "title": "Fried Shrimp Po'boy",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A fried shrimp po'boy sandwich sliced in half, crispy golden shrimp piled inside French bread",
+      "prep_label": "Prep — Dressed and Ready to Serve",
+      "prep_alt": "A fried shrimp po'boy sandwich dressed with lettuce, tomato, and pickles, served with fries",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Shrimp, peeled and deveined", "150g", "300g", "450g", "600g"],
+           ["Buttermilk", "60ml", "120ml", "180ml", "240ml"],
+           ["Louisiana-style hot sauce (for soak)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Cornmeal", "30g", "60g", "90g", "120g"],
+           ["All-purpose flour", "15g", "30g", "45g", "60g"],
+           ["Sweet paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Garlic powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Vegetable oil, for frying", "250ml", "500ml", "750ml", "1000ml"],
+           ["French bread rolls", "1", "2", "3", "4"],
+           ["Mayonnaise", "20g", "40g", "60g", "80g"],
+           ["Creole or Dijon mustard", "5g", "10g", "15g", "20g"],
+           ["Louisiana-style hot sauce (for sauce)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Lettuce, shredded", "20g", "40g", "60g", "80g"],
+           ["Tomato, sliced", "30g", "60g", "90g", "120g"],
+           ["Dill pickles, sliced", "10g", "20g", "30g", "40g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, stir together the buttermilk and hot sauce, then add the shrimp and let them soak 10 minutes — this seasons the shrimp and helps the crust stick.",
+           "In a shallow dish, mix the cornmeal, flour, paprika, cayenne, garlic powder, and salt.",
+           "Make the sauce: stir together the mayonnaise, mustard, and hot sauce in a small bowl. Set aside.",
+           "Ask an adult to help heat the vegetable oil in a deep, heavy pot over medium heat until it reaches frying temperature — a pinch of the cornmeal mix should sizzle right away when dropped in.",
+           "Lift the shrimp from the buttermilk one at a time, letting the extra drip off, then dredge in the cornmeal mixture, pressing gently so it coats all over.",
+           "Fry the shrimp in small batches for 2–3 minutes, until deep golden brown and crisp. Don't crowd the pot, or the oil cools and the shrimp turn greasy. Drain on paper towels.",
+           "Split the French bread rolls and spread the sauce generously on both cut sides.",
+           "Layer in the shredded lettuce, sliced tomato, and pickles, then pile the hot fried shrimp on top.",
+           "Serve right away, while the shrimp are still hot and crackling-crisp."
+         ]}
+      ]
+    },
+    {
+      "id": "dirtyrice",
+      "title": "Dirty Rice",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": -0.5,
+      "gold": false,
+      "dish_alt": "A scoop of dirty rice, dark and flecked from browned pork and chicken livers",
+      "prep_label": "Prep — Served the Louisiana Way",
+      "prep_alt": "Dirty rice served alongside a fried pork chop and hushpuppies on a plate",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Ground pork", "80g", "160g", "240g", "320g"],
+           ["Chicken livers, finely chopped", "40g", "80g", "120g", "160g"],
+           ["Onion, diced", "40g", "80g", "120g", "160g"],
+           ["Celery, diced", "25g", "50g", "75g", "100g"],
+           ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Chicken stock", "60ml", "120ml", "180ml", "240ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Cayenne pepper", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
+           ["Dried thyme", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["White rice, cooked", "100g", "200g", "300g", "400g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Green onions, sliced, to garnish", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help brown the ground pork in a large skillet over medium-high heat, breaking it up with a spoon, for 4–5 minutes.",
+           "Add the finely chopped chicken livers and cook 3–4 minutes, until no longer pink, breaking them into small crumbly pieces as they cook.",
+           "Add the onion, celery, and green bell pepper. Cook 5 minutes, until softened.",
+           "Add the garlic, cayenne, thyme, and bay leaf. Stir 30 seconds, until fragrant.",
+           "Pour in the chicken stock and let it bubble for 2 minutes, scraping up any browned bits from the bottom of the pan.",
+           "Stir in the cooked rice, tossing well so every grain picks up the browned color and savory flavor from the pan — this is what makes it \"dirty.\"",
+           "Cook 3–4 minutes more, until heated through and no liquid is pooling in the pan.",
+           "Season with the salt and black pepper, remove the bay leaf, and garnish with sliced green onions before serving."
+         ]}
+      ]
+    },
+    {
+      "id": "beignets",
+      "title": "Beignets (Bonus)",
+      "time": "45 min (+1 hr rise)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Square beignets buried in a thick blanket of powdered sugar, the classic New Orleans fried dough",
+      "prep_label": "Prep — Café du Monde Table Scene",
+      "prep_alt": "Plates of powdered-sugar beignets served with coffee at a French Quarter café table",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Warm water", "60ml", "120ml", "180ml", "240ml"],
+           ["Active dry yeast", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Granulated sugar", "8g", "15g", "23g", "30g"],
+           ["Evaporated milk", "30ml", "60ml", "90ml", "120ml"],
+           ["Egg", "¼", "½", "¾", "1"],
+           ["Salt", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
+           ["Unsalted butter, softened", "8g", "15g", "23g", "30g"],
+           ["All-purpose flour", "80g", "160g", "240g", "320g"],
+           ["Vegetable oil, for frying", "250ml", "500ml", "750ml", "1000ml"],
+           ["Powdered sugar, for dusting", "15g", "30g", "45g", "60g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a large bowl, stir the warm water, yeast, and 1 teaspoon of the sugar together. Let it sit 7–10 minutes, until foamy on top — if it doesn't foam, the yeast is dead and you'll need fresh yeast.",
+           "Whisk in the rest of the sugar, the evaporated milk, egg, salt, and softened butter.",
+           "Add the flour and mix (ask an adult to help if using a stand mixer) until a soft, slightly sticky dough forms and pulls away from the bowl.",
+           "Cover the bowl and let the dough rise at room temperature for about 1 hour, until doubled in size.",
+           "Turn the dough out onto a floured surface and roll it out to about ½ cm thick.",
+           "Cut the dough into 5cm squares with a knife or pizza cutter.",
+           "Ask an adult to help heat the oil in a deep, heavy pot to frying temperature — a small piece of dough dropped in should sizzle and float within a few seconds.",
+           "Fry the squares in small batches for 1–2 minutes per side, until puffed and golden brown all over. Drain on paper towels.",
+           "While still warm, dust generously and heavily with powdered sugar — beignets are meant to disappear under a snowdrift of sugar. Serve right away."
+         ]}
+      ]
+    }
+  ]
+}

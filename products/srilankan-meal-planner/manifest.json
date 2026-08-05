@@ -1,0 +1,114 @@
+{
+  "chickencurry": {
+    "dish": {
+      "title": "File:Sri lankan chicken curry.jpg",
+      "artist": "Swarnamala Priyadarshani",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sri_lankan_chicken_curry.jpg"
+    },
+    "prep": {
+      "title": "File:Chicken cooked in clay pot.jpg",
+      "artist": "Kangkan Goswami",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chicken_cooked_in_clay_pot.jpg"
+    }
+  },
+  "kottu": {
+    "dish": {
+      "title": "File:Kottu Roti.jpg",
+      "artist": "Chamal N",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kottu_Roti.jpg"
+    },
+    "prep": {
+      "title": "File:Making Kottu 1.jpg",
+      "artist": "Chamal N",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Making_Kottu_1.jpg"
+    }
+  },
+  "parippu": {
+    "dish": {
+      "title": "File:Dal curry (4465754997).jpg",
+      "artist": "David Pursehouse from Kawasaki, Japan",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dal_curry_%284465754997%29.jpg"
+    },
+    "prep": {
+      "title": "File:Gongura Pachdi Tempering ingredients.jpg",
+      "artist": "PaletteOfZaaiqa",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gongura_Pachdi_Tempering_ingredients.jpg"
+    }
+  },
+  "ambulthiyal": {
+    "dish": {
+      "title": "File:Fish curry cooked with pot tamarind.jpg",
+      "artist": "Chuchappa",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fish_curry_cooked_with_pot_tamarind.jpg"
+    },
+    "prep": {
+      "title": "File:Srilankan fish curry.JPG",
+      "artist": "Jkwinter",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Srilankan_fish_curry.JPG"
+    }
+  },
+  "devilledchicken": {
+    "dish": {
+      "title": "File:Chicken Manchurian (Hyderabad Style) (11960049916).jpg",
+      "artist": "Abhinaba Basu from Redmond, United States",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Chicken_Manchurian_%28Hyderabad_Style%29_%2811960049916%29.jpg"
+    },
+    "prep": {
+      "title": "File:Ginger chicken (3168342551).jpg",
+      "artist": "Ginny",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ginger_chicken_%283168342551%29.jpg"
+    }
+  },
+  "egghoppers": {
+    "dish": {
+      "title": "File:Sri Lanka-Egg hoppers.jpg",
+      "artist": "Ji-Elle",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sri_Lanka-Egg_hoppers.jpg"
+    },
+    "prep": {
+      "title": "File:Egg hoppers sri Lanka.jpg",
+      "artist": "Z thomas",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Egg_hoppers_sri_Lanka.jpg"
+    }
+  },
+  "poloscurry": {
+    "dish": {
+      "title": "File:Jackfruit curry with rice.jpg",
+      "artist": "Vis M",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Jackfruit_curry_with_rice.jpg"
+    },
+    "prep": {
+      "title": "File:Jackfruit for curry 02.jpg",
+      "artist": "Vis M",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jackfruit_for_curry_02.jpg"
+    }
+  },
+  "watalappan": {
+    "dish": {
+      "title": "File:Watalappan (23091763250).jpg",
+      "artist": "Ankur P from Pune, India",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Watalappan_%2823091763250%29.jpg"
+    },
+    "prep": {
+      "title": "File:Watalappan-Sri Lanka.jpg",
+      "artist": "Ji-Elle",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Watalappan-Sri_Lanka.jpg"
+    }
+  }
+}

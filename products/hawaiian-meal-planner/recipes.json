@@ -1,0 +1,293 @@
+{
+  "recipes": [
+    {
+      "id": "hulihuli",
+      "title": "Huli Huli Chicken",
+      "time": "35 min (+2 hr marinate)",
+      "level": "Easy",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A rotisserie of whole huli huli chickens turning over an open flame, glazed dark and glossy",
+      "prep_label": "Prep — Grilling and Basting",
+      "prep_alt": "A cook grilling huli huli chicken pieces on a smoky open-air barbecue, basting with sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, boneless, skin-on", "150g", "300g", "450g", "600g"],
+           ["Soy sauce (shoyu)", "30ml", "60ml", "90ml", "120ml"],
+           ["Ketchup", "20g", "40g", "60g", "80g"],
+           ["Brown sugar", "20g", "40g", "60g", "80g"],
+           ["Pineapple juice (canned)", "30ml", "60ml", "90ml", "120ml"],
+           ["Fresh ginger, grated", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Rice vinegar", "5ml", "10ml", "15ml", "20ml"],
+           ["Toasted sesame oil", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Pineapple rings, fresh or canned, for grilling", "1", "2", "3", "4"],
+           ["Green onion, sliced, to garnish", "5g", "10g", "15g", "20g"],
+           ["Steamed white rice, to serve", "50g", "100g", "150g", "200g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Whisk the soy sauce, ketchup, brown sugar, pineapple juice, ginger, garlic, and rice vinegar together in a bowl — this is the huli huli marinade.",
+           "Pour half the marinade over the chicken thighs in a bowl or zip-top bag (save the other half, unused, in the fridge for basting). Marinate at least 2 hours, or overnight for a deeper glaze.",
+           "Ask an adult to help pour the reserved (unused) marinade into a small saucepan and bring it to a full boil for 2 minutes — this makes it safe to use as a basting sauce later.",
+           "Ask an adult to help heat a grill or grill pan to medium-high. Season the chicken lightly with salt and pepper, then place skin-side down.",
+           "Grill 6–7 minutes per side, basting generously with the boiled sauce each time you flip, until the chicken is deeply caramelized in spots and cooked through with no pink at the bone.",
+           "In the last few minutes, grill the pineapple rings alongside the chicken, about 2 minutes per side, until they pick up dark grill marks and smell caramelized.",
+           "Let the chicken rest 5 minutes, then brush with a little sesame oil for shine.",
+           "Serve over rice with the grilled pineapple and a scatter of sliced green onion."
+         ]}
+      ]
+    },
+    {
+      "id": "poke",
+      "title": "Ahi Poke Bowl",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A bowl of ruby-red cubed ahi tuna poke tossed with green onion, served over rice",
+      "prep_label": "Prep — Sashimi-Grade Ahi, Ready to Cube",
+      "prep_alt": "Fresh raw ahi tuna fillets on trays at a fish market, ready for cubing",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Sushi-grade ahi tuna, cubed", "120g", "240g", "360g", "480g"],
+           ["Soy sauce (shoyu)", "15ml", "30ml", "45ml", "60ml"],
+           ["Toasted sesame oil", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Sweet onion (Maui or Vidalia), thinly sliced", "20g", "40g", "60g", "80g"],
+           ["Green onion, sliced", "5g", "10g", "15g", "20g"],
+           ["Macadamia nuts, chopped (sub for inamona)", "10g", "20g", "30g", "40g"],
+           ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Chili flakes or fresh chili, optional", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Sea salt", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help cube the ahi tuna into even ¾-inch pieces with a sharp knife — using very fresh, sashimi-grade fish is essential since this is served raw.",
+           "In a medium bowl, combine the cubed tuna, soy sauce, and sesame oil. Toss gently — over-mixing can bruise the fish.",
+           "Add the sliced sweet onion, green onion, macadamia nuts, sesame seeds, chili flakes, and a pinch of sea salt.",
+           "Fold everything together gently just until coated and glossy.",
+           "Cover and chill 15–30 minutes to let the flavors meld — don't skip this, it's what makes the shoyu taste settle into the fish instead of sitting on top.",
+           "Scoop the steamed rice into bowls and top generously with the poke, spooning any extra sauce from the bottom of the bowl over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "katsu",
+      "title": "Hawaiian-Style Chicken Katsu",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "Golden, crispy panko-crusted chicken katsu strips sliced and stacked on a plate",
+      "prep_label": "Prep — Frying the Cutlets",
+      "prep_alt": "Breaded chicken cutlets frying golden brown in a pan of oil",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs or breast, boneless, pounded thin", "150g", "300g", "450g", "600g"],
+           ["All-purpose flour", "15g", "30g", "45g", "60g"],
+           ["Egg, beaten", "1", "2", "3", "4"],
+           ["Panko breadcrumbs", "30g", "60g", "90g", "120g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Vegetable oil, for frying", "60ml", "120ml", "180ml", "240ml"],
+           ["Ketchup (for katsu sauce)", "15g", "30g", "45g", "60g"],
+           ["Worcestershire sauce (for katsu sauce)", "10ml", "20ml", "30ml", "40ml"],
+           ["Soy sauce (for katsu sauce)", "5ml", "10ml", "15ml", "20ml"],
+           ["Brown sugar (for katsu sauce)", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Shredded cabbage, to serve", "40g", "80g", "120g", "160g"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Put the chicken between two sheets of plastic wrap and ask an adult to help pound it to an even ½cm thickness with a mallet or rolling pin.",
+           "Season both sides with salt and pepper. Set up 3 shallow bowls: flour in one, the beaten egg in another, and the panko in the third.",
+           "Dip the chicken in the flour (shake off the extra), then the egg, then press firmly into the panko so the crumbs stick all over in a thick, even coat.",
+           "Ask an adult to help heat the vegetable oil in a large pan over medium-high heat until it looks shimmery.",
+           "Fry the chicken 3–4 minutes per side, until deep golden brown and crisp, and cooked through with no pink in the middle. Drain on paper towels.",
+           "While the chicken fries, whisk the ketchup, Worcestershire, soy sauce, and brown sugar together in a small bowl until smooth — that's your katsu sauce.",
+           "Slice the chicken into strips and serve over rice with a pile of shredded cabbage and the katsu sauce drizzled generously over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "kalbi",
+      "title": "Kalbi (Hawaiian-Style Korean Short Ribs)",
+      "time": "30 min (+2 hr marinate, overnight is best)",
+      "level": "Medium",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "Flanken-cut short ribs grilling with charred edges, the cross-cut rib bones visible along the strip",
+      "prep_label": "Prep — Marinating the Short Ribs",
+      "prep_alt": "Thin raw flanken-cut beef short rib slices arranged on a plate, ready to marinate",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef short ribs, flanken-cut (cross-cut, ⅓-inch)", "200g", "400g", "600g", "800g"],
+           ["Soy sauce", "30ml", "60ml", "90ml", "120ml"],
+           ["Brown sugar", "20g", "40g", "60g", "80g"],
+           ["Toasted sesame oil", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Garlic cloves, minced", "2", "4", "6", "8"],
+           ["Fresh ginger, grated", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Green onion, chopped", "10g", "20g", "30g", "40g"],
+           ["Asian pear or kiwi, grated (tenderizer)", "20g", "40g", "60g", "80g"],
+           ["Toasted sesame seeds", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, whisk together the soy sauce, brown sugar, sesame oil, garlic, ginger, green onion, grated Asian pear or kiwi, and black pepper.",
+           "Add the short ribs and turn to coat completely in the marinade. Cover and refrigerate at least 2 hours — overnight gives the best flavor and the most tender meat, since the fruit enzymes have more time to work.",
+           "Ask an adult to help heat a grill or grill pan to high heat.",
+           "Shake off the excess marinade and grill the ribs 2–3 minutes per side, until the edges are charred and caramelized and the meat is cooked through.",
+           "Let the ribs rest 2–3 minutes, then sprinkle with toasted sesame seeds.",
+           "Serve hot over steamed rice."
+         ]}
+      ]
+    },
+    {
+      "id": "garlicshrimp",
+      "title": "Garlic Shrimp (Shrimp Truck Style)",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A plate-lunch tray of shell-on garlic butter shrimp with two scoops of rice, salad, and pineapple",
+      "prep_label": "Prep — Sizzling in Garlic Butter",
+      "prep_alt": "Shrimp sizzling in a pool of garlic oil in a wide pan",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Large shrimp, shell-on, deveined", "150g", "300g", "450g", "600g"],
+           ["All-purpose flour", "15g", "30g", "45g", "60g"],
+           ["Paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Butter", "20g", "40g", "60g", "80g"],
+           ["Garlic cloves, minced (yes, really this much)", "4", "8", "12", "16"],
+           ["Lemon juice", "5ml", "10ml", "15ml", "20ml"],
+           ["Green onion or parsley, chopped, to garnish", "5g", "10g", "15g", "20g"],
+           ["Steamed white rice, to serve (two-scoop plate-lunch style)", "100g", "200g", "300g", "400g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Toss the shrimp with the flour, paprika, salt, and black pepper until lightly coated all over.",
+           "Ask an adult to help melt the butter in a large skillet over low heat. Add the garlic and cook gently for 2–3 minutes, stirring often, until fragrant and just turning golden — don't let it brown or it turns bitter.",
+           "Raise the heat to medium-high and add the shrimp in a single layer.",
+           "Cook 2–3 minutes per side, until the shrimp turn pink and curl into a \"C\" shape and the garlic bits are toasty and golden.",
+           "Squeeze the lemon juice over the top and give the pan a quick toss to pick up all the garlic butter from the bottom.",
+           "Serve immediately over rice, spooning the garlicky pan butter generously over everything, and sprinkle with green onion or parsley."
+         ]}
+      ]
+    },
+    {
+      "id": "locomoco",
+      "title": "Loco Moco",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "A plate of rice topped with a beef patty, brown gravy, and a fried egg with a runny yolk",
+      "prep_label": "Prep — Frying the Egg",
+      "prep_alt": "A single fried egg, sunny-side up, with a glossy runny yolk",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Ground beef (80/20)", "120g", "240g", "360g", "480g"],
+           ["Worcestershire sauce", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Butter", "10g", "20g", "30g", "40g"],
+           ["Cremini or button mushrooms, sliced (optional)", "20g", "40g", "60g", "80g"],
+           ["All-purpose flour (for gravy)", "10g", "20g", "30g", "40g"],
+           ["Beef broth", "100ml", "200ml", "300ml", "400ml"],
+           ["Soy sauce (for gravy)", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Eggs, fried, to top", "1", "2", "3", "4"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"],
+           ["Green onion, sliced, to garnish", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, mix the ground beef with the Worcestershire sauce, salt, and pepper. Shape into a patty about ¾-inch thick.",
+           "Ask an adult to help melt half the butter in a skillet over medium-high heat. Cook the patty 3–4 minutes per side, until well-browned outside and cooked through with no pink in the middle. Set aside on a plate.",
+           "In the same skillet, melt the remaining butter and add the mushrooms (if using). Cook 2–3 minutes until softened.",
+           "Sprinkle the flour over the mushrooms and stir for 1 minute to cook off the raw flour taste.",
+           "Slowly whisk in the beef broth and soy sauce, scraping up any browned bits from the bottom of the pan — those bits are pure flavor. Simmer 3–5 minutes, stirring often, until the gravy thickens enough to coat the back of a spoon.",
+           "In a separate small pan, fry the eggs sunny-side up in a touch of butter until the whites are set but the yolks are still runny.",
+           "To assemble: mound the rice on a plate, top with the beef patty, ladle the gravy generously over everything, and finish with the fried egg on top.",
+           "Sprinkle with sliced green onion and serve immediately, while the yolk is still runny."
+         ]}
+      ]
+    },
+    {
+      "id": "kaluapork",
+      "title": "Kalua Pork",
+      "time": "20 min prep + 4–5 hr slow roast (mostly hands-off)",
+      "level": "Medium",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "A pan of smoky, fall-apart shredded kalua pork tossed in its own juices",
+      "prep_label": "Prep — Salting the Pork Shoulder",
+      "prep_alt": "A seasoned raw pork shoulder resting on a grill grate before slow roasting",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Pork shoulder, boneless", "200g", "400g", "600g", "800g"],
+           ["Hawaiian sea salt or coarse sea salt", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Liquid smoke", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Water", "60ml", "120ml", "180ml", "240ml"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Shredded cabbage, to serve", "50g", "100g", "150g", "200g"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help preheat the oven to 300°F (150°C).",
+           "Pierce the pork shoulder all over with a fork or the tip of a knife — this helps the salt and smoke flavor penetrate deep into the meat.",
+           "Rub the pork all over with the Hawaiian salt and black pepper, pressing it into every side.",
+           "Place the pork in a Dutch oven or heavy covered roasting pan. Mix the liquid smoke with the water and pour it around (not over) the pork.",
+           "Cover tightly and roast 4–5 hours, until the pork is deeply browned outside and shreds apart easily when you pull it with two forks.",
+           "Remove the pork and shred it directly in the pot, tossing it well in the smoky, salty pan juices left behind — this is what seasons every bite instead of just the outside.",
+           "Pile the shredded pork over rice with a side of shredded cabbage, and spoon a little extra pan juice over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "haupia",
+      "title": "Haupia (Bonus)",
+      "time": "15 min (+3 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "Silky white coconut milk pudding cut into neat rectangular squares on a plate",
+      "prep_label": "Prep — Chilled and Cut into Squares",
+      "prep_alt": "Coconut milk pudding cut into cubes and coated with shredded coconut",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Full-fat coconut milk", "250ml", "500ml", "750ml", "1000ml"],
+           ["Granulated sugar", "30g", "60g", "90g", "120g"],
+           ["Cornstarch", "25g", "50g", "75g", "100g"],
+           ["Water (to mix cornstarch)", "30ml", "60ml", "90ml", "120ml"],
+           ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a small bowl, whisk the cornstarch and water together until completely smooth, with no lumps — this is your slurry.",
+           "Ask an adult to help warm the coconut milk, sugar, and salt in a saucepan over medium heat, stirring until the sugar dissolves. Don't let it boil yet.",
+           "Slowly whisk the cornstarch slurry into the warm coconut milk, whisking constantly so it doesn't clump.",
+           "Keep whisking over medium heat for 5–8 minutes, until the mixture thickens enough to thickly coat the back of a spoon, like a pudding.",
+           "Pour into an 8x8-inch pan and smooth the top with a spatula.",
+           "Let cool at room temperature, then refrigerate at least 3 hours, until fully set and firm.",
+           "Cut into small squares to serve, wiping the knife clean between cuts for neat edges."
+         ]}
+      ]
+    }
+  ]
+}

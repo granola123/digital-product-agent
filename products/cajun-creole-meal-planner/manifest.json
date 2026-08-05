@@ -1,0 +1,114 @@
+{
+  "gumbo": {
+    "dish": {
+      "title": "File:Seafood gumbo and sausage at Davids Kitchen 168, Acme Oyster House, New Orleans.jpg",
+      "artist": "David Reber from Kansas City, USA",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Seafood_gumbo_and_sausage_at_Davids_Kitchen_168%2C_Acme_Oyster_House%2C_New_Orleans.jpg"
+    },
+    "prep": {
+      "title": "File:Roux!.jpg",
+      "artist": "Megs",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Roux%21.jpg"
+    }
+  },
+  "jambalaya": {
+    "dish": {
+      "title": "File:Chicken and andouille sausage jambalaya.jpg",
+      "artist": "Jessica Rossi",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Chicken_and_andouille_sausage_jambalaya.jpg"
+    },
+    "prep": {
+      "title": "File:Cooking Jambalaya near done.JPG",
+      "artist": "Amadscientist",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Cooking_Jambalaya_near_done.JPG"
+    }
+  },
+  "redbeans": {
+    "dish": {
+      "title": "File:Red beans and rice - Dooky Chase's, New Orleans.jpg",
+      "artist": "Kent Wang",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Red_beans_and_rice_-_Dooky_Chase%27s%2C_New_Orleans.jpg"
+    },
+    "prep": {
+      "title": "File:Red beans cooking in a pot, New Orleans.jpg",
+      "artist": "Infrogmation of New Orleans",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Red_beans_cooking_in_a_pot%2C_New_Orleans.jpg"
+    }
+  },
+  "catfish": {
+    "dish": {
+      "title": "File:Blackened Catfish at Arnaud's Remoulade.jpg",
+      "artist": "Gary J. Wood",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Blackened_Catfish_at_Arnaud%27s_Remoulade.jpg"
+    },
+    "prep": {
+      "title": "File:K-Paul-4 (6093643264).jpg",
+      "artist": "Tulane Public Relations",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/K-Paul-4_%286093643264%29.jpg"
+    }
+  },
+  "etouffee": {
+    "dish": {
+      "title": "File:Mmm... shrimp etouffee - 7776779642.jpg",
+      "artist": "jeffreyw",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mmm..._shrimp_etouffee_-_7776779642.jpg"
+    },
+    "prep": {
+      "title": "File:Shrimp and Crab Étouffée plate lunch Dwyers Cafe HRoe 2013.jpg",
+      "artist": "Heironymous Rowe",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Shrimp_and_Crab_%C3%89touff%C3%A9e_plate_lunch_Dwyers_Cafe_HRoe_2013.jpg"
+    }
+  },
+  "poboy": {
+    "dish": {
+      "title": "File:Domilise's fried shrimp po boy.jpg",
+      "artist": "Krista",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Domilise%27s_fried_shrimp_po_boy.jpg"
+    },
+    "prep": {
+      "title": "File:Fried shrimp po-boy sandwich with fries and beer.jpg",
+      "artist": "Infrogmation of New Orleans",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fried_shrimp_po-boy_sandwich_with_fries_and_beer.jpg"
+    }
+  },
+  "dirtyrice": {
+    "dish": {
+      "title": "File:Dirty rice.jpg",
+      "artist": "pointnshoot",
+      "license": "CC BY 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Dirty_rice.jpg"
+    },
+    "prep": {
+      "title": "File:Pork chop and dirty rice.jpg",
+      "artist": "Kent Wang",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pork_chop_and_dirty_rice.jpg"
+    }
+  },
+  "beignets": {
+    "dish": {
+      "title": "File:Beignets served at Café du Monde, New Orleans, April 2014.jpg",
+      "artist": "Sunnya343",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Beignets_served_at_Caf%C3%A9_du_Monde%2C_New_Orleans%2C_April_2014.jpg"
+    },
+    "prep": {
+      "title": "File:CafeDuMondeBegniets21July06.jpg",
+      "artist": "Infrogmation",
+      "license": "CC BY 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/CafeDuMondeBegniets21July06.jpg"
+    }
+  }
+}

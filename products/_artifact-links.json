@@ -31,7 +31,8 @@
     "egyptian": { "preview": "https://claude.ai/code/artifact/3ce79697-f90d-492a-919a-bad5a2149c14", "price_research": "https://claude.ai/code/artifact/7f5d5bca-5289-42fe-ad62-47b11117eaa1", "needs_reverify": false },
     "nordic": { "preview": "https://claude.ai/code/artifact/23567bf3-b767-4173-a616-9b7c9f60abdc", "price_research": "https://claude.ai/code/artifact/3623abdc-5f97-4e55-9b50-ebb9bd2eb26c", "needs_reverify": false },
     "west-african": { "preview": "https://claude.ai/code/artifact/6b1c4e59-6937-49c8-a590-4afa67638061", "price_research": "https://claude.ai/code/artifact/84e01b89-f4bd-4704-aae8-4d49169a85a0", "needs_reverify": false },
-    "south-african": { "preview": "https://claude.ai/code/artifact/7a3e6cef-56fa-4ded-89cc-b4c7cc49a1e3", "price_research": "https://claude.ai/code/artifact/f8bdfc6d-5827-4262-b8c2-7faa0e168941", "needs_reverify": false }
+    "south-african": { "preview": "https://claude.ai/code/artifact/7a3e6cef-56fa-4ded-89cc-b4c7cc49a1e3", "price_research": "https://claude.ai/code/artifact/f8bdfc6d-5827-4262-b8c2-7faa0e168941", "needs_reverify": false },
+    "russian": { "preview": "https://claude.ai/code/artifact/716202d0-1baa-4b52-a5f7-00be3d66ba54", "price_research": "https://claude.ai/code/artifact/efd5495c-85fe-48c3-ad06-573d3335db02", "needs_reverify": false }
   },
   "bundle_level": {
     "consolidated_pricing_worksheet_7country_legacy": "https://claude.ai/code/artifact/4fb718c8-585c-4997-8a92-e3efc71b9eda",

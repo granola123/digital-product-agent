@@ -1,0 +1,114 @@
+{
+  "stroganoff": {
+    "dish": {
+      "title": "File:Beef Stroganoff on Pasta.jpg",
+      "artist": "jgodsey",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Beef_Stroganoff_on_Pasta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Sautéed baby bella (portobello) mushrooms.jpg",
+      "artist": "Cheryl from River City (Richmond), VA, USA",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Saut%C3%A9ed_baby_bella_%28portobello%29_mushrooms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "borscht": {
+    "dish": {
+      "title": "File:Borscht with bread.jpg",
+      "artist": "Juerg Vollmer from Zürich, Schweiz",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Borscht_with_bread.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Chopped Beets (3426015456).jpg",
+      "artist": "Vegan Feast Catering",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Chopped_Beets_%283426015456%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "kotleti": {
+    "dish": {
+      "title": "File:Pozharskaya kotleta.jpg",
+      "artist": "A.Savin",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pozharskaya_kotleta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Cutlet 2.jpg",
+      "artist": "Ayshamarjana",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Cutlet_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "pelmeni": {
+    "dish": {
+      "title": "File:Pelmeni.jpg",
+      "artist": "Bernd Hutschenreuther",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pelmeni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Домашние пельмени.jpg",
+      "artist": "Shsdesu",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B5%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "golubtsy": {
+    "dish": {
+      "title": "File:Freshly cooked stuffed cabbage rolls in a pot on a wooden table ready to be served with a spoon.jpg",
+      "artist": "Shixart1985",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Freshly_cooked_stuffed_cabbage_rolls_in_a_pot_on_a_wooden_table_ready_to_be_served_with_a_spoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Stuffed cabbage stage5.jpg",
+      "artist": "gran",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Stuffed_cabbage_stage5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "plov": {
+    "dish": {
+      "title": "File:Plov with lamb and carrots in ceramic bowl.jpg",
+      "artist": "Postovalov",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Plov_with_lamb_and_carrots_in_ceramic_bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Central Asian Plov Centre in Tashkent.jpg",
+      "artist": "Adam Harangozó",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Central_Asian_Plov_Centre_in_Tashkent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "solyanka": {
+    "dish": {
+      "title": "File:Soljanka with olives.jpg",
+      "artist": "Roland Geider (Ogre)",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Soljanka_with_olives.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:European ham and Salami Sausage plate.jpg",
+      "artist": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/European_ham_and_Salami_Sausage_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "syrniki": {
+    "dish": {
+      "title": "File:Сирники.JPG",
+      "artist": "The original uploader was Turzh at Ukrainian Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/%D0%A1%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%D0%B8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Syrniki6.jpg",
+      "artist": "Tatyana Morozyuk, color processing by Off-shell",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Syrniki6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

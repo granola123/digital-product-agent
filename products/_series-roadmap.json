@@ -34,7 +34,7 @@
     { "id": "srilankan", "name": "Sri Lanka", "flag": "🇱🇰", "status": "done" },
     { "id": "cajun-creole", "name": "Louisiana Cajun & Creole", "flag": "🇺🇸", "status": "done" },
     { "id": "hawaiian", "name": "Hawaii", "flag": "🌺", "status": "done" },
-    { "id": "russian", "name": "Russia", "flag": "🇷🇺", "status": "pending" },
+    { "id": "russian", "name": "Russia", "flag": "🇷🇺", "status": "done" },
     { "id": "nordic", "name": "Scandinavia (Nordic)", "flag": "🇸🇪", "status": "done" },
     { "id": "egyptian", "name": "Egypt", "flag": "🇪🇬", "status": "done" },
     { "id": "west-african", "name": "West Africa (Nigeria/Ghana)", "flag": "🇳🇬", "status": "done" },

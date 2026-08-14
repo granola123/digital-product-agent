@@ -1,0 +1,329 @@
+{
+  "recipes": [
+    {
+      "id": "stroganoff",
+      "title": "Beef Stroganoff",
+      "time": "35 min",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "A plate of beef stroganoff, tender beef strips in a creamy mushroom sauce, served over egg noodles",
+      "prep_label": "Prep — Sautéing the Mushrooms",
+      "prep_alt": "Sliced cremini mushrooms sautéing in a hot skillet, about to be folded into the sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef sirloin or tenderloin, thinly sliced against the grain", "150g", "300g", "450g", "600g"],
+           ["Onion, thinly sliced", "25g", "50g", "75g", "100g"],
+           ["Cremini or button mushrooms, sliced", "50g", "100g", "150g", "200g"],
+           ["Butter", "10g", "20g", "30g", "40g"],
+           ["Vegetable oil, for searing", "5ml", "10ml", "15ml", "20ml"],
+           ["All-purpose flour", "5g", "10g", "15g", "20g"],
+           ["Beef broth", "60ml", "120ml", "180ml", "240ml"],
+           ["Sour cream", "40g", "80g", "120g", "160g"],
+           ["Prepared or Dijon mustard", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Tomato paste, optional", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Fresh dill or parsley, chopped, to garnish", "5g", "10g", "15g", "20g"],
+           ["Egg noodles or mashed potato, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Slice the beef against the grain into thin strips, about ¼ inch thick.",
+           "Season with salt and pepper. Heat half the butter (or the oil) in a wide skillet over high heat and sear the beef in batches, 1–2 minutes, until browned outside but still rare inside. Remove and set aside.",
+           "Add the remaining butter to the same pan and cook the onion 3–4 minutes until softened, then add the mushrooms and cook 4–5 minutes until golden.",
+           "Sprinkle the flour over the onion and mushrooms and stir for 1 minute to cook off the raw flour taste.",
+           "Whisk in the beef broth, scraping up any browned bits from the bottom of the pan — those bits are pure flavor. Simmer 2–3 minutes until slightly thickened.",
+           "Reduce the heat to low and stir in the sour cream, mustard, and tomato paste (if using). Don't let it boil once the sour cream is in, or the sauce can separate.",
+           "Return the beef and any resting juices to the pan and warm through for 1–2 minutes — just enough to heat it, not to overcook it further.",
+           "Taste and adjust the seasoning, then serve over egg noodles or mashed potato, scattered with dill or parsley."
+         ]}
+      ]
+    },
+    {
+      "id": "borscht",
+      "title": "Borscht with Beef",
+      "time": "1 hr (30 min active)",
+      "level": "Easy-Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "A bowl of deep ruby-red borscht with beef and cabbage, topped with a swirl of sour cream and fresh dill",
+      "prep_label": "Prep — Dicing the Beets for the Zazharka",
+      "prep_alt": "Raw beets diced alongside onion and root vegetables, ready to go into the zazharka",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef stew meat or short ribs, cubed", "150g", "300g", "450g", "600g"],
+           ["Beef broth or water", "500ml", "1000ml", "1500ml", "2000ml"],
+           ["Beets, peeled and grated", "100g", "200g", "300g", "400g"],
+           ["Green cabbage, shredded", "80g", "160g", "240g", "320g"],
+           ["Potato, peeled and cubed", "80g", "160g", "240g", "320g"],
+           ["Carrot, grated", "40g", "80g", "120g", "160g"],
+           ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+           ["Tomato paste", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Vegetable oil or butter, for the zazharka", "10ml", "20ml", "30ml", "40ml"],
+           ["White vinegar or lemon juice", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Fresh dill, chopped, to garnish", "5g", "10g", "15g", "20g"],
+           ["Sour cream, to serve", "20g", "40g", "60g", "80g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a pot, bring the beef and broth (or water) to a boil, skimming off any foam. Reduce the heat, add the bay leaf, and simmer, covered, 45–60 minutes, until the beef is tender.",
+           "Meanwhile, heat the oil or butter in a skillet and sauté the onion and carrot 4–5 minutes until softened. Add the grated beets and cook another 5 minutes, then stir in the tomato paste and vinegar (or lemon juice) — the acid helps the beets keep their deep red color. Set this \"zazharka\" aside.",
+           "Once the beef is tender, add the potato to the pot and simmer 10 minutes.",
+           "Add the shredded cabbage and simmer 5–7 minutes until just tender.",
+           "Stir in the beet-and-vegetable zazharka and the minced garlic. Simmer another 10 minutes to let the flavors meld.",
+           "Season with salt and pepper to taste, and remove the bay leaf.",
+           "Ladle into bowls and top each with a generous spoonful of sour cream and a scatter of fresh dill."
+         ]}
+      ]
+    },
+    {
+      "id": "kotleti",
+      "title": "Chicken Kotleti",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.5,
+      "gold": false,
+      "dish_alt": "A golden-brown oval chicken kotleti patty plated with mashed potato and a creamy mushroom sauce",
+      "prep_label": "Prep — Freshly Fried Kotleti",
+      "prep_alt": "A stack of golden fried kotleti patties resting on a plate before serving",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Ground chicken", "150g", "300g", "450g", "600g"],
+           ["White sandwich bread, crusts removed", "15g", "30g", "45g", "60g"],
+           ["Milk, to soak the bread", "30ml", "60ml", "90ml", "120ml"],
+           ["Onion, grated or finely minced", "20g", "40g", "60g", "80g"],
+           ["Egg", "1", "1", "2", "2"],
+           ["Butter, for sautéing the onion", "10g", "20g", "30g", "40g"],
+           ["Breadcrumbs, for coating", "20g", "40g", "60g", "80g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Fresh dill, chopped, optional", "5g", "10g", "15g", "20g"],
+           ["Vegetable oil, for frying", "30ml", "60ml", "90ml", "120ml"],
+           ["Mashed potato or buckwheat, to serve", "100g", "200g", "300g", "400g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Tear the bread into pieces and soak in the milk for 5 minutes until softened, then mash into a paste.",
+           "Melt a little butter in a pan and sauté the grated onion 3–4 minutes until soft and just golden. Let it cool slightly.",
+           "In a bowl, combine the ground chicken, soaked bread, sautéed onion, egg, dill, salt, and pepper. Mix gently with your hands just until combined — overmixing makes the kotleti tough.",
+           "Wet your hands and shape the mixture into oval patties, about ¾ inch thick. Chill 10–15 minutes to firm up.",
+           "Dredge each patty lightly in the breadcrumbs.",
+           "Heat the vegetable oil in a skillet over medium-high heat. Sear the kotleti 3–4 minutes per side until deep golden brown.",
+           "Reduce the heat to low, cover the pan, and steam 5–7 minutes more, until cooked through with no pink in the center.",
+           "Serve hot with mashed potato or buckwheat."
+         ]}
+      ]
+    },
+    {
+      "id": "pelmeni",
+      "title": "Pelmeni",
+      "time": "1 hr 15 min (mostly shaping)",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A white bowl of boiled pelmeni topped with sour cream and fresh chives, served with a spoon",
+      "prep_label": "Prep — Pinching the Dumplings Shut",
+      "prep_alt": "Hands folding and pinching raw pelmeni dumplings closed on a floured board",
+      "sections": [
+        {"type": "table", "heading": "Ingredients — Dough",
+         "rows": [
+           ["All-purpose flour", "60g", "120g", "180g", "240g"],
+           ["Egg", "1", "1", "2", "2"],
+           ["Water, cold", "30ml", "60ml", "90ml", "120ml"],
+           ["Salt", "pinch", "¼ tsp", "¼ tsp", "½ tsp"]
+         ]},
+        {"type": "table", "heading": "Ingredients — Filling & To Serve",
+         "rows": [
+           ["Ground beef-and-pork mix", "120g", "240g", "360g", "480g"],
+           ["Onion, grated", "20g", "40g", "60g", "80g"],
+           ["Garlic clove, minced", "½", "1", "1½", "2"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Water or beef broth, to loosen the filling", "10ml", "20ml", "30ml", "40ml"],
+           ["Butter, melted, to toss", "5g", "10g", "15g", "20g"],
+           ["Sour cream, to serve", "20g", "40g", "60g", "80g"],
+           ["White vinegar, optional", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Make the dough: whisk the egg, water, and salt together, then gradually work in the flour until a firm, smooth dough forms. Knead 5 minutes, wrap, and rest 20–30 minutes at room temperature.",
+           "Make the filling: combine the ground meat, grated onion, garlic, salt, pepper, and a splash of water or broth (this keeps the filling juicy as it cooks). Mix well. The filling goes in raw and cooks inside the dumpling.",
+           "Roll the rested dough out thin (about 1.5mm) on a floured surface. Cut into circles about 6cm across with a glass or cutter.",
+           "Place a small spoonful of filling in the center of each circle. Fold in half into a half-moon and pinch the edges tightly closed, pressing out any air. Bring the two pointed corners together and pinch to seal into the classic pelmeni shape.",
+           "Bring a large pot of well-salted water (or broth) to a boil. Drop in the pelmeni in batches so they don't crowd.",
+           "Cook 5–7 minutes, until they float to the surface and the dough is tender and the filling is cooked through.",
+           "Drain and toss with the melted butter to keep them from sticking together.",
+           "Serve hot with sour cream, and a splash of vinegar on the side if you like it tangy."
+         ]}
+      ]
+    },
+    {
+      "id": "golubtsy",
+      "title": "Golubtsy",
+      "time": "1 hr 15 min",
+      "level": "Medium",
+      "tilt": -0.8,
+      "gold": false,
+      "dish_alt": "Stuffed cabbage rolls resting in a pot of savory sauce, ready to serve with a spoon",
+      "prep_label": "Prep — Rolling the Cabbage Leaves",
+      "prep_alt": "A blanched cabbage leaf being filled and rolled around a meat-and-rice filling",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Green cabbage leaves, whole", "4", "8", "12", "16"],
+           ["Ground beef-and-pork mix", "150g", "300g", "450g", "600g"],
+           ["Long-grain rice, uncooked", "30g", "60g", "90g", "120g"],
+           ["Onion, finely chopped (for filling)", "30g", "60g", "90g", "120g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Egg", "1", "1", "2", "2"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Canned crushed tomatoes", "100g", "200g", "300g", "400g"],
+           ["Tomato paste", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+           ["Onion, finely chopped (for sauce)", "20g", "40g", "60g", "80g"],
+           ["Carrot, grated (for sauce)", "20g", "40g", "60g", "80g"],
+           ["Vegetable oil", "10ml", "20ml", "30ml", "40ml"],
+           ["Beef broth or water", "100ml", "200ml", "300ml", "400ml"],
+           ["Sour cream, to serve", "20g", "40g", "60g", "80g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Core the cabbage and blanch the whole head (or individual leaves) in boiling salted water 3–5 minutes, until the leaves are pliable. Cool, then trim the thick center rib from each leaf so it rolls easily.",
+           "Par-cook the rice in boiling water for 5 minutes (it will finish cooking inside the rolls) and drain.",
+           "In a bowl, combine the ground meat, par-cooked rice, chopped onion, garlic, egg, salt, and pepper.",
+           "Place a spoonful of filling near the base of each cabbage leaf. Fold the sides in and roll up tightly, like a burrito.",
+           "For the sauce, heat the oil in a pan and sauté the onion and carrot 4–5 minutes until softened. Stir in the crushed tomatoes, tomato paste, and broth.",
+           "Arrange the cabbage rolls seam-side down in a large pot or deep pan. Pour the sauce over the top.",
+           "Cover and simmer 40–45 minutes over low heat, until the cabbage is tender and the filling is cooked through.",
+           "Serve hot with a spoonful of sour cream and some of the sauce from the pan."
+         ]}
+      ]
+    },
+    {
+      "id": "plov",
+      "title": "Plov",
+      "time": "1 hr 10 min",
+      "level": "Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A bowl of golden plov rice pilaf piled high with tender lamb and carrots",
+      "prep_label": "Prep — Preparing the Meat and Garnishes",
+      "prep_alt": "Hands preparing meat and garnishes for plov at a bustling Central Asian kitchen counter",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef chuck or lamb shoulder, cubed", "150g", "300g", "450g", "600g"],
+           ["Long-grain rice, rinsed until water runs clear", "75g", "150g", "225g", "300g"],
+           ["Carrots, cut into thin matchsticks", "75g", "150g", "225g", "300g"],
+           ["Onion, thinly sliced", "50g", "100g", "150g", "200g"],
+           ["Garlic cloves, unpeeled (or a whole small head)", "3", "6", "9", "12"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground coriander", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Water or beef broth", "150ml", "300ml", "450ml", "600ml"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Heat the oil in a heavy pot (a Dutch oven works well) over high heat. Sear the beef or lamb in batches until deeply browned on all sides. Remove and set aside.",
+           "In the same pot, cook the onion 4–5 minutes until golden, then add the carrots and cook another 5 minutes until softened.",
+           "Return the meat to the pot along with the cumin, coriander, paprika, bay leaf, salt, and pepper. Stir to coat.",
+           "Pour in the water or broth, nestle the garlic cloves (or whole head) into the pot, cover, and simmer 30–40 minutes, until the meat is tender — this braised base is called the \"zirvak.\"",
+           "Remove the garlic and set aside. Rinse the rice one more time and scatter it evenly over the meat mixture — do not stir it in.",
+           "Add a little extra hot water if needed so the liquid sits about 1cm above the rice. Nestle the garlic back on top.",
+           "Cover tightly and simmer on low heat 20–25 minutes, without stirring, until the rice has absorbed the liquid and is tender.",
+           "Let it rest off the heat, covered, for 10 minutes, then fluff gently with a fork, folding the rice and meat together, and serve with the whole garlic cloves squeezed over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "solyanka",
+      "title": "Solyanka",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": -1.1,
+      "gold": false,
+      "dish_alt": "A bowl of solyanka soup with sliced smoked sausage, olives, and a lemon slice floating on top",
+      "prep_label": "Prep — Cured Meats for the Pot",
+      "prep_alt": "Sliced smoked sausage, salami, and ham arranged on a plate with olives and capers, ready for the pot",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef broth", "400ml", "800ml", "1200ml", "1600ml"],
+           ["Smoked sausage or kielbasa, sliced", "40g", "80g", "120g", "160g"],
+           ["Ham or smoked pork, cubed", "40g", "80g", "120g", "160g"],
+           ["Bacon, chopped", "20g", "40g", "60g", "80g"],
+           ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+           ["Dill pickles, diced", "30g", "60g", "90g", "120g"],
+           ["Pickle brine", "15ml", "30ml", "45ml", "60ml"],
+           ["Tomato paste", "½ tbsp", "1 tbsp", "1½ tbsp", "2 tbsp"],
+           ["Green or black olives, sliced", "15g", "30g", "45g", "60g"],
+           ["Capers, optional", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Vegetable oil", "5ml", "10ml", "15ml", "20ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Salt (taste before adding — cured meats are salty)", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Lemon slices, to serve", "1", "2", "3", "4"],
+           ["Sour cream, to serve", "15g", "30g", "45g", "60g"],
+           ["Fresh dill or parsley, to garnish", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Heat the oil in a pot and sauté the onion 3–4 minutes until softened.",
+           "Add the tomato paste and cook 1 minute, stirring, to deepen its flavor.",
+           "Pour in the beef broth and bring to a simmer. Add the bay leaf.",
+           "Add the smoked sausage, ham, and bacon and simmer 10 minutes to let the smoky flavor infuse the broth.",
+           "Stir in the diced pickles, pickle brine, olives, and capers (if using). Simmer another 10–15 minutes.",
+           "Taste before adding extra salt — the cured meats, pickles, and brine are already salty. Season with pepper.",
+           "Ladle into bowls, float a lemon slice on top of each, and serve with a dollop of sour cream and a scatter of fresh dill or parsley."
+         ]}
+      ]
+    },
+    {
+      "id": "syrniki",
+      "title": "Syrniki (Bonus)",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "Golden-brown syrniki farmer's-cheese pancakes stacked on a plate with sour cream and jam",
+      "prep_label": "Prep — Fresh Off the Pan",
+      "prep_alt": "A plate of golden syrniki patties fresh from the pan, served with a bowl of red berry sauce",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Farmer's cheese or tvorog (sub ricotta or well-drained cottage cheese)", "125g", "250g", "375g", "500g"],
+           ["Egg", "1", "1", "2", "2"],
+           ["Granulated sugar", "10g", "20g", "30g", "40g"],
+           ["All-purpose flour, plus extra for shaping", "20g", "40g", "60g", "80g"],
+           ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+           ["Butter, for frying", "10g", "20g", "30g", "40g"],
+           ["Sour cream, to serve", "20g", "40g", "60g", "80g"],
+           ["Jam or honey, to serve", "15g", "30g", "45g", "60g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, mash the farmer's cheese with a fork until smooth (if using ricotta or cottage cheese, drain it well first — excess moisture makes the batter too wet to shape).",
+           "Mix in the egg, sugar, and a pinch of salt until combined.",
+           "Add the flour and mix just until a soft, slightly sticky dough forms — don't overwork it.",
+           "With floured hands, shape the mixture into small balls (about 2 tbsp each), then flatten gently into patties about ½ inch thick.",
+           "Melt the butter in a nonstick skillet over medium-low heat.",
+           "Fry the syrniki 3–4 minutes per side, until deep golden brown on the outside and cooked through in the center — keep the heat moderate so they cook through before the outside burns.",
+           "Drain briefly on paper towels.",
+           "Serve warm with a dollop of sour cream and a spoonful of jam or honey."
+         ]}
+      ]
+    }
+  ]
+}

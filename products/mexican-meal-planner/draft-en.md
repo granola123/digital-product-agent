@@ -42,6 +42,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | Ground cumin | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Dried oregano | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
+| Vegetable oil | 5ml | 10ml | 15ml | 20ml |
 | Fresh pineapple, diced | 30g | 60g | 90g | 120g |
 | White onion, diced | 20g | 40g | 60g | 80g |
 | Corn tortillas | 3 | 6 | 9 | 12 |
@@ -100,6 +101,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | White onion | 20g | 40g | 60g | 80g |
 | Dried oregano | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Bay leaf | ¼ | ½ | ¾ | 1 |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 | Shredded cabbage (garnish) | 20g | 40g | 60g | 80g |
 | Sliced radish (garnish) | 10g | 20g | 30g | 40g |
 | Lime wedges | 1 | 2 | 3 | 4 |
@@ -147,12 +149,14 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Chicken breast | 120g | 240g | 360g | 480g |
+| Vegetable oil | 5ml | 10ml | 15ml | 20ml |
 | White onion | 30g | 60g | 90g | 120g |
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | Roma tomatoes | 1 | 2 | 3 | 4 |
 | Chipotle peppers in adobo | ½ | 1 | 1½ | 2 |
 | Adobo sauce (from the can) | 5ml | 10ml | 15ml | 20ml |
 | Chicken stock | 30ml | 60ml | 90ml | 120ml |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 | Tostadas (or corn tortillas) | 2 | 4 | 6 | 8 |
 | Avocado | ¼ | ½ | ¾ | 1 |
 | Queso fresco, crumbled | 10g | 20g | 30g | 40g |
@@ -204,6 +208,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Roma tomato | ½ | 1 | 1½ | 2 |
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | White onion | 20g | 40g | 60g | 80g |
+| Vegetable oil | 5ml | 10ml | 15ml | 20ml |
 | Raisins | 5g | 10g | 15g | 20g |
 | Almonds (or peanuts) | 5g | 10g | 15g | 20g |
 | Sesame seeds | 5g | 10g | 15g | 20g |

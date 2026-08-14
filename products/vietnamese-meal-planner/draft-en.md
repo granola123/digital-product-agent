@@ -77,6 +77,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Rice vermicelli | 60g | 120g | 180g | 240g |
 | Lettuce | 20g | 40g | 60g | 80g |
 | Mixed herbs (mint, perilla, Thai basil) | 10g | 20g | 30g | 40g |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 | Pickled carrot & daikon (đồ chua) | 30g | 60g | 90g | 120g |
 | Nuoc cham (fish sauce, sugar, lime, water, garlic, chili) | 60ml | 120ml | 180ml | 240ml |
 
@@ -132,6 +133,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Sugar | 3g | 6g | 9g | 12g |
 | Garlic, minced | 1 | 2 | 3 | 4 |
 | Black pepper | pinch | ¼ tsp | ¼ tsp | ½ tsp |
+| Vegetable oil | 5ml | 10ml | 15ml | 20ml |
 | Butter | 5g | 10g | 15g | 20g |
 | Red onion, sliced | 20g | 40g | 60g | 80g |
 | Watercress (or lettuce) | 20g | 40g | 60g | 80g |
@@ -228,6 +230,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Rice paddy herb (ngò om), chopped | 3g | 6g | 9g | 12g |
 | Fish sauce | 15ml | 30ml | 45ml | 60ml |
 | Sugar | 8g | 16g | 24g | 32g |
+| Vegetable oil | 5ml | 10ml | 15ml | 20ml |
 | Garlic, minced | 1 | 2 | 3 | 4 |
 | Fried shallots (garnish) | 3g | 6g | 9g | 12g |
 | Thai chili, sliced | ¼ | ½ | ¾ | 1 |

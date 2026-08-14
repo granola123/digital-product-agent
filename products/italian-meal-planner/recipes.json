@@ -137,6 +137,8 @@
           ["Cannellini beans (canned, drained)", "50g", "100g", "150g", "200g"],
           ["Ditalini (small pasta)", "30g", "60g", "90g", "120g"],
           ["Vegetable stock", "300ml", "600ml", "900ml", "1200ml"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
           ["Basil pesto (for topping)", "5g", "10g", "15g", "20g"],
           ["Parmesan (grated)", "10g", "20g", "30g", "40g"],
           ["Olive oil", "10ml", "20ml", "30ml", "40ml"]
@@ -202,6 +204,8 @@
       "sections": [
         {"type": "table", "heading": "Ingredients by Serving", "rows": [
           ["Veal shanks (osso buco cut, ~300g each)", "1 piece", "2 pieces", "3 pieces", "4 pieces"],
+          ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"],
+          ["Black pepper", "pinch", "pinch", "¼ tsp", "¼ tsp"],
           ["All-purpose flour (for dredging)", "15g", "30g", "45g", "60g"],
           ["Onion", "30g", "60g", "90g", "120g"],
           ["Carrot", "30g", "60g", "90g", "120g"],

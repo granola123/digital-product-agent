@@ -1,0 +1,306 @@
+{
+  "recipes": [
+    {
+      "id": "koshari",
+      "title": "Koshari",
+      "time": "50 min",
+      "level": "Easy-Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "A bowl of koshari layered with rice, lentils, macaroni, and chickpeas, drenched in tomato sauce and topped with crispy fried onions",
+      "prep_label": "Prep — Crispy Fried Onions",
+      "prep_alt": "A small dish piled with thin, deep-golden crispy fried onion strands",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Brown or green lentils", "40g", "80g", "120g", "160g"],
+           ["Egyptian or long-grain rice", "50g", "100g", "150g", "200g"],
+           ["Ditalini pasta or small elbow macaroni", "40g", "80g", "120g", "160g"],
+           ["Canned chickpeas, drained", "40g", "80g", "120g", "160g"],
+           ["Yellow onion, thinly sliced (for frying)", "60g", "120g", "180g", "240g"],
+           ["Vegetable oil, for frying onions", "60ml", "120ml", "180ml", "240ml"],
+           ["Garlic cloves, minced (for tomato sauce)", "2", "4", "6", "8"],
+           ["Canned crushed tomatoes", "100g", "200g", "300g", "400g"],
+           ["Tomato paste", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["White vinegar, divided (sauce + dakka)", "2 tsp", "4 tsp", "2 Tbsp", "8 tsp"],
+           ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Chili flakes or hot sauce, to taste", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Extra garlic cloves, minced (for dakka sauce)", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Rinse the lentils and cook in a pot of water until just tender, about 20 minutes; drain.",
+           "Meanwhile, cook the rice until fluffy and boil the pasta in salted water until al dente; drain both.",
+           "Ask an adult to help heat the vegetable oil in a skillet and fry the sliced onions, stirring often, until deep golden and crisp, 12–15 minutes. Lift onto paper towels and reserve the flavored oil.",
+           "In a splash of the reserved oil, sauté the garlic for 30 seconds, then add the crushed tomatoes, tomato paste, half the vinegar, cumin, chili flakes, salt, and pepper. Simmer 10 minutes until thickened into a sauce.",
+           "Warm the chickpeas through, either in the tomato sauce or in a splash of water.",
+           "Stir the remaining vinegar and the extra minced garlic into a small dish with a splash of water — this is the dakka (garlic-vinegar sauce) served on the side.",
+           "To serve: mound the rice and lentils together in a bowl, scatter the macaroni and chickpeas over the top, ladle the tomato sauce generously over everything, and finish with a heap of crispy onions.",
+           "Pass the dakka sauce and extra chili flakes or hot sauce at the table so everyone can adjust the tang and heat themselves."
+         ]}
+      ]
+    },
+    {
+      "id": "molokhia",
+      "title": "Molokhia",
+      "time": "1 hr",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "A clay bowl of dark green molokhia stew with a spoon resting in it",
+      "prep_label": "Prep — Fresh Jute Mallow Leaves",
+      "prep_alt": "Fresh green jute mallow (molokhia) leaves growing on the plant before chopping",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Bone-in chicken thighs", "150g", "300g", "450g", "600g"],
+           ["Water or chicken broth", "300ml", "600ml", "900ml", "1200ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Ground cardamom, optional", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+           ["Frozen or fresh molokhia (jute mallow), finely chopped", "100g", "200g", "300g", "400g"],
+           ["Garlic cloves, minced (for tasha)", "3", "6", "9", "12"],
+           ["Ground coriander", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Ghee or oil (for tasha)", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help simmer the chicken thighs in the water with the bay leaf (and cardamom, if using) until cooked through and the broth is flavorful, 30–40 minutes.",
+           "Lift out the chicken; strain and reserve the broth. If you like, pan-sear or broil the chicken skin-side up until crisp before serving.",
+           "Bring the reserved broth back to a gentle simmer and stir in the finely chopped molokhia. Simmer 10–15 minutes, stirring occasionally, until silky — keep it at a gentle simmer, not a hard boil, or the leaves turn stringy.",
+           "Make the tasha: in a small pan, heat the ghee, add the minced garlic and ground coriander, and fry 1–2 minutes until fragrant and just turning golden — don't let it brown or it turns bitter.",
+           "Immediately stir the sizzling tasha into the molokhia pot — it should sizzle loudly when it hits the broth. This step is what gives molokhia its signature flavor, so don't skip it.",
+           "Season with salt to taste.",
+           "Serve hot, ladled over rice, with the chicken alongside."
+         ]}
+      ]
+    },
+    {
+      "id": "kofta",
+      "title": "Kofta",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.5,
+      "gold": false,
+      "dish_alt": "Two grilled minced-meat kofta kebabs served on a plate with grilled vegetables",
+      "prep_label": "Prep — Grilling Over Charcoal",
+      "prep_alt": "A cook grilling skewers over a large glowing charcoal grill at night",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Ground beef (80/20)", "150g", "300g", "450g", "600g"],
+           ["Onion, finely grated and squeezed dry", "30g", "60g", "90g", "120g"],
+           ["Fresh parsley, finely chopped", "5g", "10g", "15g", "20g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground coriander", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground allspice", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, combine the ground beef, grated onion, parsley, garlic, cumin, coriander, allspice, salt, and pepper.",
+           "Knead and mix well with your hands for a minute or two, until the mixture feels sticky and well combined — this helps the kofta hold together on the grill.",
+           "Mold the mixture into torpedo shapes around skewers (or into oval patties if you don't have skewers). Chill 15 minutes if you have time.",
+           "Ask an adult to help heat a grill or grill pan to medium-high.",
+           "Grill the kofta 3–4 minutes per side, until well-charred outside and cooked through with no pink in the middle.",
+           "Rest 2–3 minutes, then serve hot over rice."
+         ]}
+      ]
+    },
+    {
+      "id": "fattah",
+      "title": "Fattah",
+      "time": "45 min (+1–1.5 hr simmering the beef)",
+      "level": "Medium",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A glass dish of layered fattah with rice on the bottom and tender beef chunks on top",
+      "prep_label": "Prep — The Garlic Sauce",
+      "prep_alt": "A bowl of whipped garlic sauce, the kind of bold garlic flavor fattah is built on",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef chuck or stew meat, cubed", "150g", "300g", "450g", "600g"],
+           ["Water (to simmer beef)", "300ml", "600ml", "900ml", "1200ml"],
+           ["Bay leaf", "1", "1", "2", "2"],
+           ["Pita bread, torn into pieces", "1", "2", "3", "4"],
+           ["Vegetable oil (for toasting bread)", "15ml", "30ml", "45ml", "60ml"],
+           ["Steamed white rice, to serve", "75g", "150g", "225g", "300g"],
+           ["Garlic cloves, minced (for sauce)", "3", "6", "9", "12"],
+           ["Ghee or butter", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["White vinegar", "1 Tbsp", "2 Tbsp", "3 Tbsp", "4 Tbsp"],
+           ["Beef broth (reserved from cooking meat)", "100ml", "200ml", "300ml", "400ml"],
+           ["Tomato passata or crushed tomatoes", "50g", "100g", "150g", "200g"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Ask an adult to help simmer the beef in the water with the bay leaf and a pinch of salt until fork-tender, 1–1.5 hours (a pressure cooker cuts this down significantly). Reserve the broth.",
+           "Toast or fry the torn pita pieces in the vegetable oil until deeply golden and crisp. Scatter over the base of a serving platter.",
+           "Make the garlic sauce: melt the ghee in a small pan, add the garlic, and cook until fragrant, about 1 minute. Carefully pour in the vinegar (it will sizzle hard), then add about half of the reserved beef broth. Simmer 2 minutes.",
+           "Split the sauce in half: keep one half as the plain garlic-vinegar sauce. To the other half, stir in the tomato passata and simmer 3–4 minutes to make the tomato sauce.",
+           "To assemble: spoon the garlic-vinegar sauce evenly over the toasted bread, top with the warm rice, and arrange the beef pieces on top.",
+           "Drizzle the tomato sauce over everything and serve immediately, while the bread underneath is still a little crisp."
+         ]}
+      ]
+    },
+    {
+      "id": "mahshi",
+      "title": "Mahshi (Stuffed Zucchini & Grape Leaves)",
+      "time": "1 hr 15 min",
+      "level": "Medium",
+      "tilt": -0.8,
+      "gold": false,
+      "dish_alt": "A plate of stuffed zucchini (kousa mahshi) piled together, filled with herbed rice",
+      "prep_label": "Prep — Rolling the Grape Leaves",
+      "prep_alt": "A single rolled stuffed grape leaf on a wooden board, freshly rolled",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Zucchini, cored (or fresh/jarred grape leaves, or a mix)", "2", "4", "6", "8"],
+           ["Short-grain or Egyptian rice", "60g", "120g", "180g", "240g"],
+           ["Tomato, finely diced", "40g", "80g", "120g", "160g"],
+           ["Fresh parsley, chopped", "5g", "10g", "15g", "20g"],
+           ["Fresh dill, chopped", "5g", "10g", "15g", "20g"],
+           ["Fresh mint, chopped", "2g", "4g", "6g", "8g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground coriander", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Canned crushed tomatoes (for braising liquid)", "150ml", "300ml", "450ml", "600ml"],
+           ["Water", "150ml", "300ml", "450ml", "600ml"],
+           ["Lemon juice", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Core the zucchini with an apple corer or thin knife, keeping the shell intact; save the scooped-out flesh for another use.",
+           "In a bowl, mix the rice with the diced tomato, parsley, dill, mint, garlic, cumin, coriander, olive oil, salt, and pepper.",
+           "Loosely stuff the zucchini shells with the rice mixture, leaving a little room at the top since the rice will expand as it cooks.",
+           "If using grape leaves: lay a leaf flat, veiny side up, spoon a little filling near the stem end, fold in the sides, and roll up snugly into a small log.",
+           "Arrange the stuffed zucchini and/or grape leaf rolls snugly, seam-side down, in a wide pot.",
+           "Whisk the crushed tomatoes, water, and lemon juice together and pour over the mahshi until mostly submerged.",
+           "Cover and simmer gently over low heat 45–60 minutes, until the rice is tender and the zucchini is soft when pierced with a knife.",
+           "Serve warm, spooning a little of the cooking liquid over the top."
+         ]}
+      ]
+    },
+    {
+      "id": "shawarma",
+      "title": "Egyptian-Style Chicken Shawarma",
+      "time": "30 min (+2 hr marinate, overnight is best)",
+      "level": "Easy-Medium",
+      "tilt": 0.6,
+      "gold": true,
+      "dish_alt": "A platter of shredded chicken shawarma with pita bread and dipping sauces",
+      "prep_label": "Prep — Roasting on the Spit",
+      "prep_alt": "Shawarma meat stacked and roasting on a vertical rotisserie spit",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, boneless", "150g", "300g", "450g", "600g"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Lemon juice", "15ml", "30ml", "45ml", "60ml"],
+           ["White vinegar", "1 tsp", "2 tsp", "1 Tbsp", "4 tsp"],
+           ["Garlic cloves, minced", "2", "4", "6", "8"],
+           ["Ground cumin", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Ground coriander", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+           ["Ground turmeric", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Ground cardamom", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Pita bread, to serve", "1", "2", "3", "4"],
+           ["Tahini or prepared garlic sauce, to serve", "15g", "30g", "45g", "60g"],
+           ["Pickled vegetables, to serve, optional", "20g", "40g", "60g", "80g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Whisk together the olive oil, lemon juice, vinegar, garlic, cumin, coriander, paprika, turmeric, cardamom, salt, and pepper.",
+           "Coat the chicken thighs thoroughly in the marinade. Cover and refrigerate at least 2 hours — overnight develops the most flavor.",
+           "Ask an adult to help heat a grill pan or skillet over medium-high heat.",
+           "Cook the chicken 5–6 minutes per side, until deeply browned in spots and cooked through with no pink inside.",
+           "Rest 5 minutes, then slice thinly against the grain — this mimics the shaved texture of a spit.",
+           "Pile onto warm pita with tahini or garlic sauce and pickled vegetables."
+         ]}
+      ]
+    },
+    {
+      "id": "ful",
+      "title": "Ful Medames",
+      "time": "20 min",
+      "level": "Easy",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "A plate of ful medames with pita bread, boiled eggs, olives, and fresh vegetables",
+      "prep_label": "Prep — A Cairo Breakfast Table",
+      "prep_alt": "A breakfast table in Cairo with tea, sugar, and a bowl of stewed fava beans",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Canned fava beans (ful), with their liquid", "200g", "400g", "600g", "800g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Lemon juice", "15ml", "30ml", "45ml", "60ml"],
+           ["Olive oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+           ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+           ["Tomato, diced, to top", "30g", "60g", "90g", "120g"],
+           ["Onion, finely diced, to top", "15g", "30g", "45g", "60g"],
+           ["Fresh parsley, chopped, to top", "5g", "10g", "15g", "20g"],
+           ["Eggs, boiled or fried", "1", "2", "3", "4"],
+           ["Pita bread, to serve", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Warm the fava beans with their liquid in a small pot over medium heat.",
+           "Stir in the garlic, lemon juice, cumin, salt, and pepper.",
+           "Use the back of a spoon to mash about half the beans against the side of the pot, leaving the rest whole — this gives ful its signature creamy-but-textured consistency.",
+           "Simmer 5 minutes, then spoon into a bowl.",
+           "Drizzle with olive oil and scatter the diced tomato, onion, and parsley over the top.",
+           "Serve hot with boiled or fried eggs and warm pita bread alongside."
+         ]}
+      ]
+    },
+    {
+      "id": "omali",
+      "title": "Om Ali (Bonus)",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A round baking dish of Om Ali topped with toasted nuts on one half",
+      "prep_label": "Prep — Before Baking",
+      "prep_alt": "The same Om Ali dish before baking, with pastry, nuts, and cream not yet browned",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Puff pastry sheet (or day-old croissants/bread), baked and crumbled", "60g", "120g", "180g", "240g"],
+           ["Whole milk", "150ml", "300ml", "450ml", "600ml"],
+           ["Heavy cream or evaporated milk", "50ml", "100ml", "150ml", "200ml"],
+           ["Granulated sugar", "20g", "40g", "60g", "80g"],
+           ["Ground cardamom", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+           ["Raisins", "10g", "20g", "30g", "40g"],
+           ["Unsalted pistachios or almonds, chopped", "10g", "20g", "30g", "40g"],
+           ["Shredded coconut", "5g", "10g", "15g", "20g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "If your pastry isn't pre-baked, ask an adult to help preheat the oven to 375°F (190°C) and bake the puff pastry until golden and crisp, 15–20 minutes. Let cool, then crumble into bite-sized pieces.",
+           "In a saucepan, warm the milk, cream, sugar, and cardamom over medium-low heat, stirring until the sugar dissolves. Don't let it boil.",
+           "In a baking dish, scatter half the crumbled pastry, then half the raisins, pistachios, and coconut. Repeat with the remaining pastry and toppings.",
+           "Pour the warm milk mixture evenly over the top — it should come about halfway up the dish.",
+           "Ask an adult to help broil for 2–3 minutes, until the top is golden brown in spots and bubbling at the edges — watch closely, since it browns fast.",
+           "Serve warm, straight from the baking dish."
+         ]}
+      ]
+    }
+  ]
+}

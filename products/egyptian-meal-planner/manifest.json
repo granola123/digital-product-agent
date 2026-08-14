@@ -1,0 +1,114 @@
+{
+  "koshari": {
+    "dish": {
+      "title": "File:Egyptian Koshari.jpg",
+      "artist": "Basma",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Egyptian_Koshari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Röstzwiebeln.jpg",
+      "artist": "Daniel Naber",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/R%C3%B6stzwiebeln.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "molokhia": {
+    "dish": {
+      "title": "File:Molokheya Egypt, 2012.JPG",
+      "artist": "Habib M'henni",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Molokheya_Egypt%2C_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Nalta jute.jpg",
+      "artist": "Colesman25",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nalta_jute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "kofta": {
+    "dish": {
+      "title": "File:Kafta shish kebab and grilled vegetables on salad - Cambridge, MA.jpg",
+      "artist": "Daderot",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kafta_shish_kebab_and_grilled_vegetables_on_salad_-_Cambridge%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Egyptian grilling tools.jpg",
+      "artist": "Reem Al-Kashif",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Egyptian_grilling_tools.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "fattah": {
+    "dish": {
+      "title": "File:Egyptian Fattah.jpg",
+      "artist": "Oh127",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Egyptian_Fattah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Toum (Lebanese Garlic Sauce).JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Toum_%28Lebanese_Garlic_Sauce%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "mahshi": {
+    "dish": {
+      "title": "File:Kousa Mahshi.jpg",
+      "artist": "Bazel",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kousa_Mahshi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Crimean Tatar sarma Stage 5.jpg",
+      "artist": "Oksana Makarenko (UA-Lora)",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Crimean_Tatar_sarma_Stage_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "shawarma": {
+    "dish": {
+      "title": "File:Chicken Shawarma Platter - Lavash 2025-02-10.jpg",
+      "artist": "Andy Li",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Chicken_Shawarma_Platter_-_Lavash_2025-02-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Chicken Shawarma preparation in Thiruvananthapuram.jpeg",
+      "artist": "Shagil Muzhappilangad",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Chicken_Shawarma_preparation_in_Thiruvananthapuram.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "ful": {
+    "dish": {
+      "title": "File:Ful Medames.JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ful_Medames.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Breakfast in Cairo.jpg",
+      "artist": "H. Hakan Atik",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Breakfast_in_Cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "omali": {
+    "dish": {
+      "title": "File:Umm Ali.JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Umm_Ali.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Umm Ali Before Baking.JPG",
+      "artist": "Miansari66",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Umm_Ali_Before_Baking.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

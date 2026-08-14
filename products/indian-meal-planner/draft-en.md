@@ -39,6 +39,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ginger-garlic paste | 5g | 10g | 15g | 20g |
 | Lemon juice | 5ml | 10ml | 15ml | 20ml |
 | Kashmiri chili powder | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Neutral oil | 1 tsp | 2 tsp | 3 tsp | 4 tsp |
 | Butter | 15g | 30g | 45g | 60g |
 | Onion, chopped | 40g | 80g | 120g | 160g |
 | Tomato passata | 100g | 200g | 300g | 400g |
@@ -47,6 +48,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Garam masala | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Kasuri methi (dried fenugreek leaves) | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Sugar | ½ tsp | 1 tsp | 1½ tsp | 2 tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 
 **Steps:**
 1. Cut the chicken thighs into bite-size pieces. In a bowl, mix the chicken with the yogurt, half the ginger-garlic paste, the lemon juice, and half the Kashmiri chili powder. Cover and marinate in the fridge at least 20 minutes — the longer it sits, even overnight, the more tender and flavorful the chicken gets.
@@ -66,6 +68,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Split yellow lentils (toor or moong dal) | 50g | 100g | 150g | 200g |
 | Water (for cooking dal) | 250ml | 500ml | 750ml | 1000ml |
 | Turmeric | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 | Ghee | 1 tsp | 2 tsp | 1 tbsp | 4 tsp |
 | Cumin seeds | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Asafoetida (hing) | pinch | ¼ tsp | ¼ tsp | ½ tsp |
@@ -94,6 +97,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ginger-garlic paste | 5g | 10g | 15g | 20g |
 | Red chili powder | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Garam masala | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 | Crispy fried onions | 15g | 30g | 45g | 60g |
 | Mint leaves, chopped | 5g | 10g | 15g | 20g |
 | Cilantro, chopped | 5g | 10g | 15g | 20g |
@@ -163,6 +167,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Heavy cream (gravy) | 15ml | 30ml | 45ml | 60ml |
 | Sugar | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Kasuri methi | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 
 **Steps:**
 1. Cut the paneer into bite-size cubes and the bell pepper and onion into similar-sized chunks, so everything cooks evenly.
@@ -182,6 +187,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | White fish fillet (tilapia, cod, or snapper) | 130g | 260g | 390g | 520g |
 | Coconut milk | 100ml | 200ml | 300ml | 400ml |
 | Turmeric | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 | Red chili powder | ½ tsp | 1 tsp | 1½ tsp | 2 tsp |
 | Ground coriander | ½ tsp | 1 tsp | 1½ tsp | 2 tsp |
 | Fenugreek seeds | pinch | ¼ tsp | ¼ tsp | ½ tsp |
@@ -221,6 +227,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Cloves | 2 | 4 | 6 | 8 |
 | Ghee | 1 tsp | 2 tsp | 3 tsp | 4 tsp |
 | Water | 100ml | 200ml | 300ml | 400ml |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 
 **Steps:**
 1. In a bowl, mix the lamb chunks with the yogurt, Kashmiri chili powder, and ground fennel. Cover and marinate at least 30 minutes (or up to overnight in the fridge) — Kashmiri chili powder is mild and mostly for color, so this dish won't be blazing hot.

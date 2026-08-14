@@ -37,6 +37,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Flour | 15g | 30g | 45g | 60g |
 | Egg | 1 | 2 | 2 | 3 |
 | Panko breadcrumbs | 50g | 100g | 150g | 200g |
+| Neutral oil (for shallow-frying, ~1cm deep) | as needed | as needed | as needed | as needed |
 | Shredded cabbage (to serve) | 60g | 120g | 180g | 240g |
 | Steamed rice | 150g | 300g | 450g | 600g |
 | Tonkatsu sauce | 15ml | 30ml | 45ml | 60ml |
@@ -58,6 +59,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Salmon fillet | 150g | 300g | 450g | 600g |
+| Neutral oil | 5ml | 10ml | 15ml | 20ml |
 | Soy sauce | 15ml | 30ml | 45ml | 60ml |
 | Mirin | 15ml | 30ml | 45ml | 60ml |
 | Sake (or water) | 15ml | 30ml | 45ml | 60ml |
@@ -90,12 +92,14 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 |---|---|---|---|---|
 | Ground pork | 100g | 200g | 300g | 400g |
 | Cabbage (finely chopped) | 60g | 120g | 180g | 240g |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 | Garlic (cloves, minced) | 1 | 2 | 3 | 4 |
 | Ginger (grated) | 1 tsp | 2 tsp | 1 tbsp | 4 tsp |
 | Green onion (minced) | 10g | 20g | 30g | 40g |
 | Soy sauce | 5ml | 10ml | 15ml | 20ml |
 | Sesame oil | 5ml | 10ml | 15ml | 20ml |
 | Gyoza wrappers | 8 | 16 | 24 | 32 |
+| Neutral oil (for pan-frying) | 5ml | 10ml | 15ml | 20ml |
 | Dipping: soy sauce | 15ml | 30ml | 45ml | 60ml |
 | Dipping: rice vinegar | 15ml | 30ml | 45ml | 60ml |
 
@@ -138,6 +142,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 ### 5. Japanese Chicken Curry Rice
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
+| Neutral oil | 5ml | 10ml | 15ml | 20ml |
 | Chicken thigh (bite-size) | 120g | 240g | 360g | 480g |
 | Onion (sliced) | 50g | 100g | 150g | 200g |
 | Carrot (chunks) | 40g | 80g | 120g | 160g |
@@ -162,6 +167,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Thinly sliced beef (ribeye/chuck) | 120g | 240g | 360g | 480g |
+| Neutral oil (or beef fat) | 5ml | 10ml | 15ml | 20ml |
 | Napa cabbage (chopped) | 80g | 160g | 240g | 320g |
 | Green onion (diagonal slices) | 30g | 60g | 90g | 120g |
 | Shiitake mushrooms (sliced) | 20g | 40g | 60g | 80g |

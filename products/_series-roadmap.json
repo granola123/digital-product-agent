@@ -37,8 +37,8 @@
     { "id": "russian", "name": "Russia", "flag": "🇷🇺", "status": "pending" },
     { "id": "nordic", "name": "Scandinavia (Nordic)", "flag": "🇸🇪", "status": "done" },
     { "id": "egyptian", "name": "Egypt", "flag": "🇪🇬", "status": "done" },
-    { "id": "west-african", "name": "West Africa (Nigeria/Ghana)", "flag": "🇳🇬", "status": "pending" },
-    { "id": "south-african", "name": "South Africa", "flag": "🇿🇦", "status": "pending" },
+    { "id": "west-african", "name": "West Africa (Nigeria/Ghana)", "flag": "🇳🇬", "status": "done" },
+    { "id": "south-african", "name": "South Africa", "flag": "🇿🇦", "status": "done" },
     { "id": "cuban", "name": "Cuba", "flag": "🇨🇺", "status": "pending" },
     { "id": "colombian", "name": "Colombia", "flag": "🇨🇴", "status": "pending" },
     { "id": "hungarian", "name": "Hungary", "flag": "🇭🇺", "status": "pending" }

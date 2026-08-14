@@ -1,0 +1,114 @@
+{
+  "kottbullar": {
+    "dish": {
+      "title": "File:Köttbullar - Swedish meatballs.jpg",
+      "artist": "Jonas Nordström",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/K%C3%B6ttbullar_-_Swedish_meatballs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Gehaktballen.jpg",
+      "artist": "Takeaway",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Gehaktballen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "salmon": {
+    "dish": {
+      "title": "File:Salmon with Dill Sauce (2466256513).jpg",
+      "artist": "Mack Male from Edmonton, AB, Canada",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Salmon_with_Dill_Sauce_%282466256513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Salmon Preparation Before Grilling.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Liat_Portal_for_Foodie_Disorder_-_Salmon_Preparation_Before_Grilling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "artsoppa": {
+    "dish": {
+      "title": "File:Pea soup in Loviisa.jpg",
+      "artist": "JIP",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pea_soup_in_Loviisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Yellow split peas.jpg",
+      "artist": "User:Nikkimaria",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Yellow_split_peas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "karjalanpaisti": {
+    "dish": {
+      "title": "File:Karelskastek1.jpg",
+      "artist": "Sari Moo",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Karelskastek1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Mirepoix on cutting board.jpg",
+      "artist": "Pigup",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mirepoix_on_cutting_board.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "frikadeller": {
+    "dish": {
+      "title": "File:Frikadeller med kartofler, brun sovs og salat (8927180853).jpg",
+      "artist": "cyclonebill from Copenhagen, Denmark",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frikadeller_med_kartofler%2C_brun_sovs_og_salat_%288927180853%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Rohe Frikadellen auf Schneidebrett-4502.jpg",
+      "artist": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Rohe_Frikadellen_auf_Schneidebrett-4502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "fiskekaker": {
+    "dish": {
+      "title": "File:Fish cakes-4.jpg",
+      "artist": "jules",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Fish_cakes-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Cod fillet.jpg",
+      "artist": "Tiia Monto",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Cod_fillet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "kaldolmar": {
+    "dish": {
+      "title": "File:Kåldolmar.jpg",
+      "artist": "Mx. Granger",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/K%C3%A5ldolmar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Liat Portal for Foodie Disorder - Stuffed cabbage before cooking.jpg",
+      "artist": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Liat_Portal_for_Foodie_Disorder_-_Stuffed_cabbage_before_cooking.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "kanelbullar": {
+    "dish": {
+      "title": "File:Cinnamon roll in Stockholm.jpg",
+      "artist": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cinnamon_roll_in_Stockholm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Unbaked cinnamon rolls.jpg",
+      "artist": "Shoodho",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Unbaked_cinnamon_rolls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

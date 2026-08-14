@@ -35,6 +35,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Chicken thighs & drumsticks, bone-in | 200g | 400g | 600g | 800g |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Bacon lardons (poitrine fumée) | 25g | 50g | 75g | 100g |
 | Pearl onions | 40g | 80g | 120g | 160g |
 | Cremini or button mushrooms | 50g | 100g | 150g | 200g |
@@ -79,6 +81,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Olive oil | 15ml | 30ml | 45ml | 60ml |
 | Herbes de Provence | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Bay leaf | ¼ | ½ | ¾ | 1 |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Fresh basil, torn | 2g | 4g | 6g | 8g |
 
 **Steps:**
@@ -99,6 +103,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Beef chuck, cubed | 150g | 300g | 450g | 600g |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Bacon lardons | 25g | 50g | 75g | 100g |
 | Carrot, chopped | 30g | 60g | 90g | 120g |
 | Onion, chopped | 30g | 60g | 90g | 120g |
@@ -142,6 +148,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Heavy cream | 60ml | 120ml | 180ml | 240ml |
 | Whole milk | 30ml | 60ml | 90ml | 120ml |
 | Nutmeg, ground | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Black pepper | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Preheat the oven to 190°C (375°F). Roll out the pie dough and fit it into a tart pan or pie dish, then prick the base all over with a fork.
@@ -160,6 +168,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Chicken thighs, bone-in, skin-on | 200g | 400g | 600g | 800g |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Onion, sliced | 30g | 60g | 90g | 120g |
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | Bell peppers (mixed), sliced | 40g | 80g | 120g | 160g |
@@ -197,6 +207,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Olive oil | 10ml | 20ml | 30ml | 40ml |
 | Red wine vinegar | 5ml | 10ml | 15ml | 20ml |
 | Dijon mustard | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 
 **Steps:**
 1. Boil the potatoes in salted water 12–15 minutes until fork-tender. Drain, cool slightly, and halve.
@@ -221,6 +233,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Whole milk | 60ml | 120ml | 180ml | 240ml |
 | Dijon mustard | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Nutmeg, ground | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Black pepper | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Make the béchamel: melt the butter in a small saucepan over medium heat, whisk in the flour, and cook 1 minute.

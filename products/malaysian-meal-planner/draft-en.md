@@ -84,6 +84,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Coconut milk | 80ml | 160ml | 240ml | 320ml |
 | Chicken stock or water | 100ml | 200ml | 300ml | 400ml |
 | Cooking oil | 10ml | 20ml | 30ml | 40ml |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 
 **Steps:**
 1. Mix the curry powder with the water to form a smooth paste.
@@ -134,6 +135,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Sugar | 5g | 10g | 15g | 20g |
 | Kaffir lime leaves, torn | 1 | 2 | 3 | 4 |
 | Cooking oil | 15ml | 30ml | 45ml | 60ml |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 
 **Steps:**
 1. Blend the soaked chilies, shallots, garlic, and belacan into a fine paste (a mortar and pestle gives the most authentic texture, but a food processor works fine).
@@ -157,6 +159,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Fresh yellow egg noodles (or rice vermicelli) | 80g | 160g | 240g | 320g |
 | Bean sprouts | 20g | 40g | 60g | 80g |
 | Cooking oil | 10ml | 20ml | 30ml | 40ml |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Sambal belacan, for garnish | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 
 **Steps:**
@@ -173,6 +176,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Chicken thigh or leg quarters, bone-in | 200g | 400g | 600g | 800g |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ginger, sliced | 10g | 20g | 30g | 40g |
 | Scallions | 1 | 2 | 3 | 4 |
 | Garlic, minced (for rice) | 1 clove | 2 cloves | 3 cloves | 4 cloves |

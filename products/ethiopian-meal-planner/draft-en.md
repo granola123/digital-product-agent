@@ -44,6 +44,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Tomato paste | 5g | 10g | 15g | 20g |
 | Vegetable oil or niter kibbeh | 10ml | 20ml | 30ml | 40ml |
 | Vegetable stock or water | 200ml | 400ml | 600ml | 800ml |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Warm the oil (or niter kibbeh) in a pot over medium heat. Add the onion and cook 8–10 minutes, stirring, until soft and golden.
@@ -58,6 +59,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Beef sirloin, cut into thin strips | 130g | 260g | 390g | 520g |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Black pepper | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 | Onion, sliced | 30g | 60g | 90g | 120g |
 | Green bell pepper or jalapeño, sliced | ¼ | ½ | ¾ | 1 |
 | Garlic clove, minced | ½ | 1 | 1½ | 2 |
@@ -86,6 +89,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Berbere spice blend | ½ tsp | 1 tsp | 1½ tsp | 2 tsp |
 | Vegetable oil | 10ml | 20ml | 30ml | 40ml |
 | Water | 200ml | 400ml | 600ml | 800ml |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Heat the oil in a saucepan over medium heat. Add the onion and cook 5 minutes until soft and translucent.
@@ -109,6 +113,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ground cumin | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Vegetable oil | 10ml | 20ml | 30ml | 40ml |
 | Water | 30ml | 60ml | 90ml | 120ml |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Heat the oil in a wide pan or pot over medium heat. Add the onion, garlic, and ginger, cooking 3–4 minutes until softened.
@@ -130,6 +135,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Tomato paste | 10g | 20g | 30g | 40g |
 | Chicken stock or water | 60ml | 120ml | 180ml | 240ml |
 | Hard-boiled eggs | 1 | 2 | 3 | 4 |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Melt the niter kibbeh (or butter) in a heavy pot over low heat. Add the red onion, cover, and cook 20–25 minutes, stirring every few minutes, until deeply softened and jammy. (Traditional versions cook the onions even longer — this is the weeknight version, but low and slow is still the whole point of the dish, so don't rush this step.)
@@ -144,6 +150,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Beef stew meat (chuck), cubed | 150g | 300g | 450g | 600g |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Black pepper | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 | Red onion, finely diced | 60g | 120g | 180g | 240g |
 | Garlic clove, minced | 1 | 2 | 3 | 4 |
 | Ginger, grated | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
@@ -172,6 +180,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Vegetable oil or niter kibbeh | 10ml | 20ml | 30ml | 40ml |
 | Water or stock | 30ml | 60ml | 90ml | 120ml |
 | Ground cumin (optional) | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Salt | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
 
 **Steps:**
 1. Heat the oil in a large pot over medium heat. Add the onion, garlic, and ginger, cooking 8–10 minutes, stirring occasionally, until deeply softened.
@@ -191,6 +200,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Warm water | 150ml | 300ml | 450ml | 600ml |
 | Apple cider vinegar | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Baking soda | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Vegetable oil or niter kibbeh | 10ml | 20ml | 30ml | 40ml |
 
 **Steps:**
 1. Whisk the teff flour, all-purpose flour, yeast, and salt together in a large bowl.

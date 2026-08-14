@@ -44,6 +44,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Chicken stock or water | 60ml | 120ml | 180ml | 240ml |
 | Preserved lemon, quartered | ¼ | ½ | ¾ | 1 |
 | Green or violet olives | 20g | 40g | 60g | 80g |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 | Cilantro & parsley, chopped | 5g | 10g | 15g | 20g |
 
 **Steps:**
@@ -64,6 +65,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Crushed tomatoes | 60g | 120g | 180g | 240g |
 | Onion, finely chopped | 20g | 40g | 60g | 80g |
 | Celery, finely chopped | 10g | 20g | 30g | 40g |
+| Olive oil | 5ml | 10ml | 15ml | 20ml |
 | Fresh ginger, grated | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Ground black pepper | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ground turmeric | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
@@ -71,6 +73,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Saffron threads | pinch | pinch | 2 pinches | 2 pinches |
 | All-purpose flour (for tedouira) | 5g | 10g | 15g | 20g |
 | Water | 250ml | 500ml | 750ml | 1000ml |
+| Salt | pinch | pinch | ⅛ tsp | ¼ tsp |
 | Cilantro & parsley, chopped | 5g | 10g | 15g | 20g |
 | Vermicelli (optional) | 10g | 20g | 30g | 40g |
 | Lemon wedges (to serve) | ¼ | ½ | ¾ | 1 |
@@ -145,6 +148,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 |---|---|---|---|---|
 | Chicken thighs, bone-in or boneless | 140g | 280g | 420g | 560g |
 | Onion, sliced | 30g | 60g | 90g | 120g |
+| Olive oil | 5ml | 10ml | 15ml | 20ml |
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | Fresh ginger, grated | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Ground cinnamon | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
@@ -155,6 +159,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Chickpeas, cooked or canned (drained) | 40g | 80g | 120g | 160g |
 | Dried apricots | 20g | 40g | 60g | 80g |
 | Chicken stock or water | 80ml | 160ml | 240ml | 320ml |
+| Salt | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Toasted almonds (garnish) | 5g | 10g | 15g | 20g |
 | Cilantro, chopped | 5g | 10g | 15g | 20g |
 
@@ -181,6 +186,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Tomato, chopped | 20g | 40g | 60g | 80g |
 | Chickpeas, soaked or canned (drained) | 20g | 40g | 60g | 80g |
 | Onion, chopped | 20g | 40g | 60g | 80g |
+| Olive oil | 5ml | 10ml | 15ml | 20ml |
 | Ground ginger | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ground turmeric | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Saffron threads | pinch | pinch | 2 pinches | 2 pinches |
@@ -207,11 +213,13 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ingredient | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Lamb shoulder, cubed | 130g | 260g | 390g | 520g |
+| Olive oil | 5ml | 10ml | 15ml | 20ml |
 | Onion, sliced | 30g | 60g | 90g | 120g |
 | Garlic cloves | 1 | 2 | 3 | 4 |
 | Fresh ginger, grated | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Ground cinnamon | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Ground cumin | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
+| Salt | pinch | ¼ tsp | ¼ tsp | ½ tsp |
 | Saffron threads | pinch | pinch | 2 pinches | 2 pinches |
 | Honey | 5ml | 10ml | 15ml | 20ml |
 | Dried apricots | 20g | 40g | 60g | 80g |

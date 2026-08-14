@@ -47,6 +47,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Butter (for the tarka) | 5g | 10g | 15g | 20g |
 | Dried mint | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Pul biber (Aleppo pepper flakes) | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Lemon wedges | 1 | 2 | 3 | 4 |
 
 **Steps:**
@@ -71,6 +72,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Paprika | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Dried oregano | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Parsley, chopped | 5g | 10g | 15g | 20g |
+| Black pepper | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Olive oil (for searing) | 10ml | 20ml | 30ml | 40ml |
 
 **Rice Pilaf — Ingredients by Serving**
@@ -107,6 +109,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Red pepper paste (biber salçası) | 5g | 10g | 15g | 20g |
 | Parsley, chopped | 5g | 10g | 15g | 20g |
 | Ground cumin | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Olive oil (for frying) | 40ml | 80ml | 120ml | 160ml |
 | Water or stock | 30ml | 60ml | 90ml | 120ml |
 | Tomato slices (for topping) | 2 | 4 | 6 | 8 |
@@ -137,6 +141,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ground cumin | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Pul biber (Aleppo pepper flakes) | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Dried oregano | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
 | Bell pepper (for skewers) | ¼ | ½ | ¾ | 1 |
 | Cherry tomatoes (for skewers) | 2 | 4 | 6 | 8 |
 | Red onion, thinly sliced | 20g | 40g | 60g | 80g |
@@ -167,6 +172,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Bay leaf | ¼ | ½ | ¾ | 1 |
 | Dried oregano | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Dried mint | pinch | ⅛ tsp | ¼ tsp | ⅜ tsp |
+| Salt | pinch | ¼ tsp | ⅜ tsp | ½ tsp |
+| Black pepper | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Olive oil | 10ml | 20ml | 30ml | 40ml |
 | Water or stock | 60ml | 120ml | 180ml | 240ml |
 

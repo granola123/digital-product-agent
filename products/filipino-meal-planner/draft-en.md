@@ -95,6 +95,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Soy sauce | 10ml | 20ml | 30ml | 40ml |
 | Oyster sauce | 10ml | 20ml | 30ml | 40ml |
 | Cooking oil | 10ml | 20ml | 30ml | 40ml |
+| Black pepper | pinch | pinch | ¼ tsp | ¼ tsp |
 | Calamansi or lime wedges | 1 | 2 | 3 | 4 |
 
 **Steps:**
@@ -170,6 +171,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Bay leaf | ¼ | ½ | ¾ | 1 |
 | Quickmelt cheese, shredded (optional) | 15g | 30g | 45g | 60g |
 | Cooking oil | 10ml | 20ml | 30ml | 40ml |
+| Salt | pinch | pinch | ¼ tsp | ¼ tsp |
 
 **Steps:**
 1. Ask an adult to help heat the oil in a heavy pot over medium-high heat. Brown the beef in batches, 3–4 minutes per side, until deeply browned all over (don't crowd the pot, or the beef steams instead of browning). Set the beef aside.

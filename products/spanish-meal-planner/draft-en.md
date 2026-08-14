@@ -47,6 +47,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Sweet paprika | ⅛ tsp | ¼ tsp | ⅜ tsp | ½ tsp |
 | Frozen peas | 15g | 30g | 45g | 60g |
 | Lemon wedges | 1 | 2 | 3 | 4 |
+| Salt | to taste | to taste | to taste | to taste |
 
 **Steps:**
 1. Steep the saffron threads in 2 tablespoons of warm stock for 10 minutes to bloom their color and aroma.
@@ -143,6 +144,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Ground cumin | pinch | ⅛ tsp | ¼ tsp | ¼ tsp |
 | Sweet paprika | pinch | ⅛ tsp | ¼ tsp | ¼ tsp |
 | Olive oil (for frying meatballs) | 15ml | 30ml | 45ml | 60ml |
+| Salt and black pepper | to taste | to taste | to taste | to taste |
 | Onion, finely diced (for sauce) | 20g | 40g | 60g | 80g |
 | Garlic cloves (for sauce) | 1 | 2 | 3 | 4 |
 | Roasted red pepper, chopped | 15g | 30g | 45g | 60g |
@@ -203,6 +205,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings.
 | Cayenne pepper | pinch | ⅛ tsp | ¼ tsp | ¼ tsp |
 | Sherry vinegar | ¼ tsp | ½ tsp | ¾ tsp | 1 tsp |
 | Olive oil (for brava sauce) | 10ml | 20ml | 30ml | 40ml |
+| Salt | to taste | to taste | to taste | to taste |
 | Garlic clove (for alioli) | ½ | 1 | 1½ | 2 |
 | Egg yolk | ¼ | ½ | ¾ | 1 |
 | Olive oil (for alioli) | 30ml | 60ml | 90ml | 120ml |

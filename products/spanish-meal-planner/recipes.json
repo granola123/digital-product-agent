@@ -24,7 +24,8 @@
           ["Red bell pepper, sliced", "20g", "40g", "60g", "80g"],
           ["Sweet paprika", "⅛ tsp", "¼ tsp", "⅜ tsp", "½ tsp"],
           ["Frozen peas", "15g", "30g", "45g", "60g"],
-          ["Lemon wedges", "1", "2", "3", "4"]
+          ["Lemon wedges", "1", "2", "3", "4"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "steps", "heading": "Steps", "items": [
           "Steep the saffron threads in 2 tablespoons of warm stock for 10 minutes to bloom their color and aroma.",
@@ -164,7 +165,8 @@
           ["Fresh parsley, chopped", "3g", "6g", "9g", "12g"],
           ["Ground cumin", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
           ["Sweet paprika", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
-          ["Olive oil (for frying meatballs)", "15ml", "30ml", "45ml", "60ml"]
+          ["Olive oil (for frying meatballs)", "15ml", "30ml", "45ml", "60ml"],
+          ["Salt and black pepper", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "table", "heading": "Sauce Ingredients by Serving", "rows": [
           ["Onion, finely diced", "20g", "40g", "60g", "80g"],
@@ -247,7 +249,8 @@
           ["Smoked paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
           ["Cayenne pepper", "pinch", "⅛ tsp", "¼ tsp", "¼ tsp"],
           ["Sherry vinegar", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
-          ["Olive oil (for brava sauce)", "10ml", "20ml", "30ml", "40ml"]
+          ["Olive oil (for brava sauce)", "10ml", "20ml", "30ml", "40ml"],
+          ["Salt", "to taste", "to taste", "to taste", "to taste"]
         ]},
         {"type": "table", "heading": "Alioli Ingredients by Serving", "rows": [
           ["Garlic clove", "½", "1", "1½", "2"],

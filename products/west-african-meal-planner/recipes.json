@@ -1,0 +1,310 @@
+{
+  "recipes": [
+    {
+      "id": "jollof",
+      "title": "Jollof Rice with Chicken",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A plate of orange-red Jollof rice served with a piece of fried chicken",
+      "prep_label": "Prep — Frying the Tomato-Pepper Base",
+      "prep_alt": "A woman stirring a large pot of stew over an open fire",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in skin-on", "150g", "300g", "450g", "600g"],
+           ["Long-grain parboiled rice", "75g", "150g", "225g", "300g"],
+           ["Plum tomatoes, fresh or canned", "60g", "120g", "180g", "240g"],
+           ["Red bell pepper (tatashe)", "30g", "60g", "90g", "120g"],
+           ["Scotch bonnet pepper", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Onion, divided", "30g", "60g", "90g", "120g"],
+           ["Vegetable oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Tomato paste", "10g", "20g", "30g", "40g"],
+           ["Garlic cloves, minced", "1", "2", "3", "4"],
+           ["Fresh ginger, grated", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Curry powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Dried thyme", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Bay leaf", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Chicken stock", "90ml", "180ml", "270ml", "360ml"],
+           ["Bouillon cube", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Season the chicken thighs with salt, a pinch of curry powder, thyme, half the garlic, and half the ginger. Set aside.",
+           "Blend the tomatoes, red bell pepper, scotch bonnet, and half the onion (roughly chopped) into a smooth puree.",
+           "Ask an adult to help heat the oil in a heavy pot over medium-high heat. Brown the chicken thighs on both sides, about 4 minutes per side, then remove and set aside.",
+           "In the same pot, saut&eacute; the remaining onion (sliced) until soft, then stir in the tomato paste and fry 2 minutes.",
+           "Pour in the blended tomato-pepper puree. Fry over medium heat, stirring often, for 15&ndash;20 minutes until it thickens, darkens, and the oil visibly separates and rises to the top &mdash; this step is what gives real jollof its depth.",
+           "Stir in the remaining curry powder, thyme, bay leaf, bouillon cube, and stock. Return the chicken and simmer 15 minutes, until cooked through.",
+           "Lift the chicken onto a plate. Stir the rice into the sauce so every grain is coated; the liquid should just barely cover the rice.",
+           "Cover tightly (foil under the lid helps seal in steam) and cook over low heat 20&ndash;25 minutes without lifting the lid, until the rice is tender and the liquid is absorbed. Letting the very bottom catch slightly gives the classic smoky flavor.",
+           "Nestle the chicken back on top to reheat, fluff the rice gently with a fork, and serve."
+         ]}
+      ]
+    },
+    {
+      "id": "egusi",
+      "title": "Egusi Soup",
+      "time": "55 min",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A close-up bowl of thick green Egusi soup with visible melon-seed texture",
+      "prep_label": "Prep — Grinding the Egusi Seeds",
+      "prep_alt": "A hand feeding melon seeds into a manual grinder",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Goat meat or beef, cubed", "100g", "200g", "300g", "400g"],
+           ["Ground egusi (melon seeds)", "60g", "120g", "180g", "240g"],
+           ["Red palm oil", "20ml", "40ml", "60ml", "80ml"],
+           ["Onion, chopped", "20g", "40g", "60g", "80g"],
+           ["Plum tomato/pepper, blended", "30g", "60g", "90g", "120g"],
+           ["Scotch bonnet pepper", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Ground crayfish, optional", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Dried fish or stockfish, optional", "15g", "30g", "45g", "60g"],
+           ["Stock or water", "120ml", "240ml", "360ml", "480ml"],
+           ["Fresh spinach, chopped", "40g", "80g", "120g", "160g"],
+           ["Bouillon cube", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Season the meat with a little chopped onion, salt, and the bouillon cube. Ask an adult to help boil it in water to cover until tender, 25&ndash;35 minutes. Reserve the cooking stock.",
+           "Mix the ground egusi with a splash of water or reserved stock to form a thick, scoopable paste.",
+           "Heat the palm oil in a pot over medium heat, add the remaining onion, and saut&eacute; until soft.",
+           "Stir in the blended tomato and scotch bonnet, and fry 5 minutes until slightly thickened.",
+           "Drop spoonfuls of the egusi paste into the pot, or stir it in smooth if you prefer &mdash; let it fry gently in the oil for 5 minutes to toast without burning.",
+           "Gradually pour in the reserved meat stock, stirring to loosen the egusi into a thick soup. Add the cooked meat, crayfish, and dried fish if using.",
+           "Simmer uncovered 15&ndash;20 minutes, stirring occasionally, until the egusi is fully cooked and a layer of oil floats on top.",
+           "Stir in the chopped spinach and simmer 5 more minutes until just wilted. Adjust salt to taste and serve hot with rice or pounded yam."
+         ]}
+      ]
+    },
+    {
+      "id": "suya",
+      "title": "Suya",
+      "time": "25 min (+15–30 min rest)",
+      "level": "Easy",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "Rows of raw beef skewers coated in reddish spice on a grill grate",
+      "prep_label": "Prep — Coating Skewers in Yaji Spice",
+      "prep_alt": "A hand pressing ground spice mix onto meat skewers at a market stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Beef sirloin or flank steak, thinly sliced", "150g", "300g", "450g", "600g"],
+           ["Roasted peanuts, ground", "30g", "60g", "90g", "120g"],
+           ["Cayenne pepper", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Paprika", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Ground ginger", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Garlic powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Onion powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Ground cloves", "pinch", "&frac18; tsp", "&frac14; tsp", "&frac14; tsp"],
+           ["Bouillon powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Vegetable oil, for basting", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+           ["Cabbage, sliced, to serve", "30g", "60g", "90g", "120g"],
+           ["Onion and tomato wedges, to serve", "20g", "40g", "60g", "80g"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Grind the roasted peanuts fairly fine &mdash; this is the base of the yaji spice.",
+           "Mix the ground peanuts with the cayenne, paprika, ginger, garlic powder, onion powder, cloves, bouillon powder, and salt until evenly combined.",
+           "Toss the sliced beef lightly with a little oil, then thread it onto skewers (soak wooden skewers in water first if using them).",
+           "Coat the skewers generously and evenly with the yaji spice mix, pressing it on with your fingers. Let rest at least 15&ndash;30 minutes.",
+           "Ask an adult to help heat a grill or grill pan to high heat.",
+           "Grill the skewers 2&ndash;4 minutes per side, basting lightly with oil, until charred at the edges and cooked to your liking.",
+           "Sprinkle a little extra yaji spice over the hot skewers right off the grill.",
+           "Serve with sliced cabbage, raw onion, and tomato wedges alongside."
+         ]}
+      ]
+    },
+    {
+      "id": "groundnut",
+      "title": "Nigerian Groundnut (Peanut) Soup with Chicken",
+      "time": "50 min",
+      "level": "Medium",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A white bowl of deep-orange peanut soup with chicken and a dumpling",
+      "prep_label": "Prep — Ground Peanut Paste",
+      "prep_alt": "Packaged cones of fresh ground peanut paste at a market",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Chicken thighs, bone-in", "150g", "300g", "450g", "600g"],
+           ["Raw peanuts, toasted and ground (or peanut butter)", "40g", "80g", "120g", "160g"],
+           ["Red palm oil", "15ml", "30ml", "45ml", "60ml"],
+           ["Onion, chopped", "20g", "40g", "60g", "80g"],
+           ["Plum tomato/pepper, blended", "30g", "60g", "90g", "120g"],
+           ["Scotch bonnet pepper", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Fresh ginger, grated", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Stock or water", "150ml", "300ml", "450ml", "600ml"],
+           ["Fresh spinach, chopped", "30g", "60g", "90g", "120g"],
+           ["Bouillon cube", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Season the chicken with a little onion, salt, and the bouillon cube. Ask an adult to help boil it in water to cover until just tender, about 20 minutes. Reserve the stock.",
+           "If starting from raw peanuts, toast them in a dry pan over medium heat, stirring constantly, until fragrant, then grind to a rough paste.",
+           "Heat the palm oil in a pot, add the onion, and saut&eacute; until soft. Stir in the blended tomato, scotch bonnet, ginger, and garlic, and fry 8&ndash;10 minutes until thickened.",
+           "Stir in the ground peanut paste (or peanut butter), mixing well and loosening it with a splash of reserved stock.",
+           "Gradually whisk in the rest of the reserved stock, a little at a time, until smooth with no lumps.",
+           "Add the chicken pieces, cover partially, and simmer over low heat 25&ndash;30 minutes, stirring occasionally, until the soup thickens and a thin layer of oil rises to the surface.",
+           "Stir in the chopped spinach and cook 5 more minutes.",
+           "Adjust seasoning and serve hot over rice or with a side of fufu."
+         ]}
+      ]
+    },
+    {
+      "id": "waakye",
+      "title": "Waakye",
+      "time": "45 min (beans soaked overnight)",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Waakye served on a banana leaf with egg, spaghetti, and stew",
+      "prep_label": "Prep — Dried Black-Eyed Peas",
+      "prep_alt": "A tray of dried black-eyed peas ready to be soaked",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Dried black-eyed peas, soaked overnight", "40g", "80g", "120g", "160g"],
+           ["Long-grain parboiled rice", "60g", "120g", "180g", "240g"],
+           ["Dried waakye leaves, or pinch baking soda", "small handful", "small handful", "2 handfuls", "2 handfuls"],
+           ["Water", "350ml", "700ml", "1050ml", "1400ml"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Plum tomato/pepper, blended (stew)", "40g", "80g", "120g", "160g"],
+           ["Onion, chopped (stew)", "15g", "30g", "45g", "60g"],
+           ["Vegetable oil (stew)", "10ml", "20ml", "30ml", "40ml"],
+           ["Ripe plantain, sliced", "&frac12;", "1", "1&frac12;", "2"],
+           ["Oil, for frying plantain", "15ml", "30ml", "45ml", "60ml"],
+           ["Egg, boiled, to serve", "1", "2", "3", "4"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Rinse the soaked black-eyed peas and place them in a pot with the water and the dried waakye leaves (if using).",
+           "Bring to a boil, then simmer 40&ndash;45 minutes until the beans are tender. Remove and discard the leaves &mdash; the liquid should now look reddish-brown. (No leaves? Stir in a small pinch of baking soda instead.)",
+           "Rinse the rice and stir it into the pot with the beans. Check the water level, topping up if needed, then season with salt.",
+           "Cover and simmer over low heat 20&ndash;25 minutes, without stirring too much, until the rice is tender and the water is absorbed.",
+           "Meanwhile, make the stew: fry the blended tomato and onion in oil over medium heat 10&ndash;12 minutes, stirring occasionally, until thickened. Season with salt.",
+           "Ask an adult to help fry the plantain slices in oil over medium heat, about 2&ndash;3 minutes per side, until golden and caramelized.",
+           "Serve the rice and beans with a spoonful of stew, the fried plantain, a boiled egg, and a sprinkle of gari on the side."
+         ]}
+      ]
+    },
+    {
+      "id": "redred",
+      "title": "Red Red",
+      "time": "40 min",
+      "level": "Easy-Medium",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "A plate of black-eyed pea stew alongside caramelized fried plantain slices",
+      "prep_label": "Prep — Red Palm Oil",
+      "prep_alt": "Bottles of bright red palm oil for sale at a market",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Dried black-eyed peas, soaked (or cooked/canned)", "60g", "120g", "180g", "240g"],
+           ["Red palm oil", "20ml", "40ml", "60ml", "80ml"],
+           ["Onion, chopped", "20g", "40g", "60g", "80g"],
+           ["Plum tomato, blended", "30g", "60g", "90g", "120g"],
+           ["Scotch bonnet pepper", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Fresh ginger, grated", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Garlic clove, minced", "&frac12;", "1", "1&frac12;", "2"],
+           ["Bouillon cube", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Ripe plantain", "&frac12;", "1", "1&frac12;", "2"],
+           ["Oil, for frying plantain", "15ml", "30ml", "45ml", "60ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Cook the soaked black-eyed peas in fresh water with a pinch of salt until tender, about 35&ndash;40 minutes (or use drained canned/pre-cooked beans to skip this step). Reserve a little cooking liquid.",
+           "Ask an adult to help heat the red palm oil in a pot over medium heat until it turns fluid and fragrant &mdash; don't let it smoke.",
+           "Add the chopped onion and saut&eacute; until soft.",
+           "Stir in the blended tomato, scotch bonnet, ginger, and garlic. Fry 8&ndash;10 minutes, stirring occasionally, until thickened and the oil starts to separate.",
+           "Stir in the cooked beans along with a splash of their cooking liquid. Simmer 10 minutes, seasoning with the bouillon cube and salt.",
+           "Meanwhile, fry the plantain slices in oil 2&ndash;3 minutes per side until deeply golden and caramelized at the edges.",
+           "Serve the bean stew hot with the fried plantain alongside for scooping."
+         ]}
+      ]
+    },
+    {
+      "id": "peppersoup",
+      "title": "Nigerian Pepper Soup",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "A white bowl of spiced pepper soup with meat, served with bread",
+      "prep_label": "Prep — Pepper Soup Spice",
+      "prep_alt": "Bundles of dried grains of selim and calabash nutmeg spice at a market stall",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["Goat meat or firm white fish, cubed", "150g", "300g", "450g", "600g"],
+           ["Onion, chopped", "20g", "40g", "60g", "80g"],
+           ["Fresh ginger, grated", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Garlic clove, minced", "1", "2", "3", "4"],
+           ["Scotch bonnet pepper", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Nigerian pepper soup spice mix", "&frac12; tsp", "1 tsp", "1&frac12; tsp", "2 tsp"],
+           ["Bouillon cube", "&frac14;", "&frac12;", "&frac34;", "1"],
+           ["Water or stock", "200ml", "400ml", "600ml", "800ml"],
+           ["Scent leaf or fresh basil, chopped", "5g", "10g", "15g", "20g"],
+           ["Salt", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "Season the goat meat with the onion, ginger, garlic, and salt in a pot, then add the water.",
+           "Ask an adult to help bring it to a boil, skimming off any foam. Simmer 30&ndash;40 minutes until the goat is fork-tender (fish only needs about 10 minutes total, added later).",
+           "Stir in the scotch bonnet, pepper soup spice mix, and bouillon cube. Simmer 10 more minutes to let the spices infuse the broth.",
+           "Taste and adjust the salt and heat level to your liking.",
+           "Stir in the chopped scent leaf just before removing from the heat.",
+           "Ladle the hot broth and meat into bowls and serve as is, or with a side of steamed rice."
+         ]}
+      ]
+    },
+    {
+      "id": "chinchin",
+      "title": "Chin Chin",
+      "time": "30 min (+frying)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A bowl of small crunchy golden-brown fried dough sticks",
+      "prep_label": "Prep — Cutting the Dough",
+      "prep_alt": "Two people cutting rolled dough into small squares on a table",
+      "sections": [
+        {"type": "table", "heading": "Ingredients by Serving",
+         "rows": [
+           ["All-purpose flour", "100g", "200g", "300g", "400g"],
+           ["Granulated sugar", "20g", "40g", "60g", "80g"],
+           ["Butter, softened", "15g", "30g", "45g", "60g"],
+           ["Milk", "20ml", "40ml", "60ml", "80ml"],
+           ["Baking powder", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Ground nutmeg", "&frac14; tsp", "&frac12; tsp", "&frac34; tsp", "1 tsp"],
+           ["Salt", "pinch", "pinch", "&frac18; tsp", "&frac14; tsp"],
+           ["Vegetable oil, for deep-frying", "500ml", "500ml", "750ml", "1000ml"]
+         ]},
+        {"type": "steps", "heading": "Steps",
+         "items": [
+           "In a bowl, whisk the flour, sugar, baking powder, nutmeg, and salt together.",
+           "Add the softened butter and rub it into the flour with your fingertips until the mixture looks like coarse crumbs.",
+           "Gradually add the milk, mixing just until a firm, non-sticky dough comes together. Knead briefly on a floured surface until smooth.",
+           "Roll the dough out to about &frac14;-inch (5mm) thickness.",
+           "Cut into strips, then cut crosswise into small squares or diamonds, about &frac34;-inch (2cm) pieces.",
+           "Ask an adult to help heat the oil in a deep, heavy pot to 325&ndash;350&deg;F (165&ndash;175&deg;C).",
+           "Fry the chin chin in small batches (don't crowd the pot) over medium heat, stirring occasionally, 5&ndash;8 minutes until deep golden and crunchy all the way through.",
+           "Remove with a slotted spoon, drain on paper towels, and let cool completely &mdash; they get crunchier as they cool."
+         ]}
+      ]
+    }
+  ]
+}

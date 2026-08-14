@@ -1,0 +1,1077 @@
+{
+  "recipes": [
+    {
+      "id": "bobotie",
+      "title": "Bobotie",
+      "time": "25 min prep + 30 min bake",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A dish of bobotie with a golden baked egg-custard topping, served with turmeric yellow rice and chutney",
+      "prep_label": "Prep — Mince and Custard Topping in the Pan",
+      "prep_alt": "Curried mince topped with egg custard, cooking in a pan before baking",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Ground beef or lamb",
+              "120g",
+              "240g",
+              "360g",
+              "480g"
+            ],
+            [
+              "Onion, finely chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Oil, for sautéing",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Ground turmeric",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "White bread slice, soaked in milk",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Milk, for soaking bread",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "Fruit chutney",
+              "2 tsp",
+              "4 tsp",
+              "2 tbsp",
+              "8 tsp"
+            ],
+            [
+              "Raisins or sultanas",
+              "10g",
+              "20g",
+              "30g",
+              "40g"
+            ],
+            [
+              "Slivered almonds, optional",
+              "5g",
+              "10g",
+              "15g",
+              "20g"
+            ],
+            [
+              "Worcestershire sauce",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Vinegar",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Salt",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Egg, for custard topping",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Milk, for custard topping",
+              "60ml",
+              "120ml",
+              "180ml",
+              "240ml"
+            ],
+            [
+              "Bay leaves, for topping",
+              "1",
+              "1",
+              "2",
+              "2"
+            ],
+            [
+              "Basmati or long-grain rice, to serve",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Turmeric, for yellow rice",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 170°C (340°F). Squeeze the excess milk from the soaked bread and mash it with a fork; set the bread and the reserved milk aside separately.",
+            "Ask an adult to help heat a little oil in a large pan and sauté the onion and garlic until soft.",
+            "Stir in the curry powder and turmeric and cook 1 minute until fragrant.",
+            "Add the mince and break it up with a spoon, cooking until no longer pink.",
+            "Stir in the mashed bread, chutney, raisins, almonds, Worcestershire sauce, vinegar, salt, and pepper. Simmer 5 minutes, then remove from the heat.",
+            "Spoon the mince mixture into a greased baking dish and press the top flat.",
+            "Whisk the egg with the milk for the custard and pour it evenly over the mince. Press the bay leaves into the surface.",
+            "Bake 30 minutes, until the custard is set and lightly golden on top.",
+            "While the bobotie bakes, cook the rice with a pinch of turmeric stirred into the cooking water until fluffy and golden.",
+            "Serve the bobotie hot with the yellow rice and extra chutney on the side."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "boerewors",
+      "title": "Boerewors with Pap and Tomato-Onion Relish",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "Coiled boerewors sausage grilling over hot coals on a braai grate",
+      "prep_label": "Prep — Raw Boerewors Coil, Ready for the Grill",
+      "prep_alt": "A raw coiled boerewors sausage on a tray, ready to grill",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Boerewors (store-bought), coiled",
+              "150g",
+              "300g",
+              "450g",
+              "600g"
+            ],
+            [
+              "Mielie meal (maize meal)",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Water, for pap",
+              "150ml",
+              "300ml",
+              "450ml",
+              "600ml"
+            ],
+            [
+              "Salt, for pap",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Butter, stirred into pap",
+              "5g",
+              "10g",
+              "15g",
+              "20g"
+            ],
+            [
+              "Onion, sliced, for relish",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Tomatoes, chopped, for relish",
+              "100g",
+              "200g",
+              "300g",
+              "400g"
+            ],
+            [
+              "Brown sugar, for relish",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Vinegar, for relish",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Worcestershire sauce, for relish",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat a braai, grill, or grill pan to medium heat.",
+            "Grill the boerewors coil 20–25 minutes, turning occasionally, until browned all over and cooked through with no pink in the middle (or pan-fry if not grilling).",
+            "Meanwhile, make the relish: heat the oil in a pan, sauté the sliced onion until soft, then add the tomatoes, brown sugar, vinegar, and Worcestershire sauce. Simmer 15–20 minutes, stirring occasionally, until jammy and thickened.",
+            "For the pap: bring the water and salt to a boil in a saucepan. Sprinkle in the mielie meal while whisking constantly to avoid lumps.",
+            "Reduce the heat to low, cover, and simmer 20 minutes, stirring every few minutes, until thick and smooth. Stir in the butter.",
+            "Slice the boerewors and serve over the pap with the tomato-onion relish spooned generously on top."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "potjie",
+      "title": "Chicken Potjie",
+      "time": "20 min prep + 65–75 min simmer (mostly hands-off)",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "A red enamel potjie pot filled with chicken, carrots, and potatoes in a rich curried stew",
+      "prep_label": "Prep — Browning the Meat Before Layering",
+      "prep_alt": "Meat browning with onions in a cast-iron potjie pot before the stew is layered and simmered",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs, bone-in, skin-on, cut into pieces",
+              "200g",
+              "400g",
+              "600g",
+              "800g"
+            ],
+            [
+              "Onion, chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Ground coriander",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Potatoes, chunked",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Carrots, chunked",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Green bell pepper, chunked",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Chicken stock",
+              "80ml",
+              "160ml",
+              "240ml",
+              "320ml"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil in a potjie pot or heavy Dutch oven over medium-high heat. Brown the chicken pieces on all sides, then remove and set aside.",
+            "In the same pot, sauté the onion and garlic until soft. Stir in the curry powder and coriander and cook 1 minute until fragrant.",
+            "Return the chicken to the pot in a single layer, spice-side down.",
+            "Layer the potatoes, then the carrots, then the green pepper on top of the chicken, in that order — this is the golden rule of potjiekos: layer, don't stir.",
+            "Pour the stock gently down the side of the pot so it doesn't disturb the layers. Season with salt and pepper.",
+            "Cover and simmer very gently — low coals or the lowest stove setting — for 65–75 minutes without stirring, until the chicken and vegetables are tender.",
+            "Serve straight from the pot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bunnychow",
+      "title": "Bunny Chow",
+      "time": "40 min",
+      "level": "Easy-Medium",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A hollowed quarter loaf of white bread filled with thick chicken curry, cut open to show the filling",
+      "prep_label": "Prep — Filling the Hollowed Loaf",
+      "prep_alt": "Curry-filled hollowed bread loaf topped with sauce, served with a chopped vegetable sambal salad",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs, boneless, cubed",
+              "150g",
+              "300g",
+              "450g",
+              "600g"
+            ],
+            [
+              "Onion, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Garlic, minced",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Fresh ginger, grated",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Ground turmeric",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Ground coriander",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Garam masala",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Canned chopped tomatoes",
+              "80g",
+              "160g",
+              "240g",
+              "320g"
+            ],
+            [
+              "Potato, diced",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Chicken stock or water",
+              "100ml",
+              "200ml",
+              "300ml",
+              "400ml"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Crusty white bread loaf, quarter, hollowed",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Sambal salad (grated carrot, chili, onion), to serve",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil in a pot over medium heat. Sauté the onion until soft, then add the garlic and ginger and cook 1 minute.",
+            "Stir in the curry powder, turmeric, coriander, and garam masala, and cook 30 seconds until fragrant.",
+            "Add the chicken and stir to coat in the spices, cooking until sealed on all sides.",
+            "Add the canned tomatoes, potato, and stock. Cover and simmer 25–30 minutes, until the chicken is cooked through, the potato is tender, and the curry has thickened.",
+            "Season with salt and pepper.",
+            "Cut the bread quarters and hollow out the center of each, keeping the bread you remove for dunking.",
+            "Spoon the hot curry into the hollowed bread.",
+            "Serve with the sambal salad on the side and the reserved bread for scooping up the last of the curry."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "capemalaycurry",
+      "title": "Cape Malay Chicken Curry",
+      "time": "20 min prep + 45–60 min simmer",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A pot of golden chicken curry with potatoes, garnished with fresh coriander",
+      "prep_label": "Prep — Chicken and Potato Simmering in the Spiced Sauce",
+      "prep_alt": "Chicken curry with potatoes simmering in a pot on the stove",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs, bone-in",
+              "200g",
+              "400g",
+              "600g",
+              "800g"
+            ],
+            [
+              "Onion, finely chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Garlic and ginger, grated",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Cinnamon stick",
+              "¼ stick",
+              "½ stick",
+              "¾ stick",
+              "1 stick"
+            ],
+            [
+              "Cardamom pods",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Ground turmeric",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Canned chopped tomatoes",
+              "80g",
+              "160g",
+              "240g",
+              "320g"
+            ],
+            [
+              "Dried apricots, chopped",
+              "15g",
+              "30g",
+              "45g",
+              "60g"
+            ],
+            [
+              "Potato, chunked",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Chicken stock",
+              "100ml",
+              "200ml",
+              "300ml",
+              "400ml"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Basmati or long-grain rice, to serve",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Turmeric, for yellow rice",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil in a large pot over medium heat. Cook the onion, stirring occasionally, for about 10 minutes until deeply golden and caramelized.",
+            "Add the garlic, ginger, cinnamon stick, and cardamom pods, and cook 1 minute until fragrant.",
+            "Stir in the curry powder and turmeric, cooking 30 seconds more.",
+            "Add the chicken pieces, turning to coat them in the spice paste, and let them brown lightly for a couple of minutes.",
+            "Add the canned tomatoes, dried apricots, potato, and stock.",
+            "Cover and simmer 45–60 minutes, stirring occasionally, until the chicken is tender and the sauce has thickened.",
+            "Season with salt and pepper. Fish out the cinnamon stick and cardamom pods before serving if you like.",
+            "Meanwhile, cook the rice with a pinch of turmeric stirred into the cooking water until fluffy and golden.",
+            "Serve the curry hot over the yellow rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sosaties",
+      "title": "Sosaties",
+      "time": "20 min (+2–4 hr marinate, overnight is best)",
+      "level": "Medium",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "Grilled chicken sosatie skewers with peppers and apricot, served over pap",
+      "prep_label": "Prep — Skewers on the Braai",
+      "prep_alt": "Rows of marinated meat skewers grilling over hot coals on an open-fire braai grate",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thigh or lamb, cubed",
+              "150g",
+              "300g",
+              "450g",
+              "600g"
+            ],
+            [
+              "Dried apricots",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Onion, cut into chunks",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Green or yellow bell pepper, chunked",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Apricot jam",
+              "1 tbsp",
+              "2 tbsp",
+              "3 tbsp",
+              "4 tbsp"
+            ],
+            [
+              "White wine vinegar",
+              "1 tbsp",
+              "2 tbsp",
+              "3 tbsp",
+              "4 tbsp"
+            ],
+            [
+              "Brown sugar",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Garlic, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Ground turmeric",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Bay leaf",
+              "1",
+              "1",
+              "2",
+              "2"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Pap or rice, to serve",
+              "75g",
+              "150g",
+              "225g",
+              "300g"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Whisk the apricot jam, vinegar, brown sugar, garlic, curry powder, turmeric, bay leaf, and oil together in a small saucepan. Bring to a boil, then simmer 5 minutes. Let cool.",
+            "Thread the meat onto skewers, alternating with chunks of dried apricot, onion, and bell pepper.",
+            "Place the skewers in a dish, pour over the cooled marinade, cover, and refrigerate at least 2–4 hours (overnight gives the deepest flavor).",
+            "Ask an adult to help heat a grill or grill pan to medium-high heat.",
+            "Grill the skewers 10–12 minutes, turning occasionally and basting with extra marinade, until the meat is cooked through and lightly charred at the edges.",
+            "Serve hot over pap or rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chakalaka",
+      "title": "Chakalaka and Pap",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "A bowl of soft white maize pap with a spoonful of tomato-based chakalaka relish beside it",
+      "prep_label": "Prep — Chakalaka Simmering on the Stove",
+      "prep_alt": "A pot of chakalaka vegetable relish with tomatoes, peas, and beans simmering on the stovetop",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Onion, chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Garlic, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Fresh ginger, grated",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Carrots, grated or julienned",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Bell pepper, chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Tomatoes, chopped (fresh or canned)",
+              "80g",
+              "160g",
+              "240g",
+              "320g"
+            ],
+            [
+              "Curry powder",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Paprika",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Chili, chopped, or chili flakes",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Canned baked beans",
+              "100g",
+              "200g",
+              "300g",
+              "400g"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Mielie meal (maize meal), for pap",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Water, for pap",
+              "150ml",
+              "300ml",
+              "450ml",
+              "600ml"
+            ],
+            [
+              "Salt, for pap",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil in a pan and sauté the onion, garlic, and ginger until soft.",
+            "Add the carrots and bell pepper and cook 5 minutes until starting to soften.",
+            "Stir in the curry powder, paprika, and chili, and cook 30 seconds until fragrant.",
+            "Add the tomatoes and simmer 5–8 minutes until pulpy.",
+            "Stir in the baked beans, season with salt and pepper, and simmer 5 minutes more until heated through and slightly thickened.",
+            "Meanwhile, make the pap: bring the water and salt to a boil, whisk in the mielie meal, reduce the heat, cover, and simmer 15–20 minutes, stirring occasionally, until thick and smooth.",
+            "Serve the chakalaka spooned generously over the pap."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "malva",
+      "title": "Malva Pudding (Bonus)",
+      "time": "15 min prep + 30 min bake",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A square baking dish of malva pudding with glossy caramel sauce poured over the top",
+      "prep_label": "Prep — Fresh from the Oven, Ready for the Sauce",
+      "prep_alt": "A baked malva pudding in its pan, poked with holes ready to soak up the caramel sauce",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "All-purpose flour",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Granulated sugar",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Baking soda",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Salt",
+              "pinch",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp"
+            ],
+            [
+              "Egg",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Butter, melted",
+              "10g",
+              "20g",
+              "30g",
+              "40g"
+            ],
+            [
+              "Apricot jam",
+              "1 tbsp",
+              "2 tbsp",
+              "3 tbsp",
+              "4 tbsp"
+            ],
+            [
+              "Milk",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "White or apple cider vinegar",
+              "½ tsp",
+              "1 tsp",
+              "1½ tsp",
+              "2 tsp"
+            ],
+            [
+              "Vanilla extract",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Butter, for sauce",
+              "10g",
+              "20g",
+              "30g",
+              "40g"
+            ],
+            [
+              "Granulated sugar, for sauce",
+              "15g",
+              "30g",
+              "45g",
+              "60g"
+            ],
+            [
+              "Cream, for sauce",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "Vanilla extract, for sauce",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 180°C (350°F). Grease a small baking dish.",
+            "Whisk the egg and sugar together until pale, then beat in the melted butter and apricot jam.",
+            "In a small cup, stir the vinegar into the milk (it will look slightly curdled — that's fine) and stir in the vanilla.",
+            "Sift the flour, baking soda, and salt together, then fold into the egg mixture alternately with the milk mixture until just combined.",
+            "Pour the batter into the prepared dish and bake 25–30 minutes, until golden brown and a skewer inserted in the center comes out clean.",
+            "While the pudding bakes, make the sauce: warm the butter, sugar, cream, and vanilla together in a small saucepan until the sugar dissolves and it's steaming hot (don't let it boil).",
+            "As soon as the pudding comes out of the oven, poke holes all over the top with a skewer and slowly pour the warm sauce over so it soaks all the way through.",
+            "Let it rest 10 minutes to soak up the sauce, then serve warm, with custard or ice cream if you like."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "bobotie": {
+    "dish": {
+      "title": "File:Bobotie, South African dish.jpg",
+      "artist": "Olga Ernst",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bobotie%2C_South_African_dish.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Bobotie on the stove.jpg",
+      "artist": "Billyjeanjane",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bobotie_on_the_stove.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "boerewors": {
+    "dish": {
+      "title": "File:Boerewors braai.jpg",
+      "artist": "Ossewa",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Boerewors_braai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Boerewors raw.jpg",
+      "artist": "TempestSA at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Boerewors_raw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "potjie": {
+    "dish": {
+      "title": "File:Potjiekos.jpg",
+      "artist": "Npvw",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Potjiekos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Leg of lamb potjiekos.jpg",
+      "artist": "Ossewa",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Leg_of_lamb_potjiekos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "bunnychow": {
+    "dish": {
+      "title": "File:Chicken Curry Bunny Chow.JPG",
+      "artist": "Lucinda jolly",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Chicken_Curry_Bunny_Chow.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Bunny Chow Close Up.JPG",
+      "artist": "Aneledeysel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bunny_Chow_Close_Up.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "capemalaycurry": {
+    "dish": {
+      "title": "File:Indian chicken curry 20141012.png",
+      "artist": "Wesleympillay17",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Indian_chicken_curry_20141012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Iasagne and chicken curry.jpg",
+      "artist": "Sandy maistry",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Iasagne_and_chicken_curry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "sosaties": {
+    "dish": {
+      "title": "File:Sosaties.jpg",
+      "artist": "Anrie",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sosaties.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Grilling sosaties on an open fire in Aroab.jpg",
+      "artist": "Dumbassman",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Grilling_sosaties_on_an_open_fire_in_Aroab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "chakalaka": {
+    "dish": {
+      "title": "File:Phutu.jpg",
+      "artist": "Craigfraser",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Phutu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Chakalaka.jpg",
+      "artist": "philipp from cape town, south africa",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Chakalaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "malva": {
+    "dish": {
+      "title": "File:Malva pudding with sauce.jpg",
+      "artist": "Valereee",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Malva_pudding_with_sauce.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Malva pudding.jpg",
+      "artist": "Valereee",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Malva_pudding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

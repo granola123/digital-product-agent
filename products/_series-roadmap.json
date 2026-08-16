@@ -41,6 +41,6 @@
     { "id": "south-african", "name": "South Africa", "flag": "🇿🇦", "status": "done" },
     { "id": "cuban", "name": "Cuba", "flag": "🇨🇺", "status": "pending" },
     { "id": "colombian", "name": "Colombia", "flag": "🇨🇴", "status": "pending" },
-    { "id": "hungarian", "name": "Hungary", "flag": "🇭🇺", "status": "pending" }
+    { "id": "hungarian", "name": "Hungary", "flag": "🇭🇺", "status": "done" }
   ]
 }

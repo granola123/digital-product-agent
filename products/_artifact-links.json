@@ -34,7 +34,8 @@
     "south-african": { "preview": "https://claude.ai/code/artifact/7a3e6cef-56fa-4ded-89cc-b4c7cc49a1e3", "price_research": "https://claude.ai/code/artifact/f8bdfc6d-5827-4262-b8c2-7faa0e168941", "needs_reverify": false },
     "russian": { "preview": "https://claude.ai/code/artifact/716202d0-1baa-4b52-a5f7-00be3d66ba54", "price_research": "https://claude.ai/code/artifact/efd5495c-85fe-48c3-ad06-573d3335db02", "needs_reverify": false },
     "hungarian": { "preview": "https://claude.ai/code/artifact/16f746f0-776a-4201-92ec-5b546279a08f", "price_research": "https://claude.ai/code/artifact/fd5f3262-28d6-42e0-9d33-d9f130746601", "needs_reverify": false },
-    "cuban": { "preview": "https://claude.ai/code/artifact/85811a4f-9d31-406a-900b-d99d62a5014d", "price_research": "https://claude.ai/code/artifact/7f7fb382-7504-4f1e-8765-885f928e3cb6", "needs_reverify": false }
+    "cuban": { "preview": "https://claude.ai/code/artifact/85811a4f-9d31-406a-900b-d99d62a5014d", "price_research": "https://claude.ai/code/artifact/7f7fb382-7504-4f1e-8765-885f928e3cb6", "needs_reverify": false },
+    "colombian": { "preview": "https://claude.ai/code/artifact/1031e901-51c8-41c7-80dc-84bcd83c24cc", "price_research": "https://claude.ai/code/artifact/406efe12-de8b-4a47-b43b-34e32d33504a", "needs_reverify": false }
   },
   "bundle_level": {
     "consolidated_pricing_worksheet_7country_legacy": "https://claude.ai/code/artifact/4fb718c8-585c-4997-8a92-e3efc71b9eda",

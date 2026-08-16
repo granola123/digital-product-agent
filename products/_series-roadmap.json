@@ -40,7 +40,7 @@
     { "id": "west-african", "name": "West Africa (Nigeria/Ghana)", "flag": "🇳🇬", "status": "done" },
     { "id": "south-african", "name": "South Africa", "flag": "🇿🇦", "status": "done" },
     { "id": "cuban", "name": "Cuba", "flag": "🇨🇺", "status": "done" },
-    { "id": "colombian", "name": "Colombia", "flag": "🇨🇴", "status": "pending" },
+    { "id": "colombian", "name": "Colombia", "flag": "🇨🇴", "status": "done" },
     { "id": "hungarian", "name": "Hungary", "flag": "🇭🇺", "status": "done" }
   ]
 }

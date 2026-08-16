@@ -1,0 +1,114 @@
+{
+  "picadillo": {
+    "dish": {
+      "title": "File:Cuban Picadillo.jpg",
+      "artist": "MinerCRx",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Cuban_Picadillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Cuban picadillo.jpg",
+      "artist": "theogeo",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cuban_picadillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "congri": {
+    "dish": {
+      "title": "File:Arroz \"Congri\".jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arroz_%22Congri%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Moros y Cristianos, Cuba (9419810743).jpg",
+      "artist": "Rinaldo Wurglitsch from Vienna, Austria",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Moros_y_Cristianos%2C_Cuba_%289419810743%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "arrozconpollo": {
+    "dish": {
+      "title": "File:Arroz-con-Pollo.jpg",
+      "artist": "Kobako",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Arroz-con-Pollo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Arroz con pollo a la chorrera.jpg",
+      "artist": "El Mono Español",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Arroz_con_pollo_a_la_chorrera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "ropavieja": {
+    "dish": {
+      "title": "File:Cubanfood.jpg",
+      "artist": "Marc Averette",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cubanfood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Ropa vieja plato cubano por excelencia 2.jpg",
+      "artist": "El Mono Español",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Ropa_vieja_plato_cubano_por_excelencia_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "vacafrita": {
+    "dish": {
+      "title": "File:Vaca frita at cuba nyc.jpg",
+      "artist": "Anthony Quintano",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vaca_frita_at_cuba_nyc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Ropa viecha 2.jpg",
+      "artist": "Sarang",
+      "license": "Public domain",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ropa_viecha_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "caldosa": {
+    "dish": {
+      "title": "File:Caldosa cubana, sopa y ricos sabores. Gastronomía de la provincia de Villa Clara, Cuba.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Caldosa_cubana%2C_sopa_y_ricos_sabores._Gastronom%C3%ADa_de_la_provincia_de_Villa_Clara%2C_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Caldosa cubana con sopa y ricos sabores. Gastronomía de la provincia de Villa Clara, Cuba.jpg",
+      "artist": "Juan Emilio Prades Bel",
+      "license": "CC BY 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Caldosa_cubana_con_sopa_y_ricos_sabores._Gastronom%C3%ADa_de_la_provincia_de_Villa_Clara%2C_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "tamales": {
+    "dish": {
+      "title": "File:La Havane (2) Tamales dépliés.jpg",
+      "artist": "Ji-Elle",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/La_Havane_%282%29_Tamales_d%C3%A9pli%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:La Havane (1) Tamales pliés.jpg",
+      "artist": "Ji-Elle",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/La_Havane_%281%29_Tamales_pli%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "flan": {
+    "dish": {
+      "title": "File:Homemade Flan.jpg",
+      "artist": "Cary Bass",
+      "license": "CC BY-SA 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Homemade_Flan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Crème caramel 2.jpg",
+      "artist": "Amanda Coutinho",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cr%C3%A8me_caramel_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

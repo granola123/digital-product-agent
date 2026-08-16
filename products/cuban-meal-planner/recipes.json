@@ -1,0 +1,392 @@
+{
+  "recipes": [
+    {
+      "id": "picadillo",
+      "title": "Picadillo",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A plate of Cuban picadillo with olives over white rice, served with black beans on a dark plate",
+      "prep_label": "Prep — Olives Stirred into the Simmering Picadillo",
+      "prep_alt": "A close-up of pimiento-stuffed green olives being stirred into picadillo as it cooks",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Ground beef", "120g", "240g", "360g", "480g"],
+            ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+            ["Green bell pepper, chopped", "30g", "60g", "90g", "120g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Oil, for sautéing", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Canned crushed tomatoes", "60g", "120g", "180g", "240g"],
+            ["Tomato paste", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Dry white wine or beef stock", "30ml", "60ml", "90ml", "120ml"],
+            ["Green olives, sliced", "10g", "20g", "30g", "40g"],
+            ["Raisins", "10g", "20g", "30g", "40g"],
+            ["Capers", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Bay leaf", "1", "1", "2", "2"],
+            ["Salt", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["White rice, to serve", "50g", "100g", "150g", "200g"],
+            ["Ripe plantain, sliced, for frying (optional)", "40g", "80g", "120g", "160g"],
+            ["Oil, for frying plantains", "1 tsp", "2 tsp", "3 tsp", "4 tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a skillet and sauté the onion and green pepper until soft, about 5 minutes.",
+            "Add the garlic and cook 30 seconds until fragrant.",
+            "Add the ground beef, breaking it up with a spoon, and cook until browned.",
+            "Stir in the crushed tomatoes, tomato paste, wine (or stock), olives, raisins, capers, cumin, oregano, and bay leaf.",
+            "Simmer uncovered 15–20 minutes, stirring occasionally, until thickened.",
+            "Season with salt and pepper, and remove the bay leaf.",
+            "Meanwhile, cook the rice according to package directions.",
+            "If using, fry the plantain slices in the oil in a separate pan, 2–3 minutes per side, until golden.",
+            "Serve the picadillo over rice with the fried plantains alongside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "congri",
+      "title": "Moros y Cristianos with Maduros",
+      "time": "35 min",
+      "level": "Easy",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A plate of dark Cuban rice and black beans with fried sweet plantains and roasted pork",
+      "prep_label": "Prep — Black Beans and Rice Simmering Together",
+      "prep_alt": "A close-up of black beans and rice mixed together for moros y cristianos",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Canned black beans, undrained", "200g", "400g", "600g", "800g"],
+            ["Bacon or salt pork, diced", "20g", "40g", "60g", "80g"],
+            ["Onion, chopped", "30g", "60g", "90g", "120g"],
+            ["Green bell pepper, chopped", "20g", "40g", "60g", "80g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Bay leaf", "1", "1", "2", "2"],
+            ["Long-grain white rice", "60g", "120g", "180g", "240g"],
+            ["Chicken stock or water", "100ml", "200ml", "300ml", "400ml"],
+            ["Oil, for the pot", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["Ripe plantain (maduro), sliced", "60g", "120g", "180g", "240g"],
+            ["Oil, for frying plantains", "1 tsp", "2 tsp", "3 tsp", "4 tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a pot and cook the bacon until it renders its fat and starts to crisp.",
+            "Add the onion and green pepper and sauté until soft, then add the garlic and cook 30 seconds.",
+            "Stir in the cumin, oregano, and bay leaf.",
+            "Add the black beans (with their liquid), rice, and stock. Stir to combine.",
+            "Bring to a boil, cover, reduce the heat to low, and simmer 18–20 minutes until the rice is tender and the liquid is absorbed. Let it rest, covered, 5 minutes.",
+            "Season with salt and pepper, remove the bay leaf, and fluff with a fork.",
+            "Meanwhile, fry the plantain slices in the oil in a separate pan, 2–3 minutes per side, until golden and caramelized.",
+            "Serve the congrí topped with the fried plantains."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arrozconpollo",
+      "title": "Arroz con Pollo",
+      "time": "15 min prep + 30 min simmer",
+      "level": "Medium",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "A round plate of golden yellow rice with a roasted chicken leg and diced red pepper, viewed from above",
+      "prep_label": "Prep — Chicken and Rice Simmering in the Pot",
+      "prep_alt": "A pot of chicken and yellow rice simmering together with bay leaves",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Chicken thighs, bone-in, skin-on", "200g", "400g", "600g", "800g"],
+            ["Salt & black pepper, for chicken", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["Oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Onion, chopped", "40g", "80g", "120g", "160g"],
+            ["Green bell pepper, chopped", "30g", "60g", "90g", "120g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Ground annatto (achiote) or paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Tomato sauce", "40g", "80g", "120g", "160g"],
+            ["Dry white wine, optional", "30ml", "60ml", "90ml", "120ml"],
+            ["Long-grain rice", "60g", "120g", "180g", "240g"],
+            ["Chicken stock", "150ml", "300ml", "450ml", "600ml"],
+            ["Frozen peas", "20g", "40g", "60g", "80g"],
+            ["Jarred pimientos, sliced, for garnish", "10g", "20g", "30g", "40g"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Season the chicken with salt and pepper. Heat the oil in a large pot or deep skillet, brown the chicken on both sides, then remove and set aside.",
+            "In the same pot, sauté the onion and green pepper until soft, then add the garlic and cook 30 seconds.",
+            "Stir in the annatto (or paprika), cumin, and oregano, and cook 30 seconds until fragrant.",
+            "Add the tomato sauce and wine, if using, and scrape up any browned bits from the bottom of the pot.",
+            "Add the rice and stir to coat it in the sofrito.",
+            "Return the chicken to the pot and pour in the stock. Bring to a boil.",
+            "Cover, reduce the heat, and simmer 20–25 minutes until the rice is tender and the chicken is cooked through.",
+            "Stir in the peas during the last 5 minutes of cooking.",
+            "Season to taste, garnish with the sliced pimientos, and serve."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ropavieja",
+      "title": "Ropa Vieja",
+      "time": "20 min prep + 1–1.5 hr simmer (mostly hands-off)",
+      "level": "Medium",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A white plate of shredded beef ropa vieja with yellow rice and black beans",
+      "prep_label": "Prep — Shredding the Beef into the Sofrito",
+      "prep_alt": "Shredded beef simmering in a tomato-pepper sofrito in a large pan, with a wooden spoon",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Flank or skirt steak", "180g", "360g", "540g", "720g"],
+            ["Beef stock or water, for boiling", "300ml", "600ml", "900ml", "1200ml"],
+            ["Bay leaf, for boiling", "1", "1", "2", "2"],
+            ["Onion, halved, for boiling", "¼", "½", "¾", "1"],
+            ["Onion, sliced, for sofrito", "40g", "80g", "120g", "160g"],
+            ["Green bell pepper, sliced", "40g", "80g", "120g", "160g"],
+            ["Red bell pepper, sliced", "40g", "80g", "120g", "160g"],
+            ["Garlic cloves, minced", "2", "4", "6", "8"],
+            ["Oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Canned crushed tomatoes", "80g", "160g", "240g", "320g"],
+            ["Tomato paste", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Dry white wine, optional", "30ml", "60ml", "90ml", "120ml"],
+            ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Sweet paprika", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Pimiento-stuffed green olives", "15g", "30g", "45g", "60g"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["White rice, to serve", "50g", "100g", "150g", "200g"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Place the steak, stock (or water), bay leaf, and halved onion in a pot. Bring to a boil, then reduce the heat, cover, and simmer 1–1.5 hours (mostly hands-off) until the meat is fork-tender.",
+            "Remove the steak and let it cool slightly, then shred it with two forks along the grain. Reserve 120ml of the cooking liquid; discard the bay leaf and boiled onion.",
+            "Heat the oil in a large skillet and sauté the sliced onion and both peppers until soft, about 8 minutes.",
+            "Add the garlic and cook 30 seconds until fragrant.",
+            "Stir in the cumin, oregano, and paprika, and cook 30 seconds more.",
+            "Add the crushed tomatoes, tomato paste, wine (if using), and the reserved cooking liquid.",
+            "Add the shredded beef and olives, and stir to combine.",
+            "Simmer uncovered 15–20 minutes until the sauce thickens and coats the meat.",
+            "Season with salt and pepper.",
+            "Serve hot over white rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vacafrita",
+      "title": "Vaca Frita",
+      "time": "15 min prep + 1–1.5 hr simmer (mostly hands-off) + 10 min fry",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "A white plate of crispy pan-fried shredded beef with caramelized onions, served with white rice",
+      "prep_label": "Prep — Beef Topped with Onion, Ready to Serve",
+      "prep_alt": "Shredded fried beef topped with raw onion rings, served with congrí rice and lettuce",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Flank or skirt steak", "180g", "360g", "540g", "720g"],
+            ["Beef stock or water, for boiling", "300ml", "600ml", "900ml", "1200ml"],
+            ["Bay leaf, for boiling", "1", "1", "2", "2"],
+            ["Onion, halved, for boiling", "¼", "½", "¾", "1"],
+            ["Garlic cloves, minced, for marinade", "2", "4", "6", "8"],
+            ["Lime juice", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+            ["Sour orange juice, or extra lime juice", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["Oil, for frying", "1 tbsp", "2 tbsp", "3 tbsp", "4 tbsp"],
+            ["Onion, thinly sliced, for topping", "40g", "80g", "120g", "160g"],
+            ["Lime wedges, to serve", "1", "2", "3", "4"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Place the steak, stock (or water), bay leaf, and halved onion in a pot. Bring to a boil, then reduce the heat, cover, and simmer 1–1.5 hours (mostly hands-off) until fork-tender.",
+            "Remove the steak, let it cool slightly, then shred it with two forks. Discard the bay leaf and boiled onion.",
+            "Toss the shredded beef with the minced garlic, lime juice, sour orange juice, salt, and pepper. Let it marinate 15–20 minutes.",
+            "Heat the oil in a large skillet until shimmering. Add the beef in a single layer, pressing it down, and fry undisturbed 4–5 minutes until crisp and browned at the edges.",
+            "Toss and fry 3–4 minutes more, until well-crisped throughout.",
+            "In the same pan (or a separate one), quickly sauté the sliced onion 2–3 minutes until just softened but still with some bite.",
+            "Serve the beef topped with the onions and lime wedges."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caldosa",
+      "title": "Caldosa Cubana",
+      "time": "20 min prep + 75–90 min simmer (mostly hands-off)",
+      "level": "Medium",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "A pot of Cuban caldosa stew with chicken, noodles, potatoes, and carrots in a rich broth",
+      "prep_label": "Prep — Caldosa Simmering in the Pot",
+      "prep_alt": "Caldosa simmering in a large pot, with noodles, chicken, and root vegetables visible in the broth",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Chicken thighs, bone-in", "100g", "200g", "300g", "400g"],
+            ["Pork stew meat, cubed", "60g", "120g", "180g", "240g"],
+            ["Chorizo or Spanish-style sausage, sliced", "30g", "60g", "90g", "120g"],
+            ["Water or stock", "500ml", "1000ml", "1500ml", "2000ml"],
+            ["Onion, chopped", "40g", "80g", "120g", "160g"],
+            ["Garlic cloves, minced", "2", "4", "6", "8"],
+            ["Green bell pepper, chopped", "30g", "60g", "90g", "120g"],
+            ["Tomato, chopped", "40g", "80g", "120g", "160g"],
+            ["Malanga (taro), peeled & cubed", "60g", "120g", "180g", "240g"],
+            ["Yuca (cassava), peeled & cubed", "60g", "120g", "180g", "240g"],
+            ["Boniato or sweet potato, cubed", "60g", "120g", "180g", "240g"],
+            ["Calabaza or butternut squash, cubed", "60g", "120g", "180g", "240g"],
+            ["Corn on the cob, cut into chunks", "40g", "80g", "120g", "160g"],
+            ["Green plantain, sliced", "40g", "80g", "120g", "160g"],
+            ["Thin soup noodles (fideos)", "30g", "60g", "90g", "120g"],
+            ["Ground cumin", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Lime juice, to finish", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+            ["Oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a large pot and brown the chicken and pork in batches; remove and set aside.",
+            "Add the chorizo, onion, and green pepper to the pot and sauté until softened, then add the garlic and cook 30 seconds.",
+            "Return the chicken and pork to the pot, add the water (or stock), tomato, cumin, and oregano. Bring to a boil, skim off any foam, then reduce the heat, cover, and simmer 40 minutes.",
+            "Add the malanga, yuca, and boniato, and simmer 15 minutes more.",
+            "Add the calabaza, corn, and plantain, and simmer another 15 minutes until all the vegetables are tender.",
+            "Stir in the fideos and cook 5–8 minutes until just tender.",
+            "Season with salt and pepper, and finish with a squeeze of lime juice.",
+            "Ladle into bowls and serve hot with crusty bread."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tamales",
+      "title": "Tamales Cubanos",
+      "time": "45 min prep + 50–75 min steam",
+      "level": "Medium",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "Two Cuban tamales with their corn husks peeled back, showing the yellow masa filling",
+      "prep_label": "Prep — Tamales Wrapped and Tied, Ready to Steam",
+      "prep_alt": "Two Cuban tamales wrapped and tied in corn husks, ready to be steamed",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Dried corn husks (or extra strips for tying)", "8", "16", "24", "32"],
+            ["Fresh or frozen corn kernels, pureed", "200g", "400g", "600g", "800g"],
+            ["Cornmeal (masa harina or fine cornmeal)", "40g", "80g", "120g", "160g"],
+            ["Milk", "30ml", "60ml", "90ml", "120ml"],
+            ["Butter or lard, melted", "15g", "30g", "45g", "60g"],
+            ["Sugar", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+            ["Salt, for masa", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Ground pork, for filling", "80g", "160g", "240g", "320g"],
+            ["Onion, finely chopped, for filling", "20g", "40g", "60g", "80g"],
+            ["Garlic cloves, minced, for filling", "1", "2", "3", "4"],
+            ["Green bell pepper, finely chopped, for filling", "20g", "40g", "60g", "80g"],
+            ["Tomato sauce, for filling", "20g", "40g", "60g", "80g"],
+            ["Ground cumin, for filling", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried oregano, for filling", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Oil, for filling", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Salt & black pepper, for filling", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Soak the corn husks in warm water until pliable, about 30 minutes.",
+            "Make the filling: heat the oil in a skillet, sauté the onion and green pepper until soft, then add the garlic and cook 30 seconds.",
+            "Add the ground pork, breaking it up, and cook until browned. Stir in the tomato sauce, cumin, oregano, salt, and pepper. Simmer 5 minutes, then remove from the heat and let cool slightly.",
+            "Make the masa: blend the pureed corn, cornmeal, milk, melted butter, sugar, and salt into a thick batter.",
+            "Lay a softened corn husk flat, spoon a portion of the masa into the center, and spread it into a rectangle. Add a spoonful of the pork filling down the middle.",
+            "Fold the sides of the husk over the filling, then fold the ends up to enclose it, and tie with a strip of husk (or twine).",
+            "Repeat with the remaining husks, masa, and filling.",
+            "Stand the tamales upright (or lay flat) in a steamer basket over simmering water. Cover and steam 50–75 minutes, until the masa is firm and pulls cleanly from the husk.",
+            "Let rest 5 minutes before unwrapping and serving hot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flan",
+      "title": "Flan de Leche (Bonus)",
+      "time": "15 min prep + 35–45 min bake (+ 3 hr chill)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "An unmolded Cuban flan with caramel sauce pooling on a brightly striped plate",
+      "prep_label": "Prep — Custard Ready to Serve, Caramel Pooling",
+      "prep_alt": "A close-up of caramel custard in a glass bowl with caramel sauce and a spoon",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Granulated sugar, for caramel", "30g", "60g", "90g", "120g"],
+            ["Water, for caramel", "1 tsp", "2 tsp", "1 tbsp", "4 tsp"],
+            ["Eggs", "1", "2", "3", "4"],
+            ["Sweetened condensed milk", "60g", "120g", "180g", "240g"],
+            ["Evaporated milk", "60ml", "120ml", "180ml", "240ml"],
+            ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Salt", "pinch", "pinch", "¼ tsp", "¼ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 160°C (325°F).",
+            "Make the caramel: in a small saucepan, heat the sugar and water over medium heat without stirring until it turns a deep amber, 5–8 minutes. Immediately pour into ramekins (or one baking dish), swirling to coat the bottom.",
+            "Whisk the eggs, condensed milk, evaporated milk, vanilla, and salt together until smooth.",
+            "Pour the custard over the caramel in the ramekins.",
+            "Place the ramekins in a larger baking dish and add hot water to come halfway up their sides (a water bath).",
+            "Bake 35–45 minutes, until the custard is just set but still slightly wobbly in the center.",
+            "Let cool, then refrigerate at least 3 hours (overnight is best).",
+            "Run a knife around the edge and invert onto a plate to unmold, letting the caramel sauce pour over the top."
+          ]
+        }
+      ]
+    }
+  ]
+}

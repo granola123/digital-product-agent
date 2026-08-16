@@ -1,0 +1,382 @@
+<title>Comparable Pricing Log — Taste of Hungary</title>
+<style>
+  :root{
+    --ink:#1B211D; --ink-soft:#4B5750; --ink-faint:#7A8279;
+    --paper:#EFEEE4; --paper-2:#E4E2D3; --paper-3:#D9D6C2;
+    --line:#C9C6B0;
+    --accent:#2B6E63; --accent-ink:#EFEEE4;
+    --flag:#A5471F;
+    --good:#2B6E63; --warn:#A5471F;
+    --shadow: 0 1px 2px rgba(27,33,29,0.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --ink:#E9E7DA; --ink-soft:#B7BCB0; --ink-faint:#7E8579;
+      --paper:#181D19; --paper-2:#212722; --paper-3:#2A312A;
+      --line:#3A4139;
+      --accent:#5FAE9E; --accent-ink:#101512;
+      --flag:#D98A5F;
+      --good:#5FAE9E; --warn:#D98A5F;
+      --shadow: 0 1px 3px rgba(0,0,0,0.4);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ink:#E9E7DA; --ink-soft:#B7BCB0; --ink-faint:#7E8579;
+    --paper:#181D19; --paper-2:#212722; --paper-3:#2A312A;
+    --line:#3A4139;
+    --accent:#5FAE9E; --accent-ink:#101512;
+    --flag:#D98A5F;
+    --good:#5FAE9E; --warn:#D98A5F;
+    --shadow: 0 1px 3px rgba(0,0,0,0.4);
+  }
+  :root[data-theme="light"]{
+    --ink:#1B211D; --ink-soft:#4B5750; --ink-faint:#7A8279;
+    --paper:#EFEEE4; --paper-2:#E4E2D3; --paper-3:#D9D6C2;
+    --line:#C9C6B0;
+    --accent:#2B6E63; --accent-ink:#EFEEE4;
+    --flag:#A5471F;
+    --good:#2B6E63; --warn:#A5471F;
+    --shadow: 0 1px 2px rgba(27,33,29,0.06);
+  }
+
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background:
+      linear-gradient(var(--paper) 0 0),
+      repeating-linear-gradient(0deg, transparent, transparent 27px, var(--paper-3) 27px, var(--paper-3) 28px);
+    background-blend-mode:normal;
+    color:var(--ink);
+    font-family:ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+    font-size:15px;
+    line-height:1.6;
+    min-height:100vh;
+  }
+  a{ color:var(--accent); }
+  ::selection{ background:var(--accent); color:var(--accent-ink); }
+
+  .wrap{ max-width:920px; margin:0 auto; padding:clamp(1.5rem,4vw,3.5rem) clamp(1.25rem,3vw,2rem) 5rem; }
+
+  header.hd{ margin-bottom:2.25rem; }
+  .kicker{
+    font-family:ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+    font-size:0.72rem; letter-spacing:0.12em; text-transform:uppercase;
+    color:var(--accent); margin:0 0 0.5rem;
+  }
+  h1{
+    font-family:ui-serif, Georgia, 'Times New Roman', serif;
+    font-weight:600;
+    font-size:clamp(1.8rem,3.2vw,2.5rem);
+    letter-spacing:-0.01em;
+    margin:0 0 0.5rem;
+    text-wrap:balance;
+  }
+  .lede{ color:var(--ink-soft); max-width:62ch; margin:0; font-size:0.98rem; }
+
+  section{ margin-bottom:2.25rem; }
+  h2{
+    font-family:ui-serif, Georgia, serif;
+    font-size:1.15rem; font-weight:600;
+    margin:0 0 0.85rem;
+    padding-bottom:0.5rem;
+    border-bottom:1px solid var(--line);
+  }
+
+  .panel{
+    background:var(--paper-2);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:1.25rem 1.4rem;
+    box-shadow:var(--shadow);
+  }
+
+  /* Search terms */
+  .terms{ display:flex; flex-wrap:wrap; gap:0.5rem; list-style:none; margin:0; padding:0; }
+  .terms li{
+    font-family:ui-monospace, monospace;
+    font-size:0.82rem;
+    background:var(--paper); border:1px solid var(--line);
+    padding:0.4em 0.75em; border-radius:999px;
+    color:var(--ink-soft);
+  }
+
+  /* Checklist */
+  .checklist{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:0.6rem; }
+  .checklist li{ display:flex; gap:0.65rem; align-items:flex-start; font-size:0.92rem; }
+  .checklist input[type=checkbox]{
+    appearance:none; width:1.05rem; height:1.05rem; flex:none; margin-top:0.2rem;
+    border:1.5px solid var(--ink-faint); border-radius:3px; background:var(--paper);
+    cursor:pointer; position:relative;
+  }
+  .checklist input[type=checkbox]:checked{ background:var(--accent); border-color:var(--accent); }
+  .checklist input[type=checkbox]:checked::after{
+    content:''; position:absolute; left:3px; top:-1px; width:5px; height:9px;
+    border:solid var(--accent-ink); border-width:0 2px 2px 0; transform:rotate(40deg);
+  }
+  .checklist b{ color:var(--ink); }
+  .checklist span{ color:var(--ink-soft); }
+
+  /* Table */
+  .table-scroll{ overflow-x:auto; border:1px solid var(--line); border-radius:4px; }
+  table{ width:100%; border-collapse:collapse; min-width:760px; background:var(--paper-2); }
+  thead th{
+    text-align:left; font-family:ui-monospace, monospace;
+    font-size:0.68rem; letter-spacing:0.08em; text-transform:uppercase;
+    color:var(--ink-faint); font-weight:600;
+    padding:0.6rem 0.6rem; border-bottom:1px solid var(--line);
+    background:var(--paper-3);
+    position:sticky; top:0;
+  }
+  tbody td{ padding:0.4rem 0.6rem; border-bottom:1px solid var(--line); vertical-align:middle; }
+  tbody tr:last-child td{ border-bottom:none; }
+  tbody tr:hover{ background:var(--paper); }
+  td input[type=text], td input[type=number]{
+    width:100%; border:1px solid transparent; background:transparent;
+    font:inherit; color:var(--ink); padding:0.3rem 0.35rem; border-radius:3px;
+    font-variant-numeric:tabular-nums;
+  }
+  td input[type=number]{ font-family:ui-monospace, monospace; text-align:right; }
+  td input:hover{ border-color:var(--line); }
+  td input:focus{ outline:none; border-color:var(--accent); background:var(--paper); }
+  col.title{ width:30%; } col.price{ width:9%; } col.sales{ width:9%; }
+  col.reviews{ width:9%; } col.tags{ width:20%; } col.notes{ width:18%; } col.del{ width:36px; }
+  .del-btn{
+    border:none; background:transparent; color:var(--ink-faint); cursor:pointer;
+    font-size:1rem; line-height:1; padding:0.3rem; border-radius:3px;
+  }
+  .del-btn:hover{ color:var(--warn); background:var(--paper); }
+
+  .add-row{
+    display:flex; align-items:center; gap:0.5rem;
+    margin-top:0.75rem;
+    font-family:ui-monospace, monospace; font-size:0.78rem;
+    color:var(--accent); background:none; border:1px dashed var(--line);
+    border-radius:4px; padding:0.55rem 0.9rem; cursor:pointer; width:100%;
+    justify-content:center;
+  }
+  .add-row:hover{ border-color:var(--accent); background:var(--paper); }
+
+  /* Stats */
+  .stats{ display:grid; grid-template-columns:repeat(4,1fr); gap:0.9rem; }
+  @media (max-width:640px){ .stats{ grid-template-columns:1fr 1fr; } }
+  .stat{
+    background:var(--paper-2); border:1px solid var(--line); border-radius:4px;
+    padding:0.9rem 1rem;
+  }
+  .stat .label{
+    font-family:ui-monospace, monospace; font-size:0.64rem; letter-spacing:0.08em;
+    text-transform:uppercase; color:var(--ink-faint); margin-bottom:0.35rem;
+  }
+  .stat .value{
+    font-family:ui-monospace, monospace; font-size:1.5rem; font-weight:600;
+    color:var(--ink); font-variant-numeric:tabular-nums;
+  }
+  .stat.accent .value{ color:var(--accent); }
+  .stat .sub{ font-size:0.76rem; color:var(--ink-faint); margin-top:0.2rem; }
+
+  .verdict{
+    margin-top:1rem; padding:0.9rem 1.1rem; border-radius:4px;
+    border:1px solid var(--line); background:var(--paper);
+    font-size:0.9rem; color:var(--ink-soft);
+  }
+  .verdict b{ color:var(--ink); }
+
+  .foot{
+    margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--line);
+    font-size:0.8rem; color:var(--ink-faint);
+  }
+  .foot code{ font-family:ui-monospace, monospace; background:var(--paper-2); padding:0.1em 0.4em; border-radius:3px; }
+</style>
+
+<div class="wrap">
+
+  <header class="hd">
+    <p class="kicker">Pricing Research Log · Taste of Hungary</p>
+    <h1>Comparable Listing Worksheet</h1>
+    <p class="lede">Etsy blocks automated price scraping, so this part stays manual. Search the terms below on Etsy yourself, log 5–10 close comparables in the table, and the sheet will work out a defensible price. Entries are saved to this browser automatically.</p>
+  </header>
+
+  <section>
+    <h2>Search terms to run on Etsy</h2>
+    <ul class="terms" id="terms">
+      <li>hungarian meal planner printable</li>
+      <li>hungarian recipes printable pdf</li>
+      <li>goulash recipe card printable</li>
+      <li>weekly meal plan notion template</li>
+      <li>recipe card bundle digital download</li>
+      <li>grocery list printable digital</li>
+      <li>meal planner notion template food</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What counts as a real comparable</h2>
+    <ul class="checklist" id="checklist">
+      <li><input type="checkbox" data-k="c1"><span><b>Same delivery format</b> — PDF + Notion (or at least digital, instant-download), not a physical planner.</span></li>
+      <li><input type="checkbox" data-k="c2"><span><b>Similar scope</b> — a themed weekly plan / recipe bundle, not a blank all-purpose planner.</span></li>
+      <li><input type="checkbox" data-k="c3"><span><b>Has visible traction</b> — carries a sales count or review number, so the price is proven, not aspirational.</span></li>
+      <li><input type="checkbox" data-k="c4"><span><b>Comparable design tier</b> — professional layout, not a single clip-art page — matches what this bundle looks like.</span></li>
+      <li><input type="checkbox" data-k="c5"><span><b>Recent</b> — shop has activity in the last few months, so pricing reflects the current market, not 2021 rates.</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Comparable listings</h2>
+    <div class="table-scroll">
+      <table id="tbl">
+        <colgroup>
+          <col class="title"><col class="price"><col class="sales"><col class="reviews"><col class="tags"><col class="notes"><col class="del">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Listing title</th><th>Price</th><th>Sales</th><th>Reviews</th><th>Tags that overlap</th><th>Notes</th><th></th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <button class="add-row" id="addRow">+ add a comparable</button>
+  </section>
+
+  <section>
+    <h2>What the log says</h2>
+    <div class="stats">
+      <div class="stat"><div class="label">Comparables logged</div><div class="value" id="statCount">0</div><div class="sub">aim for 5–10</div></div>
+      <div class="stat accent"><div class="label">Median price</div><div class="value" id="statMedian">—</div><div class="sub">most resistant to outliers</div></div>
+      <div class="stat"><div class="label">Average price</div><div class="value" id="statAvg">—</div><div class="sub">across logged rows</div></div>
+      <div class="stat"><div class="label">Range</div><div class="value" id="statRange">—</div><div class="sub">low – high</div></div>
+    </div>
+    <div class="verdict" id="verdict">Log at least 5 comparables to get a price read.</div>
+  </section>
+
+  <div class="foot">
+    Draft target from <code>draft-en.md</code> was <b>$7–9</b>. Treat that as a hypothesis this log confirms or corrects — not the answer.
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var STORE_KEY = 'hungarian-planner-price-log-v1';
+  var CHECK_KEY = 'hungarian-planner-price-checklist-v1';
+
+  function load(key, fallback){
+    try{ var v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }
+    catch(e){ return fallback; }
+  }
+  function save(key, val){
+    try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){}
+  }
+
+  var rows = load(STORE_KEY, null);
+  if(!rows){
+    rows = [
+      {title:'', price:'', sales:'', reviews:'', tags:'', notes:''},
+      {title:'', price:'', sales:'', reviews:'', tags:'', notes:''},
+      {title:'', price:'', sales:'', reviews:'', tags:'', notes:''}
+    ];
+  }
+
+  var tbody = document.getElementById('tbody');
+
+  function fieldHTML(row, idx, key, type){
+    var val = row[key] == null ? '' : row[key];
+    return '<input type="'+type+'" data-idx="'+idx+'" data-key="'+key+'" value="'+
+      String(val).replace(/"/g,'&quot;') + '">';
+  }
+
+  function render(){
+    tbody.innerHTML = '';
+    rows.forEach(function(row, idx){
+      var tr = document.createElement('tr');
+      tr.innerHTML =
+        '<td>' + fieldHTML(row, idx, 'title', 'text') + '</td>' +
+        '<td>' + fieldHTML(row, idx, 'price', 'number') + '</td>' +
+        '<td>' + fieldHTML(row, idx, 'sales', 'number') + '</td>' +
+        '<td>' + fieldHTML(row, idx, 'reviews', 'number') + '</td>' +
+        '<td>' + fieldHTML(row, idx, 'tags', 'text') + '</td>' +
+        '<td>' + fieldHTML(row, idx, 'notes', 'text') + '</td>' +
+        '<td><button class="del-btn" data-idx="'+idx+'" title="remove row" aria-label="remove row">×</button></td>';
+      tbody.appendChild(tr);
+    });
+    computeStats();
+  }
+
+  tbody.addEventListener('input', function(e){
+    var t = e.target;
+    if(t.tagName !== 'INPUT') return;
+    var idx = +t.getAttribute('data-idx');
+    var key = t.getAttribute('data-key');
+    rows[idx][key] = t.value;
+    save(STORE_KEY, rows);
+    if(key === 'price') computeStats();
+  });
+
+  tbody.addEventListener('click', function(e){
+    var btn = e.target.closest('.del-btn');
+    if(!btn) return;
+    var idx = +btn.getAttribute('data-idx');
+    rows.splice(idx, 1);
+    save(STORE_KEY, rows);
+    render();
+  });
+
+  document.getElementById('addRow').addEventListener('click', function(){
+    rows.push({title:'', price:'', sales:'', reviews:'', tags:'', notes:''});
+    save(STORE_KEY, rows);
+    render();
+  });
+
+  function median(arr){
+    var a = arr.slice().sort(function(x,y){return x-y;});
+    var n = a.length;
+    if(n === 0) return null;
+    var mid = Math.floor(n/2);
+    return n % 2 ? a[mid] : (a[mid-1] + a[mid]) / 2;
+  }
+
+  function fmt(n){
+    return '$' + n.toFixed(2).replace(/\.00$/, '');
+  }
+
+  function computeStats(){
+    var prices = rows.map(function(r){ return parseFloat(r.price); }).filter(function(n){ return !isNaN(n) && n > 0; });
+    document.getElementById('statCount').textContent = prices.length;
+    if(prices.length === 0){
+      document.getElementById('statMedian').textContent = '—';
+      document.getElementById('statAvg').textContent = '—';
+      document.getElementById('statRange').textContent = '—';
+      document.getElementById('verdict').innerHTML = 'Log at least 5 comparables to get a price read.';
+      return;
+    }
+    var med = median(prices);
+    var avg = prices.reduce(function(a,b){return a+b;},0) / prices.length;
+    var lo = Math.min.apply(null, prices), hi = Math.max.apply(null, prices);
+    document.getElementById('statMedian').textContent = fmt(med);
+    document.getElementById('statAvg').textContent = fmt(avg);
+    document.getElementById('statRange').textContent = fmt(lo) + ' – ' + fmt(hi);
+
+    var verdict;
+    if(prices.length < 5){
+      verdict = 'Only <b>' + prices.length + '</b> comparable' + (prices.length===1?'':'s') + ' logged — median may shift a lot with a few more. Keep going before locking a price.';
+    } else {
+      var target = Math.round(med * 2) / 2;
+      verdict = 'With <b>' + prices.length + '</b> comparables, the median lands at <b>' + fmt(med) +
+        '</b>. A launch price around <b>' + fmt(target) + '</b> sits with the market — you can price a touch under median while this listing has zero reviews, then move up once it has traction.';
+    }
+    document.getElementById('verdict').innerHTML = verdict;
+  }
+
+  var checks = load(CHECK_KEY, {});
+  document.querySelectorAll('#checklist input[type=checkbox]').forEach(function(cb){
+    var k = cb.getAttribute('data-k');
+    cb.checked = !!checks[k];
+    cb.addEventListener('change', function(){
+      checks[k] = cb.checked;
+      save(CHECK_KEY, checks);
+    });
+  });
+
+  render();
+})();
+</script>

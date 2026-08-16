@@ -1,0 +1,114 @@
+{
+  "gulyas": {
+    "dish": {
+      "title": "File:Hungarian Gulyás.jpg",
+      "artist": "m.louis",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hungarian_Guly%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Gulyas080.jpg",
+      "artist": "Lily15",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Gulyas080.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "paprikash": {
+    "dish": {
+      "title": "File:Paprikás Csirke Galuskával.jpg",
+      "artist": "Sumit Surai",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Paprik%C3%A1s_Csirke_Galusk%C3%A1val.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Chicken Paprikas.jpg",
+      "artist": "Mom the Barbarian",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chicken_Paprikas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "toltottkaposzta": {
+    "dish": {
+      "title": "File:02022 Hungarian stuffed cabbage rolls in pickled cabbage leaves with veal and deer meat.jpg",
+      "artist": "Silar",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/02022_Hungarian_stuffed_cabbage_rolls_in_pickled_cabbage_leaves_with_veal_and_deer_meat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Töltött káposzta, 2.jpg",
+      "artist": "Christo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/T%C3%B6lt%C3%B6tt_k%C3%A1poszta%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "lecso": {
+    "dish": {
+      "title": "File:Budapest, KEG sörművház, lecsó tojással, kolbásszal.jpg",
+      "artist": "Christo",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Budapest%2C_KEG_s%C3%B6rm%C5%B1vh%C3%A1z%2C_lecs%C3%B3_toj%C3%A1ssal%2C_kolb%C3%A1sszal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Tojásos lecsó.jpg",
+      "artist": "sporst",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Toj%C3%A1sos_lecs%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "palacsinta": {
+    "dish": {
+      "title": "File:Hortobágyi palacsinta.jpg",
+      "artist": "Hungarian Snow",
+      "license": "CC BY-SA 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hortob%C3%A1gyi_palacsinta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Hortobagy palacsinta.JPG",
+      "artist": "Themightyquill",
+      "license": "CC BY 2.5",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Hortobagy_palacsinta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "szekelygulyas": {
+    "dish": {
+      "title": "File:Székelygulyás.jpg",
+      "artist": "Lily15",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sz%C3%A9kelyguly%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Székely Gulyas with Semmelknödel.jpg",
+      "artist": "Blervis",
+      "license": "CC0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sz%C3%A9kely_Gulyas_with_Semmelkn%C3%B6del.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "rakottkrumpli": {
+    "dish": {
+      "title": "File:Rakott krumpli, 3.jpg",
+      "artist": "Christo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rakott_krumpli%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Rakott krumpli.jpg",
+      "artist": "zolakoma",
+      "license": "CC BY 2.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Rakott_krumpli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  },
+  "somloigaluska": {
+    "dish": {
+      "title": "File:Somloi-galuska.JPG",
+      "artist": "Illustratedjc",
+      "license": "CC BY-SA 3.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Somloi-galuska.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    },
+    "prep": {
+      "title": "File:Somlói galuska, 2.jpg",
+      "artist": "Christo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Soml%C3%B3i_galuska%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "recipes": [
+    {
+      "id": "gulyas",
+      "title": "Gulyás (Hungarian Beef Goulash Soup)",
+      "time": "25 min prep + 70–90 min simmer (mostly hands-off)",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A bowl of Hungarian beef goulash soup with tender beef, potatoes, carrots, and peppers in a deep paprika-red broth",
+      "prep_label": "Prep — Goulash Simmering in a Traditional Bogrács Cauldron",
+      "prep_alt": "Beef goulash simmering over an open fire in a traditional Hungarian bogrács cauldron, stirred with a long wooden spoon",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Beef chuck, cubed", "150g", "300g", "450g", "600g"],
+            ["Onion, chopped", "50g", "100g", "150g", "200g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Oil or lard", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Sweet Hungarian paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Caraway seeds, ground", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Dried marjoram", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Tomato paste", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Canned diced tomatoes", "60g", "120g", "180g", "240g"],
+            ["Bay leaf", "1", "1", "2", "2"],
+            ["Beef stock or water", "250ml", "500ml", "750ml", "1000ml"],
+            ["Potatoes, diced", "80g", "160g", "240g", "320g"],
+            ["Carrot, diced", "40g", "80g", "120g", "160g"],
+            ["Green bell pepper, diced", "30g", "60g", "90g", "120g"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil or lard in a large pot over medium-high heat. Brown the beef cubes in batches, then remove and set aside.",
+            "In the same pot, sauté the onion and garlic until soft.",
+            "Take the pot off the heat for a moment and stir in the paprika, caraway, and marjoram so the paprika doesn't scorch.",
+            "Return the beef to the pot, then add the tomato paste, diced tomatoes, bay leaf, and stock or water.",
+            "Cover and simmer 60–75 minutes, until the beef is nearly tender.",
+            "Add the potatoes, carrot, and green pepper, and simmer 20 minutes more, until the vegetables are tender and the beef is fully tender.",
+            "Season with salt and pepper. Serve hot, with crusty bread."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paprikash",
+      "title": "Chicken Paprikash with Nokedli (Csirkepaprikás)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "Bone-in chicken thighs in a silky red paprika and sour cream sauce, served over soft nokedli egg dumplings",
+      "prep_label": "Prep — Paprika Chicken Simmering in Its Sauce",
+      "prep_alt": "Chicken paprikash simmering in a creamy red paprika sauce with a dollop of sour cream, before being ladled over the nokedli",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Chicken thighs, bone-in, skin-on", "200g", "400g", "600g", "800g"],
+            ["Onion, finely chopped", "50g", "100g", "150g", "200g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Lard or oil", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Sweet Hungarian paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Green bell pepper, chopped", "20g", "40g", "60g", "80g"],
+            ["Tomato, chopped", "30g", "60g", "90g", "120g"],
+            ["Chicken stock", "100ml", "200ml", "300ml", "400ml"],
+            ["Sour cream", "30g", "60g", "90g", "120g"],
+            ["All-purpose flour, to thicken the sour cream", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["All-purpose flour, for nokedli", "60g", "120g", "180g", "240g"],
+            ["Egg, for nokedli", "1", "2", "3", "4"],
+            ["Water, for nokedli", "2 tbsp", "4 tbsp", "6 tbsp", "8 tbsp"],
+            ["Salt, for nokedli", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the lard or oil in a pot over medium-high heat. Brown the chicken thighs skin-side down, then remove and set aside.",
+            "In the same pot, sauté the onion and garlic until soft.",
+            "Take the pot off the heat for a moment and stir in the paprika so it blooms without burning.",
+            "Add the green pepper, tomato, and chicken stock, then return the chicken to the pot.",
+            "Cover and simmer 30–35 minutes, until the chicken is cooked through.",
+            "Meanwhile, make the nokedli: whisk the nokedli flour, egg, water, and salt into a thick, sticky batter. Bring a large pot of salted water to a boil.",
+            "Drop small spoonfuls of the batter into the boiling water (or push through a colander) and cook 2–3 minutes, until they float. Drain.",
+            "Remove the chicken from the sauce. Whisk the flour into the sour cream until smooth, then stir it into the sauce and simmer gently 2 minutes to thicken (don't let it boil hard).",
+            "Return the chicken to the sauce, and season with salt and pepper.",
+            "Serve the chicken and sauce hot over the nokedli."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toltottkaposzta",
+      "title": "Töltött Káposzta (Stuffed Cabbage Rolls)",
+      "time": "30 min prep + 60 min simmer",
+      "level": "Medium",
+      "tilt": -0.7,
+      "gold": false,
+      "dish_alt": "Two Hungarian stuffed cabbage rolls simmered in a paprika-red tomato sauce, served in a floral-rimmed bowl",
+      "prep_label": "Prep — Cabbage Rolls on a Bed of Sauerkraut, with Sour Cream",
+      "prep_alt": "Sliced stuffed cabbage rolls plated with sauerkraut and a dollop of sour cream on the side",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Cabbage leaves, blanched", "2", "4", "6", "8"],
+            ["Ground pork", "100g", "200g", "300g", "400g"],
+            ["Rice, parboiled", "25g", "50g", "75g", "100g"],
+            ["Egg", "1", "2", "3", "4"],
+            ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Sweet Hungarian paprika", "½ tsp", "1 tsp", "1½ tsp", "2 tsp"],
+            ["Caraway seeds, ground", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["Sauerkraut", "100g", "200g", "300g", "400g"],
+            ["Smoked sausage (kolbász) or smoked bacon, sliced", "40g", "80g", "120g", "160g"],
+            ["Bay leaf", "1", "1", "2", "2"],
+            ["Water or stock, for braising", "150ml", "300ml", "450ml", "600ml"],
+            ["Sour cream, to serve", "15g", "30g", "45g", "60g"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "In a bowl, mix the ground pork, rice, egg, onion, garlic, paprika, caraway, salt, and pepper.",
+            "Lay a cabbage leaf flat, spoon some filling near the base, fold in the sides, and roll up snugly. Repeat with the remaining leaves.",
+            "Spread half the sauerkraut over the bottom of a heavy pot.",
+            "Arrange the cabbage rolls seam-side down on top and scatter the smoked sausage or bacon around them.",
+            "Cover with the remaining sauerkraut, then add the bay leaf and the water or stock.",
+            "Bring to a boil, then cover, reduce the heat, and simmer 60 minutes, until the rolls are cooked through and the cabbage is tender.",
+            "Serve hot with a generous dollop of sour cream."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lecso",
+      "title": "Lecsó with Sausage and Egg",
+      "time": "30 min",
+      "level": "Easy",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A small pot of Hungarian lecsó stew with peppers, tomatoes, smoked sausage, and a poached egg on top",
+      "prep_label": "Prep — Egg Scrambled Through the Peppers and Tomatoes",
+      "prep_alt": "Lecsó with beaten egg scrambled through the stewed peppers, onion, and tomato just before serving",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Onion, sliced", "40g", "80g", "120g", "160g"],
+            ["Oil or lard", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Sweet Hungarian paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Banana peppers or sweet frying peppers, sliced", "100g", "200g", "300g", "400g"],
+            ["Tomatoes, chopped", "100g", "200g", "300g", "400g"],
+            ["Hungarian smoked sausage (kolbász), sliced", "60g", "120g", "180g", "240g"],
+            ["Egg, beaten", "1", "2", "3", "4"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil or lard in a pan and sauté the onion until soft.",
+            "Take the pan off the heat for a moment and stir in the paprika.",
+            "Add the peppers and cook 5 minutes, until starting to soften.",
+            "Add the tomatoes and sausage, cover, and simmer 15 minutes, until the peppers are tender and everything is saucy.",
+            "Season with salt and pepper.",
+            "Push everything to one side of the pan, pour in the beaten egg, and scramble gently until just set, then stir it through the rest of the lecsó.",
+            "Serve hot with bread."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "palacsinta",
+      "title": "Hortobágyi Palacsinta (Savory Meat-Filled Crêpes)",
+      "time": "45 min",
+      "level": "Medium",
+      "tilt": -1.2,
+      "gold": false,
+      "dish_alt": "A savory Hortobágyi palacsinta crêpe roll filled with shredded paprika chicken, plated in a pool of sour cream sauce",
+      "prep_label": "Prep — Filled Crêpe Rolls Before Baking Under the Sauce",
+      "prep_alt": "Two savory crêpe rolls filled with paprika chicken, plated and covered in paprika sour cream sauce",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Crêpe Batter",
+          "rows": [
+            ["All-purpose flour", "40g", "80g", "120g", "160g"],
+            ["Egg", "1", "2", "3", "4"],
+            ["Milk", "100ml", "200ml", "300ml", "400ml"],
+            ["Salt", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+            ["Oil or butter, for frying crêpes", "1 tsp", "2 tsp", "3 tsp", "4 tsp"]
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Filling",
+          "rows": [
+            ["Oil, for the filling", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Chicken thighs, boneless, diced", "120g", "240g", "360g", "480g"],
+            ["Onion, finely chopped", "30g", "60g", "90g", "120g"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Sweet Hungarian paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Caraway seeds, ground", "pinch", "¼ tsp", "¼ tsp", "½ tsp"],
+            ["Tomato, chopped", "30g", "60g", "90g", "120g"],
+            ["Chicken stock", "80ml", "160ml", "240ml", "320ml"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Sauce",
+          "rows": [
+            ["Sour cream", "40g", "80g", "120g", "160g"],
+            ["All-purpose flour, for the sauce", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Sweet Hungarian paprika, for the sauce", "pinch", "¼ tsp", "¼ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Make the crêpe batter: whisk the flour, egg, milk, and salt together until smooth. Let rest 10 minutes.",
+            "Heat a little oil or butter in a nonstick pan and cook thin crêpes, one at a time, until lightly golden on both sides. Stack them and set aside.",
+            "For the filling, heat the oil in a pot and sauté the onion and garlic until soft.",
+            "Take the pot off the heat for a moment and stir in the paprika and caraway.",
+            "Add the chicken, tomato, and chicken stock. Cover and simmer 20–25 minutes, until the chicken is very tender, then shred it with two forks right in the sauce.",
+            "Season the filling with salt and pepper. Spoon some filling onto each crêpe, roll it up, and arrange the rolls seam-side down in a baking dish.",
+            "For the sauce, whisk the flour into the sour cream until smooth, then stir in a few tablespoons of the hot liquid left in the filling pot along with the paprika for the sauce, until pourable.",
+            "Pour the sauce evenly over the crêpes.",
+            "Warm through, covered, over low heat or in a low oven for about 10 minutes, until hot and bubbling at the edges.",
+            "Serve hot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "szekelygulyas",
+      "title": "Székely Gulyás (Pork and Sauerkraut Stew)",
+      "time": "20 min prep + 60 min simmer",
+      "level": "Medium",
+      "tilt": 0.9,
+      "gold": true,
+      "dish_alt": "A bowl of Székely gulyás — creamy pork and sauerkraut stew topped with sour cream, tomato, and olives",
+      "prep_label": "Prep — Pork and Sauerkraut Simmering in the Paprika Sauce",
+      "prep_alt": "Pork chunks and sauerkraut simmering in a creamy paprika sauce, close up in a white bowl",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Pork shoulder, cubed", "150g", "300g", "450g", "600g"],
+            ["Onion, chopped", "40g", "80g", "120g", "160g"],
+            ["Oil or lard", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Sweet Hungarian paprika", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Caraway seeds, ground", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Garlic cloves, minced", "1", "2", "3", "4"],
+            ["Sauerkraut, rinsed and drained", "120g", "240g", "360g", "480g"],
+            ["Bay leaf", "1", "1", "2", "2"],
+            ["Water or stock", "100ml", "200ml", "300ml", "400ml"],
+            ["Sour cream", "30g", "60g", "90g", "120g"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Ask an adult to help heat the oil or lard in a pot and sauté the onion until soft.",
+            "Add the pork and brown it on all sides.",
+            "Take the pot off the heat for a moment and stir in the paprika and caraway (adding them off the heat, with a splash of the water or stock, keeps the paprika from burning). Stir in the garlic.",
+            "Cover and simmer 40 minutes, adding a little more water or stock if it looks dry, until the pork is nearly tender.",
+            "Stir in the sauerkraut, bay leaf, and the remaining water or stock.",
+            "Cover and simmer 20 minutes more, until the pork and sauerkraut are both tender.",
+            "Stir in the sour cream and season with salt and pepper. Warm through gently without letting it boil hard.",
+            "Serve hot with bread."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rakottkrumpli",
+      "title": "Rakott Krumpli (Layered Potato, Egg & Sausage Bake)",
+      "time": "20 min prep + 35 min bake",
+      "level": "Easy",
+      "tilt": -0.8,
+      "gold": false,
+      "dish_alt": "A serving of rakott krumpli — layered potato, egg, and sausage bake topped with sour cream and paprika",
+      "prep_label": "Prep — Fresh from the Oven, Golden and Bubbling",
+      "prep_alt": "The whole rakott krumpli casserole fresh out of the oven in its baking dish, golden and bubbling on top",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            ["Potatoes, waxy, boiled and sliced", "150g", "300g", "450g", "600g"],
+            ["Eggs, hard-boiled and sliced", "1", "2", "3", "4"],
+            ["Hungarian smoked sausage (kolbász), sliced", "60g", "120g", "180g", "240g"],
+            ["Sour cream", "60g", "120g", "180g", "240g"],
+            ["Butter, for the dish", "5g", "10g", "15g", "20g"],
+            ["Salt & black pepper", "pinch", "¼ tsp", "½ tsp", "½ tsp"],
+            ["Sweet Hungarian paprika, for topping", "pinch", "¼ tsp", "¼ tsp", "½ tsp"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 190°C (375°F). Grease a baking dish with the butter.",
+            "Layer a third of the sliced potatoes in the bottom of the dish and season with salt and pepper.",
+            "Top with half the sliced egg and half the sausage, then dollop over a third of the sour cream.",
+            "Repeat the layers once more, then finish with a top layer of potatoes and the last of the sour cream spread evenly over the top.",
+            "Sprinkle with paprika.",
+            "Bake 30–35 minutes, until bubbling and lightly golden on top.",
+            "Let rest 5 minutes before serving hot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "somloigaluska",
+      "title": "Somlói Galuska (Bonus — Hungarian Trifle Sponge Dessert)",
+      "time": "30 min prep + 15 min bake + assembly",
+      "level": "Medium",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A glass of Somlói galuska showing layers of cocoa and walnut sponge cake, custard, whipped cream, and chocolate drizzle",
+      "prep_label": "Prep — Layered with Whipped Cream and Chopped Walnuts",
+      "prep_alt": "Somlói galuska assembled in a cup with sponge cubes, custard, whipped cream, and a scatter of chopped walnuts on top",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Sponge Cake",
+          "rows": [
+            ["All-purpose flour", "40g", "80g", "120g", "160g"],
+            ["Granulated sugar", "30g", "60g", "90g", "120g"],
+            ["Egg", "1", "2", "3", "4"],
+            ["Baking powder", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"],
+            ["Cocoa powder, for half the batter", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Walnuts, chopped, for half the batter", "10g", "20g", "30g", "40g"]
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Rum Syrup",
+          "rows": [
+            ["Water", "30ml", "60ml", "90ml", "120ml"],
+            ["Granulated sugar, for syrup", "15g", "30g", "45g", "60g"],
+            ["Dark rum", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Raisins", "5g", "10g", "15g", "20g"]
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Vanilla Custard",
+          "rows": [
+            ["Milk", "100ml", "200ml", "300ml", "400ml"],
+            ["Granulated sugar, for custard", "15g", "30g", "45g", "60g"],
+            ["Egg yolk", "1", "2", "3", "4"],
+            ["Cornstarch", "1 tsp", "2 tsp", "3 tsp", "4 tsp"],
+            ["Vanilla extract", "¼ tsp", "½ tsp", "¾ tsp", "1 tsp"]
+          ]
+        },
+        {
+          "type": "table",
+          "heading": "Topping",
+          "rows": [
+            ["Heavy cream, whipped", "30ml", "60ml", "90ml", "120ml"],
+            ["Dark chocolate, melted, for drizzle", "10g", "20g", "30g", "40g"],
+            ["Walnuts, chopped, for topping", "5g", "10g", "15g", "20g"]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 180°C (350°F) and line a small baking pan.",
+            "Whisk the egg and sugar together until pale, then fold in the flour and baking powder to make a smooth batter.",
+            "Split the batter in half. Stir the cocoa powder into one half and the chopped walnuts (for the batter) into the other half.",
+            "Spread each half into the pan side by side, keeping them separate, and bake 12–15 minutes, until springy to the touch. Let cool, then cut into cubes.",
+            "Meanwhile, make the rum syrup: warm the water and sugar together until the sugar dissolves, remove from the heat, and stir in the rum. Soak the raisins in a splash of the warm syrup.",
+            "Make the custard: whisk the egg yolk, sugar, and cornstarch together, then whisk in the milk. Return to low heat and stir constantly until thickened. Stir in the vanilla and let cool.",
+            "To assemble, layer the cocoa and walnut sponge cubes in a glass or dish, brushing each layer generously with the rum syrup and scattering over the soaked raisins.",
+            "Spoon the vanilla custard over the top.",
+            "Finish with the whipped cream, a drizzle of melted chocolate, and a scattering of the walnuts for topping.",
+            "Chill briefly, then serve."
+          ]
+        }
+      ]
+    }
+  ]
+}

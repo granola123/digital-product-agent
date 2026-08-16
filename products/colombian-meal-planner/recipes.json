@@ -1,0 +1,1049 @@
+{
+  "recipes": [
+    {
+      "id": "bandejapaisa",
+      "title": "Bandeja Paisa",
+      "time": "35 min prep + 25 min cook",
+      "level": "Medium",
+      "tilt": -1.0,
+      "gold": false,
+      "dish_alt": "A loaded bandeja paisa platter, seen from above, with rice, red beans, shredded beef, pork belly, chorizo, fried egg, and sweet plantain",
+      "prep_label": "Prep — Hogao Simmering Before the Beans and Meat Go In",
+      "prep_alt": "Tomato and onion hogao sauce simmering in a pan, the base for the beans and beef",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Ground beef",
+              "100g",
+              "200g",
+              "300g",
+              "400g"
+            ],
+            [
+              "Chorizo, sliced",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Canned red kidney beans, drained",
+              "100g",
+              "200g",
+              "300g",
+              "400g"
+            ],
+            [
+              "Onion, finely chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Tomato, chopped",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Achiote powder (or paprika)",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "White rice",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Water, for rice",
+              "100ml",
+              "200ml",
+              "300ml",
+              "400ml"
+            ],
+            [
+              "Ripe (sweet) plantain, sliced",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Egg, fried",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Avocado, sliced",
+              "¼",
+              "½",
+              "¾",
+              "1"
+            ],
+            [
+              "Arepa (store-bought or premade), small",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Cilantro, chopped, for garnish",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Make the hogao: heat half the oil in a pan and sauté half the onion, half the garlic, and the tomato with the cumin and achiote until it breaks down into a thick sauce, about 8 minutes. Season with a little salt.",
+            "Stir the drained beans into half the hogao and simmer 10 minutes, mashing a few beans against the side of the pan to thicken the sauce. Keep warm.",
+            "In a separate pan, heat the remaining oil and sauté the remaining onion and garlic, then add the ground beef, breaking it up with a spoon, and cook until browned. Stir in the remaining hogao and simmer 5 minutes. Season with salt and pepper.",
+            "Pan-fry the chorizo slices in a dry skillet until browned on both sides, about 5 minutes.",
+            "Meanwhile, cook the rice: bring the water to a boil with a pinch of salt, add the rice, cover, and simmer 15 minutes until tender and the water is absorbed.",
+            "Pan-fry the plantain slices in a little oil over medium heat, 3–4 minutes per side, until caramelized and golden.",
+            "Fry the eggs in a lightly oiled pan to your liking (a soft yolk is traditional).",
+            "Warm the arepa in a dry pan or toaster.",
+            "Plate the rice, beans, ground beef, chorizo, plantain, fried egg, avocado, and arepa together on one platter. Scatter the cilantro over the top and serve immediately."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ajiaco",
+      "title": "Ajiaco Bogotano",
+      "time": "20 min prep + 40 min simmer",
+      "level": "Medium",
+      "tilt": 0.8,
+      "gold": true,
+      "dish_alt": "A bowl of creamy Colombian ajiaco soup with chicken and potatoes, topped with a spoonful of cream, capers, and sliced avocado",
+      "prep_label": "Prep — Corn and Vegetables Simmering in the Broth",
+      "prep_alt": "A bowl of golden broth with corn on the cob, carrot, and chopped cilantro simmering, the base for ajiaco",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs or breast, bone-in",
+              "150g",
+              "300g",
+              "450g",
+              "600g"
+            ],
+            [
+              "Chicken stock or water",
+              "250ml",
+              "500ml",
+              "750ml",
+              "1000ml"
+            ],
+            [
+              "Yellow potato (or Yukon gold), diced",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Red potato, chunked",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Russet potato, chunked",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Corn on the cob, cut into pieces",
+              "½ ear",
+              "1 ear",
+              "1½ ears",
+              "2 ears"
+            ],
+            [
+              "Scallions, chopped",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Dried guascas",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Heavy cream, to serve",
+              "15ml",
+              "30ml",
+              "45ml",
+              "60ml"
+            ],
+            [
+              "Capers, to serve",
+              "1 tsp",
+              "2 tsp",
+              "1 tbsp",
+              "4 tsp"
+            ],
+            [
+              "Avocado, sliced, to serve",
+              "¼",
+              "½",
+              "¾",
+              "1"
+            ],
+            [
+              "White rice, to serve",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Put the chicken, stock, garlic, and half the scallions in a pot. Bring to a boil, then reduce heat and simmer 20 minutes until the chicken is cooked through.",
+            "Lift out the chicken, let it cool slightly, then shred the meat and set aside. Return any bones to the pot to keep simmering for extra flavor, if you like, then discard before serving.",
+            "Add the russet potato (the starchy one) to the pot first and simmer 10 minutes so it starts to break down.",
+            "Add the yellow and red potatoes and the corn pieces, and simmer 15–20 minutes more, stirring occasionally, until the broth is thickened and all the potatoes are tender.",
+            "Stir in the guascas and the remaining scallions and simmer 5 minutes.",
+            "Return the shredded chicken to the pot to heat through. Season with salt and pepper.",
+            "Ladle into bowls and serve with a spoonful of cream, a scatter of capers, sliced avocado, and rice alongside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sancocho",
+      "title": "Sancocho de Pollo",
+      "time": "15 min prep + 45 min simmer",
+      "level": "Easy-Medium",
+      "tilt": -0.6,
+      "gold": false,
+      "dish_alt": "A large bowl of sancocho de pollo with chicken, yuca, plantain, corn, and potato in a golden broth",
+      "prep_label": "Prep — Peeled Yuca Chunks, Ready for the Pot",
+      "prep_alt": "Boiled, peeled yuca (cassava) cut into thick chunks on a plate, ready to go into the sancocho",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs or drumsticks, bone-in",
+              "200g",
+              "400g",
+              "600g",
+              "800g"
+            ],
+            [
+              "Water or chicken stock",
+              "300ml",
+              "600ml",
+              "900ml",
+              "1200ml"
+            ],
+            [
+              "Yuca (cassava), peeled and chunked",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Green plantain, chunked",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Corn on the cob, cut into pieces",
+              "½ ear",
+              "1 ear",
+              "1½ ears",
+              "2 ears"
+            ],
+            [
+              "Potato, chunked",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Scallions, chopped",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Tomato, chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Cilantro, chopped, for garnish",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "White rice, to serve",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Avocado, to serve",
+              "¼",
+              "½",
+              "¾",
+              "1"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "In a large pot, combine the chicken, water, scallions, tomato, garlic, and cumin. Bring to a boil, then reduce heat and simmer 15 minutes.",
+            "Add the yuca and simmer 10 minutes, since it takes the longest to soften.",
+            "Add the green plantain, potato, and corn pieces. Cover and simmer 20–25 minutes more, until the chicken is falling-tender and the yuca and potato are soft.",
+            "Season with salt and pepper.",
+            "Ladle into deep bowls, scatter with cilantro, and serve with rice and avocado alongside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arrozconpollo",
+      "title": "Arroz con Pollo",
+      "time": "40 min",
+      "level": "Easy",
+      "tilt": 1.1,
+      "gold": true,
+      "dish_alt": "A pan of golden Colombian arroz con pollo with chicken pieces, carrots, and peas mixed through the rice",
+      "prep_label": "Prep — Chicken, Rice, and Peppers Simmered Together",
+      "prep_alt": "A close view of shredded chicken folded through achiote-colored rice with diced red pepper, green pepper, and carrot",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs, bone-in or boneless, cut into pieces",
+              "150g",
+              "300g",
+              "450g",
+              "600g"
+            ],
+            [
+              "Onion, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Red bell pepper, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Green bell pepper, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Tomato paste",
+              "1 tsp",
+              "2 tsp",
+              "1 tbsp",
+              "4 tsp"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Achiote powder (or paprika)",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Bay leaf",
+              "1",
+              "1",
+              "2",
+              "2"
+            ],
+            [
+              "Long-grain white rice",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Chicken stock",
+              "120ml",
+              "240ml",
+              "360ml",
+              "480ml"
+            ],
+            [
+              "Carrot, diced",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Peas",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a wide pot over medium-high heat. Season the chicken with salt and pepper and brown it on all sides, about 6 minutes. Remove and set aside.",
+            "In the same pot, sauté the onion, garlic, red pepper, and green pepper until softened, about 5 minutes.",
+            "Stir in the tomato paste, cumin, achiote, and bay leaf, and cook 1 minute until fragrant.",
+            "Add the rice and stir to coat it in the paste, toasting it for 1–2 minutes.",
+            "Return the chicken to the pot, add the stock and carrot, and bring to a boil. Reduce heat to low, cover, and simmer 18–20 minutes, until the rice is tender and the liquid is absorbed.",
+            "Stir in the peas, cover, and let sit off the heat for 5 minutes to steam through.",
+            "Fluff with a fork, remove the bay leaf, and serve hot."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sobrebarriga",
+      "title": "Sobrebarriga en Salsa Criolla",
+      "time": "20 min prep + 90 min simmer (mostly hands-off)",
+      "level": "Medium",
+      "tilt": -0.9,
+      "gold": false,
+      "dish_alt": "Shredded, fork-tender flank steak in a rich red tomato sauce, served with golden rice and fried plantain",
+      "prep_label": "Prep — A Whole Flank Steak, Ready for the Pot",
+      "prep_alt": "A raw whole flank steak (sobrebarriga) on a cutting board, ready to go into the pot to braise",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Flank steak (sobrebarriga), whole piece",
+              "200g",
+              "400g",
+              "600g",
+              "800g"
+            ],
+            [
+              "Water or beef stock, for braising",
+              "300ml",
+              "600ml",
+              "900ml",
+              "1200ml"
+            ],
+            [
+              "Onion, chopped, divided",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Garlic cloves, minced, divided",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Bay leaf",
+              "1",
+              "1",
+              "2",
+              "2"
+            ],
+            [
+              "Scallions, chopped",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Tomato, chopped",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Achiote powder (or paprika)",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "White rice, to serve",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Potatoes, boiled, to serve",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Put the flank steak in a pot with the water, half the onion, half the garlic, and the bay leaf. Bring to a boil, then reduce heat, cover, and simmer 1½ hours, until fork-tender (or 45 minutes in a pressure cooker).",
+            "Lift out the meat and let it cool slightly, then slice it against the grain or shred it into bite-sized pieces. Strain and reserve the broth.",
+            "Heat the oil in a pan and sauté the remaining onion, garlic, and the scallions until soft.",
+            "Add the tomato, achiote, and cumin, and cook 8–10 minutes, mashing the tomato down, until you have a thick sauce.",
+            "Add the sliced meat and a splash of the reserved broth to the sauce and simmer 10 minutes so the meat absorbs the flavor. Season with salt and pepper.",
+            "Serve hot over rice with boiled potatoes on the side."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lentejas",
+      "title": "Lentejas Guisadas",
+      "time": "10 min prep + 30 min simmer",
+      "level": "Easy",
+      "tilt": 0.7,
+      "gold": true,
+      "dish_alt": "A bowl of thick Colombian stewed lentils with carrot and potato, served over white rice",
+      "prep_label": "Prep — Lentils, Carrot, and Onion Simmering Together",
+      "prep_alt": "A pot of lentils simmering with carrot and onion in broth, being stirred with a wooden spoon",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Dried lentils, rinsed",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Water or vegetable stock",
+              "250ml",
+              "500ml",
+              "750ml",
+              "1000ml"
+            ],
+            [
+              "Onion, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Scallions, chopped",
+              "15g",
+              "30g",
+              "45g",
+              "60g"
+            ],
+            [
+              "Tomato, chopped",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Carrot, diced",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Potato, diced",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Cilantro, chopped, for garnish",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "White rice, to serve",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a pot and sauté the onion, garlic, and scallions until soft, about 4 minutes.",
+            "Add the tomato and cumin and cook 5 minutes, mashing the tomato down, until it forms a thick hogao base.",
+            "Stir in the lentils, water, carrot, and potato. Bring to a boil, then reduce heat, cover, and simmer 25–30 minutes, stirring occasionally, until the lentils are tender and the stew has thickened.",
+            "Season with salt and pepper.",
+            "Scatter with cilantro and serve hot over rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pollosudado",
+      "title": "Pollo Sudado",
+      "time": "15 min prep + 35 min simmer",
+      "level": "Easy-Medium",
+      "tilt": -0.4,
+      "gold": false,
+      "dish_alt": "Bone-in chicken pieces braised in a golden tomato-achiote sauce, served with rice, salad, and patacones",
+      "prep_label": "Prep — Onion, Garlic, and Tomato Building the Sauce",
+      "prep_alt": "Diced onion, celery, carrot, and tomato sautéing in a pot, the aromatic base for the braising sauce",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "Chicken thighs or drumsticks, bone-in",
+              "200g",
+              "400g",
+              "600g",
+              "800g"
+            ],
+            [
+              "Onion, chopped",
+              "40g",
+              "80g",
+              "120g",
+              "160g"
+            ],
+            [
+              "Red bell pepper, chopped",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Garlic cloves, minced",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Tomato, chopped",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Ground cumin",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Achiote powder (or paprika)",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Potato, chunked",
+              "60g",
+              "120g",
+              "180g",
+              "240g"
+            ],
+            [
+              "Scallions, chopped",
+              "20g",
+              "40g",
+              "60g",
+              "80g"
+            ],
+            [
+              "Chicken stock or water",
+              "100ml",
+              "200ml",
+              "300ml",
+              "400ml"
+            ],
+            [
+              "Oil",
+              "1 tsp",
+              "2 tsp",
+              "3 tsp",
+              "4 tsp"
+            ],
+            [
+              "Cilantro, chopped, for garnish",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ],
+            [
+              "White rice, to serve",
+              "50g",
+              "100g",
+              "150g",
+              "200g"
+            ],
+            [
+              "Salt & black pepper",
+              "pinch",
+              "¼ tsp",
+              "½ tsp",
+              "½ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Heat the oil in a wide pan and sauté the onion, red pepper, garlic, and scallions until softened, about 5 minutes.",
+            "Add the tomato, cumin, and achiote, and cook 5 minutes, mashing the tomato down, until it forms a sauce.",
+            "Season the chicken with salt and pepper and nestle it into the sauce, turning to coat and browning lightly on both sides, about 5 minutes.",
+            "Add the potato and stock. Cover and simmer 25–30 minutes, until the chicken is very tender and the potato is cooked through.",
+            "Taste and adjust the seasoning.",
+            "Scatter with cilantro and serve hot over rice."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tresleches",
+      "title": "Tres Leches Cake (Bonus)",
+      "time": "20 min prep + 25 min bake (+ chill to soak)",
+      "level": "Easy",
+      "tilt": 1.0,
+      "gold": true,
+      "dish_alt": "A square of tres leches cake topped with whipped cream, soaked through and glossy from the three-milk mixture",
+      "prep_label": "Prep — The Whole Soaked Cake, Fresh From the Pan",
+      "prep_alt": "A whole tres leches cake in its baking pan, soaked and topped with whipped cream and cherries, ready to slice",
+      "sections": [
+        {
+          "type": "table",
+          "heading": "Ingredients by Serving",
+          "rows": [
+            [
+              "All-purpose flour",
+              "35g",
+              "70g",
+              "105g",
+              "140g"
+            ],
+            [
+              "Baking powder",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Salt",
+              "pinch",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp"
+            ],
+            [
+              "Egg, separated",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            [
+              "Granulated sugar",
+              "30g",
+              "60g",
+              "90g",
+              "120g"
+            ],
+            [
+              "Milk, for batter",
+              "15ml",
+              "30ml",
+              "45ml",
+              "60ml"
+            ],
+            [
+              "Vanilla extract",
+              "¼ tsp",
+              "½ tsp",
+              "¾ tsp",
+              "1 tsp"
+            ],
+            [
+              "Sweetened condensed milk, for soak",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "Evaporated milk, for soak",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "Heavy cream, for soak",
+              "15ml",
+              "30ml",
+              "45ml",
+              "60ml"
+            ],
+            [
+              "Heavy cream, whipped, for topping",
+              "30ml",
+              "60ml",
+              "90ml",
+              "120ml"
+            ],
+            [
+              "Granulated sugar, for topping",
+              "5g",
+              "10g",
+              "15g",
+              "20g"
+            ],
+            [
+              "Ground cinnamon, for garnish, optional",
+              "pinch",
+              "pinch",
+              "¼ tsp",
+              "¼ tsp"
+            ]
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Steps",
+          "items": [
+            "Preheat the oven to 175°C (350°F). Grease a small baking dish.",
+            "Whisk the egg yolks and sugar together until pale and thick, then whisk in the milk and vanilla.",
+            "Sift the flour, baking powder, and salt over the yolk mixture and fold in gently until just combined.",
+            "In a clean bowl, whisk the egg whites to soft peaks, then fold them into the batter in two additions, keeping it light.",
+            "Pour the batter into the prepared dish and bake 22–25 minutes, until golden and a skewer inserted in the center comes out clean. Let cool completely.",
+            "Whisk together the condensed milk, evaporated milk, and heavy cream for the soak.",
+            "Poke holes all over the cooled cake with a skewer and slowly pour the three-milk mixture over so it soaks all the way through. Refrigerate at least 1 hour (overnight is best).",
+            "Whip the topping cream with the sugar to soft peaks and spread it over the soaked cake.",
+            "Dust with a little cinnamon if you like, and serve chilled."
+          ]
+        }
+      ]
+    }
+  ]
+}

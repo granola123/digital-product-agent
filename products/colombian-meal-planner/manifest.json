@@ -1,0 +1,94 @@
+{
+  "_comment": "Photo provenance for Taste of Colombia. All Wikimedia Commons, CC0/CC-BY/CC-BY-SA. Every image visually opened and checked before being accepted. Two dishes (Sobrebarriga, Pollo Sudado) and two prep shots (Arroz con Pollo, Lentejas) had no dedicated Colombian-tagged Commons photo available after exhaustive search -- see notes below for the honest substitution made in each case.",
+  "photos": [
+    {
+      "id": "bandejapaisa",
+      "dish_title": "Bandeja Paisa",
+      "dish_file": "File:Bandeja paisa, plato Colombiano.jpg",
+      "dish_artist": "Wilfredor",
+      "dish_license": "CC0",
+      "prep_file": "File:Hogao.JPG",
+      "prep_artist": "Xemenendura",
+      "prep_license": "CC BY-SA 4.0",
+      "prep_note": "Cropped to the bowl of hogao sauce only."
+    },
+    {
+      "id": "ajiaco",
+      "dish_title": "Ajiaco Bogotano",
+      "dish_file": "File:Ajiaco bogotano (3279424911).jpg",
+      "dish_artist": "Marcelo Träsel",
+      "dish_license": "CC BY-SA 2.0",
+      "prep_file": "File:Caldo con mazorca en Buga.jpg",
+      "prep_artist": "Samuel Rengifo",
+      "prep_license": "CC BY-SA 4.0",
+      "prep_note": "Colombian broth with corn and carrot -- cropped to remove decorative photo border."
+    },
+    {
+      "id": "sancocho",
+      "dish_title": "Sancocho de Pollo",
+      "dish_file": "File:Sancocho en Bogota.jpg",
+      "dish_artist": "Anaepg86",
+      "dish_license": "CC0",
+      "prep_file": "File:Plato con trozos de mandioca hervida en la mesa.jpg",
+      "prep_artist": "Horacio Cambeiro",
+      "prep_license": "CC BY-SA 3.0",
+      "prep_note": "Boiled yuca (mandioca/cassava, same root) chunks -- Argentine source photo, same ingredient. Cropped to remove background clutter."
+    },
+    {
+      "id": "arrozconpollo",
+      "dish_title": "Arroz con Pollo",
+      "dish_file": "File:Arroz con Pollo.jpg",
+      "dish_artist": "Linalymon",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Arroz con pollo.jpg",
+      "prep_artist": "Jdvillalobos",
+      "prep_license": "CC BY 3.0",
+      "prep_note": "Close crop on the chicken/rice/pepper/carrot mixture from a second, distinct Commons photo of the same dish (different photographer than the dish shot)."
+    },
+    {
+      "id": "sobrebarriga",
+      "dish_title": "Sobrebarriga en Salsa Criolla",
+      "dish_file": "File:01 Stewed Beef Carne Guisada - El Sabor Del Taco Truck.jpg",
+      "dish_artist": "jasonlam",
+      "dish_license": "CC BY-SA 2.0",
+      "prep_file": "File:Flank Steak piece of meat.jpg",
+      "prep_artist": "Bortz60",
+      "prep_license": "CC BY-SA 3.0",
+      "note": "No confirmable dedicated Sobrebarriga photo exists on Wikimedia Commons after exhaustive search (only hit: 'Sobrebarriga y tamal de Guapi en Queareparaenamorarte', a blurry shared-plate shot where the sobrebarriga portion could not be visually confirmed with confidence -- rejected per the visual-verification rule). Used a shredded/chunked beef-in-tomato-sauce photo (Tex-Mex carne guisada, native res only 640x480) as an honest visual stand-in for 'sliced flank steak folded through a tomato-based sauce, served with rice and plantain' -- and a clean raw flank steak photo for prep, since step 1 literally starts with a whole flank steak. Recommend re-sourcing the dish photo if a better Colombian-specific one surfaces later."
+    },
+    {
+      "id": "lentejas",
+      "dish_title": "Lentejas Guisadas",
+      "dish_file": "File:Guiso de lentejas con arroz.jpg",
+      "dish_artist": "Juan Emilio Prades Bel",
+      "dish_license": "CC BY 4.0",
+      "prep_file": "File:Preparación de guiso de lentejas con verduras y caldo de carne en cocina doméstica argentina.jpg",
+      "prep_artist": "Horacio Cambeiro",
+      "prep_license": "CC BY-SA 3.0",
+      "note": "Lentejas guisadas is common across Latin America with near-identical preparation; no Colombia-specific tagged photo exists on Commons. Used Argentine guiso de lentejas photos (same lentil-carrot-onion-tomato base). The prep photo's pot may include a few stray meat pieces from the source recipe -- the Colombian version in this bundle is meat-free; alt text does not claim otherwise."
+    },
+    {
+      "id": "pollosudado",
+      "dish_title": "Pollo Sudado",
+      "dish_file": "File:Almuerzo en un restaurante pailon en Coveñas Sucre (foto 2).jpg",
+      "dish_artist": "Sebas13dj",
+      "dish_license": "CC BY-SA 4.0",
+      "prep_file": "File:Sofrito de cebolla, apio, ajo, zanahoria, tomate.jpg",
+      "prep_artist": "Guillotinado",
+      "prep_license": "CC BY-SA 4.0",
+      "dish_note": "Bone-in chicken in tomato-achiote sauce with rice and patacones, photographed at a restaurant in Coveñas, Sucre, Colombia. Cropped to the chicken plate, removing background clutter.",
+      "prep_note": "Generic onion/garlic/tomato sofrito sauteing -- the closest available Commons photo to 'aromatics building the braising sauce'; includes carrot/celery not in this recipe's ingredient list."
+    },
+    {
+      "id": "tresleches",
+      "dish_title": "Tres Leches Cake (Bonus)",
+      "dish_file": "File:Tres Leches Cake (4).jpg",
+      "dish_artist": "Hungry Dudes",
+      "dish_license": "CC BY 2.0",
+      "prep_file": "File:Tres Leches.jpg",
+      "prep_artist": "AndonicO",
+      "prep_license": "CC BY 2.5",
+      "prep_note": "Whole soaked-and-topped cake in its pan, pre-slicing -- used in place of an unavailable 'poked with holes, pre-soak' shot."
+    }
+  ]
+}

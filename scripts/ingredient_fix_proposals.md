@@ -15,7 +15,9 @@ Each proposed row is the JSON array to append to that recipe's ingredients `tabl
 
 ## Skipped
 
-- **thai** — `missing_recipes_json`: recipes.json not found
+- **thai** — `missing_recipes_json`: recipes.json not found (resolved 2026-08-20: recipes.json reconstructed from preview.html, ingredient-coverage gaps fixed directly — see git log)
+
+**Status as of 2026-08-20: all proposals in this file have been applied (commits `25a6cc6`, `943416a`, `1ed6c6d`, `5246db3`, `79781c3`) — `verify_series.py` passes 0 issues across all 40 countries.**
 
 ## ethiopian
 

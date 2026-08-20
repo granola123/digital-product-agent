@@ -42,6 +42,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings. Visual mockup
 | Tamarind paste | 5g | 10g | 15g | 20g |
 | Palm sugar | 5g | 10g | 15g | 20g |
 | Lime wedges | 1 | 2 | 3 | 4 |
+| Oil (for stir-frying) | 10ml | 20ml | 30ml | 40ml |
 
 **Steps:**
 1. Fill a large bowl with warm (not hot) water and drop in the rice noodles. Let them soak about 10 minutes until they feel soft and bendy, like wet spaghetti — not stiff, not falling apart. Then drain them in a colander.
@@ -95,7 +96,7 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings. Visual mockup
 
 **Steps:**
 1. Open the can of coconut milk without shaking it. Spoon just the thick, creamy layer from the top into your wok or pan — this is called "cracking" the coconut milk, and it should look thick like whipped cream, not runny.
-2. Ask an adult to help turn the stove to medium heat. Add the curry paste to the thick coconut cream and stir for about 2 minutes. It's ready when it smells strong and toasty and looks shiny, with a little oil separating out.
+2. Ask an adult to help turn the stove to medium heat. Add the curry paste to the thick coconut cream and stir for about 2 minutes. It's ready when it smells strong and toasty and looks shiny, with the color deepening and a glossy sheen forming on top.
 3. Add the chicken and stir so every piece gets coated in the paste. Cook 2–3 minutes, just until the outside turns from pink to white — it doesn't need to be fully cooked yet.
 4. Pour in the rest of the coconut milk and stir well until the curry turns a smooth, even green color.
 5. Add the Thai eggplant and bamboo shoots. Turn the heat down so it's gently bubbling, not boiling hard, and cook about 10 minutes, stirring now and then, until the chicken is fully cooked (cut the biggest piece open — no pink inside) and the eggplant is soft when poked with a fork.
@@ -153,6 +154,8 @@ All ingredient tables below are scaled for 1 / 2 / 3 / 4 servings. Visual mockup
 | Fish sauce | 5ml | 10ml | 15ml | 20ml |
 | Sugar | 5g | 10g | 15g | 20g |
 | Fried egg | 1 | 2 | 3 | 4 |
+| Oil (for stir-frying) | 10ml | 20ml | 30ml | 40ml |
+| Oil (for frying egg) | 15ml | 30ml | 45ml | 60ml |
 
 **Steps:**
 1. Finely chop the garlic and chilies — the smaller you chop them, the more flavor spreads through the dish. Ask an adult for help if you're still learning to use a knife.
